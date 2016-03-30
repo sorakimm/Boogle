@@ -1,0 +1,3933 @@
+<SAMI>
+<HEAD>
+<TITLE>제목을 적어 주세요.</TITLE>
+<STYLE TYPE="text/css">
+<!--
+P { margin-left:2pt; margin-right:2pt; margin-bottom:1pt;
+    margin-top:1pt; font-size:22pt; text-align:center;
+    font-family:Arial, Sans-serif; font-weight:bold; color:white;
+    }
+.KRCC { Name:Korean; lang:ko-KR; SAMIType:CC; }
+.ENCC { Name:English; lang:en-US; SAMIType:CC; }
+#STDPrn { Name:Standard Print; font-size:10pt; }
+#VLargePrn { Name:34pt (VLarge Print); font-size:34pt; }
+#LargePrn { Name:Large Print; font-size:8pt; }
+#MediumPrn { Name:24pt (Medium Print); font-size:24pt; }
+#BSmallPrn { Name:18pt (BSmall Print); font-size:18pt; }
+#SmallPrn { Name:Small Print; font-size:5pt; }
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<SYNC Start=3269><P Class=KRCC>
+<font color=#D9E7FF>  자막제작 - 네이트 CSI 자막팀 <br>
+(http://club.nate.com/clubcsi)
+<SYNC Start=5398><P Class=KRCC>&nbsp;
+<SYNC Start=25463><P Class=KRCC>
+잘 오셨어요
+<SYNC Start=26416><P Class=KRCC>&nbsp;
+<SYNC Start=27045><P Class=KRCC>
+축하하네, 패트릭
+<SYNC Start=28633><P Class=KRCC>
+감사합니다, 서장님
+<SYNC Start=29709><P Class=KRCC>
+오늘 밤 참석해 주셔서 <br>
+정말 기쁩니다
+<SYNC Start=31641><P Class=KRCC>
+저 말씀인가요?
+<SYNC Start=32753><P Class=KRCC>
+잔을 말씀하는 건가요? <br>
+아니면 샴페인?
+<SYNC Start=34411><P Class=KRCC>
+얼굴의 미소를 말하는 건데요
+<SYNC Start=36862><P Class=KRCC>&nbsp;
+<SYNC Start=37939><P Class=KRCC>
+제가 웃고 있다면 160만 <br>
+달러의 모금액 때문이겠죠
+<SYNC Start=40967><P Class=KRCC>
+리치몬드 부인의 화상 센터를 <br>
+위한 자선파티에서요
+<SYNC Start=43439><P Class=KRCC>&nbsp;
+<SYNC Start=44509><P Class=KRCC>
+후한 마음 씀씀이에 <br>
+감사하며 건배하죠
+<SYNC Start=48042><P Class=KRCC>&nbsp;
+<SYNC Start=49216><P Class=KRCC>
+포셔를 위해
+<SYNC Start=50354><P Class=KRCC>
+포셔를 위해
+<SYNC Start=51476><P Class=KRCC>
+오늘 밤 그녀가 <br>
+없어서 아쉽네요
+<SYNC Start=53577><P Class=KRCC>&nbsp;
+<SYNC Start=60262><P Class=KRCC>
+실례합니다
+<SYNC Start=61878><P Class=KRCC>&nbsp;
+<SYNC Start=62890><P Class=KRCC>
+우리가 해냈어
+<SYNC Start=65298><P Class=KRCC>
+그래 해냈어
+<SYNC Start=67527><P Class=KRCC>&nbsp;
+<SYNC Start=86382><P Class=KRCC>
+실례할게요
+<SYNC Start=88070><P Class=KRCC>&nbsp;
+<SYNC Start=103625><P Class=KRCC>
+서장님, 턱시도 멋지네요
+<SYNC Start=105176><P Class=KRCC>
+여기가 누구 집인지 자네 아나?
+<SYNC Start=106963><P Class=KRCC>
+라스베가스에 살려면 유명인사와<br>
+그들 이력 정도는 알아야죠
+<SYNC Start=109604><P Class=KRCC>&nbsp;
+<SYNC Start=110386><P Class=KRCC>
+포셔 리치몬드는 전성기 때<br>
+전설적인 쇼걸이었죠
+<SYNC Start=113115><P Class=KRCC>&nbsp;
+<SYNC Start=113904><P Class=KRCC>
+저 여자 포셔 리치몬드는 아니군요
+<SYNC Start=115497><P Class=KRCC>&nbsp;
+<SYNC Start=116627><P Class=KRCC>
+아마 30년 전쯤, 그녀가 리도 쇼의<br>
+주연이었을 때는 저랬을지도 모르지
+<SYNC Start=119904><P Class=KRCC>&nbsp;
+<SYNC Start=120312><P Class=KRCC>
+누가 발견했죠?
+<SYNC Start=121935><P Class=KRCC>
+주위를 둘러보게나
+<SYNC Start=123368><P Class=KRCC>&nbsp;
+<SYNC Start=125651><P Class=KRCC>
+밤새 걸리겠군
+<SYNC Start=127759><P Class=KRCC>&nbsp;
+<SYNC Start=128495><P Class=KRCC>
+전채요리나 들면서
+<SYNC Start=130845><P Class=KRCC>
+심문을 위해 기다려 달라고 해야죠
+<SYNC Start=132415><P Class=KRCC>&nbsp;
+<SYNC Start=133801><P Class=KRCC>
+<font color=aqua>CSI: Crime Scene Investigation<br>
+1x15  Table Stakes
+<SYNC Start=135851><P Class=KRCC>&nbsp;
+<SYNC Start=136668><P Class=KRCC>
+<font color=FFE1FF>월리암 피터슨(길 그리섬役)<br>
+CSI 레벨 3(반장), 전문분야 : 곤충학
+<SYNC Start=137989><P Class=KRCC>&nbsp;
+<SYNC Start=140017><P Class=KRCC>
+<font color=FFE1FF>마그 헬겐버거(캐서린 윌로우스役)<br>
+CSI 레벨 3, 전문분야 : 혈흔 분석
+<SYNC Start=141264><P Class=KRCC>&nbsp;
+<SYNC Start=146426><P Class=KRCC>
+<font color=FFE1FF>게리 도단(워릭 브라운役) <br>
+CSI 레벨 3, 전문분야 : 음향/시각 자료분석
+<SYNC Start=147572><P Class=KRCC>&nbsp;
+<SYNC Start=149288><P Class=KRCC>
+<font color=FFE1FF>조지 이즈(닉 스톡스役) <br>
+CSI 레벨 3, 전문분야 : 머리카락, 섬유질 분석
+<SYNC Start=150221><P Class=KRCC>&nbsp;
+<SYNC Start=151906><P Class=KRCC>
+<font color=FFE1FF>조자 폭스(새라 사이들役)<br>
+CSI 레벨 3, 전문분야 : 물질성분 분석
+<SYNC Start=152866><P Class=KRCC>&nbsp;
+<SYNC Start=154495><P Class=KRCC>
+<font color=FFE1FF>폴 길포일(짐 브래스役) <br>
+라스베가스 시경
+<SYNC Start=155705><P Class=KRCC>&nbsp;
+<SYNC Start=156742><P Class=KRCC>
+<font color=#90D133>싱크 편집 <br>
+송미혜(smh8119@nate.com)
+<SYNC Start=158533><P Class=KRCC>&nbsp;
+<SYNC Start=158832><P Class=KRCC>
+<font color=#90D133>한글 번역<br>
+주동권(ozsotr@hotmail.com)
+<SYNC Start=160654><P Class=KRCC>&nbsp;
+<SYNC Start=160979><P Class=KRCC>
+<font color=BFEFFF>ORIGINAL AIR DATE ON CBS: 2001/02/22
+<SYNC Start=162818><P Class=KRCC>&nbsp;
+<SYNC Start=164478><P Class=KRCC>
+네, 최선을 다하겠습니다
+<SYNC Start=166998><P Class=KRCC>&nbsp;
+<SYNC Start=170069><P Class=KRCC>
+내가 전화에서 말했던 것처럼
+<SYNC Start=171543><P Class=KRCC>
+큰 파티고 아주 큰 집이니까
+<SYNC Start=173082><P Class=KRCC>
+나누어서 일을 처리하도록 하지
+<SYNC Start=174865><P Class=KRCC>
+닉 자넨 전반적으로 둘러보고
+<SYNC Start=177304><P Class=KRCC>
+캐서린과 워릭은 <br>
+수영장 쪽을 맡아주게
+<SYNC Start=179317><P Class=KRCC>&nbsp;
+<SYNC Start=180500><P Class=KRCC>
+내가 얕은 쪽을 맡을게
+<SYNC Start=182104><P Class=KRCC>
+그렇다면 전 깊은 쪽을 ….
+<SYNC Start=183345><P Class=KRCC>&nbsp;
+<SYNC Start=216454><P Class=KRCC>
+이런 물고기에게 밥을 <br>
+주려면 얼마나 들까요?
+<SYNC Start=220378><P Class=KRCC>&nbsp;
+<SYNC Start=224368><P Class=KRCC>
+네
+<SYNC Start=225860><P Class=KRCC>&nbsp;
+<SYNC Start=268039><P Class=KRCC>
+마르코!
+<SYNC Start=268947><P Class=KRCC>&nbsp;
+<SYNC Start=269961><P Class=KRCC>
+폴로!
+<SYNC Start=271134><P Class=KRCC>&nbsp;
+<SYNC Start=271466><P Class=KRCC>
+손님, 수영장에서 나와 주시겠어요<br>
+해가 지면 수영장은 닫거든요
+<SYNC Start=274080><P Class=KRCC>
+손님, 수건 가져다 드릴까요?
+<SYNC Start=275710><P Class=KRCC>
+네, 부탁해요
+<SYNC Start=277446><P Class=KRCC>
+뭘 찾았나?
+<SYNC Start=278873><P Class=KRCC>&nbsp;
+<SYNC Start=279322><P Class=KRCC>
+커프스단추 같은 거네요
+<SYNC Start=281294><P Class=KRCC>
+CM이란 이니셜이 있네요
+<SYNC Start=282869><P Class=KRCC>&nbsp;
+<SYNC Start=283630><P Class=KRCC>
+하늘색과 은색이입니다
+<SYNC Start=285389><P Class=KRCC>
+아마 남서부에서 <br>
+온 거 같네요
+<SYNC Start=288107><P Class=KRCC>
+애리조나, 뉴멕시코<br>
+텍사스 같은데요
+<SYNC Start=291296><P Class=KRCC>&nbsp;
+<SYNC Start=291506><P Class=KRCC>
+멋진 걸 찾았군, 친구
+<SYNC Start=293230><P Class=KRCC>
+손님 리스트를 받아서 <br>
+CM을 체크해보게
+<SYNC Start=295676><P Class=KRCC>&nbsp;
+<SYNC Start=297714><P Class=KRCC>
+밤새 젖어있겠군
+<SYNC Start=299362><P Class=KRCC>&nbsp;
+<SYNC Start=315278><P Class=KRCC>
+알칼로이드의 쓴 냄새가 나네요<br>
+(커피 냄새가 난다는 말)
+<SYNC Start=317325><P Class=KRCC>&nbsp;
+<SYNC Start=318013><P Class=KRCC>
+아무에게도 이 사실을 말하면 <br>
+안 되네. ‘마키아토’야
+<SYNC Start=323920><P Class=KRCC>&nbsp;
+<SYNC Start=324342><P Class=KRCC>
+시 예산으로 구입하신 <br>
+커피메이커인 것 같네요
+<SYNC Start=326859><P Class=KRCC>
+검시관이 요구하면 <br>
+왜 필요한지 묻지도 않지
+<SYNC Start=329465><P Class=KRCC>&nbsp;
+<SYNC Start=330022><P Class=KRCC>
+맛있게 마실게요 / 그래
+<SYNC Start=332103><P Class=KRCC>&nbsp;
+<SYNC Start=332827><P Class=KRCC>
+이리 와보게
+<SYNC Start=334081><P Class=KRCC>&nbsp;
+<SYNC Start=335086><P Class=KRCC>
+신원을 밝히셨어요?
+<SYNC Start=336239><P Class=KRCC>
+아직 살펴보고 있네
+<SYNC Start=337445><P Class=KRCC>
+성형수술을 했더군
+<SYNC Start=338867><P Class=KRCC>&nbsp;
+<SYNC Start=339320><P Class=KRCC>
+얼굴 윤곽을 새로 잡았고<br>
+코 성형을 했어
+<SYNC Start=341923><P Class=KRCC>
+가슴엔 실리콘을 넣었어
+<SYNC Start=343189><P Class=KRCC>&nbsp;
+<SYNC Start=344159><P Class=KRCC>
+삽입물의 일련번호를 확인하면<br>
+바로 누군지 알 수 있겠군요
+<SYNC Start=346895><P Class=KRCC>
+이 분야가 많이 발전했지<br>
+그렇지 않은가?
+<SYNC Start=349957><P Class=KRCC>&nbsp;
+<SYNC Start=351018><P Class=KRCC>
+이쪽에 상처가 집중됐더군
+<SYNC Start=352760><P Class=KRCC>&nbsp;
+<SYNC Start=353009><P Class=KRCC>
+점상출혈과 목 주위에 멍이 들고<br>
+목뿔뼈(설골)가 부러졌네
+<SYNC Start=356740><P Class=KRCC>
+목이 졸린 거군요
+<SYNC Start=358403><P Class=KRCC>
+폐에 물이 없는 걸로 봐서
+<SYNC Start=359690><P Class=KRCC>
+죽은 다음에 물에 빠진 것 같네
+<SYNC Start=361237><P Class=KRCC>&nbsp;
+<SYNC Start=363842><P Class=KRCC>
+교살은 주로 남성이 저지르는<br>
+범죄 양상이죠
+<SYNC Start=366129><P Class=KRCC>
+하산해도 되겠군
+<SYNC Start=368014><P Class=KRCC>&nbsp;
+<SYNC Start=369024><P Class=KRCC>
+박사님, 상처 주위 사진도 찍으시고<Br>
+성폭력 당했는지도 확인해 주세요
+<SYNC Start=372101><P Class=KRCC>
+경막하에 난 멍도 <br>
+적외선 검사해 주시고요
+<SYNC Start=374963><P Class=KRCC>&nbsp;
+<SYNC Start=376641><P Class=KRCC>
+이건 자네와 나만 <br>
+아는 걸로 하세
+<SYNC Start=378681><P Class=KRCC>&nbsp;
+<SYNC Start=382507><P Class=KRCC>
+이봐 / 네
+<SYNC Start=383878><P Class=KRCC>
+스피어 호텔 전망용 엘리베이터에<br>
+변사체가 발견됐어. 자네가 맡아줘
+<SYNC Start=386837><P Class=KRCC>
+이건 큰 사건이잖아요
+<SYNC Start=388948><P Class=KRCC>
+제 말씀은 제가 여기에 <br>
+있어야하는 거 아니냐는 겁니다
+<SYNC Start=391007><P Class=KRCC>
+글쎄, 시내에 가서 <br>
+재능을 발휘해봐
+<SYNC Start=392815><P Class=KRCC>&nbsp;
+<SYNC Start=394881><P Class=KRCC>
+무슨 일이든지 한 번 시작하면 <br>
+끝까지 하라고 그러셨잖아요?
+<SYNC Start=397974><P Class=KRCC>
+아마 그때는 내가 자네 <br>
+도움이 필요했었겠지
+<SYNC Start=400820><P Class=KRCC>&nbsp;
+<SYNC Start=401848><P Class=KRCC>
+<font color=BFEFFF> 
+여보세요 / 그렇군요
+<SYNC Start=403253><P Class=KRCC>
+새라, 자고 있어? / <font color=BFEFFF> 네
+<SYNC Start=405070><P Class=KRCC>&nbsp;
+<SYNC Start=409563><P Class=KRCC>
+잠시 실례
+<SYNC Start=410875><P Class=KRCC>&nbsp;
+<SYNC Start=413563><P Class=KRCC>
+내가 여기 있는 사람들에게 물어봤더니
+<SYNC Start=415821><P Class=KRCC>
+백이면 백, 아무것도 <br>
+못 봤거나 모른다고 그러네
+<SYNC Start=419136><P Class=KRCC>
+놀라운 일이지
+<SYNC Start=420193><P Class=KRCC>
+포셔 리치몬드는 이야기는 없어요?
+<SYNC Start=422124><P Class=KRCC>
+글쎄, 그 사람 친구들은 포셔가
+<SYNC Start=423882><P Class=KRCC>
+아주 ‘싱싱한’ 젊은 남자와 <br>
+한 달 정도 사귀고 있다더군
+<SYNC Start=427343><P Class=KRCC>
+사랑에 빠져 지중해 상 어떤 <br>
+요트 위에서 마약에 절어있겠지
+<SYNC Start=431292><P Class=KRCC>
+그 커플에게 집을 <br>
+맡겨두고 말이야
+<SYNC Start=433039><P Class=KRCC>
+종종 집을 비우는 것 같아
+<SYNC Start=435443><P Class=KRCC>&nbsp;
+<SYNC Start=438174><P Class=KRCC>
+헤인즈 씨, 길 그리섬이고 <br>
+캐서린 윌로우스입니다
+<SYNC Start=441907><P Class=KRCC>
+과학수사대에서 나왔습니다
+<SYNC Start=443030><P Class=KRCC>
+안녕하세요
+<SYNC Start=444551><P Class=KRCC>&nbsp;
+<SYNC Start=445290><P Class=KRCC>
+몇 가지 더 여쭤봐도 <br>
+되겠습니까?
+<SYNC Start=447610><P Class=KRCC>
+그럼요
+<SYNC Start=449128><P Class=KRCC>
+어떻게 포셔 리치몬드 씨를 <br>
+알게 됐나요?
+<SYNC Start=452267><P Class=KRCC>
+지중해 호텔 꼭대기에 있는 <br>
+모라도 클럽에서 처음 봤어요
+<SYNC Start=456593><P Class=KRCC>
+거기 가려면 뒷마당에 유전이라도<br>
+있어야 한다는 거 같던데..
+<SYNC Start=459560><P Class=KRCC>
+프라이빗 클럽이죠. 가입하는 데만<br>
+연 5만 달러는 내야하죠
+<SYNC Start=462136><P Class=KRCC>
+그렇지만 그만한 값어친 하죠
+<SYNC Start=464343><P Class=KRCC>
+우리에게 포셔는 매우 <br>
+친숙한 사람이었어요
+<SYNC Start=467153><P Class=KRCC>
+그런 느낌 받아본 적 있나요?
+<SYNC Start=468498><P Class=KRCC>&nbsp;
+<SYNC Start=469019><P Class=KRCC>
+아니요
+<SYNC Start=470539><P Class=KRCC>
+우린 여기 신출내기였죠
+<SYNC Start=471980><P Class=KRCC>
+포셔가 우릴 주위에 소개시켜줬죠<br>
+우릴 보살펴 준거죠
+<SYNC Start=475241><P Class=KRCC>
+우린 후진 동부 출신으로<br>
+서로 아는 사이입니다
+<SYNC Start=477838><P Class=KRCC>
+그럼 집을 봐주는 겁니까?
+<SYNC Start=479347><P Class=KRCC>
+아님 여기가 주소지입니까?
+<SYNC Start=480732><P Class=KRCC>
+잠시 더부살이하는 거죠<br>
+살 집을 찾을 때까지요
+<SYNC Start=483063><P Class=KRCC>&nbsp;
+<SYNC Start=483474><P Class=KRCC>
+포셔는 우리한테 돈도 <br>
+받으려 하지 않았지요
+<SYNC Start=486118><P Class=KRCC>
+심지어 저녁 식사도 <br>
+다 그녀가 샀어요
+<SYNC Start=487827><P Class=KRCC>
+그게 그녀가 유럽에 간 다음에
+<SYNC Start=489825><P Class=KRCC>
+이 자선 행사를 연 이유예요
+<SYNC Start=492180><P Class=KRCC>
+우리가 할 수 있는 <br>
+최소한의 것이었죠
+<SYNC Start=493857><P Class=KRCC>
+우린 파티를 여는 것쯤은 아니까요
+<SYNC Start=496373><P Class=KRCC>
+맞는 말씀이네요
+<SYNC Start=498087><P Class=KRCC>&nbsp;
+<SYNC Start=498771><P Class=KRCC>
+죽은 여자에 대해 아시나요?
+<SYNC Start=501013><P Class=KRCC>&nbsp;
+<SYNC Start=501792><P Class=KRCC>
+아뇨
+<SYNC Start=502958><P Class=KRCC>&nbsp;
+<SYNC Start=504738><P Class=KRCC>
+그럼 부인은요?
+<SYNC Start=506315><P Class=KRCC>&nbsp;
+<SYNC Start=506718><P Class=KRCC>
+제가 알기로는 그 여자<br>
+초대 손님 명단에도 없다더군요
+<SYNC Start=510633><P Class=KRCC>&nbsp;
+<SYNC Start=514316><P Class=KRCC>
+뭐가 잘못 됐나요?
+<SYNC Start=516007><P Class=KRCC>&nbsp;
+<SYNC Start=517034><P Class=KRCC>
+네. 한 여자가 죽었죠
+<SYNC Start=520187><P Class=KRCC>&nbsp;
+<SYNC Start=529048><P Class=KRCC>
+레이시 듀발이 살해됐다고?
+<SYNC Start=531805><P Class=KRCC>
+어제 밤까지만 해도 <br>
+여기에 있었는데...
+<SYNC Start=533363><P Class=KRCC>
+믿을 수 없군요
+<SYNC Start=534338><P Class=KRCC>
+그녀와 가까웠던 사람을 <br>
+만날 수 있을까요?
+<SYNC Start=536549><P Class=KRCC>
+물론. 레이첼 카슨이라고<br>
+둘이 가까운 친구였소
+<SYNC Start=539314><P Class=KRCC>
+자매처럼 말이오
+<SYNC Start=540808><P Class=KRCC>
+대기실에 있을 거니 따라 오시오
+<SYNC Start=542955><P Class=KRCC>&nbsp;
+<SYNC Start=545686><P Class=KRCC>
+입 좀 다무시죠
+<SYNC Start=547369><P Class=KRCC>&nbsp;
+<SYNC Start=550788><P Class=KRCC>
+레이시는 어떤 돈 많은 <br>
+유부남을 만나고 있었죠
+<SYNC Start=553481><P Class=KRCC>
+이름은 아시나요?
+<SYNC Start=554371><P Class=KRCC>
+아뇨. 이름을 말하지 <br>
+않으려 했어요
+<SYNC Start=556066><P Class=KRCC>
+근데 있잖아요 <br>
+정말로 이상했어요
+<SYNC Start=558437><P Class=KRCC>
+그 남자는 레이첼에게 자신에 관한<br>
+어떤 것도 말하지 않으려 했어요
+<SYNC Start=561655><P Class=KRCC>
+전 이상한 느낌이 든다고 말했었는데<br>
+레이시가 죽었다니
+<SYNC Start=565577><P Class=KRCC>
+미스터리와 섹스 때문에
+<SYNC Start=568386><P Class=KRCC>
+제가 현장에 있었던 거죠
+<SYNC Start=570353><P Class=KRCC>&nbsp;
+<SYNC Start=579430><P Class=KRCC>
+실례해요
+<SYNC Start=580706><P Class=KRCC>&nbsp;
+<SYNC Start=583556><P Class=KRCC>
+도와드릴까요?
+<SYNC Start=585423><P Class=KRCC>&nbsp;
+<SYNC Start=587547><P Class=KRCC>
+아... 아니에요. 괜찮습니다
+<SYNC Start=590019><P Class=KRCC>
+의사신가요?
+<SYNC Start=591910><P Class=KRCC>&nbsp;
+<SYNC Start=593116><P Class=KRCC>
+뭐 비슷하죠
+<SYNC Start=595401><P Class=KRCC>
+전 그냥... <br>
+둘러보고 있습니다
+<SYNC Start=598887><P Class=KRCC>
+뭐 특별한 거라도 발견했나요?
+<SYNC Start=600272><P Class=KRCC>&nbsp;
+<SYNC Start=602215><P Class=KRCC>
+네. 그랬죠
+<SYNC Start=604242><P Class=KRCC>&nbsp;
+<SYNC Start=618944><P Class=KRCC>
+캐서린!
+<SYNC Start=620464><P Class=KRCC>&nbsp;
+<SYNC Start=621642><P Class=KRCC>
+차이코프스키의 <br>
+'꽃을 위한 왈츠'야
+<SYNC Start=623868><P Class=KRCC>&nbsp;
+<SYNC Start=630465><P Class=KRCC>
+그 웃음은 뭐죠?
+<SYNC Start=632622><P Class=KRCC>&nbsp;
+<SYNC Start=635415><P Class=KRCC>
+<font color=skyblue>
+내 사랑 포셔, 당신의 남편, 1969.3.7
+</font><br>
+ 우리를 위해 노래를 부르고 있군
+<SYNC Start=637424><P Class=KRCC>&nbsp;
+<SYNC Start=641828><P Class=KRCC>
+콘로이 형사님
+<SYNC Start=643551><P Class=KRCC>
+무슨 일이야?<br>
+큰 사건에서 밀려 나온 거야?
+<SYNC Start=645568><P Class=KRCC>
+아뇨. 전 혼자 일할 때 <br>
+진가를 발휘하죠
+<SYNC Start=648262><P Class=KRCC>
+제시간에 맞추어서 말이죠
+<SYNC Start=649782><P Class=KRCC>&nbsp;
+<SYNC Start=650334><P Class=KRCC>
+무슨 사건이죠
+<SYNC Start=651337><P Class=KRCC>
+평범한 장소에서 아주 대담하게 <br>
+범행을 저질렀어
+<SYNC Start=656360><P Class=KRCC>&nbsp;
+<SYNC Start=663101><P Class=KRCC>
+과녁 가장자리만 노려서 쐈군요<br>
+한 발은 눈 사이에 맞았고요
+<SYNC Start=666231><P Class=KRCC>
+사입구를 보니 어떤 생각이 듭니까?<br>
+소구경 총이 아닐까요?
+<SYNC Start=669279><P Class=KRCC>
+혼자 일하는 게 좋다며
+<SYNC Start=670916><P Class=KRCC>
+직접 살펴봐
+<SYNC Start=672541><P Class=KRCC>&nbsp;
+<SYNC Start=684280><P Class=KRCC>
+어떤 것 같아?
+<SYNC Start=685475><P Class=KRCC>&nbsp;
+<SYNC Start=693176><P Class=KRCC>
+전문가 솜씨예요
+<SYNC Start=694547><P Class=KRCC>&nbsp;
+<SYNC Start=699159><P Class=KRCC>
+저, 닉스가 어땠죠?
+<SYNC Start=700835><P Class=KRCC>
+너보단 잘 했지
+<SYNC Start=702434><P Class=KRCC>&nbsp;
+<SYNC Start=714238><P Class=KRCC>
+카나리아 시절 이후로 <br>
+시대가 많이 변하긴 했죠?
+<SYNC Start=716783><P Class=KRCC>
+카나리아 시절이라고?
+<SYNC Start=717758><P Class=KRCC>
+그래요. 브래스 경감님이 마피아가 <br>
+살인을 할 때의 이야기를 해주셨는데
+<SYNC Start=720340><P Class=KRCC>
+그 마피아는 카나리아가 <br>
+노래를 부르게 두고 간다더군요
+<SYNC Start=722724><P Class=KRCC>
+그럼 25센트 동전은 <br>
+뭘 뜻하는 거야?
+<SYNC Start=724697><P Class=KRCC>
+‘아는 사람에게 연락하라’
+<SYNC Start=726684><P Class=KRCC>&nbsp;
+<SYNC Start=727264><P Class=KRCC>
+잡히기를 바라는 사람 같군
+<SYNC Start=728807><P Class=KRCC>
+의도적으로 총을 남겨두었을 땐<br>
+아무것도 안 나온다는 말이죠
+<SYNC Start=730785><P Class=KRCC>
+이 총에선 아무것도 <br>
+안 나올 거예요
+<SYNC Start=733338><P Class=KRCC>
+살인자가 꽤나 널 힘들게 하는군<br>
+그럼 이제 어떻게 할 텐가?
+<SYNC Start=735982><P Class=KRCC>
+할 수 있는 뭐든지 해야죠
+<SYNC Start=737267><P Class=KRCC>&nbsp;
+<SYNC Start=738615><P Class=KRCC>
+정해진 일의 순서에 따라서요
+<SYNC Start=740265><P Class=KRCC>&nbsp;
+<SYNC Start=742368><P Class=KRCC>
+엘리베이터 전체에서 <br>
+지문을 뜰 텐가?
+<SYNC Start=744488><P Class=KRCC>
+금요일 밤의 바에서처럼...
+<SYNC Start=746998><P Class=KRCC>&nbsp;
+<SYNC Start=748398><P Class=KRCC>
+수많은 사람들이 지문이 <br>
+겹쳐 나오겠죠
+<SYNC Start=751074><P Class=KRCC>&nbsp;
+<SYNC Start=754256><P Class=KRCC>
+제가 맞혀보죠
+<SYNC Start=755114><P Class=KRCC>
+왜 레이스 듀발이 포셔 리치몬드 이름이 <br>
+새겨진 음악상자를 갖고 있는지 고민이죠?
+<SYNC Start=759021><P Class=KRCC>
+그렇게 생각해?
+<SYNC Start=760773><P Class=KRCC>
+서로 아는 사이여서 선물한 <br>
+거라면 간단할 듯 한데요
+<SYNC Start=763230><P Class=KRCC>
+글쎄, 서로 아는 사이였다면<br>
+왜 초대 손님 명단에 없었을까?
+<SYNC Start=765451><P Class=KRCC>&nbsp;
+<SYNC Start=768126><P Class=KRCC>
+1969년 3월 7일<br>
+캐서린에게는 의미 있는 날이야?
+<SYNC Start=770468><P Class=KRCC>&nbsp;
+<SYNC Start=772238><P Class=KRCC>
+리치몬드에게는 의미 있는 날이겠지
+<SYNC Start=773964><P Class=KRCC>&nbsp;
+<SYNC Start=774734><P Class=KRCC>
+에디와 제가 처음 결혼했을 때<br>
+아주 사이가 좋았을 때는
+<SYNC Start=777974><P Class=KRCC>
+우리가 첨 만난 날에, 에딘 항상<br>
+레이스 테디를 선물하곤 했죠
+<SYNC Start=781704><P Class=KRCC>&nbsp;
+<SYNC Start=782704><P Class=KRCC>
+어… 그래요<br>
+그게 음악상자는 아니죠
+<SYNC Start=785347><P Class=KRCC>
+음악상자나 레이스 테디<br>
+모두 같은 거야
+<SYNC Start=787883><P Class=KRCC>
+그건 전통이거든
+<SYNC Start=789399><P Class=KRCC>
+전통의 즐거움은 항상 <br>
+반복되는 데 있지
+<SYNC Start=792125><P Class=KRCC>
+그렇군요
+<SYNC Start=793623><P Class=KRCC>&nbsp;
+<SYNC Start=797510><P Class=KRCC>
+도대체 난 뭐지? 호텔에서 음식이나<br>
+음료수 나르는 사람인줄 아나?
+<SYNC Start=800047><P Class=KRCC>
+글쎄 3주 동안 <br>
+하루도 못 쉬었다니까
+<SYNC Start=801300><P Class=KRCC>
+나를 호출하려거든 <br>
+그럴 만한 사건을 줘야지
+<SYNC Start=803347><P Class=KRCC>
+나한테 엘리베이터의 변사체 <br>
+사건을 줘야 하는 거 아냐?
+<SYNC Start=805175><P Class=KRCC>
+- 다른 사람들이 싫어할 텐데<br>
+- 난 지쳤다고
+<SYNC Start=806964><P Class=KRCC>
+너? 지쳤다고? 난 네가 잠도 <br>
+안자고 일한다고 생각했는데
+<SYNC Start=809284><P Class=KRCC>&nbsp;
+<SYNC Start=811977><P Class=KRCC>
+좋아 좋아
+<SYNC Start=813794><P Class=KRCC>&nbsp;
+<SYNC Start=816811><P Class=KRCC>
+안녕, 그렉
+<SYNC Start=818421><P Class=KRCC>
+좋아 보이네. 정말 싫군
+<SYNC Start=819885><P Class=KRCC>
+몇 잔의 메를로 와인과<br>
+양고기를 먹으면서 휴일을 보냈죠
+<SYNC Start=822449><P Class=KRCC>
+어젠 정말 아기처럼 잤다니까요
+<SYNC Start=824677><P Class=KRCC>
+상태가 안 좋아 보이네요
+<SYNC Start=825747><P Class=KRCC>
+고마워, 그렉
+<SYNC Start=827041><P Class=KRCC>&nbsp;
+<SYNC Start=828216><P Class=KRCC>
+나는 아니야<br>
+난 밤새 일했다고
+<SYNC Start=830266><P Class=KRCC>&nbsp;
+<SYNC Start=830540><P Class=KRCC>
+성폭력 검사와 손톱에서 <br>
+나온 DNA를 조사해줘
+<SYNC Start=833588><P Class=KRCC>
+최대한 빨리 CODIS에 넣어보고
+<SYNC Start=835763><P Class=KRCC>
+그게 전부예요? 그런데 제 연장근무는<br>
+누가 허가하는 거죠?
+<SYNC Start=838805><P Class=KRCC>&nbsp;
+<SYNC Start=839235><P Class=KRCC>
+말이 많군, 그렉<br>
+벌써 푹 쉬었잖아
+<SYNC Start=842207><P Class=KRCC>&nbsp;
+<SYNC Start=844221><P Class=KRCC>
+새라 선배 한텐 발륨이 필요한 게 아녜요?<br>
+(Valium : 정신안정제, 상표명)
+<SYNC Start=845855><P Class=KRCC>
+<다른 사람이 말하는 것- 대사로 
+넣지 않아도 무방할 것 같음.
+I heard that ... 나도 들었어 >
+<SYNC Start=847777><P Class=KRCC>&nbsp;
+<SYNC Start=857280><P Class=KRCC>
+1973년 3월 7일
+<SYNC Start=859686><P Class=KRCC>&nbsp;
+<SYNC Start=862859><P Class=KRCC>
+1981년 3월 7일
+<SYNC Start=865502><P Class=KRCC>&nbsp;
+<SYNC Start=866186><P Class=KRCC>
+1956년 3월 7일
+<SYNC Start=867936><P Class=KRCC>&nbsp;
+<SYNC Start=871631><P Class=KRCC>
+1986년 3월 7일
+<SYNC Start=874281><P Class=KRCC>&nbsp;
+<SYNC Start=875116><P Class=KRCC>
+남편이 죽을 때까지<br>
+매년 기념일 마다 준 것 같군
+<SYNC Start=877375><P Class=KRCC>&nbsp;
+<SYNC Start=879017><P Class=KRCC>
+이것을 선물로 줘버린 <br>
+것 같진 않아요
+<SYNC Start=881397><P Class=KRCC>&nbsp;
+<SYNC Start=885933><P Class=KRCC>
+적어도 이건 <br>
+'꽃을 위한 왈츠'는 아니네요
+<SYNC Start=887765><P Class=KRCC>&nbsp;
+<SYNC Start=903543><P Class=KRCC>
+문의 봉인이 찢겨져 <br>
+있지는 않았는데
+<SYNC Start=905771><P Class=KRCC>&nbsp;
+<SYNC Start=928645><P Class=KRCC>
+라스베가스 경찰입니다
+<SYNC Start=931261><P Class=KRCC>&nbsp;
+<SYNC Start=942982><P Class=KRCC>
+하다가 들켰네요
+<SYNC Start=945696><P Class=KRCC>
+내 생각엔 그 점이 <br>
+중요한 것 같군
+<SYNC Start=947326><P Class=KRCC>
+아 그래요?
+<SYNC Start=948912><P Class=KRCC>&nbsp;
+<SYNC Start=951753><P Class=KRCC>
+아냐, 나 더 이상 <br>
+커피 못 마시겠어
+<SYNC Start=953385><P Class=KRCC>
+내 생체 시계가 <br>
+완전히 망가진 듯 해
+<SYNC Start=954842><P Class=KRCC>
+난 스테이크가 필요해
+<SYNC Start=957206><P Class=KRCC>&nbsp;
+<SYNC Start=957577><P Class=KRCC>
+‘투탄카멘의 무덤’<br>
+계란 얹은 스테이크
+<SYNC Start=960188><P Class=KRCC>
+1불 99센트에
+<SYNC Start=961582><P Class=KRCC>
+음식 …?
+<SYNC Start=962862><P Class=KRCC>
+좋은 생각이야. 그래 좋아
+<SYNC Start=964469><P Class=KRCC>&nbsp;
+<SYNC Start=964773><P Class=KRCC>
+이래서 제가 산다니까요
+<SYNC Start=966266><P Class=KRCC>
+정말 믿지 못할 걸요?<br>
+준비 됐나요?
+<SYNC Start=968287><P Class=KRCC>
+준비됐어
+<SYNC Start=969780><P Class=KRCC>
+- 내가 그 커피 마셔도 될까?<br>
+- 그래
+<SYNC Start=971004><P Class=KRCC>&nbsp;
+<SYNC Start=971239><P Class=KRCC>
+좋아요. 죽은 쇼걸인 레이스 듀발<br>
+성폭력 검사에서
+<SYNC Start=973937><P Class=KRCC>
+정액에 대한 양성 반응이 나왔어요
+<SYNC Start=975240><P Class=KRCC>
+그런데... 그건 아무것도 아니에요
+<SYNC Start=976797><P Class=KRCC>
+그걸 CODIS에 돌려봤는데, 발견된 DNA가<br>
+텍사스 미결사건의 DNA와 일치하더군요
+<SYNC Start=980273><P Class=KRCC>
+10년 전에 죽은 <br>
+치어리더 사건이라고요
+<SYNC Start=984291><P Class=KRCC>
+- 일거양득이네 <br>
+- 좋아. 이제 기군이 나는군
+<SYNC Start=986614><P Class=KRCC>&nbsp;
+<SYNC Start=988583><P Class=KRCC>
+서장님, 이 사건에 네 명의 <br>
+요원이 조사를 하고 있습니다
+<SYNC Start=991200><P Class=KRCC>
+<font color=BFEFFF>그래, 뭔가 건졌나?
+<SYNC Start=992275><P Class=KRCC>
+아뇨. 뭔가 알게 되면 <br>
+바로 연락드리겠습니다
+<SYNC Start=997196><P Class=KRCC>
+약속드립니다
+<SYNC Start=998776><P Class=KRCC>&nbsp;
+<SYNC Start=1000541><P Class=KRCC>
+서장인가?
+<SYNC Start=1001349><P Class=KRCC>
+네. 매시간 전화를 하는군요<br>
+아무것도 할 수가 없어요
+<SYNC Start=1003512><P Class=KRCC>
+나한텐 30분마다 전화한다네
+<SYNC Start=1005306><P Class=KRCC>&nbsp;
+<SYNC Start=1007151><P Class=KRCC>
+놀라지 않으셨길 바랍니다
+<SYNC Start=1008878><P Class=KRCC>
+그 말을 하기엔 <br>
+좀 늦은 듯하네요
+<SYNC Start=1010473><P Class=KRCC>&nbsp;
+<SYNC Start=1014969><P Class=KRCC>
+네, 안녕하시죠?
+<SYNC Start=1016740><P Class=KRCC>&nbsp;
+<SYNC Start=1018240><P Class=KRCC>
+제가 리치몬드 부인의 행방에 대해<br>
+좀 더 여쭤봐야 할 것 같군요
+<SYNC Start=1021406><P Class=KRCC>&nbsp;
+<SYNC Start=1022567><P Class=KRCC>
+네, 말씀하세요
+<SYNC Start=1024135><P Class=KRCC>
+음료수 드실 분 없나요?
+<SYNC Start=1025416><P Class=KRCC>&nbsp;
+<SYNC Start=1026256><P Class=KRCC>
+아니요, 감사합니다
+<SYNC Start=1027259><P Class=KRCC>&nbsp;
+<SYNC Start=1033968><P Class=KRCC>
+그럼 어…, 기본적인<br>
+질문을 하도록 하죠
+<SYNC Start=1038119><P Class=KRCC>&nbsp;
+<SYNC Start=1039124><P Class=KRCC>
+그녀가 어디 있다고요?
+<SYNC Start=1040265><P Class=KRCC>
+그리스 제도 어딘가에 <br>
+있는 요트에 있겠죠
+<SYNC Start=1042670><P Class=KRCC>
+연락해야 할 일이 생기면 <br>
+어떻게 하죠?
+<SYNC Start=1044232><P Class=KRCC>
+나침반 가지고 계시나요?
+<SYNC Start=1045109><P Class=KRCC>&nbsp;
+<SYNC Start=1046248><P Class=KRCC>
+네
+<SYNC Start=1047466><P Class=KRCC>&nbsp;
+<SYNC Start=1048415><P Class=KRCC>
+연락이 두절된 상태죠
+<SYNC Start=1050253><P Class=KRCC>
+놀라운 말씀이네요
+<SYNC Start=1051542><P Class=KRCC>
+저희가 무슨 잘못이라도<br>
+저질렀나요?
+<SYNC Start=1052932><P Class=KRCC>&nbsp;
+<SYNC Start=1058839><P Class=KRCC>
+왜요?
+<SYNC Start=1060311><P Class=KRCC>&nbsp;
+<SYNC Start=1066342><P Class=KRCC>
+빨대를 제가 가져도 될까요?
+<SYNC Start=1068000><P Class=KRCC>&nbsp;
+<SYNC Start=1073920><P Class=KRCC>
+제가 그걸 모으거든요
+<SYNC Start=1076552><P Class=KRCC>&nbsp;
+<SYNC Start=1083370><P Class=KRCC>
+고맙습니다
+<SYNC Start=1085099><P Class=KRCC>&nbsp;
+<SYNC Start=1089628><P Class=KRCC>
+주위를 둘러봐도 될까요?
+<SYNC Start=1091690><P Class=KRCC>&nbsp;
+<SYNC Start=1092837><P Class=KRCC>
+그러시죠
+<SYNC Start=1094334><P Class=KRCC>&nbsp;
+<SYNC Start=1103725><P Class=KRCC>
+여주인의 침실이군
+<SYNC Start=1105588><P Class=KRCC>&nbsp;
+<SYNC Start=1106201><P Class=KRCC>
+아주 이상해
+<SYNC Start=1107698><P Class=KRCC>&nbsp;
+<SYNC Start=1108595><P Class=KRCC>
+포셔가 목욕 가운을 <br>
+가져갔는지 한 번 보죠
+<SYNC Start=1111661><P Class=KRCC>&nbsp;
+<SYNC Start=1112507><P Class=KRCC>
+여기 있네요
+<SYNC Start=1113991><P Class=KRCC>&nbsp;
+<SYNC Start=1134930><P Class=KRCC>
+목욕 가운, 란제리<br>
+보석, 지갑, 가방
+<SYNC Start=1140887><P Class=KRCC>
+제가 생각하기엔 어디에 <br>
+간 것 같지 않아요
+<SYNC Start=1142799><P Class=KRCC>&nbsp;
+<SYNC Start=1147525><P Class=KRCC>
+그럼 방도 조사해 볼까?
+<SYNC Start=1149555><P Class=KRCC>&nbsp;
+<SYNC Start=1209543><P Class=KRCC>
+이의 요정이 우리에게 포셔 리치몬드의<br>
+치아를 남겨준 것 같군
+<SYNC Start=1213238><P Class=KRCC>
+네?
+<SYNC Start=1214190><P Class=KRCC>
+한 번 봐
+<SYNC Start=1215629><P Class=KRCC>&nbsp;
+<SYNC Start=1220525><P Class=KRCC>
+두 가지 사건이 되었군요
+<SYNC Start=1222756><P Class=KRCC>
+살인자가 없는 사체와<br>
+사체 없는 살인
+<SYNC Start=1227754><P Class=KRCC>&nbsp;
+<SYNC Start=1235172><P Class=KRCC>
+와, 이거 풀면 진급하겠어요
+<SYNC Start=1237660><P Class=KRCC>&nbsp;
+<SYNC Start=1238507><P Class=KRCC>
+그렉, 치아 DNA 분석표 작성해서
+<SYNC Start=1242111><P Class=KRCC>
+그게 포셔 리치몬드와 <br>
+일치하는지 알아봐줘
+<SYNC Start=1244640><P Class=KRCC>&nbsp;
+<SYNC Start=1244877><P Class=KRCC>
+음... 이 이에서 DNA를 <br>
+검출하는 건 쉽겠죠
+<SYNC Start=1248636><P Class=KRCC>
+하지만 그걸 뭐하고 비교하죠?
+<SYNC Start=1249914><P Class=KRCC>&nbsp;
+<SYNC Start=1250913><P Class=KRCC>
+그녀 집에서 가져온 <br>
+칫솔이나 빗은 어때?
+<SYNC Start=1254434><P Class=KRCC>&nbsp;
+<SYNC Start=1255174><P Class=KRCC>
+현미경을 한 번 보시겠어요?
+<SYNC Start=1257767><P Class=KRCC>&nbsp;
+<SYNC Start=1268099><P Class=KRCC>
+여긴 아무것도 없네요
+<SYNC Start=1270068><P Class=KRCC>&nbsp;
+<SYNC Start=1276987><P Class=KRCC>
+그렇다면 그녀는 <br>
+아주 위생적이었거나
+<SYNC Start=1279681><P Class=KRCC>
+누군가가 세척을 해버렸지
+<SYNC Start=1281997><P Class=KRCC>
+포셔 리치몬드인지 알고 싶으시면<br>
+DNA를 가져오셔야 될 거예요
+<SYNC Start=1285794><P Class=KRCC>&nbsp;
+<SYNC Start=1289966><P Class=KRCC>
+20년 동안 여기 살면서
+<SYNC Start=1291859><P Class=KRCC>
+리버라치 박물관이 있는지 <br>
+몰랐다는 게 믿기지 않네요
+<SYNC Start=1293902><P Class=KRCC>&nbsp;
+<SYNC Start=1294371><P Class=KRCC>
+우습군. 난 며칠 전에 <br>
+여기 왔었는데
+<SYNC Start=1296889><P Class=KRCC>
+그래요?
+<SYNC Start=1297988><P Class=KRCC>
+우린 여기에 리버라치의 <br>
+모든 의상을 비치해 놨죠
+<SYNC Start=1301601><P Class=KRCC>
+이 의상은 1984년 뉴올리언스<br>
+세계 박람회 때 입은 거죠
+<SYNC Start=1308112><P Class=KRCC>
+멋지네요
+<SYNC Start=1309164><P Class=KRCC>&nbsp;
+<SYNC Start=1309703><P Class=KRCC>
+예전 쇼를 보신 적 있나요?<br>
+50년대의 리도 쇼 같은 거
+<SYNC Start=1313218><P Class=KRCC>&nbsp;
+<SYNC Start=1313895><P Class=KRCC>
+제가 태어나기 전인걸요
+<SYNC Start=1315145><P Class=KRCC>
+맞아요. 그렇군요
+<SYNC Start=1317892><P Class=KRCC>
+모든 댄서들은 다 <br>
+프랑스에서 왔었죠
+<SYNC Start=1320481><P Class=KRCC>
+의상의 사소한 부분까지 신경 <br>
+쓰는 것 자체가 정말 대단했죠
+<SYNC Start=1324011><P Class=KRCC>&nbsp;
+<SYNC Start=1324419><P Class=KRCC>
+관객들은 멋지게 차려 입고 말이에요
+<SYNC Start=1327807><P Class=KRCC>
+그땐 지금과는 달랐죠
+<SYNC Start=1330322><P Class=KRCC>
+뉴욕이나 시카고, 런던 같은 <br>
+큰 도시에서는 다시 복원했죠
+<SYNC Start=1334970><P Class=KRCC>
+하지만 이곳엔 사라지고 없죠
+<SYNC Start=1337309><P Class=KRCC>&nbsp;
+<SYNC Start=1339041><P Class=KRCC>
+포셔 리치몬드의 의상을 <br>
+보고 싶다고 하셨죠?
+<SYNC Start=1341760><P Class=KRCC>
+네
+<SYNC Start=1343283><P Class=KRCC>
+광기의 베르지에, 1959 <br>
+[Folies Bergiere; LV에서 공연한 쇼]
+<SYNC Start=1346169><P Class=KRCC>&nbsp;
+<SYNC Start=1356937><P Class=KRCC>
+무거워 보이군
+<SYNC Start=1357826><P Class=KRCC>
+머리에 그걸 쓰고 하룻밤에<br>
+두 번 쇼에 나왔다고 생각해 보세요
+<SYNC Start=1360673><P Class=KRCC>
+15개가 넘는 빗을 에폭시와 <br>
+접착제로 고정하고 말이에요
+<SYNC Start=1364922><P Class=KRCC>
+머리에서 떨어지지 않도록 끼워서 <br>
+못처럼 고정하는 역할을 했죠
+<SYNC Start=1367880><P Class=KRCC>&nbsp;
+<SYNC Start=1370065><P Class=KRCC>
+결국 머리가 다 뽑혀나갔죠
+<SYNC Start=1371662><P Class=KRCC>&nbsp;
+<SYNC Start=1381338><P Class=KRCC>
+DNA 천지네요
+<SYNC Start=1382895><P Class=KRCC>&nbsp;
+<SYNC Start=1385324><P Class=KRCC>
+워릭!
+<SYNC Start=1386781><P Class=KRCC>&nbsp;
+<SYNC Start=1387099><P Class=KRCC>
+엘리베이터 희생자의 소지품이야
+<SYNC Start=1389020><P Class=KRCC>
+멋지군
+<SYNC Start=1390616><P Class=KRCC>
+누군지 알아냈어?
+<SYNC Start=1391855><P Class=KRCC>
+운전면허증으로 알아냈지<br>
+여기 사람이고
+<SYNC Start=1393493><P Class=KRCC>
+타이슨 그린이고 35세야
+<SYNC Start=1395296><P Class=KRCC>
+렌즈를 끼지 않고는 <br>
+운전할 수 없는 사람이고
+<SYNC Start=1397447><P Class=KRCC>
+그러게, 눈이 너무 나빠서 <br>
+엘리베이터도 작동하지 못했군
+<SYNC Start=1399517><P Class=KRCC>&nbsp;
+<SYNC Start=1406745><P Class=KRCC>
+아 …. 시카고 뱅크롤<br>
+<font color=skyblue>
+[Chicago Bankroll : 도박, 포커의 한 형태]</font>
+<SYNC Start=1408306><P Class=KRCC>
+이 남자는 여기 사람인 걸<br>
+<font color=skyblue>
+('시카고 돈다발'로 생각함)</font>
+<SYNC Start=1410225><P Class=KRCC>&nbsp;
+<SYNC Start=1410690><P Class=KRCC>
+아냐, 용어를 말한 거야<br>
+오래된 도박 방법이지
+<SYNC Start=1413354><P Class=KRCC>&nbsp;
+<SYNC Start=1415141><P Class=KRCC>
+새우 칵테일 애피타이저, 서프 앤 터프 디너<br>
+와인 두잔, 모두 무료
+<SYNC Start=1419967><P Class=KRCC>
+공짜란 말이지? 좋네
+<SYNC Start=1421661><P Class=KRCC>
+절대 공짜가 아닐걸, 날 믿어
+<SYNC Start=1423600><P Class=KRCC>&nbsp;
+<SYNC Start=1437568><P Class=KRCC>
+괜찮아?
+<SYNC Start=1438795><P Class=KRCC>&nbsp;
+<SYNC Start=1439997><P Class=KRCC>
+그래, 그래...
+<SYNC Start=1441643><P Class=KRCC>&nbsp;
+<SYNC Start=1445502><P Class=KRCC>
+이것들 본 지 오래됐군
+<SYNC Start=1447810><P Class=KRCC>&nbsp;
+<SYNC Start=1451321><P Class=KRCC>
+이봐, 워릭
+<SYNC Start=1452677><P Class=KRCC>
+탄도분석실 바비 도슨하고 <br>
+얘기를 했는데
+<SYNC Start=1454239><P Class=KRCC>
+엘리베이터에서 수거한 <br>
+것을 조사했는데
+<SYNC Start=1455865><P Class=KRCC>
+일련번호로 보니 웨스트사이드에<br>
+사는 빈센트 모건으로 나오더군
+<SYNC Start=1458730><P Class=KRCC>
+- 멋지네요<br>
+- 갈까?
+<SYNC Start=1460063><P Class=KRCC>&nbsp;
+<SYNC Start=1460704><P Class=KRCC>
+이것 좀 기록해서 보관해 줄래?
+<SYNC Start=1461637><P Class=KRCC>
+그래
+<SYNC Start=1463069><P Class=KRCC>&nbsp;
+<SYNC Start=1468810><P Class=KRCC>
+맨디, 피해자에게서 발견한 25센트<br>
+동전에서 지문 떠냈어?
+<SYNC Start=1471403><P Class=KRCC>&nbsp;
+<SYNC Start=1471666><P Class=KRCC>
+계속 하고 있어요. 하루에 한 가지<br>
+사건만을 하는 게 아니잖아요
+<SYNC Start=1474262><P Class=KRCC>&nbsp;
+<SYNC Start=1477580><P Class=KRCC>
+빙고!
+<SYNC Start=1479586><P Class=KRCC>
+이거 단지 45분밖에 안 결렸는걸
+<SYNC Start=1481251><P Class=KRCC>&nbsp;
+<SYNC Start=1481634><P Class=KRCC>
+뭘 찾았는데?
+<SYNC Start=1482850><P Class=KRCC>
+패트릭 헤인즈의 <br>
+주민번호를 쳤더니
+<SYNC Start=1485412><P Class=KRCC>&nbsp;
+<SYNC Start=1485772><P Class=KRCC>
+문제가 있더군
+<SYNC Start=1487401><P Class=KRCC>
+10년 전에 죽은 8개월짜리 <br>
+아이로 나온다는 거지
+<SYNC Start=1490227><P Class=KRCC>&nbsp;
+<SYNC Start=1491743><P Class=KRCC>
+같은 주민번호 맞아? 확실해?
+<SYNC Start=1493642><P Class=KRCC>&nbsp;
+<SYNC Start=1498392><P Class=KRCC>
+이거야 !
+<SYNC Start=1499901><P Class=KRCC>&nbsp;
+<SYNC Start=1500585><P Class=KRCC>
+좋은 거야?
+<SYNC Start=1502064><P Class=KRCC>
+그럼
+<SYNC Start=1503168><P Class=KRCC>&nbsp;
+<SYNC Start=1503469><P Class=KRCC>
+해냈어, 우와, 그래
+<SYNC Start=1507778><P Class=KRCC>
+와~ 해냈다고, 우와
+<SYNC Start=1513560><P Class=KRCC>&nbsp;
+<SYNC Start=1514561><P Class=KRCC>
+그렉, 그것 좀 벗어줄래?
+<SYNC Start=1516386><P Class=KRCC>
+증거잖아
+<SYNC Start=1517482><P Class=KRCC>
+좋아요, 선배
+<SYNC Start=1518889><P Class=KRCC>
+당연히 증거물들은 <br>
+따로 다 빼놨죠
+<SYNC Start=1520419><P Class=KRCC>&nbsp;
+<SYNC Start=1521691><P Class=KRCC>
+여자 DNA였어요. 선배님도 춤출 때<br>
+이런 것을 쓰고 했나요?
+<SYNC Start=1525183><P Class=KRCC>
+난 아무것도 안 입었었지 / 어머나!
+<SYNC Start=1526816><P Class=KRCC>&nbsp;
+<SYNC Start=1535433><P Class=KRCC>
+음... 그 이에서 나온 DNA와
+<SYNC Start=1537731><P Class=KRCC>
+이 소품 안에서 발견된 <br>
+모낭 DNA와 비교 했더니
+<SYNC Start=1540855><P Class=KRCC>
+일치했어요, 반장님
+<SYNC Start=1542695><P Class=KRCC>
+살인사건인 거죠
+<SYNC Start=1544578><P Class=KRCC>&nbsp;
+<SYNC Start=1545396><P Class=KRCC>
+실례하겠습니다
+<SYNC Start=1546729><P Class=KRCC>&nbsp;
+<SYNC Start=1550504><P Class=KRCC>
+그래 제가 그걸 신고 안한 <br>
+것이 위법인가요?
+<SYNC Start=1552672><P Class=KRCC>
+하지만 당신 집이 <br>
+강도를 당했을 때
+<SYNC Start=1554987><P Class=KRCC>
+등록된 총기를 잃어버렸다고 <br>
+신고하는 게 낫겠죠
+<SYNC Start=1557589><P Class=KRCC>
+저 남자 말이 맞는 것 같아
+<SYNC Start=1558865><P Class=KRCC>
+강도를 당했더군 / 네, 보세요!
+<SYNC Start=1560270><P Class=KRCC>
+제 아내는 애가 <br>
+생기고 나서부터는
+<SYNC Start=1561748><P Class=KRCC>
+집에 총 두는 걸 <br>
+싫어했어요
+<SYNC Start=1563516><P Class=KRCC>
+제가 없애겠다고 말만 하고<br>
+그러지 않았거든요
+<SYNC Start=1566483><P Class=KRCC>
+전 그게 살인에 쓰일 거라고<br>
+상상도 못했어요
+<SYNC Start=1569754><P Class=KRCC>
+한동안은 필요할 때마다<br>
+연락드리겠습니다
+<SYNC Start=1571830><P Class=KRCC>
+시간 내주셔서 감사합니다
+<SYNC Start=1572800><P Class=KRCC>
+감사합니다
+<SYNC Start=1574619><P Class=KRCC>
+이봐, 309번 차 끌고 와
+<SYNC Start=1577029><P Class=KRCC>
+누구도 자신의 등록된 총으로<br>
+살인을 하진 않지요
+<SYNC Start=1579363><P Class=KRCC>
+꼭 그렇지는 않을 걸
+<SYNC Start=1581078><P Class=KRCC>&nbsp;
+<SYNC Start=1581710><P Class=KRCC>
+경감님 / 응
+<SYNC Start=1584041><P Class=KRCC>&nbsp;
+<SYNC Start=1584388><P Class=KRCC>
+모든 곳을 감시하고 있네
+<SYNC Start=1586360><P Class=KRCC>
+헤인즈 부부를 주시하면서 말이야
+<SYNC Start=1588028><P Class=KRCC>
+서장은 그들이 도망가는<br>
+것을 바라지 않더군
+<SYNC Start=1589658><P Class=KRCC>
+그건 우리도 마찬가지죠
+<SYNC Start=1591030><P Class=KRCC>
+포셔 리치몬드가 죽었다는<br>
+강한 의혹이 있어요
+<SYNC Start=1593829><P Class=KRCC>&nbsp;
+<SYNC Start=1614342><P Class=KRCC>
+저것 봤어요?
+<SYNC Start=1615827><P Class=KRCC>
+저 사람들 협잡꾼이네요
+<SYNC Start=1617271><P Class=KRCC>
+사람들 바로 앞에서 <br>
+모피를 훔치는군요
+<SYNC Start=1619476><P Class=KRCC>&nbsp;
+<SYNC Start=1627016><P Class=KRCC>
+코트를 살펴봐도 될까요?
+<SYNC Start=1629421><P Class=KRCC>&nbsp;
+<SYNC Start=1632122><P Class=KRCC>
+당신들 도대체 뭐요? <br>
+부부 절도단이요?
+<SYNC Start=1634765><P Class=KRCC>
+전 모르는 일입니다
+<SYNC Start=1635867><P Class=KRCC>
+5천 달러어치의 절도야<br>
+당신 아내가 훔친 거 아닌가?
+<SYNC Start=1639665><P Class=KRCC>
+당신들 뭐하는 사람들인가?
+<SYNC Start=1641014><P Class=KRCC>
+아만다는 그리섬 씨가 말하기 전까지<br>
+모피를 가져왔다는 걸 몰랐어요
+<SYNC Start=1643991><P Class=KRCC>
+꼭 그런 사람들 같군, 흠 …
+<SYNC Start=1645867><P Class=KRCC>
+주머니에 센트라를 담아서 자동차 <br>
+영업소를 나온 사람들 말이야
+<SYNC Start=1649188><P Class=KRCC>
+제가 왜 여기 있죠? 왜요?
+<SYNC Start=1650774><P Class=KRCC>&nbsp;
+<SYNC Start=1651466><P Class=KRCC>
+경감님, 제가 물어봐도 될까요
+<SYNC Start=1654613><P Class=KRCC>&nbsp;
+<SYNC Start=1656528><P Class=KRCC>
+헤인즈 씨, 레이스 듀발에게 <br>
+성폭력 여부 조사를 해봤는데
+<SYNC Start=1660300><P Class=KRCC>
+정액이 발견됐죠
+<SYNC Start=1662168><P Class=KRCC>&nbsp;
+<SYNC Start=1662517><P Class=KRCC>
+설명해 줄래요? / 네
+<SYNC Start=1665330><P Class=KRCC>
+제 집사람이 여기 없으니까 …
+<SYNC Start=1667422><P Class=KRCC>
+사실을 말할 수 있겠군요
+<SYNC Start=1669817><P Class=KRCC>&nbsp;
+<SYNC Start=1670419><P Class=KRCC>
+전 파티가 열리기 전에 <br>
+레이시와 섹스를 했죠
+<SYNC Start=1672882><P Class=KRCC>
+DNA 샘플을 주시겠어요?
+<SYNC Start=1674807><P Class=KRCC>&nbsp;
+<SYNC Start=1676941><P Class=KRCC>
+그럼요. 레이시와의 관계는 <br>
+단지 성적인 관계였을 뿐이죠
+<SYNC Start=1681420><P Class=KRCC>&nbsp;
+<SYNC Start=1682029><P Class=KRCC>
+멋진 섹스였죠<br>
+정말 황홀한 섹스 말이에요
+<SYNC Start=1684893><P Class=KRCC>
+틈만 나면 우린 했어요
+<SYNC Start=1688859><P Class=KRCC>
+그녀는 마약과 같았어요
+<SYNC Start=1690715><P Class=KRCC>
+체액을 교환하는 거 말고도
+<SYNC Start=1694794><P Class=KRCC>
+선물도 교환했었나요?
+<SYNC Start=1697093><P Class=KRCC>
+무슨 말씀이죠?
+<SYNC Start=1698844><P Class=KRCC>
+질문에나 답하게
+<SYNC Start=1699999><P Class=KRCC>
+아뇨
+<SYNC Start=1701280><P Class=KRCC>&nbsp;
+<SYNC Start=1702727><P Class=KRCC>
+아무것도 선물한 것 없습니다
+<SYNC Start=1704676><P Class=KRCC>
+그래요? 레이스 듀발의 탈의실에서<br>
+음악상자를 발견했는데
+<SYNC Start=1708213><P Class=KRCC>
+포셔 리치몬드 것이더군요
+<SYNC Start=1710722><P Class=KRCC>
+그걸 그녀에게 줬나요?
+<SYNC Start=1712043><P Class=KRCC>&nbsp;
+<SYNC Start=1712862><P Class=KRCC>
+정말 아니에요
+<SYNC Start=1714772><P Class=KRCC>&nbsp;
+<SYNC Start=1715730><P Class=KRCC>
+그 음악상자는 포셔 거지<br>
+제 게 아니죠
+<SYNC Start=1718159><P Class=KRCC>&nbsp;
+<SYNC Start=1718742><P Class=KRCC>
+하긴 레이시는 집에 들렀을 때<br>
+그것들을 가지고 싶어 하더군요
+<SYNC Start=1723284><P Class=KRCC>
+그녀가 훔쳤다는 건가?
+<SYNC Start=1725049><P Class=KRCC>&nbsp;
+<SYNC Start=1726396><P Class=KRCC>
+인간의 본성이죠
+<SYNC Start=1727610><P Class=KRCC>&nbsp;
+<SYNC Start=1728525><P Class=KRCC>
+갖지 못하는 것을 <br>
+탐내는 법 아닌가요
+<SYNC Start=1730310><P Class=KRCC>&nbsp;
+<SYNC Start=1735819><P Class=KRCC>
+그럼 당신은 포셔 리치몬드한테 <br>
+무엇을 탐냈죠?
+<SYNC Start=1738163><P Class=KRCC>&nbsp;
+<SYNC Start=1742622><P Class=KRCC>
+반장님, 잠깐만요?
+<SYNC Start=1745003><P Class=KRCC>&nbsp;
+<SYNC Start=1754198><P Class=KRCC>
+도대체 일을 하자는 건가 <br>
+말자는 건가?
+<SYNC Start=1755836><P Class=KRCC>&nbsp;
+<SYNC Start=1756302><P Class=KRCC>
+- 전 그냥 ….<br>
+- 문에 들어오지 말라고 써 있잖나
+<SYNC Start=1758386><P Class=KRCC>
+읽지도 못하나?<br>
+장님이야? 뭐야?
+<SYNC Start=1760489><P Class=KRCC>
+- 반장님, 중요한 문젭니다<br>
+- 이게 중요한 거야!
+<SYNC Start=1763085><P Class=KRCC>
+보통 이런 심문할 땐 기회도 한 번이고<br>
+진술을 받는 것도 한 번 밖에 없는 거야
+<SYNC Start=1766165><P Class=KRCC>
+내가 이렇게 밖에서 <br>
+자네와 말다툼을 할 때
+<SYNC Start=1767714><P Class=KRCC>
+저런 인간은 자네가 들어오기 전엔 생각하지 <br>
+못했던 이야기들을 꾸며낸단 말이야
+<SYNC Start=1772752><P Class=KRCC>
+레이시 듀발의 DNA가 텍사스에서 10년 전<br>
+발생한 미결사건의 DNA와 일치해요
+<SYNC Start=1777092><P Class=KRCC>
+그래서!?
+<SYNC Start=1777964><P Class=KRCC>
+그 용의자 이름이 <br>
+채드 매튜예요
+<SYNC Start=1781273><P Class=KRCC>&nbsp;
+<SYNC Start=1782565><P Class=KRCC>
+CM. 단추
+<SYNC Start=1784885><P Class=KRCC>&nbsp;
+<SYNC Start=1788201><P Class=KRCC>
+그렇군, 미안해
+<SYNC Start=1789722><P Class=KRCC>&nbsp;
+<SYNC Start=1790186><P Class=KRCC>
+새라가 패트릭 헤인즈의 <br>
+주민번호를 조사해봤는데요
+<SYNC Start=1792688><P Class=KRCC>
+진짜 헤인즈는 <br>
+죽은 사람이에요
+<SYNC Start=1795005><P Class=KRCC>
+패트릭 헤인즈가 채드 매튜인거죠<br>
+결과적으로 채드 매튜가 도망중이고요
+<SYNC Start=1800108><P Class=KRCC>&nbsp;
+<SYNC Start=1801070><P Class=KRCC>
+제 발로 우리에게 <br>
+걸어 들어왔군
+<SYNC Start=1802572><P Class=KRCC>&nbsp;
+<SYNC Start=1805833><P Class=KRCC>
+안녕하세요, 다시 뵙게 되어 반갑습니다
+<SYNC Start=1808666><P Class=KRCC>&nbsp;
+<SYNC Start=1810942><P Class=KRCC>
+자네는 내가 저기 안에 <br>
+아침 먹으러 들어가서
+<SYNC Start=1814795><P Class=KRCC>
+무슨 말을 할지 아나?
+<SYNC Start=1816861><P Class=KRCC>
+시장에 출마하시겠다고 <br>
+발표하시려는 거 아닌가요?
+<SYNC Start=1818457><P Class=KRCC>
+눈치가 빠르구먼
+<SYNC Start=1819569><P Class=KRCC>
+패트릭 헤인즈는 구금 중이지
+<SYNC Start=1821933><P Class=KRCC>
+그가 포셔 리치몬드가 <br>
+사라진 것과 관련이 있나?
+<SYNC Start=1824607><P Class=KRCC>
+헤인즈는 다른 문제 때문에<br>
+텍사스로 송환될 예정입니다
+<SYNC Start=1828379><P Class=KRCC>
+그렇다면 그 동안 우리는 <br>
+포셔 리치몬드의 실종과
+<SYNC Start=1830307><P Class=KRCC>
+관련해서 심문을 해야겠군
+<SYNC Start=1833009><P Class=KRCC>
+서장님께 찍어야겠군요
+<SYNC Start=1835432><P Class=KRCC>
+리치몬드에 관해 뭐가 나왔나?
+<SYNC Start=1836918><P Class=KRCC>
+송곳니 하나요
+<SYNC Start=1837887><P Class=KRCC>
+개 말인가?
+<SYNC Start=1838887><P Class=KRCC>
+이빨이요
+<SYNC Start=1840543><P Class=KRCC>&nbsp;
+<SYNC Start=1841605><P Class=KRCC>
+다른 건 뭐 없고?
+<SYNC Start=1843257><P Class=KRCC>
+계속 찾고 있습니다 / 수고하게
+<SYNC Start=1845340><P Class=KRCC>
+언론에 그녀가 죽었다고 알려진 뒤
+<SYNC Start=1847740><P Class=KRCC>
+그녀가 맥카렌 공항에 피부가 <br>
+그을린 채 내리기라도 한다면
+<SYNC Start=1850249><P Class=KRCC>
+우린 비난을 면치 못할 거고 <br>
+자네에겐 책임을 물을 걸세
+<SYNC Start=1853374><P Class=KRCC>
+포셔 리치몬드가 이 자리에<br>
+내가 있게 했고 난 그녀 편이네
+<SYNC Start=1857700><P Class=KRCC>
+무슨 말인지 이해하겠지?
+<SYNC Start=1860302><P Class=KRCC>
+증거는 좋은 와인과 같죠, 서장님<br>
+마개를 따서 바로 마셔버릴 수는 없죠
+<SYNC Start=1864877><P Class=KRCC>
+그 향을 충분히 음미해야겠죠
+<SYNC Start=1866066><P Class=KRCC>
+내 여기서 분명히 말해두지
+<SYNC Start=1869353><P Class=KRCC>
+포셔 리치몬드를 찾아내거나<br>
+그녀 살인의 동기를 찾아내게
+<SYNC Start=1872549><P Class=KRCC>
+해결될 때까지 <br>
+예의 주시하겠네
+<SYNC Start=1874305><P Class=KRCC>&nbsp;
+<SYNC Start=1881185><P Class=KRCC>
+편하게 지내세요
+<SYNC Start=1882739><P Class=KRCC>&nbsp;
+<SYNC Start=1883277><P Class=KRCC>
+어디 있었나?
+<SYNC Start=1884192><P Class=KRCC>
+똥꼬 쑤시는 사람하고요
+<SYNC Start=1885986><P Class=KRCC>
+서장이 자네를 들볶았구먼<br>
+그렇지?
+<SYNC Start=1887532><P Class=KRCC>&nbsp;
+<SYNC Start=1888349><P Class=KRCC>
+내가 큰 걸 물었다네
+<SYNC Start=1890108><P Class=KRCC>
+오스틴 경찰 측이 채드 매튜에겐 <br>
+5개의 가명이 있다더군
+<SYNC Start=1892828><P Class=KRCC>&nbsp;
+<SYNC Start=1893330><P Class=KRCC>
+탐 쉐리던, 비첨 카운티에서 절도죄와 <br>
+수표 사기 혐의로 수배 중이고
+<SYNC Start=1897617><P Class=KRCC>
+워너 드라이스데일, 새크라멘토에서 <br>
+중절도와 차량 절도죄로 수배 중
+<SYNC Start=1901163><P Class=KRCC>&nbsp;
+<SYNC Start=1901541><P Class=KRCC>
+시운전으로 차를 몰고 나갔다가<br>
+그대로 도망갔다더군
+<SYNC Start=1904726><P Class=KRCC>&nbsp;
+<SYNC Start=1905255><P Class=KRCC>
+작 재스퍼, 내가 이 이름들을<br>
+지어내는 게 아니네
+<SYNC Start=1908654><P Class=KRCC>
+덴버에 사는 부자 미망인한테<br>
+돈을 갈취했더군
+<SYNC Start=1910993><P Class=KRCC>&nbsp;
+<SYNC Start=1912378><P Class=KRCC>
+- 정말 바쁜 놈이군요<br>
+ 
+- 그래 게다가 계획적이지
+<SYNC Start=1914545><P Class=KRCC>&nbsp;
+<SYNC Start=1914763><P Class=KRCC>
+덴버 경찰이 그의 기록을 보내왔네
+<SYNC Start=1917256><P Class=KRCC>
+그 놈은 전국의 돈 많은 여자들<br>
+리스트를 가지고 있었더군
+<SYNC Start=1920178><P Class=KRCC>
+중요한 정보가 다 기록되어 있더군<br>
+키, 몸무게, 재산이 얼마가 되는지 등등
+<SYNC Start=1923968><P Class=KRCC>
+그 리스트에 누가 있었는지 맞혀보게
+<SYNC Start=1924871><P Class=KRCC>&nbsp;
+<SYNC Start=1925646><P Class=KRCC>
+이름이 'ㅍ'로 시작하지 않아요?
+<SYNC Start=1927925><P Class=KRCC>
+신용카드 사용기록에 따르면
+<SYNC Start=1930059><P Class=KRCC>
+지중해에 간 뒤로 <br>
+한 푼도 쓰지 않았더군
+<SYNC Start=1933222><P Class=KRCC>
+살해당한 거죠
+<SYNC Start=1934109><P Class=KRCC>
+글쎄, 꼭 그런 건 아닐 거야<br>
+아마 파도에 휩쓸렸는지도 모르지
+<SYNC Start=1937870><P Class=KRCC>&nbsp;
+<SYNC Start=1939364><P Class=KRCC>
+어떤 남자가 대신 <br>
+내줬는지도 모르지
+<SYNC Start=1941691><P Class=KRCC>
+정말, 네가 어떻게 알아?
+<SYNC Start=1943816><P Class=KRCC>
+난 여자들이 이상한 질문을 했을 때만<br>
+각자 계산하자고 하거든
+<SYNC Start=1946508><P Class=KRCC>
+닉, 이상한 질문이라는 게 뭐야?
+<SYNC Start=1948038><P Class=KRCC>
+차가 뭔지 묻는 거라든지
+<SYNC Start=1949345><P Class=KRCC>
+그건 솔직한 질문이잖아
+<SYNC Start=1950699><P Class=KRCC>
+아냐, 그게 아니지
+<SYNC Start=1952010><P Class=KRCC>
+그 말은 자기를 먹여 살릴 수 <br>
+있을 만큼 돈을 버는지 떠보는 거야
+<SYNC Start=1955163><P Class=KRCC>
+그렇다면 이 여자는 <br>
+해당 안 되는군
+<SYNC Start=1956343><P Class=KRCC>
+제군들 이걸봐
+<SYNC Start=1958007><P Class=KRCC>&nbsp;
+<SYNC Start=1958405><P Class=KRCC>
+서명이 위조됐어
+<SYNC Start=1959775><P Class=KRCC>&nbsp;
+<SYNC Start=1961379><P Class=KRCC>
+수표가 위조됐다는 건가요? <br>
+아님... 서명이?
+<SYNC Start=1963953><P Class=KRCC>
+글쎄, 이름은 채드로군
+<SYNC Start=1965617><P Class=KRCC>&nbsp;
+<SYNC Start=1966810><P Class=KRCC>
+점들을 연결해 보죠
+<SYNC Start=1968337><P Class=KRCC>
+무슨 말이야?
+<SYNC Start=1969257><P Class=KRCC>
+내가 보여주지
+<SYNC Start=1970456><P Class=KRCC>&nbsp;
+<SYNC Start=1970896><P Class=KRCC>
+선배, 귀걸이 핀 좀 빌려줄래요?
+<SYNC Start=1972779><P Class=KRCC>
+그래, 근데 ... 이거 ... <br>
+일주일 내내 끼고 있던 거라
+<SYNC Start=1975649><P Class=KRCC>&nbsp;
+<SYNC Start=1977940><P Class=KRCC>
+뭐가 끼어 있을지도 모르겠네
+<SYNC Start=1979452><P Class=KRCC>
+사인해봐 / 응
+<SYNC Start=1982429><P Class=KRCC>&nbsp;
+<SYNC Start=1982932><P Class=KRCC>
+누구도 똑같은 모양으로 <br>
+사인을 두 번 할 수 없지
+<SYNC Start=1985753><P Class=KRCC>&nbsp;
+<SYNC Start=1986469><P Class=KRCC>
+너도 참 …. 글씨가 엉망이군
+<SYNC Start=1988544><P Class=KRCC>
+만약 동일한 사인이 있다면<br>
+그것들 중 하나는 위조된 거지
+<SYNC Start=1991474><P Class=KRCC>
+점들을 연결해서 <br>
+만든 게 이거지
+<SYNC Start=1993600><P Class=KRCC>
+글씨를 따라 점을 찍으면
+<SYNC Start=1997442><P Class=KRCC>&nbsp;
+<SYNC Start=1997724><P Class=KRCC>
+그럼 뒷장에 눌린 <br>
+자국이 나타나지
+<SYNC Start=1999680><P Class=KRCC>
+그리고 그 점들을 연결하면
+<SYNC Start=2001616><P Class=KRCC>
+그럼 증거가 나오지<br>
+확실히 일치하지 않는군
+<SYNC Start=2003926><P Class=KRCC>
+무섭네요
+<SYNC Start=2005693><P Class=KRCC>
+누군가를 파산시키려면 <br>
+사인 하나면 된다는 게
+<SYNC Start=2007943><P Class=KRCC>&nbsp;
+<SYNC Start=2014142><P Class=KRCC>
+안돼 보이네요
+<SYNC Start=2015845><P Class=KRCC>&nbsp;
+<SYNC Start=2017188><P Class=KRCC>
+헛수고 하느라 <br>
+그런 거지 뭐…
+<SYNC Start=2018868><P Class=KRCC>&nbsp;
+<SYNC Start=2020078><P Class=KRCC>
+이 사건을 해결 <br>
+못 할 것 같아
+<SYNC Start=2022162><P Class=KRCC>
+시작하기 전부터 <br>
+안 될 일이었어
+<SYNC Start=2023766><P Class=KRCC>
+당신답지 않군요
+<SYNC Start=2025020><P Class=KRCC>
+엘리베이터에서 발견된 시체에서 <br>
+얻은 거라곤 수많은 지문과
+<SYNC Start=2029355><P Class=KRCC>&nbsp;
+<SYNC Start=2029977><P Class=KRCC>
+22 구경 총탄밖에 없어
+<SYNC Start=2032173><P Class=KRCC>
+사실상 추적이 불가능한 거죠
+<SYNC Start=2033639><P Class=KRCC>
+살인자는 현장에 총을 버렸지<br>
+그게 무슨 뜻인지 알아?
+<SYNC Start=2036460><P Class=KRCC>&nbsp;
+<SYNC Start=2036969><P Class=KRCC>
+살인범이 대단한 놈이란 거죠
+<SYNC Start=2038552><P Class=KRCC>&nbsp;
+<SYNC Start=2041478><P Class=KRCC>
+딱 두 개만 남겨두었다고, 맞지?
+<SYNC Start=2042922><P Class=KRCC>
+실제론 하나죠
+<SYNC Start=2044136><P Class=KRCC>
+농담 마
+<SYNC Start=2045296><P Class=KRCC>
+아뇨, 상황이 더욱 안 좋아졌어요
+<SYNC Start=2046378><P Class=KRCC>
+25센트 동전에서 지문을 떠서<br>
+조회해봤더니 죽은 사람 것이더군요
+<SYNC Start=2049963><P Class=KRCC>&nbsp;
+<SYNC Start=2061582><P Class=KRCC>
+소름끼치네요
+<SYNC Start=2063185><P Class=KRCC>&nbsp;
+<SYNC Start=2068185><P Class=KRCC>
+뭘 생각하고 있죠?
+<SYNC Start=2069885><P Class=KRCC>&nbsp;
+<SYNC Start=2073298><P Class=KRCC>
+베니 비니온이 스티브 윈에게
+<SYNC Start=2074915><P Class=KRCC>
+그가 이곳을 변화시킬 때 <br>
+한말을 생각하고 있었어
+<SYNC Start=2077225><P Class=KRCC>
+"도박꾼들에게 도박할 변명거리를 줘라<br>
+그러면 그들이 고마워할 거다"
+<SYNC Start=2081710><P Class=KRCC>&nbsp;
+<SYNC Start=2082541><P Class=KRCC>
+죽은 사람이 도박꾼이었나요?
+<SYNC Start=2084343><P Class=KRCC>&nbsp;
+<SYNC Start=2085373><P Class=KRCC>
+그의 주머니에서 <br>
+현금 영수증 다발과
+<SYNC Start=2088728><P Class=KRCC>
+여기저기의 도박장<br>
+기록지들이 있더군
+<SYNC Start=2090636><P Class=KRCC>&nbsp;
+<SYNC Start=2092127><P Class=KRCC>
+한 번 빠지면 다시 <br>
+빠져 나올 수 없지
+<SYNC Start=2096559><P Class=KRCC>&nbsp;
+<SYNC Start=2099806><P Class=KRCC>
+누가 여기로 정했나요?
+<SYNC Start=2101390><P Class=KRCC>
+내가, 여기 어때서 …
+<SYNC Start=2103064><P Class=KRCC>&nbsp;
+<SYNC Start=2103394><P Class=KRCC>
+좋아, 자네가 내면 되겠군
+<SYNC Start=2105378><P Class=KRCC>&nbsp;
+<SYNC Start=2105883><P Class=KRCC>
+그럼 살인 동기에 대해<br>
+이야기 해보자고
+<SYNC Start=2107629><P Class=KRCC>
+그러죠
+<SYNC Start=2108590><P Class=KRCC>
+전 위조된 서명이 살인에 대한 <br>
+결정적 증거라고는 생각지 않아요
+<SYNC Start=2110921><P Class=KRCC>&nbsp;
+<SYNC Start=2111483><P Class=KRCC>
+누가 반장님에게 우리 어디서 <br>
+점식 먹고 있다고 말했나요?
+<SYNC Start=2113546><P Class=KRCC>
+응. 사령실에서 <br>
+메시지를 남겼을 거야
+<SYNC Start=2115753><P Class=KRCC>
+아마 반장은 서장이 남긴 <br>
+메시지라 생각하고 무시했을 걸
+<SYNC Start=2117884><P Class=KRCC>&nbsp;
+<SYNC Start=2138572><P Class=KRCC>
+이보시오. 거기서 얼굴을 <br>
+떼는 게 좋을 거요
+<SYNC Start=2142400><P Class=KRCC>
+그래요? 왜죠?
+<SYNC Start=2144953><P Class=KRCC>&nbsp;
+<SYNC Start=2150961><P Class=KRCC>
+이 칠레 농어 요리 맛있네요
+<SYNC Start=2153060><P Class=KRCC>
+이것도 맛있어
+<SYNC Start=2154306><P Class=KRCC>
+좋아요. 실종된 미망인이 있고요
+<SYNC Start=2156182><P Class=KRCC>
+그녀 침실에서 피 묻은<br>
+이가 발견됐어요
+<SYNC Start=2159039><P Class=KRCC>
+그 집은 용의자 두 명이<br>
+쓰고 있고요
+<SYNC Start=2161000><P Class=KRCC>
+용의자라, 내 생각 <br>
+때문에 그런 건가?
+<SYNC Start=2162622><P Class=KRCC>
+아니에요. 그리고 제 바다<br>
+배스 요리 먹지 마세요
+<SYNC Start=2164926><P Class=KRCC>
+용의자 중 한 명은 이름이 6개나 <br>
+되고 그 중 하나가 채드 매튜죠
+<SYNC Start=2168807><P Class=KRCC>
+맞아 맞아, CM이라고 <br>
+새겨진 단추를 발견했지
+<SYNC Start=2171773><P Class=KRCC>
+수영장 바닥에서 말이야<br>
+그리고 물에 떠있던 쇼걸도
+<SYNC Start=2174160><P Class=KRCC>
+6개 이름을 가진 사람이 <br>
+패트릭 헤인즈로 모아지는군요
+<SYNC Start=2177225><P Class=KRCC>&nbsp;
+<SYNC Start=2179427><P Class=KRCC>
+여기, 자네가 맡은 <br>
+쇼걸의 사진일세
+<SYNC Start=2181966><P Class=KRCC>&nbsp;
+<SYNC Start=2192042><P Class=KRCC>
+내가 놓친 게 있나?
+<SYNC Start=2193502><P Class=KRCC>
+아니요, 놓쳤다는 게 아니에요
+<SYNC Start=2195082><P Class=KRCC>&nbsp;
+<SYNC Start=2195896><P Class=KRCC>
+이 부분을 빠트린 것 같아요
+<SYNC Start=2197959><P Class=KRCC>&nbsp;
+<SYNC Start=2201022><P Class=KRCC>
+손톱 자국요?
+<SYNC Start=2202468><P Class=KRCC>&nbsp;
+<SYNC Start=2203164><P Class=KRCC>
+- 좋아요, 패트릭 헤인즈<br>
+- 아니면 누구든 간에
+<SYNC Start=2205024><P Class=KRCC>
+그 사람이 10년 전에 살인을 했다면<br>
+왜 쉽게 DNA를 채취하도록 뒀을까요?
+<SYNC Start=2208545><P Class=KRCC>
+맞아. 이름을 바꾸긴 쉬워도<br>
+DNA을 바꿀 수는 없지
+<SYNC Start=2212023><P Class=KRCC>
+- 맞아요 <br>
+- 위험과 보상의 문제네요
+<SYNC Start=2214088><P Class=KRCC>
+한 여자와 자고 그 여자를 죽이고<br>
+수사망이 좁혀져 오자, 도망간 거죠
+<SYNC Start=2217834><P Class=KRCC>
+아님, 운에 맡겨 재수가 좋으면<br>
+건지는 거지
+<SYNC Start=2220853><P Class=KRCC>
+뭘 건지는 건데?
+<SYNC Start=2221958><P Class=KRCC>
+큰돈이지
+<SYNC Start=2223277><P Class=KRCC>
+160만 달러가 아닐까. 그날 밤 <br>
+자선파티에서 모금한 돈 말이야
+<SYNC Start=2226418><P Class=KRCC>
+헤인즈 부부는 리치몬드의 계좌를 썼잖아<br>
+그리고 화상센터 관련 계좌도 말이야
+<SYNC Start=2229654><P Class=KRCC>
+위조한 수표가 탈이 없는지 <br>
+계속 살펴봐야 했겠지
+<SYNC Start=2231511><P Class=KRCC>
+그럼 왜 레이시 듀발을 <br>
+살해한 걸까요?
+<SYNC Start=2234029><P Class=KRCC>
+좋은 질문이야
+<SYNC Start=2235581><P Class=KRCC>
+잘 모르겠어. 하지만 레이시 <br>
+듀발이 살해되지 않았다면
+<SYNC Start=2237238><P Class=KRCC>
+패트릭 헤인즈는 다시 <br>
+다른 모습으로 변장했겠지
+<SYNC Start=2238924><P Class=KRCC>
+160만 달러의 부자로 살아가겠지<br>
+<font color=skyblue>
+(Skippy : 만화 캐릭터)</font>
+<SYNC Start=2242646><P Class=KRCC>
+네, 잠깐만요. 전 시저 샐러드<br>
+반하고 커피 한 잔만 마셨어요
+<SYNC Start=2245442><P Class=KRCC>
+근데 왜 제가 20불이나 내죠?
+<SYNC Start=2246663><P Class=KRCC>
+닉, 각자 계산하자는 말이지?
+<SYNC Start=2247919><P Class=KRCC>
+새라, 바로 그거야<br>
+눈치 빠르네, 각자 내는 게 좋지
+<SYNC Start=2250443><P Class=KRCC>&nbsp;
+<SYNC Start=2251253><P Class=KRCC>
+경감님, 이것 좀 계산해 주세요
+<SYNC Start=2253653><P Class=KRCC>
+닉 몫도 계산하시고요<br>
+티라 미슈도 드셨잖아요<br>
+<SYNC Start=2256788><P Class=KRCC>&nbsp;
+<SYNC Start=2256887><P Class=KRCC>
+난 이래서 CSI 요원들이랑 <br>
+점심 먹는 게 싫다니까
+<SYNC Start=2260392><P Class=KRCC>
+너무 많이 따져
+<SYNC Start=2261859><P Class=KRCC>&nbsp;
+<SYNC Start=2265461><P Class=KRCC>
+범죄 현장에서 캐서린이 <br>
+발견한 손톱에서 뭔가 나왔나?
+<SYNC Start=2268387><P Class=KRCC>
+여기 DNA 결과가 있죠
+<SYNC Start=2270447><P Class=KRCC>&nbsp;
+<SYNC Start=2271362><P Class=KRCC>
+먼저 온 것을 먼저 처리하거든요<br>
+패트릭 헤인즈의 DNA는 아니에요
+<SYNC Start=2274099><P Class=KRCC>
+난 그 손톱이 남자 거라고는 <br>
+생각 안했네, 그렉
+<SYNC Start=2276038><P Class=KRCC>
+맞아요. 하지만 문제를 해결할 <br>
+실마리를 잡은 듯 하네요
+<SYNC Start=2278685><P Class=KRCC>
+손톱과 정액에서 나온 DNA <br>
+대조 결과가 반만 일치해요
+<SYNC Start=2281806><P Class=KRCC>&nbsp;
+<SYNC Start=2283778><P Class=KRCC>
+친족이라고?
+<SYNC Start=2285940><P Class=KRCC>&nbsp;
+<SYNC Start=2289250><P Class=KRCC>
+부탁 좀 하세
+<SYNC Start=2290386><P Class=KRCC>&nbsp;
+<SYNC Start=2292870><P Class=KRCC>
+이걸 조사해줘
+<SYNC Start=2294271><P Class=KRCC>&nbsp;
+<SYNC Start=2298554><P Class=KRCC>
+립글로스인가요? <br>
+누구 건데요?
+<SYNC Start=2300595><P Class=KRCC>
+자네가 말해줘야지
+<SYNC Start=2302557><P Class=KRCC>&nbsp;
+<SYNC Start=2303882><P Class=KRCC>
+네바다 주를 대신해서 <br>
+사과를 드립니다
+<SYNC Start=2309717><P Class=KRCC>
+모든 혐의가 풀렸습니다
+<SYNC Start=2311778><P Class=KRCC>
+그걸 말씀하시려고 <br>
+3명이나 오신건가요?
+<SYNC Start=2313937><P Class=KRCC>
+대신 텍사스 주를 대신해<br>
+당신을 체포해야겠소
+<SYNC Start=2317484><P Class=KRCC>&nbsp;
+<SYNC Start=2317895><P Class=KRCC>
+라나 그림쇼의 살인혐의로<br>
+송환될 거요
+<SYNC Start=2320774><P Class=KRCC>
+그녀와 자기는 했지만 <br>
+죽이진 않았어요
+<SYNC Start=2323119><P Class=KRCC>&nbsp;
+<SYNC Start=2323848><P Class=KRCC>
+레이스 듀발처럼 말이오?
+<SYNC Start=2325604><P Class=KRCC>
+그렇죠
+<SYNC Start=2326681><P Class=KRCC>&nbsp;
+<SYNC Start=2335157><P Class=KRCC>
+이제 명백해지는군
+<SYNC Start=2336397><P Class=KRCC>&nbsp;
+<SYNC Start=2337274><P Class=KRCC>
+뭐요, 뭘 알겠다는 거요?
+<SYNC Start=2338697><P Class=KRCC>&nbsp;
+<SYNC Start=2339562><P Class=KRCC>
+가족 간에 닮은 것 말이요
+<SYNC Start=2341036><P Class=KRCC>&nbsp;
+<SYNC Start=2342035><P Class=KRCC>
+다니와 마리<br>
+<font color=skyblue>
+(Show 진행으로 유명한 남매)</font>
+<SYNC Start=2343204><P Class=KRCC>&nbsp;
+<SYNC Start=2344242><P Class=KRCC>
+오빠와 동생이지
+<SYNC Start=2345433><P Class=KRCC>&nbsp;
+<SYNC Start=2346603><P Class=KRCC>
+DNA 검사로 알 수 있었지
+<SYNC Start=2348024><P Class=KRCC>&nbsp;
+<SYNC Start=2350207><P Class=KRCC>
+내가 또 알아낸 걸 말해주지
+<SYNC Start=2351585><P Class=KRCC>&nbsp;
+<SYNC Start=2352256><P Class=KRCC>
+당신 동생이 말이야
+<SYNC Start=2353916><P Class=KRCC>
+레이시 듀발을 살해했어
+<SYNC Start=2355038><P Class=KRCC>&nbsp;
+<SYNC Start=2358891><P Class=KRCC>
+'그가 나를 사랑한대'
+<SYNC Start=2360420><P Class=KRCC>
+'이제 사랑하는 척 <br>
+연기할 필요도 없지'
+<SYNC Start=2362663><P Class=KRCC>&nbsp;
+<SYNC Start=2363053><P Class=KRCC>
+' 그가 말했다는 게 이거야? '<br>
+' 이게 연기라고 말이야? '
+<SYNC Start=2365906><P Class=KRCC>
+확실히 연기이기는 하지
+<SYNC Start=2367308><P Class=KRCC>&nbsp;
+<SYNC Start=2367648><P Class=KRCC>
+패트릭이 너보고 연기를 <br>
+잘 못한다고 하더군
+<SYNC Start=2369278><P Class=KRCC>
+너에게 재능이 없다던 걸
+<SYNC Start=2372038><P Class=KRCC>
+패트릭을 잘 알지도 못하면서
+<SYNC Start=2373140><P Class=KRCC>
+채드를 말하는 거야?
+<SYNC Start=2374443><P Class=KRCC>&nbsp;
+<SYNC Start=2376419><P Class=KRCC>
+그가 이걸 주었지
+<SYNC Start=2377835><P Class=KRCC>
+다음엔 뭘까?
+<SYNC Start=2379405><P Class=KRCC>
+이젠 내 차례야
+<SYNC Start=2380659><P Class=KRCC>&nbsp;
+<SYNC Start=2392022><P Class=KRCC>
+놀랬니?
+<SYNC Start=2394168><P Class=KRCC>
+오빠 얼굴을 봐
+<SYNC Start=2395858><P Class=KRCC>&nbsp;
+<SYNC Start=2396598><P Class=KRCC>
+그 애를 만나기 전까진<br>
+우린 실수 없이 잘해왔잖아
+<SYNC Start=2398696><P Class=KRCC>&nbsp;
+<SYNC Start=2399029><P Class=KRCC>
+내가 너에 대한 이야기를 해서<br>
+레이시를 죽였니?
+<SYNC Start=2401054><P Class=KRCC>&nbsp;
+<SYNC Start=2401413><P Class=KRCC>
+선택의 여지가 없었어
+<SYNC Start=2403221><P Class=KRCC>
+우린 파트너였잖아
+<SYNC Start=2405241><P Class=KRCC>
+오빤 날 속일 수 없어, 채드
+<SYNC Start=2407061><P Class=KRCC>&nbsp;
+<SYNC Start=2409277><P Class=KRCC>
+누가 포셔 리치몬드에 대해서<br>
+이야기 할 거지?
+<SYNC Start=2412268><P Class=KRCC>&nbsp;
+<SYNC Start=2413759><P Class=KRCC>
+그녀는 유럽에 있잖아요
+<SYNC Start=2414916><P Class=KRCC>&nbsp;
+<SYNC Start=2416181><P Class=KRCC>
+그리스에서 요트를 타고 있어요
+<SYNC Start=2418030><P Class=KRCC>&nbsp;
+<SYNC Start=2418375><P Class=KRCC>
+그래. 하긴 그녀는 <br>
+연락 두절 상태지
+<SYNC Start=2420026><P Class=KRCC>&nbsp;
+<SYNC Start=2421935><P Class=KRCC>
+구약 성경 요나서에 <br>
+이런 말이 있지
+<SYNC Start=2424545><P Class=KRCC>&nbsp;
+<SYNC Start=2426005><P Class=KRCC>
+'이제 하나님께서 요나를 삼킬 <br>
+큰 물고기를 보내셨으니 …. '
+<SYNC Start=2429958><P Class=KRCC>&nbsp;
+<SYNC Start=2431613><P Class=KRCC>
+이 피라냐에게 무슨 문제가 있는지 아나?<br>
+<font color=skyblue>
+(piranha: 남미 산 식인물고기)</font>
+<SYNC Start=2433878><P Class=KRCC>&nbsp;
+<SYNC Start=2434402><P Class=KRCC>
+콜레스테롤 수치가 높더군
+<SYNC Start=2435977><P Class=KRCC>&nbsp;
+<SYNC Start=2436910><P Class=KRCC>
+콜레스테롤은 사람에게서만 검출되지
+<SYNC Start=2439107><P Class=KRCC>
+어떻게 사람의 콜레스테롤이 <br>
+물고기에서 발견되는 걸까?
+<SYNC Start=2441966><P Class=KRCC>&nbsp;
+<SYNC Start=2447022><P Class=KRCC>
+전모를 밝혀야 할 것 같지 않나?
+<SYNC Start=2448746><P Class=KRCC>&nbsp;
+<SYNC Start=2451047><P Class=KRCC>
+포셔
+<SYNC Start=2452231><P Class=KRCC>&nbsp;
+<SYNC Start=2461999><P Class=KRCC>
+자네 둘은 포셔 리치몬드 <br>
+살해 혐의로 체포되었네
+<SYNC Start=2465073><P Class=KRCC>&nbsp;
+<SYNC Start=2471784><P Class=KRCC>
+타이슨 그린이란 사람 거예요
+<SYNC Start=2473401><P Class=KRCC>&nbsp;
+<SYNC Start=2473858><P Class=KRCC>
+그가 빚을 못 갚을 것 같아 <br>
+말해주려 왔어요
+<SYNC Start=2475719><P Class=KRCC>&nbsp;
+<SYNC Start=2476107><P Class=KRCC>
+그 사람 죽은 건가요?
+<SYNC Start=2477348><P Class=KRCC>&nbsp;
+<SYNC Start=2477780><P Class=KRCC>
+네
+<SYNC Start=2478780><P Class=KRCC>&nbsp;
+<SYNC Start=2485298><P Class=KRCC>
+또 25번 기계군
+<SYNC Start=2486841><P Class=KRCC>
+하루 종일 저 기계 대박이군
+<SYNC Start=2489174><P Class=KRCC>
+도박하기 좋은 날이지 않나요?
+<SYNC Start=2490457><P Class=KRCC>&nbsp;
+<SYNC Start=2539387><P Class=KRCC>
+라스베가스...<br>
+당신 같은 사람...
+<SYNC Start=2543214><P Class=KRCC>
+도박하러 들른 게 아니라고 <br>
+말하려는 거야?!
+<SYNC Start=2545603><P Class=KRCC>&nbsp;
+<SYNC Start=2546919><P Class=KRCC>
+자네가 자네 시간에 <br>
+뭘 하든 상관 않겠네만
+<SYNC Start=2549239><P Class=KRCC>
+근무시간에 그러는 건<br>
+문제가 있네
+<SYNC Start=2552341><P Class=KRCC>&nbsp;
+<SYNC Start=2553429><P Class=KRCC>
+워릭 브라운이 내 부하를<br>
+대신 법정에 출두시켰네
+<SYNC Start=2556231><P Class=KRCC>
+그 시간에 도박을 하고 <br>
+있었다는 증거가 있네
+<SYNC Start=2558818><P Class=KRCC>&nbsp;
+<SYNC Start=2560101><P Class=KRCC>
+워릭에겐 문제가 있어요
+<SYNC Start=2561482><P Class=KRCC>
+모른 척 하는 게 <br>
+능사는 아니죠
+<SYNC Start=2564171><P Class=KRCC>
+난 다시 무너지지 않아!
+<SYNC Start=2566500><P Class=KRCC>&nbsp;
+<SYNC Start=2567569><P Class=KRCC>
+<font color=#D9E7FF> 번역수정/맞춤법교정 <br>
+손성봉(shon9795@nate.com)
+<SYNC Start=2571092><P Class=KRCC>&nbsp;
+<SYNC Start=2571339><P Class=KRCC>
+<font color=#D9E7FF>  자막제작 - 네이트 CSI 자막팀 <br>
+(http://club.nate.com/clubcsi)
+<SYNC Start=2573719><P Class=KRCC>&nbsp;
+<!--
+자막 제작 : 네이트 CSI
+제작 날짜 : 자막 제작정보만은 삭제 말아주세요
+-->
+
+<!--
+자막 제작 : 
+제작 날짜 :
+-->
+<SYNC Start=3269><P Class=ENCC>
+<font color=#D9E7FF>  자막제작 - 네이트 CSI 자막팀 <br>
+(http://club.nate.com/clubcsi)
+<SYNC Start=5398><P Class=ENCC>&nbsp;
+<SYNC Start=25463><P Class=ENCC>
+Welcome.
+<SYNC Start=26416><P Class=ENCC>&nbsp;
+<SYNC Start=27045><P Class=ENCC>
+Congratulations, Patrick.
+<SYNC Start=28633><P Class=ENCC>
+Well, thank you, Sheriff.
+<SYNC Start=29709><P Class=ENCC>
+Your presence here means to me a lot tonight.
+<SYNC Start=31641><P Class=ENCC>
+Is that for me?
+<SYNC Start=32753><P Class=ENCC>
+Are you talking about the glass or the bubbly?
+<SYNC Start=34411><P Class=ENCC>
+I was talking about the smile on your face.
+<SYNC Start=36862><P Class=ENCC>&nbsp;
+<SYNC Start=37939><P Class=ENCC>
+Well, if I'm smiling, it's because we've<br>
+raised one point six million dollars
+<SYNC Start=40967><P Class=ENCC>
+for Mrs. Richmond's Burn Center tonight.
+<SYNC Start=43439><P Class=ENCC>&nbsp;
+<SYNC Start=44509><P Class=ENCC>
+That sort of generosity<br>
+deserves a raise of the glass.
+<SYNC Start=48042><P Class=ENCC>&nbsp;
+<SYNC Start=49216><P Class=ENCC>
+To Portia.
+<SYNC Start=50354><P Class=ENCC>
+To Portia.
+<SYNC Start=51476><P Class=ENCC>
+It's a shame she couldn't be here tonight.
+<SYNC Start=53577><P Class=ENCC>&nbsp;
+<SYNC Start=60262><P Class=ENCC>
+Excuse me.
+<SYNC Start=61878><P Class=ENCC>&nbsp;
+<SYNC Start=62890><P Class=ENCC>
+Hey, we did it.
+<SYNC Start=65298><P Class=ENCC>
+We sure did.
+<SYNC Start=67527><P Class=ENCC>&nbsp;
+<SYNC Start=86382><P Class=ENCC>
+Excuse me.
+<SYNC Start=88070><P Class=ENCC>&nbsp;
+<SYNC Start=103625><P Class=ENCC>
+Nice tux, Sheriff.
+<SYNC Start=105176><P Class=ENCC>
+You know whose house this is?
+<SYNC Start=106963><P Class=ENCC>
+To know this town is to know<br>
+it's celebrities, and their histories.
+<SYNC Start=109604><P Class=ENCC>&nbsp;
+<SYNC Start=110386><P Class=ENCC>
+Portia Richmond was<br>
+a legendary showgirl in her day.
+<SYNC Start=113115><P Class=ENCC>&nbsp;
+<SYNC Start=113904><P Class=ENCC>
+But that's not her.
+<SYNC Start=115497><P Class=ENCC>&nbsp;
+<SYNC Start=116627><P Class=ENCC>
+Maybe thirty years ago, when she was<br>
+the headliner in the Lido de Paris.
+<SYNC Start=119904><P Class=ENCC>&nbsp;
+<SYNC Start=120312><P Class=ENCC>
+Who found her?
+<SYNC Start=121935><P Class=ENCC>
+Look around you.
+<SYNC Start=123368><P Class=ENCC>&nbsp;
+<SYNC Start=125651><P Class=ENCC>
+This is going to take all night.
+<SYNC Start=127759><P Class=ENCC>&nbsp;
+<SYNC Start=128495><P Class=ENCC>
+Come for the hors d'oeuvres,
+<SYNC Start=130845><P Class=ENCC>
+stay for the interrogation.
+<SYNC Start=132415><P Class=ENCC>&nbsp;
+<SYNC Start=133801><P Class=ENCC>
+<font color=aqua>CSI: Crime Scene Investigation<br>
+1x15  Table Stakes
+<SYNC Start=135851><P Class=ENCC>&nbsp;
+<SYNC Start=136668><P Class=ENCC>
+<font color=FFE1FF>월리암 피터슨(길 그리섬役)<br>
+CSI 레벨 3(반장), 전문분야 : 곤충학
+<SYNC Start=137989><P Class=ENCC>&nbsp;
+<SYNC Start=140017><P Class=ENCC>
+<font color=FFE1FF>마그 헬겐버거(캐서린 윌로우스役)<br>
+CSI 레벨 3, 전문분야 : 혈흔 분석
+<SYNC Start=141264><P Class=ENCC>&nbsp;
+<SYNC Start=146426><P Class=ENCC>
+<font color=FFE1FF>게리 도단(워릭 브라운役) <br>
+CSI 레벨 3, 전문분야 : 음향/시각 자료분석
+<SYNC Start=147572><P Class=ENCC>&nbsp;
+<SYNC Start=149288><P Class=ENCC>
+<font color=FFE1FF>조지 이즈(닉 스톡스役) <br>
+CSI 레벨 3, 전문분야 : 머리카락, 섬유질 분석
+<SYNC Start=150221><P Class=ENCC>&nbsp;
+<SYNC Start=151906><P Class=ENCC>
+<font color=FFE1FF>조자 폭스(새라 사이들役)<br>
+CSI 레벨 3, 전문분야 : 물질성분 분석
+<SYNC Start=152866><P Class=ENCC>&nbsp;
+<SYNC Start=154495><P Class=ENCC>
+<font color=FFE1FF>폴 길포일(짐 브래스役) <br>
+라스베가스 시경
+<SYNC Start=155705><P Class=ENCC>&nbsp;
+<SYNC Start=156742><P Class=ENCC>
+<font color=#90D133>싱크 편집 <br>
+송미혜(smh8119@nate.com)
+<SYNC Start=158533><P Class=ENCC>&nbsp;
+<SYNC Start=160826><P Class=ENCC>
+<font color=BFEFFF>ORIGINAL AIR DATE ON CBS: 2001/02/22
+<SYNC Start=162149><P Class=ENCC>&nbsp;
+<SYNC Start=164478><P Class=ENCC>
+Yes sir, I'll do my best.
+<SYNC Start=166998><P Class=ENCC>&nbsp;
+<SYNC Start=170069><P Class=ENCC>
+Alright, you guys, like I said on the phone,
+<SYNC Start=171543><P Class=ENCC>
+it's a big party and it's a huge big house
+<SYNC Start=173082><P Class=ENCC>
+so were gonna divide and conquer.
+<SYNC Start=174865><P Class=ENCC>
+Nick, tonight, you do<br>
+the overall sketch. Alright?
+<SYNC Start=177304><P Class=ENCC>
+Catherine and Warrick,<br>
+you got the pool area.
+<SYNC Start=179317><P Class=ENCC>&nbsp;
+<SYNC Start=180500><P Class=ENCC>
+I'll take the shallow end.
+<SYNC Start=182104><P Class=ENCC>
+Guess, I'm going deep.
+<SYNC Start=183345><P Class=ENCC>&nbsp;
+<SYNC Start=216454><P Class=ENCC>
+I wonder how much it costs<br>
+to feed all these fish?
+<SYNC Start=220378><P Class=ENCC>&nbsp;
+<SYNC Start=224368><P Class=ENCC>
+Right.
+<SYNC Start=225860><P Class=ENCC>&nbsp;
+<SYNC Start=268039><P Class=ENCC>
+Marco!
+<SYNC Start=268947><P Class=ENCC>&nbsp;
+<SYNC Start=269961><P Class=ENCC>
+Polo.
+<SYNC Start=271134><P Class=ENCC>&nbsp;
+<SYNC Start=271466><P Class=ENCC>
+Wanna get out of there sir.<br>
+Pool closes at sundown.
+<SYNC Start=274080><P Class=ENCC>
+Can I get you a towel, sir?
+<SYNC Start=275710><P Class=ENCC>
+Yeah, please.
+<SYNC Start=277446><P Class=ENCC>
+What did you find?
+<SYNC Start=278873><P Class=ENCC>&nbsp;
+<SYNC Start=279322><P Class=ENCC>
+Looks like a cufflink.
+<SYNC Start=281294><P Class=ENCC>
+Initial's, "CM."
+<SYNC Start=282869><P Class=ENCC>&nbsp;
+<SYNC Start=283630><P Class=ENCC>
+Turquoise and silver.
+<SYNC Start=285389><P Class=ENCC>
+Breaks down the regionality<br>
+to the southwest maybe.
+<SYNC Start=288107><P Class=ENCC>
+Arizona, New Mexico, Texas.
+<SYNC Start=291296><P Class=ENCC>&nbsp;
+<SYNC Start=291506><P Class=ENCC>
+Good catch, Pal.
+<SYNC Start=293230><P Class=ENCC>
+You get the guest list. Check for CM's.
+<SYNC Start=295676><P Class=ENCC>&nbsp;
+<SYNC Start=297714><P Class=ENCC>
+I'm going to be wet all night.
+<SYNC Start=299362><P Class=ENCC>&nbsp;
+<SYNC Start=315278><P Class=ENCC>
+I detect a bitter of alkaloid.<br>
+<SYNC Start=317325><P Class=ENCC>&nbsp;
+<SYNC Start=318013><P Class=ENCC>
+Don't tell anybody my weakness,<br>
+one macchiato tall.<br>
+<SYNC Start=323920><P Class=ENCC>&nbsp;
+<SYNC Start=324342><P Class=ENCC>
+Coffee machine courtesy<br>
+of the city I presume.
+<SYNC Start=326859><P Class=ENCC>
+When the coronor asks for something<br>
+they don't question it.
+<SYNC Start=329465><P Class=ENCC>&nbsp;
+<SYNC Start=330022><P Class=ENCC>
+Cheers. / Cheers.
+<SYNC Start=332103><P Class=ENCC>&nbsp;
+<SYNC Start=332827><P Class=ENCC>
+Come on.
+<SYNC Start=334081><P Class=ENCC>&nbsp;
+<SYNC Start=335086><P Class=ENCC>
+Have we I.D.'d her yet?
+<SYNC Start=336239><P Class=ENCC>
+Working on it.
+<SYNC Start=337445><P Class=ENCC>
+She's had a few upgrades.<br>
+<SYNC Start=338867><P Class=ENCC>&nbsp;
+<SYNC Start=339320><P Class=ENCC>
+Submalar augmentation. Rhinoplasty.<br>
+<SYNC Start=341923><P Class=ENCC>
+Silicone breasts.
+<SYNC Start=343189><P Class=ENCC>&nbsp;
+<SYNC Start=344159><P Class=ENCC>
+Run the serial number on the implants.<br>
+Instant i.d.
+<SYNC Start=346895><P Class=ENCC>
+Our field's come a long way, hasn't it?
+<SYNC Start=349957><P Class=ENCC>&nbsp;
+<SYNC Start=351018><P Class=ENCC>
+We got a whole menu here.
+<SYNC Start=352760><P Class=ENCC>&nbsp;
+<SYNC Start=353009><P Class=ENCC>
+Petichial hemorrhaging, bruising around<br>
+the neck and broken hyoid bone.<br>
+<SYNC Start=356740><P Class=ENCC>
+She was strangled.
+<SYNC Start=358403><P Class=ENCC>
+No water in the lungs.
+<SYNC Start=359690><P Class=ENCC>
+But she was dead before she hit the water.
+<SYNC Start=361237><P Class=ENCC>&nbsp;
+<SYNC Start=363842><P Class=ENCC>
+Strangulation's a man's crime.
+<SYNC Start=366129><P Class=ENCC>
+Preaching to the converted.
+<SYNC Start=368014><P Class=ENCC>&nbsp;
+<SYNC Start=369024><P Class=ENCC>
+Do me a favor, Doc. Photograph her<br>
+injuries and run a sexual assault kit.
+<SYNC Start=372101><P Class=ENCC>
+Include infrared for subdural bruising.
+<SYNC Start=374963><P Class=ENCC>&nbsp;
+<SYNC Start=376641><P Class=ENCC>
+This is our little secret.
+<SYNC Start=378681><P Class=ENCC>&nbsp;
+<SYNC Start=382507><P Class=ENCC>
+Hey / Hey
+<SYNC Start=383878><P Class=ENCC>
+419 at The Sphere,<br>
+glass elevator. You're on it.
+<SYNC Start=386837><P Class=ENCC>
+This is a big case.
+<SYNC Start=388948><P Class=ENCC>
+I mean I'm in a groove here.
+<SYNC Start=391007><P Class=ENCC>
+Well, groove on down to the Strip.
+<SYNC Start=392815><P Class=ENCC>&nbsp;
+<SYNC Start=394881><P Class=ENCC>
+Whatever happened to<br>
+'you cross the tape, you go the distance?'
+<SYNC Start=397974><P Class=ENCC>
+I was probably saying that to get you<br>
+to service my needs at the time.
+<SYNC Start=400820><P Class=ENCC>&nbsp;
+<SYNC Start=401848><P Class=ENCC>
+<font color=BFEFFF> Hello? / Great.
+<SYNC Start=403253><P Class=ENCC>
+Hey, Sara, you sleeping? /<font color=BFEFFF>Yeah.
+<SYNC Start=405070><P Class=ENCC>&nbsp;
+<SYNC Start=409563><P Class=ENCC>
+Excuse me for a minute.
+<SYNC Start=410875><P Class=ENCC>&nbsp;
+<SYNC Start=413563><P Class=ENCC>
+I got the horsepower on everybody here.<br>
+<SYNC Start=415821><P Class=ENCC>
+Ninety-nine percent of the people,<br>
+know nothing, saw nothing.
+<SYNC Start=419136><P Class=ENCC>
+Big surprise.
+<SYNC Start=420193><P Class=ENCC>
+What about Portia Richmond?
+<SYNC Start=422124><P Class=ENCC>
+Well, according to her friends, uh,
+<SYNC Start=423882><P Class=ENCC>
+she's been romancing some<br>
+young stallion for over a month.
+<SYNC Start=427343><P Class=ENCC>
+She's in love. She's cruising the Mediterranean<br>
+on some yacht. Eating cheese cubes.
+<SYNC Start=431292><P Class=ENCC>
+Got a couple watching the house.
+<SYNC Start=433039><P Class=ENCC>
+Apparently, she often takes in strays.
+<SYNC Start=435443><P Class=ENCC>&nbsp;
+<SYNC Start=438174><P Class=ENCC>
+Mr. and Mrs. Haynes, this is<br>
+Gil Grissom and Catherine Willows.
+<SYNC Start=441907><P Class=ENCC>
+They're from the Crime Lab.
+<SYNC Start=443030><P Class=ENCC>
+Hi.
+<SYNC Start=444551><P Class=ENCC>&nbsp;
+<SYNC Start=445290><P Class=ENCC>
+Do you mind if we ask you<br>
+a few more questions?
+<SYNC Start=447610><P Class=ENCC>
+By all means.
+<SYNC Start=449128><P Class=ENCC>
+How is it that that you know Portia Richmond?
+<SYNC Start=452267><P Class=ENCC>
+Oh, we, we met her at the Morado<br>
+at the top of The Mediterranean.
+<SYNC Start=456593><P Class=ENCC>
+You need an oil well in your backyard<br>
+to belong to that place.
+<SYNC Start=459560><P Class=ENCC>
+Private club. Fifty grand a year<br>
+just to walk through the door.
+<SYNC Start=462136><P Class=ENCC>
+But worth every penny.<br>
+<SYNC Start=464343><P Class=ENCC>
+It was like we'd known Portia all our lives.
+<SYNC Start=467153><P Class=ENCC>
+Has that ever happen to you?
+<SYNC Start=468498><P Class=ENCC>&nbsp;
+<SYNC Start=469019><P Class=ENCC>
+No.
+<SYNC Start=470539><P Class=ENCC>
+We were new in town.
+<SYNC Start=471980><P Class=ENCC>
+Portia introduced us around.<br>
+Took us under her wing.
+<SYNC Start=475241><P Class=ENCC>
+We're from back East.<br>
+We have mutual acquaintances.
+<SYNC Start=477838><P Class=ENCC>
+And you're house-sitting?
+<SYNC Start=479347><P Class=ENCC>
+Or you're living in?
+<SYNC Start=480732><P Class=ENCC>
+House-sitting, while<br>
+hunting for our own place.
+<SYNC Start=483063><P Class=ENCC>&nbsp;
+<SYNC Start=483474><P Class=ENCC>
+Portia refused to take any money from us.
+<SYNC Start=486118><P Class=ENCC>
+She wouldn't even let us pay for a dinner.
+<SYNC Start=487827><P Class=ENCC>
+That's why when she took off to Europe...
+<SYNC Start=489825><P Class=ENCC>
+... we offered to host this charity event.
+<SYNC Start=492180><P Class=ENCC>
+It's the least we could do.
+<SYNC Start=493857><P Class=ENCC>
+After all, we know how to throw a party.
+<SYNC Start=496373><P Class=ENCC>
+You can say that again.
+<SYNC Start=498087><P Class=ENCC>&nbsp;
+<SYNC Start=498771><P Class=ENCC>
+Did you know the deceased woman?
+<SYNC Start=501013><P Class=ENCC>&nbsp;
+<SYNC Start=501792><P Class=ENCC>
+No.
+<SYNC Start=502958><P Class=ENCC>&nbsp;
+<SYNC Start=504738><P Class=ENCC>
+And you miss?
+<SYNC Start=506315><P Class=ENCC>&nbsp;
+<SYNC Start=506718><P Class=ENCC>
+As far as I know, she wasn't<br>
+even on the guest list.
+<SYNC Start=510633><P Class=ENCC>&nbsp;
+<SYNC Start=514316><P Class=ENCC>
+Something wrong?
+<SYNC Start=516007><P Class=ENCC>&nbsp;
+<SYNC Start=517034><P Class=ENCC>
+Yes. A woman's dead.
+<SYNC Start=520187><P Class=ENCC>&nbsp;
+<SYNC Start=529048><P Class=ENCC>
+Lacey Duvall murdered.
+<SYNC Start=531805><P Class=ENCC>
+She was here last night.
+<SYNC Start=533363><P Class=ENCC>
+Unbelievable.
+<SYNC Start=534338><P Class=ENCC>
+Could you put us in touch with<br>
+someone who was close to her?
+<SYNC Start=536549><P Class=ENCC>
+Sure. Rachel Carson.<br>
+They were best friends.
+<SYNC Start=539314><P Class=ENCC>
+Like sisters.
+<SYNC Start=540808><P Class=ENCC>
+She's in back.  Follow me.
+<SYNC Start=542955><P Class=ENCC>&nbsp;
+<SYNC Start=545686><P Class=ENCC>
+Close your mouth.
+<SYNC Start=547369><P Class=ENCC>&nbsp;
+<SYNC Start=550788><P Class=ENCC>
+She was seeing some rich married guy.
+<SYNC Start=553481><P Class=ENCC>
+Have a name?
+<SYNC Start=554371><P Class=ENCC>
+Yeah, but she wouldn't tell me.
+<SYNC Start=556066><P Class=ENCC>
+You know, that's the thing...<br>
+it was so weird...
+<SYNC Start=558437><P Class=ENCC>
+He refused to tell her anything<br>
+about himself... anything.
+<SYNC Start=561655><P Class=ENCC>
+I told her it gave me the creeps, but<br>
+you couldn't talk to her. You know?
+<SYNC Start=565577><P Class=ENCC>
+Turned on by the mystery and the sex.
+<SYNC Start=568386><P Class=ENCC>
+I've been there.
+<SYNC Start=570353><P Class=ENCC>&nbsp;
+<SYNC Start=579430><P Class=ENCC>
+Hi
+<SYNC Start=580706><P Class=ENCC>&nbsp;
+<SYNC Start=583556><P Class=ENCC>
+Do you need a hand with that?
+<SYNC Start=585423><P Class=ENCC>&nbsp;
+<SYNC Start=587547><P Class=ENCC>
+Oh, no, thanks. I'll be fine.
+<SYNC Start=590019><P Class=ENCC>
+Are you a doctor?
+<SYNC Start=591910><P Class=ENCC>&nbsp;
+<SYNC Start=593116><P Class=ENCC>
+Of sorts.
+<SYNC Start=595401><P Class=ENCC>
+I'm just um, looking around.
+<SYNC Start=598887><P Class=ENCC>
+See anything you like?
+<SYNC Start=600272><P Class=ENCC>&nbsp;
+<SYNC Start=602215><P Class=ENCC>
+Yes.  I do.
+<SYNC Start=604242><P Class=ENCC>&nbsp;
+<SYNC Start=618944><P Class=ENCC>
+Catherine!
+<SYNC Start=620464><P Class=ENCC>&nbsp;
+<SYNC Start=621642><P Class=ENCC>
+Tchaikovsky's "Waltz of the Flowers."
+<SYNC Start=623868><P Class=ENCC>&nbsp;
+<SYNC Start=630465><P Class=ENCC>
+What's with the smile?
+<SYNC Start=632622><P Class=ENCC>&nbsp;
+<SYNC Start=635415><P Class=ENCC>
+It's playing our song.<br>
+<SYNC Start=637424><P Class=ENCC>&nbsp;
+<SYNC Start=641828><P Class=ENCC>
+Detective Conroy.
+<SYNC Start=643551><P Class=ENCC>
+What happened? You get<br>
+bumped from First Class?<br>
+<SYNC Start=645568><P Class=ENCC>
+No.  I do my best work solo.
+<SYNC Start=648262><P Class=ENCC>
+On the clock, that is.
+<SYNC Start=649782><P Class=ENCC>&nbsp;
+<SYNC Start=650334><P Class=ENCC>
+What've you got?
+<SYNC Start=651337><P Class=ENCC>
+Walk-through in plain site.<br>
+Risky move.
+<SYNC Start=656360><P Class=ENCC>&nbsp;
+<SYNC Start=663101><P Class=ENCC>
+All around the ten ring,<br>
+once between the eyes.
+<SYNC Start=666231><P Class=ENCC>
+Entry wound give you anything? <br>
+Small caliber?
+<SYNC Start=669279><P Class=ENCC>
+You like to work solo.
+<SYNC Start=670916><P Class=ENCC>
+Take a look for yourself.
+<SYNC Start=672541><P Class=ENCC>&nbsp;
+<SYNC Start=684280><P Class=ENCC>
+Any thoughts?
+<SYNC Start=685475><P Class=ENCC>&nbsp;
+<SYNC Start=693176><P Class=ENCC>
+Professional hit.
+<SYNC Start=694547><P Class=ENCC>&nbsp;
+<SYNC Start=699159><P Class=ENCC>
+Hey, well, how did the Knicks make out?
+<SYNC Start=700835><P Class=ENCC>
+Better than you.
+<SYNC Start=702434><P Class=ENCC>&nbsp;
+<SYNC Start=714238><P Class=ENCC>
+Times have changed since<br>
+the canary days. Huh?
+<SYNC Start=716783><P Class=ENCC>
+Canary days?
+<SYNC Start=717758><P Class=ENCC>
+Yeah, Brass used to tell me back in the day<br>
+when the Mob would make a  hit,
+<SYNC Start=720340><P Class=ENCC>
+he'd leave a canary,<br>
+'cause the guy sang.
+<SYNC Start=722724><P Class=ENCC>
+And the quarter stands for?
+<SYNC Start=724697><P Class=ENCC>
+"Call somebody who cares."
+<SYNC Start=726684><P Class=ENCC>&nbsp;
+<SYNC Start=727264><P Class=ENCC>
+It's almost like the guy wants to get caught.
+<SYNC Start=728807><P Class=ENCC>
+When you leave a gun you know it's clean.
+<SYNC Start=730785><P Class=ENCC>
+The gun just traces back to itself.
+<SYNC Start=733338><P Class=ENCC>
+The killer cut you off at the knees.<br>
+So what are you going to do?
+<SYNC Start=735982><P Class=ENCC>
+All I can do
+<SYNC Start=737267><P Class=ENCC>&nbsp;
+<SYNC Start=738615><P Class=ENCC>
+follow protocol.
+<SYNC Start=740265><P Class=ENCC>&nbsp;
+<SYNC Start=742368><P Class=ENCC>
+You're gonna print the entire elevator?
+<SYNC Start=744488><P Class=ENCC>
+Like the Circle Bar on a Friday night
+<SYNC Start=746998><P Class=ENCC>&nbsp;
+<SYNC Start=748398><P Class=ENCC>
+three million people on top of each other.
+<SYNC Start=751074><P Class=ENCC>&nbsp;
+<SYNC Start=754256><P Class=ENCC>
+Let me guess
+<SYNC Start=755114><P Class=ENCC>
+You're wondering why Lacey Duvall<br>
+had a music box engraved to Portia Richmond.
+<SYNC Start=759021><P Class=ENCC>
+You think?
+<SYNC Start=760773><P Class=ENCC>
+Well, maybe it's as simple as<br>
+they knew each other, she gave it to her.
+<SYNC Start=763230><P Class=ENCC>
+Well, if they knew each other<br>
+why wasn't she on the guest list?
+<SYNC Start=765451><P Class=ENCC>&nbsp;
+<SYNC Start=768126><P Class=ENCC>
+March 7, 1969 mean anything to you?
+<SYNC Start=770468><P Class=ENCC>&nbsp;
+<SYNC Start=772238><P Class=ENCC>
+It meant something to the Richmonds.
+<SYNC Start=773964><P Class=ENCC>&nbsp;
+<SYNC Start=774734><P Class=ENCC>
+You know when Eddie and I were first married,<br>
+when things were kind of good,
+<SYNC Start=777974><P Class=ENCC>
+on the anniversary of the day we first met,<br>
+he always gave me a lace teddy.
+<SYNC Start=781704><P Class=ENCC>&nbsp;
+<SYNC Start=782704><P Class=ENCC>
+Well, I mean, I know<br>
+it's not a music box, but
+<SYNC Start=785347><P Class=ENCC>
+Music box, lace teddy,<br>
+it's all the same thing.
+<SYNC Start=787883><P Class=ENCC>
+It's tradition.
+<SYNC Start=789399><P Class=ENCC>
+And the joy of tradition<br>
+is the constant repetition.
+<SYNC Start=792125><P Class=ENCC>
+Right.
+<SYNC Start=793623><P Class=ENCC>&nbsp;
+<SYNC Start=797510><P Class=ENCC>
+What am I, working food and<br>
+beverage at one of the hotels.
+<SYNC Start=800047><P Class=ENCC>
+I haven't had a day off in three weeks.
+<SYNC Start=801300><P Class=ENCC>
+If they're gonna call me in?<br>
+Throw me a bone.
+<SYNC Start=803347><P Class=ENCC>
+Give me the 419 on the elevator.
+<SYNC Start=805175><P Class=ENCC>
+- Someone's bitter.<br>
+- I'm tired.
+<SYNC Start=806964><P Class=ENCC>
+You? Tired?<br>
+I thought you never sleep.
+<SYNC Start=809284><P Class=ENCC>&nbsp;
+<SYNC Start=811977><P Class=ENCC>
+Nice.  Nice.
+<SYNC Start=813794><P Class=ENCC>&nbsp;
+<SYNC Start=816811><P Class=ENCC>
+What's up,dude?
+<SYNC Start=818421><P Class=ENCC>
+You're awake.  I hate you.
+<SYNC Start=819885><P Class=ENCC>
+Couple of glasses of Merlot.<br>
+Rack of lamb on my day off.
+<SYNC Start=822449><P Class=ENCC>
+I slept like a baby yesterday.
+<SYNC Start=824677><P Class=ENCC>
+You look horrible.
+<SYNC Start=825747><P Class=ENCC>
+Thanks, Greg.
+<SYNC Start=827041><P Class=ENCC>&nbsp;
+<SYNC Start=828216><P Class=ENCC>
+Don't look at me.<br>
+I got sunshine all night.
+<SYNC Start=830266><P Class=ENCC>&nbsp;
+<SYNC Start=830540><P Class=ENCC>
+Check for DNA in the sexual assault kit<br>
+and the fingernail, please.
+<SYNC Start=833588><P Class=ENCC>
+Everything's has to be in CODIS A.S.A.P.
+<SYNC Start=835763><P Class=ENCC>
+Oh. Is that all? I don't know...<br>
+who's going to authorize my overtime?
+<SYNC Start=838805><P Class=ENCC>&nbsp;
+<SYNC Start=839235><P Class=ENCC>
+Suck it up, Greg. You're well rested.
+<SYNC Start=842207><P Class=ENCC>&nbsp;
+<SYNC Start=844221><P Class=ENCC>
+You want a Valium for her?<br>
+<SYNC Start=845855><P Class=ENCC>
+I heard that.
+<SYNC Start=847777><P Class=ENCC>&nbsp;
+<SYNC Start=857280><P Class=ENCC>
+March 7, 1973.
+<SYNC Start=859686><P Class=ENCC>&nbsp;
+<SYNC Start=862859><P Class=ENCC>
+March 7, 1981.
+<SYNC Start=865502><P Class=ENCC>&nbsp;
+<SYNC Start=866186><P Class=ENCC>
+March 7, 1956.
+<SYNC Start=867936><P Class=ENCC>&nbsp;
+<SYNC Start=871631><P Class=ENCC>
+March 7, 1986.
+<SYNC Start=874281><P Class=ENCC>&nbsp;
+<SYNC Start=875116><P Class=ENCC>
+I bet he gave her one every<br>
+anniversary until he died.
+<SYNC Start=877375><P Class=ENCC>&nbsp;
+<SYNC Start=879017><P Class=ENCC>
+She wouldnt' give away<br>
+a gift this sentimental.
+<SYNC Start=881397><P Class=ENCC>&nbsp;
+<SYNC Start=885933><P Class=ENCC>
+At least it's not "Waltz of the Flowers."
+<SYNC Start=887765><P Class=ENCC>&nbsp;
+<SYNC Start=903543><P Class=ENCC>
+The seal on the door wasn't broken.<br>
+<SYNC Start=905771><P Class=ENCC>&nbsp;
+<SYNC Start=928645><P Class=ENCC>
+Las Vegas Police Department.
+<SYNC Start=931261><P Class=ENCC>&nbsp;
+<SYNC Start=942982><P Class=ENCC>
+Caught in the act.
+<SYNC Start=945696><P Class=ENCC>
+I think that was the point.<br>
+<SYNC Start=947326><P Class=ENCC>
+Oh yeah.
+<SYNC Start=948912><P Class=ENCC>&nbsp;
+<SYNC Start=951753><P Class=ENCC>
+No, I can't drink anymore coffee.
+<SYNC Start=953385><P Class=ENCC>
+My body clock is so screwed up.
+<SYNC Start=954842><P Class=ENCC>
+I just want a steak and a shot.<br>
+<SYNC Start=957206><P Class=ENCC>&nbsp;
+<SYNC Start=957577><P Class=ENCC>
+Tuts Tomb. Steak and eggs.<br>
+<SYNC Start=960188><P Class=ENCC>
+Dollar ninety-nine.
+<SYNC Start=961582><P Class=ENCC>
+Food.?
+<SYNC Start=962862><P Class=ENCC>
+Good idea.  You're on.
+<SYNC Start=964469><P Class=ENCC>&nbsp;
+<SYNC Start=964773><P Class=ENCC>
+It's what I live for.
+<SYNC Start=966266><P Class=ENCC>
+You're guys are never going to believe this.<br>
+You ready?
+<SYNC Start=968287><P Class=ENCC>
+So much for the steak.<br>
+<SYNC Start=969780><P Class=ENCC>
+- I'll take that coffee?<br>
+- Yeah.
+<SYNC Start=971004><P Class=ENCC>&nbsp;
+<SYNC Start=971239><P Class=ENCC>
+Okay. Sexual assault kit on Lacey Duvall,<br>
+the dead showgirl,
+<SYNC Start=973937><P Class=ENCC>
+came back positive for semen.
+<SYNC Start=975240><P Class=ENCC>
+But... phrsst... that's nothing.
+<SYNC Start=976797><P Class=ENCC>
+Ran it through CODIS. Seminal DNA<br>
+matches a cold case from Texas
+<SYNC Start=980273><P Class=ENCC>
+A dead cheerleader, 10 years ago.
+<SYNC Start=984291><P Class=ENCC>
+- Two for one. / - Okay. I'm up.<br>
+<SYNC Start=986614><P Class=ENCC>&nbsp;
+<SYNC Start=988583><P Class=ENCC>
+Sir, I have four criminalysts working on this.
+<SYNC Start=991200><P Class=ENCC>
+<font color=BFEFFF>Well, don't you have anything, yet?
+<SYNC Start=992275><P Class=ENCC>
+No, as soon as we find<br>
+something tangible I'll call you.
+<SYNC Start=997196><P Class=ENCC>
+I promise.
+<SYNC Start=998776><P Class=ENCC>&nbsp;
+<SYNC Start=1000541><P Class=ENCC>
+Sheriff?
+<SYNC Start=1001349><P Class=ENCC>
+Yeah, he calls me every hour.<br>
+I can't get anything done.
+<SYNC Start=1003512><P Class=ENCC>
+Every half for me.
+<SYNC Start=1005306><P Class=ENCC>&nbsp;
+<SYNC Start=1007151><P Class=ENCC>
+Hope we didn't embarrass you.
+<SYNC Start=1008878><P Class=ENCC>
+Little late for that.
+<SYNC Start=1010473><P Class=ENCC>&nbsp;
+<SYNC Start=1014969><P Class=ENCC>
+Yeah, uh hi.
+<SYNC Start=1016740><P Class=ENCC>&nbsp;
+<SYNC Start=1018240><P Class=ENCC>
+I just have a few more questions about<br>
+the whereabouts of Mrs. Richmond.
+<SYNC Start=1021406><P Class=ENCC>&nbsp;
+<SYNC Start=1022567><P Class=ENCC>
+Fire away.
+<SYNC Start=1024135><P Class=ENCC>
+Drinks for anybody else?
+<SYNC Start=1025416><P Class=ENCC>&nbsp;
+<SYNC Start=1026256><P Class=ENCC>
+No thank you.
+<SYNC Start=1027259><P Class=ENCC>&nbsp;
+<SYNC Start=1033968><P Class=ENCC>
+So let's uh, let's just take baby steps.<br>
+<SYNC Start=1038119><P Class=ENCC>&nbsp;
+<SYNC Start=1039124><P Class=ENCC>
+Where is she?
+<SYNC Start=1040265><P Class=ENCC>
+On a yacht somewhere in the Greek Isles.
+<SYNC Start=1042670><P Class=ENCC>
+And if someone wanted to reach her?
+<SYNC Start=1044232><P Class=ENCC>
+You have a compass?
+<SYNC Start=1045109><P Class=ENCC>&nbsp;
+<SYNC Start=1046248><P Class=ENCC>
+Yeah.
+<SYNC Start=1047466><P Class=ENCC>&nbsp;
+<SYNC Start=1048415><P Class=ENCC>
+She's incommunicado.
+<SYNC Start=1050253><P Class=ENCC>
+Big word.
+<SYNC Start=1051542><P Class=ENCC>
+Have we done something wrong?
+<SYNC Start=1052932><P Class=ENCC>&nbsp;
+<SYNC Start=1058839><P Class=ENCC>
+What?
+<SYNC Start=1060311><P Class=ENCC>&nbsp;
+<SYNC Start=1066342><P Class=ENCC>
+May I have your straw?
+<SYNC Start=1068000><P Class=ENCC>&nbsp;
+<SYNC Start=1073920><P Class=ENCC>
+I, I collect them.
+<SYNC Start=1076552><P Class=ENCC>&nbsp;
+<SYNC Start=1083370><P Class=ENCC>
+Thank you.
+<SYNC Start=1085099><P Class=ENCC>&nbsp;
+<SYNC Start=1089628><P Class=ENCC>
+Mind if I look around a little?
+<SYNC Start=1091690><P Class=ENCC>&nbsp;
+<SYNC Start=1092837><P Class=ENCC>
+Have at it.
+<SYNC Start=1094334><P Class=ENCC>&nbsp;
+<SYNC Start=1103725><P Class=ENCC>
+The hostess' bedroom.
+<SYNC Start=1105588><P Class=ENCC>&nbsp;
+<SYNC Start=1106201><P Class=ENCC>
+Too kinky.
+<SYNC Start=1107698><P Class=ENCC>&nbsp;
+<SYNC Start=1108595><P Class=ENCC>
+Let me see if Portia took<br>
+the bathing suit with her.
+<SYNC Start=1111661><P Class=ENCC>&nbsp;
+<SYNC Start=1112507><P Class=ENCC>
+Here we go.
+<SYNC Start=1113991><P Class=ENCC>&nbsp;
+<SYNC Start=1134930><P Class=ENCC>
+We got the bathingsuit.<br>
+Lingerie jewels, wallet, bags.
+<SYNC Start=1140887><P Class=ENCC>
+I'm not so sure she's gone anywhere.
+<SYNC Start=1142799><P Class=ENCC>&nbsp;
+<SYNC Start=1147525><P Class=ENCC>
+Shall we do the room too?
+<SYNC Start=1149555><P Class=ENCC>&nbsp;
+<SYNC Start=1209543><P Class=ENCC>
+I think the tooth fairy might have just<br>
+left us a piece of Portia Richmond.
+<SYNC Start=1213238><P Class=ENCC>
+What?
+<SYNC Start=1214190><P Class=ENCC>
+Take a look.
+<SYNC Start=1215629><P Class=ENCC>&nbsp;
+<SYNC Start=1220525><P Class=ENCC>
+I guess now we have two cases.
+<SYNC Start=1222756><P Class=ENCC>
+We got a body without a murderer.<br>
+And a murder without a body.
+<SYNC Start=1227754><P Class=ENCC>&nbsp;
+<SYNC Start=1235172><P Class=ENCC>
+Oh man, I gotta get a raise for this.
+<SYNC Start=1237660><P Class=ENCC>&nbsp;
+<SYNC Start=1238507><P Class=ENCC>
+Greg, well, just start<br>
+the DNA profile on the tooth,
+<SYNC Start=1242111><P Class=ENCC>
+so that we can tell if it's Portia Richmond.
+<SYNC Start=1244640><P Class=ENCC>&nbsp;
+<SYNC Start=1244877><P Class=ENCC>
+Yeah, well, getting DNA from<br>
+this tooth is gonna be easy.
+<SYNC Start=1248636><P Class=ENCC>
+What am I supposed to compare it to?
+<SYNC Start=1249914><P Class=ENCC>&nbsp;
+<SYNC Start=1250913><P Class=ENCC>
+How about the toothbrush and<br>
+hairbrush we took from her vanity?
+<SYNC Start=1254434><P Class=ENCC>&nbsp;
+<SYNC Start=1255174><P Class=ENCC>
+Why don't you go talk to<br>
+the dead end twins over there.
+<SYNC Start=1257767><P Class=ENCC>&nbsp;
+<SYNC Start=1268099><P Class=ENCC>
+Nothing in here.
+<SYNC Start=1270068><P Class=ENCC>&nbsp;
+<SYNC Start=1276987><P Class=ENCC>
+So either she is extremly hygenic or...
+<SYNC Start=1279681><P Class=ENCC>
+Somebody did some serious<br>
+pre-Spring cleaning.
+<SYNC Start=1281997><P Class=ENCC>
+If you want to know if it's Portia,<br>
+you got to get the DNA somewhere.
+<SYNC Start=1285794><P Class=ENCC>&nbsp;
+<SYNC Start=1289966><P Class=ENCC>
+I can't believe I've been in this town twenty years
+<SYNC Start=1291859><P Class=ENCC>
+and I've never seen the Liberace Museum.
+<SYNC Start=1293902><P Class=ENCC>&nbsp;
+<SYNC Start=1294371><P Class=ENCC>
+That's funny, I was just here<br>
+a couple days ago.
+<SYNC Start=1296889><P Class=ENCC>
+I believe it.
+<SYNC Start=1297988><P Class=ENCC>
+We have all of Liberace's<br>
+costumes on display here.
+<SYNC Start=1301601><P Class=ENCC>
+This one, for example... Worn by Mr. Liberace<br>
+in the 1984 World's Fair in New Orleans.
+<SYNC Start=1308112><P Class=ENCC>
+Lovely.
+<SYNC Start=1309164><P Class=ENCC>&nbsp;
+<SYNC Start=1309703><P Class=ENCC>
+Did you ever see one of the old shows?<br>
+The Lido in the '50's?
+<SYNC Start=1313218><P Class=ENCC>&nbsp;
+<SYNC Start=1313895><P Class=ENCC>
+Before my time.
+<SYNC Start=1315145><P Class=ENCC>
+You weren't even born then, of course.
+<SYNC Start=1317892><P Class=ENCC>
+Every dancer was from France.
+<SYNC Start=1320481><P Class=ENCC>
+The attention to detail<br>
+in the costumes was unparalleled.
+<SYNC Start=1324011><P Class=ENCC>&nbsp;
+<SYNC Start=1324419><P Class=ENCC>
+And the audience, dressed to the nines.<br>
+<SYNC Start=1327807><P Class=ENCC>
+The town was different then.
+<SYNC Start=1330322><P Class=ENCC>
+The other great cities. New York,<br>
+Chicago, London, they restore.
+<SYNC Start=1334970><P Class=ENCC>
+But in this town, they destroy.
+<SYNC Start=1337309><P Class=ENCC>&nbsp;
+<SYNC Start=1339041><P Class=ENCC>
+So you want to see what belonged<br>
+to Portia Richmond.
+<SYNC Start=1341760><P Class=ENCC>
+Yes, please.
+<SYNC Start=1343283><P Class=ENCC>
+Folies Bergiere' 1959.
+<SYNC Start=1346169><P Class=ENCC>&nbsp;
+<SYNC Start=1356937><P Class=ENCC>
+Looks heavy.
+<SYNC Start=1357826><P Class=ENCC>
+Imagine that on your head,<br>
+two shows a night.
+<SYNC Start=1360673><P Class=ENCC>
+She used over fifteen combs,<br>
+and various epoxies and glues.
+<SYNC Start=1364922><P Class=ENCC>
+They damn near had to drive a spike<br>
+into her head to keep it from falling off.
+<SYNC Start=1367880><P Class=ENCC>&nbsp;
+<SYNC Start=1370065><P Class=ENCC>
+She lost all her hair.
+<SYNC Start=1371662><P Class=ENCC>&nbsp;
+<SYNC Start=1381338><P Class=ENCC>
+DNA heaven.
+<SYNC Start=1382895><P Class=ENCC>&nbsp;
+<SYNC Start=1385324><P Class=ENCC>
+Warrick!
+<SYNC Start=1386781><P Class=ENCC>&nbsp;
+<SYNC Start=1387099><P Class=ENCC>
+The personal artifacts<br>
+from your elevator victim.
+<SYNC Start=1389020><P Class=ENCC>
+Cool!
+<SYNC Start=1390616><P Class=ENCC>
+You got an I.D. for me?
+<SYNC Start=1391855><P Class=ENCC>
+Driver's license.  He's a local.
+<SYNC Start=1393493><P Class=ENCC>
+Tyson Green.  Thirty-five.
+<SYNC Start=1395296><P Class=ENCC>
+Can't drive without corrective lenses.
+<SYNC Start=1397447><P Class=ENCC>
+Yeah. Too bad he wasn't<br>
+driving that elevator.
+<SYNC Start=1399517><P Class=ENCC>&nbsp;
+<SYNC Start=1406745><P Class=ENCC>
+Hoo. A Chicago bankroll.
+<SYNC Start=1408306><P Class=ENCC>
+This guy's not from out of town.
+<SYNC Start=1410225><P Class=ENCC>&nbsp;
+<SYNC Start=1410690><P Class=ENCC>
+No, that's just a term. Old school.
+<SYNC Start=1413354><P Class=ENCC>&nbsp;
+<SYNC Start=1415141><P Class=ENCC>
+Shrimp Cocktail Appetizer. Surf and Turf Dinner.<br>
+Two glasses of wine. All comped.
+<SYNC Start=1419967><P Class=ENCC>
+Free food, nice.
+<SYNC Start=1421661><P Class=ENCC>
+It ain't free.  Believe me.
+<SYNC Start=1423600><P Class=ENCC>&nbsp;
+<SYNC Start=1437568><P Class=ENCC>
+You okay?
+<SYNC Start=1438795><P Class=ENCC>&nbsp;
+<SYNC Start=1439997><P Class=ENCC>
+Yeah, yeah...
+<SYNC Start=1441643><P Class=ENCC>&nbsp;
+<SYNC Start=1445502><P Class=ENCC>
+Been a long time since I've seen these.
+<SYNC Start=1447810><P Class=ENCC>&nbsp;
+<SYNC Start=1451321><P Class=ENCC>
+Hey, Brown.
+<SYNC Start=1452677><P Class=ENCC>
+Just talked to Bobby Dawson in ballistics.
+<SYNC Start=1454239><P Class=ENCC>
+He ran that .22 from the elevator.
+<SYNC Start=1455865><P Class=ENCC>
+Serial number came back Vincent<br>
+Morgan. Lives on the Westside.
+<SYNC Start=1458730><P Class=ENCC>
+- Cool!<br>
+- Comin'?
+<SYNC Start=1460063><P Class=ENCC>&nbsp;
+<SYNC Start=1460704><P Class=ENCC>
+Yeah, can you log these for me?<br>
+<SYNC Start=1461637><P Class=ENCC>
+Yeah.
+<SYNC Start=1463069><P Class=ENCC>&nbsp;
+<SYNC Start=1468810><P Class=ENCC>
+Mandy, you got any prints off<br>
+that quarter I found on the vic?
+<SYNC Start=1471403><P Class=ENCC>&nbsp;
+<SYNC Start=1471666><P Class=ENCC>
+Still working on it, Warrick.<br>
+I don't work one case a day.
+<SYNC Start=1474262><P Class=ENCC>&nbsp;
+<SYNC Start=1477580><P Class=ENCC>
+Bingo!
+<SYNC Start=1479586><P Class=ENCC>
+Well. That only took forty-five minutes.
+<SYNC Start=1481251><P Class=ENCC>&nbsp;
+<SYNC Start=1481634><P Class=ENCC>
+What do you got?
+<SYNC Start=1482850><P Class=ENCC>
+A hit of Patrick Haynes'<br>
+social security number.
+<SYNC Start=1485412><P Class=ENCC>&nbsp;
+<SYNC Start=1485772><P Class=ENCC>
+There's only one problem
+<SYNC Start=1487401><P Class=ENCC>
+he's an eight-month-old<br>
+infant that died ten years ago.
+<SYNC Start=1490227><P Class=ENCC>&nbsp;
+<SYNC Start=1491743><P Class=ENCC>
+Same social?  You sure?
+<SYNC Start=1493642><P Class=ENCC>&nbsp;
+<SYNC Start=1498392><P Class=ENCC>
+Bam. !
+<SYNC Start=1499901><P Class=ENCC>&nbsp;
+<SYNC Start=1500585><P Class=ENCC>
+Something good?
+<SYNC Start=1502064><P Class=ENCC>
+Oh yeah.
+<SYNC Start=1503168><P Class=ENCC>&nbsp;
+<SYNC Start=1503469><P Class=ENCC>
+We got a match, boom. Match,
+<SYNC Start=1507778><P Class=ENCC>
+boom... we got a match.  Boom.
+<SYNC Start=1513560><P Class=ENCC>&nbsp;
+<SYNC Start=1514561><P Class=ENCC>
+You wanna take that thing<br>
+off your head, Greg?
+<SYNC Start=1516386><P Class=ENCC>
+It's evidence!
+<SYNC Start=1517482><P Class=ENCC>
+Cool, your jets, Cath.
+<SYNC Start=1518889><P Class=ENCC>
+I got all the evidence out of it. y'know?
+<SYNC Start=1520419><P Class=ENCC>&nbsp;
+<SYNC Start=1521691><P Class=ENCC>
+It's all woman. Did you ever wear<br>
+one of these when you were dancing?
+<SYNC Start=1525183><P Class=ENCC>
+I wore nothing but skin. / Oooh!
+<SYNC Start=1526816><P Class=ENCC>&nbsp;
+<SYNC Start=1535433><P Class=ENCC>
+I uh, compared the DNA from the tooth
+<SYNC Start=1537731><P Class=ENCC>
+with the hair follicles found inside the headdress.
+<SYNC Start=1540855><P Class=ENCC>
+I think we have a match, sir.
+<SYNC Start=1542695><P Class=ENCC>
+And I think we may have a homicide.
+<SYNC Start=1544578><P Class=ENCC>&nbsp;
+<SYNC Start=1545396><P Class=ENCC>
+Excuse me.
+<SYNC Start=1546729><P Class=ENCC>&nbsp;
+<SYNC Start=1550504><P Class=ENCC>
+So, did I like, break the law<br>
+by not reporting it?
+<SYNC Start=1552672><P Class=ENCC>
+But it's a good idea that <br>
+when your house is robbed,
+<SYNC Start=1554987><P Class=ENCC>
+you report that your <br>
+registered gun was stolen.
+<SYNC Start=1557589><P Class=ENCC>
+Guy's story checks out.
+<SYNC Start=1558865><P Class=ENCC>
+He was robbed. / Yeah, look!
+<SYNC Start=1560270><P Class=ENCC>
+My wife. She's not real comfortable about having
+<SYNC Start=1561748><P Class=ENCC>
+a gun in the house ever since we had our boy.
+<SYNC Start=1563516><P Class=ENCC>
+And I told her that I got rid of it,<br>
+but I never did.
+<SYNC Start=1566483><P Class=ENCC>
+I mean, man, the last thing I ever expected<br>
+was it'd be used in a murder.
+<SYNC Start=1569754><P Class=ENCC>
+Well, we're going to keep<br>
+your name on ice for a while.
+<SYNC Start=1571830><P Class=ENCC>
+Thanks for your time.
+<SYNC Start=1572800><P Class=ENCC>
+Hey thanks, right on.
+<SYNC Start=1574619><P Class=ENCC>
+Uh, hey! Bring up car 309.
+<SYNC Start=1577029><P Class=ENCC>
+Nobody kills anybody with<br>
+their registered gun anymore.
+<SYNC Start=1579363><P Class=ENCC>
+Isn't that the truth.
+<SYNC Start=1581078><P Class=ENCC>&nbsp;
+<SYNC Start=1581710><P Class=ENCC>
+Jim! / Hey!
+<SYNC Start=1584041><P Class=ENCC>&nbsp;
+<SYNC Start=1584388><P Class=ENCC>
+We got the whole place clocked.
+<SYNC Start=1586360><P Class=ENCC>
+Keeping an eye on the Haynes couple.
+<SYNC Start=1588028><P Class=ENCC>
+Sheriff doesn't want 'em skipping town.
+<SYNC Start=1589658><P Class=ENCC>
+Neither do we.
+<SYNC Start=1591030><P Class=ENCC>
+We have a strong suspicion<br>
+Portia Richmond is dead.
+<SYNC Start=1593829><P Class=ENCC>&nbsp;
+<SYNC Start=1614342><P Class=ENCC>
+Did you see that?
+<SYNC Start=1615827><P Class=ENCC>
+They're on the grift.
+<SYNC Start=1617271><P Class=ENCC>
+She took that fur from<br>
+right under their noses.
+<SYNC Start=1619476><P Class=ENCC>&nbsp;
+<SYNC Start=1627016><P Class=ENCC>
+May we check your coats?
+<SYNC Start=1629421><P Class=ENCC>&nbsp;
+<SYNC Start=1632122><P Class=ENCC>
+What are you, a couple of kleptos?<br>
+<SYNC Start=1634765><P Class=ENCC>
+I don't follow.
+<SYNC Start=1635867><P Class=ENCC>
+A five thousand dollar stole<br>
+your wife stole?
+<SYNC Start=1639665><P Class=ENCC>
+What, are you guys in business?
+<SYNC Start=1641014><P Class=ENCC>
+Amanda didn't know she'd even taken it<br>
+until Mr. Grissom here told her.
+<SYNC Start=1643991><P Class=ENCC>
+Is that kind of like the guy who uh,
+<SYNC Start=1645867><P Class=ENCC>
+walks out of the auto mall with a <br>
+Nissan Sentra in his pocket?
+<SYNC Start=1649188><P Class=ENCC>
+Why am I here?  Why?
+<SYNC Start=1650774><P Class=ENCC>&nbsp;
+<SYNC Start=1651466><P Class=ENCC>
+Jim, may I?
+<SYNC Start=1654613><P Class=ENCC>&nbsp;
+<SYNC Start=1656528><P Class=ENCC>
+Mr. Haynes, we ran a sexual<br>
+assault kit on Lacey Duvall.
+<SYNC Start=1660300><P Class=ENCC>
+We found semen.
+<SYNC Start=1662168><P Class=ENCC>&nbsp;
+<SYNC Start=1662517><P Class=ENCC>
+Can you explain that? / Yeah.
+<SYNC Start=1665330><P Class=ENCC>
+Yeah, my wife's not here.
+<SYNC Start=1667422><P Class=ENCC>
+Time to convert lies into the truth.
+<SYNC Start=1669817><P Class=ENCC>&nbsp;
+<SYNC Start=1670419><P Class=ENCC>
+I had sex with Lacey before the party.
+<SYNC Start=1672882><P Class=ENCC>
+Would you mind giving us a DNA sample?
+<SYNC Start=1674807><P Class=ENCC>&nbsp;
+<SYNC Start=1676941><P Class=ENCC>
+No. My relationship with<br>
+Lacey was purely sexual.
+<SYNC Start=1681420><P Class=ENCC>&nbsp;
+<SYNC Start=1682029><P Class=ENCC>
+It was good sex. Well, great sex.
+<SYNC Start=1684893><P Class=ENCC>
+Whenever we could<br>
+steal a moment, we did.
+<SYNC Start=1688859><P Class=ENCC>
+Well, she was like an addiction.
+<SYNC Start=1690715><P Class=ENCC>
+Well, in addition to exchanging bodily fluids,
+<SYNC Start=1694794><P Class=ENCC>
+did you exchange gifts?
+<SYNC Start=1697093><P Class=ENCC>
+Whatever do you mean?
+<SYNC Start=1698844><P Class=ENCC>
+Just answer the question.
+<SYNC Start=1699999><P Class=ENCC>
+No.
+<SYNC Start=1701280><P Class=ENCC>&nbsp;
+<SYNC Start=1702727><P Class=ENCC>
+No, I never gave her anything
+<SYNC Start=1704676><P Class=ENCC>
+Well, we found a music box<br>
+in Lacey Duvall's dressing area
+<SYNC Start=1708213><P Class=ENCC>
+that belonged to Portia Richmond.
+<SYNC Start=1710722><P Class=ENCC>
+Did you give it to her?
+<SYNC Start=1712043><P Class=ENCC>&nbsp;
+<SYNC Start=1712862><P Class=ENCC>
+Honestly, no.
+<SYNC Start=1714772><P Class=ENCC>&nbsp;
+<SYNC Start=1715730><P Class=ENCC>
+Those music boxes belonged<br>
+to Portia.  Not to me
+<SYNC Start=1718159><P Class=ENCC>&nbsp;
+<SYNC Start=1718742><P Class=ENCC>
+But Lacey had been by the house,<br>
+and she did admire them.
+<SYNC Start=1723284><P Class=ENCC>
+Are you saying that she lifted it?
+<SYNC Start=1725049><P Class=ENCC>&nbsp;
+<SYNC Start=1726396><P Class=ENCC>
+Human nature.
+<SYNC Start=1727610><P Class=ENCC>&nbsp;
+<SYNC Start=1728525><P Class=ENCC>
+We always covet what we can't have.<br>
+<SYNC Start=1730310><P Class=ENCC>&nbsp;
+<SYNC Start=1735819><P Class=ENCC>
+What did you covet from Portia Richmond?
+<SYNC Start=1738163><P Class=ENCC>&nbsp;
+<SYNC Start=1742622><P Class=ENCC>
+Grissom, can I talk to you?
+<SYNC Start=1745003><P Class=ENCC>&nbsp;
+<SYNC Start=1754198><P Class=ENCC>
+Are you looking for work?
+<SYNC Start=1755836><P Class=ENCC>&nbsp;
+<SYNC Start=1756302><P Class=ENCC>
+- I just....<br>
+- The Sign says Do not enter. Nick.
+<SYNC Start=1758386><P Class=ENCC>
+You can't read anymore.<br>
+Your blind? What?
+<SYNC Start=1760489><P Class=ENCC>
+- Grissom, this is important.<br>
+- This is important.
+<SYNC Start=1763085><P Class=ENCC>
+Sometimes in these interrogations,<br>
+Nick, you get one chance, one answer.
+<SYNC Start=1766165><P Class=ENCC>
+And while I'm out here<br>
+screwing around with you,
+<SYNC Start=1767714><P Class=ENCC>
+he's in there thinking up an answer<br>
+that he didn't have before you walked in.
+<SYNC Start=1772752><P Class=ENCC>
+We matched the DNA taken from Lacey Duvall<br>
+to a "cold case" in Texas ten years ago.
+<SYNC Start=1777092><P Class=ENCC>
+And?
+<SYNC Start=1777964><P Class=ENCC>
+The suspect's name was Chad Matthews.
+<SYNC Start=1781273><P Class=ENCC>&nbsp;
+<SYNC Start=1782565><P Class=ENCC>
+CM.  The cufflink.
+<SYNC Start=1784885><P Class=ENCC>&nbsp;
+<SYNC Start=1788201><P Class=ENCC>
+Okay I'm starting to forgive you.
+<SYNC Start=1789722><P Class=ENCC>&nbsp;
+<SYNC Start=1790186><P Class=ENCC>
+Sara ran Patrick Haynes' social.
+<SYNC Start=1792688><P Class=ENCC>
+The real Haynes is deceased.
+<SYNC Start=1795005><P Class=ENCC>
+So Patrick Haynes is Chad Matthews,<br>
+and Chad Matthews is on the run.
+<SYNC Start=1800108><P Class=ENCC>&nbsp;
+<SYNC Start=1801070><P Class=ENCC>
+And he just ran into us.
+<SYNC Start=1802572><P Class=ENCC>&nbsp;
+<SYNC Start=1805833><P Class=ENCC>
+Good morning, it's nice to have you back.
+<SYNC Start=1808666><P Class=ENCC>&nbsp;
+<SYNC Start=1810942><P Class=ENCC>
+Do you have any idea what the hot<br>
+topic of conversation's going to be
+<SYNC Start=1814795><P Class=ENCC>
+when I walk into that breakfast?
+<SYNC Start=1816861><P Class=ENCC>
+You're announcing your<br>
+candidacy for Mayor?
+<SYNC Start=1818457><P Class=ENCC>
+That's cute.
+<SYNC Start=1819569><P Class=ENCC>
+Patrick Haynes is in custody.
+<SYNC Start=1821933><P Class=ENCC>
+Does he have anything to do with<br>
+Portia Richmond's vanishing act?
+<SYNC Start=1824607><P Class=ENCC>
+Haynes is in lockup awaiting extradition<br>
+to Texas on an unrelated matter.
+<SYNC Start=1828379><P Class=ENCC>
+So in the meanwhile we're <br>
+questioning him in connection
+<SYNC Start=1830307><P Class=ENCC>
+with Portia Richmond's disappearance?
+<SYNC Start=1833009><P Class=ENCC>
+You know I think you're gonna<br>
+get my vote for mayor.
+<SYNC Start=1835432><P Class=ENCC>
+What've you got on Richmond?
+<SYNC Start=1836918><P Class=ENCC>
+A canine.
+<SYNC Start=1837887><P Class=ENCC>
+Her dog?
+<SYNC Start=1838887><P Class=ENCC>
+Her tooth.
+<SYNC Start=1840543><P Class=ENCC>&nbsp;
+<SYNC Start=1841605><P Class=ENCC>
+What about the rest of her?
+<SYNC Start=1843257><P Class=ENCC>
+Still looking. / Look harder.
+<SYNC Start=1845340><P Class=ENCC>
+'Cause if someone leaks it<br>
+to the press that she's dead,
+<SYNC Start=1847740><P Class=ENCC>
+and then she gets off<br>
+a Lear Jet at McCarran with a tan,
+<SYNC Start=1850249><P Class=ENCC>
+we're both going to have egg on our face.<br>
+And I'm going to hold you responsible.
+<SYNC Start=1853374><P Class=ENCC>
+Portia Richmond got me elected,<br>
+Grissom. I was at her party.
+<SYNC Start=1857700><P Class=ENCC>
+Do you see what this does to me?
+<SYNC Start=1860302><P Class=ENCC>
+Evidence is like a fine wine, Brian.<br>
+You can't just open the bottle and drink it.
+<SYNC Start=1864877><P Class=ENCC>
+You've got to let it breathe.
+<SYNC Start=1866066><P Class=ENCC>
+Look, I'm gonna lay this on the line<br>
+for you, right here and now.
+<SYNC Start=1869353><P Class=ENCC>
+You find me Portia Richmond or<br>
+you find me a motive for her murder.
+<SYNC Start=1872549><P Class=ENCC>
+Because I'm in your kitchen 'til it's solved.
+<SYNC Start=1874305><P Class=ENCC>&nbsp;
+<SYNC Start=1881185><P Class=ENCC>
+Make yourself at home.
+<SYNC Start=1882739><P Class=ENCC>&nbsp;
+<SYNC Start=1883277><P Class=ENCC>
+Where've you been?
+<SYNC Start=1884192><P Class=ENCC>
+Proctologist.
+<SYNC Start=1885986><P Class=ENCC>
+Sheriff getting your ass, huh?
+<SYNC Start=1887532><P Class=ENCC>&nbsp;
+<SYNC Start=1888349><P Class=ENCC>
+Well, I just hit mega-bucks.
+<SYNC Start=1890108><P Class=ENCC>
+Austin P.D. has five aliases for Chad Matthews.<br>
+<SYNC Start=1892828><P Class=ENCC>&nbsp;
+<SYNC Start=1893330><P Class=ENCC>
+Tom Sheridan. Wanted in Beacham County.<br>
+Petty theft.  Check fraud.
+<SYNC Start=1897617><P Class=ENCC>
+Warner Drysdale. Wanted in Sacramento.<br>
+Grand larceny. Car theft.
+<SYNC Start=1901163><P Class=ENCC>&nbsp;
+<SYNC Start=1901541><P Class=ENCC>
+The guy took a car for a test drive.<br>
+Never brought it back.
+<SYNC Start=1904726><P Class=ENCC>&nbsp;
+<SYNC Start=1905255><P Class=ENCC>
+Jock Jasper. I'm not<br>
+making these names up.
+<SYNC Start=1908654><P Class=ENCC>
+Extorted money from<br>
+a rich widow in Denver.
+<SYNC Start=1910993><P Class=ENCC>&nbsp;
+<SYNC Start=1912378><P Class=ENCC>
+Busy boy. / Yeah, and organized too.
+<SYNC Start=1914545><P Class=ENCC>&nbsp;
+<SYNC Start=1914763><P Class=ENCC>
+Denver P.D. sent copies of his journals.
+<SYNC Start=1917256><P Class=ENCC>
+Guy kept a list of rich women<br>
+all around the country.
+<SYNC Start=1920178><P Class=ENCC>
+Logged in all their vitals. Height, weight,<br>
+how much money they have, you name it.
+<SYNC Start=1923968><P Class=ENCC>
+Guess who's on the list.
+<SYNC Start=1924871><P Class=ENCC>&nbsp;
+<SYNC Start=1925646><P Class=ENCC>
+Does your name begin with a "P"?
+<SYNC Start=1927925><P Class=ENCC>
+Well, according to her credit card statement,
+<SYNC Start=1930059><P Class=ENCC>
+Portia Richmond hasn't spent a dime<br>
+since she's been in Mediterranean.
+<SYNC Start=1933222><P Class=ENCC>
+She's dead.
+<SYNC Start=1934109><P Class=ENCC>
+Well, not necessarily. Maybe<br>
+she's been swept off her feet.
+<SYNC Start=1937870><P Class=ENCC>&nbsp;
+<SYNC Start=1939364><P Class=ENCC>
+Yeah, some guys still like to foot the bill.
+<SYNC Start=1941691><P Class=ENCC>
+Really, how would you know?
+<SYNC Start=1943816><P Class=ENCC>
+Hey, I only go "Dutch"<br>
+if girls ask the wrong question.
+<SYNC Start=1946508><P Class=ENCC>
+And what question is that, Nick?
+<SYNC Start=1948038><P Class=ENCC>
+What do you drive?
+<SYNC Start=1949345><P Class=ENCC>
+It's an honest question.
+<SYNC Start=1950699><P Class=ENCC>
+No. No, it's not.
+<SYNC Start=1952010><P Class=ENCC>
+What it means is, how much money<br>
+do you make, so you can take care of me.
+<SYNC Start=1955163><P Class=ENCC>
+Well, not this girl.
+<SYNC Start=1956343><P Class=ENCC>
+Boys and girls,
+<SYNC Start=1958007><P Class=ENCC>&nbsp;
+<SYNC Start=1958405><P Class=ENCC>
+we got ourselves a forgery.
+<SYNC Start=1959775><P Class=ENCC>&nbsp;
+<SYNC Start=1961379><P Class=ENCC>
+Either that or a dimpled ballot.<br>
+<SYNC Start=1963953><P Class=ENCC>
+Well, his name is Chad.
+<SYNC Start=1965617><P Class=ENCC>&nbsp;
+<SYNC Start=1966810><P Class=ENCC>
+Let's connect the dots.
+<SYNC Start=1968337><P Class=ENCC>
+What does that mean?
+<SYNC Start=1969257><P Class=ENCC>
+Here I'll show you.
+<SYNC Start=1970456><P Class=ENCC>&nbsp;
+<SYNC Start=1970896><P Class=ENCC>
+Catherine, you wear pierced earrings. May I?
+<SYNC Start=1972779><P Class=ENCC>
+Alright, but uh... <br>
+I've had them on for a week,
+<SYNC Start=1975649><P Class=ENCC>&nbsp;
+<SYNC Start=1977940><P Class=ENCC>
+can't account for what's on it.
+<SYNC Start=1979452><P Class=ENCC>
+Sign your name, please. / Okay.
+<SYNC Start=1982429><P Class=ENCC>&nbsp;
+<SYNC Start=1982932><P Class=ENCC>
+Now, nobody signs their signature<br>
+exactly the same way twice.
+<SYNC Start=1985753><P Class=ENCC>&nbsp;
+<SYNC Start=1986469><P Class=ENCC>
+Not even you, chicken scratch.
+<SYNC Start=1988544><P Class=ENCC>
+If they do, then one of them is a forgery.
+<SYNC Start=1991474><P Class=ENCC>
+Here's where connecting the dots comes in.
+<SYNC Start=1993600><P Class=ENCC>
+We dot the lines and curves of the signature.
+<SYNC Start=1997442><P Class=ENCC>&nbsp;
+<SYNC Start=1997724><P Class=ENCC>
+Which leaves indentations on the blank page.
+<SYNC Start=1999680><P Class=ENCC>
+And then you connect the dots,
+<SYNC Start=2001616><P Class=ENCC>
+give it the evidence, but<br>
+obviously they didn't.
+<SYNC Start=2003926><P Class=ENCC>
+Well that's scary.
+<SYNC Start=2005693><P Class=ENCC>
+All you need is one signature<br>
+to break somebody.
+<SYNC Start=2007943><P Class=ENCC>&nbsp;
+<SYNC Start=2014142><P Class=ENCC>
+You look terrible.
+<SYNC Start=2015845><P Class=ENCC>&nbsp;
+<SYNC Start=2017188><P Class=ENCC>
+Been spinning my wheels.
+<SYNC Start=2018868><P Class=ENCC>&nbsp;
+<SYNC Start=2020078><P Class=ENCC>
+I'm never going to solve this case.
+<SYNC Start=2022162><P Class=ENCC>
+It was over before it even began.
+<SYNC Start=2023766><P Class=ENCC>
+It doesn't sound like you.
+<SYNC Start=2025020><P Class=ENCC>
+I got a dead guy on a glass elevator.<br>
+With a biz-illion prints
+<SYNC Start=2029355><P Class=ENCC>&nbsp;
+<SYNC Start=2029977><P Class=ENCC>
+And a twenty-two caliber bullet.
+<SYNC Start=2032173><P Class=ENCC>
+It's virtually untraceable.
+<SYNC Start=2033639><P Class=ENCC>
+And he left the gun at the scene.<br>
+You know what that means?
+<SYNC Start=2036460><P Class=ENCC>&nbsp;
+<SYNC Start=2036969><P Class=ENCC>
+Hit man was a ghost.
+<SYNC Start=2038552><P Class=ENCC>&nbsp;
+<SYNC Start=2041478><P Class=ENCC>
+Only got two things left, right.
+<SYNC Start=2042922><P Class=ENCC>
+Make that one thing.
+<SYNC Start=2044136><P Class=ENCC>
+You got to be kidding me.
+<SYNC Start=2045296><P Class=ENCC>
+No. It gets worse.
+<SYNC Start=2046378><P Class=ENCC>
+Got a print off your quarter. Ran it through<br>
+AFIS. Came back your dead man.
+<SYNC Start=2049963><P Class=ENCC>&nbsp;
+<SYNC Start=2061582><P Class=ENCC>
+Pretty gruesome.
+<SYNC Start=2063185><P Class=ENCC>&nbsp;
+<SYNC Start=2068185><P Class=ENCC>
+Want to share?
+<SYNC Start=2069885><P Class=ENCC>&nbsp;
+<SYNC Start=2073298><P Class=ENCC>
+I was just thinking about <br>
+what old man, Binion,
+<SYNC Start=2074915><P Class=ENCC>
+told Steve Wynn when he hit town
+<SYNC Start=2077225><P Class=ENCC>
+"Always give a gambler an excuse<br>
+to gamble, and he'll thank you for it."
+<SYNC Start=2081710><P Class=ENCC>&nbsp;
+<SYNC Start=2082541><P Class=ENCC>
+Was your guy a gambler?
+<SYNC Start=2084343><P Class=ENCC>&nbsp;
+<SYNC Start=2085373><P Class=ENCC>
+And a bunch of cash receipts in his pockets.
+<SYNC Start=2088728><P Class=ENCC>
+Markers all over town.
+<SYNC Start=2090636><P Class=ENCC>&nbsp;
+<SYNC Start=2092127><P Class=ENCC>
+Once you get to that place <br>
+there's no getting out.
+<SYNC Start=2096559><P Class=ENCC>&nbsp;
+<SYNC Start=2099806><P Class=ENCC>
+Who picked this place?
+<SYNC Start=2101390><P Class=ENCC>
+Me.  I thought it'd be nice.
+<SYNC Start=2103064><P Class=ENCC>&nbsp;
+<SYNC Start=2103394><P Class=ENCC>
+Okay, you can pick up the tab.<br>
+<SYNC Start=2105378><P Class=ENCC>&nbsp;
+<SYNC Start=2105883><P Class=ENCC>
+Let's, Let us keep talking about motive.
+<SYNC Start=2107629><P Class=ENCC>
+Lets.
+<SYNC Start=2108590><P Class=ENCC>
+I don't think a forged signature<br>
+is a slam dunk for murder.
+<SYNC Start=2110921><P Class=ENCC>&nbsp;
+<SYNC Start=2111483><P Class=ENCC>
+Hey, did anyone tell Grissom<br>
+where we were having lunch?
+<SYNC Start=2113546><P Class=ENCC>
+Yeah, dispatch left him a message.
+<SYNC Start=2115753><P Class=ENCC>
+Maybe he thought it was<br>
+the Sheriff and blew it off.
+<SYNC Start=2117884><P Class=ENCC>&nbsp;
+<SYNC Start=2138572><P Class=ENCC>
+Hey, you might want to take<br>
+your face away from there.
+<SYNC Start=2142400><P Class=ENCC>
+Really? Why is that?
+<SYNC Start=2144953><P Class=ENCC>&nbsp;
+<SYNC Start=2150961><P Class=ENCC>
+This Chillean seabass's wonderful.
+<SYNC Start=2153060><P Class=ENCC>
+So is this.
+<SYNC Start=2154306><P Class=ENCC>
+Okay.  You got a missing widow.
+<SYNC Start=2156182><P Class=ENCC>
+Her bloody tooth, found <br>
+in her own bedroom
+<SYNC Start=2159039><P Class=ENCC>
+which is currently occupied by two moes.
+<SYNC Start=2161000><P Class=ENCC>
+"Moes."  I'm rubbing off on you.
+<SYNC Start=2162622><P Class=ENCC>
+No, you're not. And stay away<br>
+from my sea bass.
+<SYNC Start=2164926><P Class=ENCC>
+And one of our moes has six names that<br>
+we know of, including Chad Matthews.
+<SYNC Start=2168807><P Class=ENCC>
+Right, right. And we got a cufflink<br>
+with the initials CM
+<SYNC Start=2171773><P Class=ENCC>
+found at the bottom of a pool<br>
+along with a floating showgirl.
+<SYNC Start=2174160><P Class=ENCC>
+Who was sleeping with six men<br>
+rolled into one Patrick Haynes.
+<SYNC Start=2177225><P Class=ENCC>&nbsp;
+<SYNC Start=2179427><P Class=ENCC>
+Hey, photos of your showgirl.
+<SYNC Start=2181966><P Class=ENCC>&nbsp;
+<SYNC Start=2192042><P Class=ENCC>
+What'd I miss?
+<SYNC Start=2193502><P Class=ENCC>
+It's not what you missed.
+<SYNC Start=2195082><P Class=ENCC>&nbsp;
+<SYNC Start=2195896><P Class=ENCC>
+It's what seems to be missing.
+<SYNC Start=2197959><P Class=ENCC>&nbsp;
+<SYNC Start=2201022><P Class=ENCC>
+A fingernail?
+<SYNC Start=2202468><P Class=ENCC>&nbsp;
+<SYNC Start=2203164><P Class=ENCC>
+- Okay, Patrick Haynes.<br>
+- Or whoever.
+<SYNC Start=2205024><P Class=ENCC>
+Whoever, he committed a murder ten years ago,<br>
+why give up your DNA so easily?
+<SYNC Start=2208545><P Class=ENCC>
+Exactly. I mean, y'know, you can change<br>
+your name, but you can't change your blueprint.
+<SYNC Start=2212023><P Class=ENCC>
+- Right on.<br>
+- Risk versus reward.
+<SYNC Start=2214088><P Class=ENCC>
+You sleep with someone, you kill her, um,<br>
+heat's on, you flee or
+<SYNC Start=2217834><P Class=ENCC>
+or you roll the dice and<br>
+maybe get your cookie.
+<SYNC Start=2220853><P Class=ENCC>
+What's the cookie?
+<SYNC Start=2221958><P Class=ENCC>
+The cheese, brother.
+<SYNC Start=2223277><P Class=ENCC>
+Maybe the money, one-point-six mil,<br>
+they raised for the charity event that night.
+<SYNC Start=2226418><P Class=ENCC>
+See the Hayneses controlled Portia Richmond's<br>
+bank accounts, including her Burn Center account.
+<SYNC Start=2229654><P Class=ENCC>
+They had to stick around<br>
+for the checks to clear.
+<SYNC Start=2231511><P Class=ENCC>
+So why kill Lacey Duvall?
+<SYNC Start=2234029><P Class=ENCC>
+Excellent question.
+<SYNC Start=2235581><P Class=ENCC>
+I don't know but if Lacey Duvall<br>
+hadn't been murdered
+<SYNC Start=2237238><P Class=ENCC>
+Patrick Haynes reinvents himself,
+<SYNC Start=2238924><P Class=ENCC>
+becomes another Skippy in another state, <br>
+one-point-six mill richer.
+<SYNC Start=2242646><P Class=ENCC>
+Alright. Time out now. <br>
+I had a half a Caesar and a coffee.
+<SYNC Start=2245442><P Class=ENCC>
+How's my end twenty bucks?
+<SYNC Start=2246663><P Class=ENCC>
+You want to go "Dutch", Nick?
+<SYNC Start=2247919><P Class=ENCC>
+Excellent idea, Sara.<br>
+You're catching on. I'd love to.
+<SYNC Start=2250443><P Class=ENCC>&nbsp;
+<SYNC Start=2251253><P Class=ENCC>
+Uh, Brass, uh, cough it up.
+<SYNC Start=2253653><P Class=ENCC>
+And cover Nick's, too. You had the tera misu.<br>
+<SYNC Start=2256788><P Class=ENCC>&nbsp;
+<SYNC Start=2256887><P Class=ENCC>
+Well, I hate going out to lunch with you CSIs.
+<SYNC Start=2260392><P Class=ENCC>
+You notice everything.
+<SYNC Start=2261859><P Class=ENCC>&nbsp;
+<SYNC Start=2265461><P Class=ENCC>
+What ever happened to that fingernail<br>
+Catherine found at the crime scene?
+<SYNC Start=2268387><P Class=ENCC>
+I got the DNA results right here.
+<SYNC Start=2270447><P Class=ENCC>&nbsp;
+<SYNC Start=2271362><P Class=ENCC>
+First things first,<br>
+not a match to Patrick Haynes.s.
+<SYNC Start=2274099><P Class=ENCC>
+I never figured a man <br>
+for the fingernail, Greg.
+<SYNC Start=2276038><P Class=ENCC>
+Okay, but here's where you break out<br>
+your can of creep repellent.
+<SYNC Start=2278685><P Class=ENCC>
+The fingernail and the semen share<br>
+half of DNA markers in common.
+<SYNC Start=2281806><P Class=ENCC>&nbsp;
+<SYNC Start=2283778><P Class=ENCC>
+Possible first-degree relatives?
+<SYNC Start=2285940><P Class=ENCC>&nbsp;
+<SYNC Start=2289250><P Class=ENCC>
+Do me a favor.
+<SYNC Start=2290386><P Class=ENCC>&nbsp;
+<SYNC Start=2292870><P Class=ENCC>
+Run this for me.
+<SYNC Start=2294271><P Class=ENCC>&nbsp;
+<SYNC Start=2298554><P Class=ENCC>
+What is that, lip gloss?  Whose?
+<SYNC Start=2300595><P Class=ENCC>
+You tell me.
+<SYNC Start=2302557><P Class=ENCC>&nbsp;
+<SYNC Start=2303882><P Class=ENCC>
+On behalf of the State of Nevada,<br>
+my apologies.
+<SYNC Start=2309717><P Class=ENCC>
+You've been cleared of all charges.
+<SYNC Start=2311778><P Class=ENCC>
+It took three of you to tell me that?
+<SYNC Start=2313937><P Class=ENCC>
+But on behalf of the State of Texas,<br>
+you're under arrest.
+<SYNC Start=2317484><P Class=ENCC>&nbsp;
+<SYNC Start=2317895><P Class=ENCC>
+You're being extradited for<br>
+the murder of Lana Grimshaw.
+<SYNC Start=2320774><P Class=ENCC>
+I slept with her, but I didn't kill her.
+<SYNC Start=2323119><P Class=ENCC>&nbsp;
+<SYNC Start=2323848><P Class=ENCC>
+Just like with Lacey Duvall?
+<SYNC Start=2325604><P Class=ENCC>
+Absolutely.
+<SYNC Start=2326681><P Class=ENCC>&nbsp;
+<SYNC Start=2335157><P Class=ENCC>
+Now I see it.
+<SYNC Start=2336397><P Class=ENCC>&nbsp;
+<SYNC Start=2337274><P Class=ENCC>
+What, see what?
+<SYNC Start=2338697><P Class=ENCC>&nbsp;
+<SYNC Start=2339562><P Class=ENCC>
+The family resemblance.
+<SYNC Start=2341036><P Class=ENCC>&nbsp;
+<SYNC Start=2342035><P Class=ENCC>
+Donny and Marie.
+<SYNC Start=2343204><P Class=ENCC>&nbsp;
+<SYNC Start=2344242><P Class=ENCC>
+Brother and sister.
+<SYNC Start=2345433><P Class=ENCC>&nbsp;
+<SYNC Start=2346603><P Class=ENCC>
+And I've got the DNA to prove it.
+<SYNC Start=2348024><P Class=ENCC>&nbsp;
+<SYNC Start=2350207><P Class=ENCC>
+Let me tell you what else I can prove
+<SYNC Start=2351585><P Class=ENCC>&nbsp;
+<SYNC Start=2352256><P Class=ENCC>
+your sister,
+<SYNC Start=2353916><P Class=ENCC>
+killed Lacey Duvall.
+<SYNC Start=2355038><P Class=ENCC>&nbsp;
+<SYNC Start=2358891><P Class=ENCC>
+He told me he loves me.
+<SYNC Start=2360420><P Class=ENCC>
+No more faking love. No more act.
+<SYNC Start=2362663><P Class=ENCC>&nbsp;
+<SYNC Start=2363053><P Class=ENCC>
+Is that what he told you?<br>
+That it was an act?
+<SYNC Start=2365906><P Class=ENCC>
+It's as real as it gets.
+<SYNC Start=2367308><P Class=ENCC>&nbsp;
+<SYNC Start=2367648><P Class=ENCC>
+Patrick says you're small- time.
+<SYNC Start=2369278><P Class=ENCC>
+You just don't have the stones to go big.
+<SYNC Start=2372038><P Class=ENCC>
+You don't know Patrick.
+<SYNC Start=2373140><P Class=ENCC>
+You mean, Chad?
+<SYNC Start=2374443><P Class=ENCC>&nbsp;
+<SYNC Start=2376419><P Class=ENCC>
+He gave me this.
+<SYNC Start=2377835><P Class=ENCC>
+You know what's next.
+<SYNC Start=2379405><P Class=ENCC>
+It's my turn.
+<SYNC Start=2380659><P Class=ENCC>&nbsp;
+<SYNC Start=2392022><P Class=ENCC>
+You're surprised?
+<SYNC Start=2394168><P Class=ENCC>
+Look at your face.
+<SYNC Start=2395858><P Class=ENCC>&nbsp;
+<SYNC Start=2396598><P Class=ENCC>
+You never made a mistake<br>
+until you met her.
+<SYNC Start=2398696><P Class=ENCC>&nbsp;
+<SYNC Start=2399029><P Class=ENCC>
+You killed Lacey because<br>
+I told her about us?
+<SYNC Start=2401054><P Class=ENCC>&nbsp;
+<SYNC Start=2401413><P Class=ENCC>
+I had no choice.
+<SYNC Start=2403221><P Class=ENCC>
+We were partners.
+<SYNC Start=2405241><P Class=ENCC>
+You can't grift me, Chad.<br>
+<SYNC Start=2407061><P Class=ENCC>&nbsp;
+<SYNC Start=2409277><P Class=ENCC>
+Oh, who wants to tell us<br>
+about Portia Richmond?
+<SYNC Start=2412268><P Class=ENCC>&nbsp;
+<SYNC Start=2413759><P Class=ENCC>
+She's in Europe.
+<SYNC Start=2414916><P Class=ENCC>&nbsp;
+<SYNC Start=2416181><P Class=ENCC>
+On a yacht.  In Greece.
+<SYNC Start=2418030><P Class=ENCC>&nbsp;
+<SYNC Start=2418375><P Class=ENCC>
+Oh, right, she's in communicado.<br>
+<SYNC Start=2420026><P Class=ENCC>&nbsp;
+<SYNC Start=2421935><P Class=ENCC>
+Old Testament.  The Book of Jonah.
+<SYNC Start=2424545><P Class=ENCC>&nbsp;
+<SYNC Start=2426005><P Class=ENCC>
+And "Now, the Lord had arranged for<br>
+a great fish to swallow up Jonah."
+<SYNC Start=2429958><P Class=ENCC>&nbsp;
+<SYNC Start=2431613><P Class=ENCC>
+You know what's wrong<br>
+with this piranha though?
+<SYNC Start=2433878><P Class=ENCC>&nbsp;
+<SYNC Start=2434402><P Class=ENCC>
+They've got high cholesterol.
+<SYNC Start=2435977><P Class=ENCC>&nbsp;
+<SYNC Start=2436910><P Class=ENCC>
+Cholesterol is found in humans. Not fish.
+<SYNC Start=2439107><P Class=ENCC>
+So how does a fish acquire<br>
+human cholesterol.
+<SYNC Start=2441966><P Class=ENCC>&nbsp;
+<SYNC Start=2447022><P Class=ENCC>
+You want to fill in the blanks?
+<SYNC Start=2448746><P Class=ENCC>&nbsp;
+<SYNC Start=2451047><P Class=ENCC>
+Portia.
+<SYNC Start=2452231><P Class=ENCC>&nbsp;
+<SYNC Start=2461999><P Class=ENCC>
+You're both under arrest for<br>
+the murder of Portia Richmond.
+<SYNC Start=2465073><P Class=ENCC>&nbsp;
+<SYNC Start=2471784><P Class=ENCC>
+These belong to Tyson Green.
+<SYNC Start=2473401><P Class=ENCC>&nbsp;
+<SYNC Start=2473858><P Class=ENCC>
+Just came to let you know<br>
+he won't be paying up.
+<SYNC Start=2475719><P Class=ENCC>&nbsp;
+<SYNC Start=2476107><P Class=ENCC>
+What's he, dead?
+<SYNC Start=2477348><P Class=ENCC>&nbsp;
+<SYNC Start=2477780><P Class=ENCC>
+Yeah.
+<SYNC Start=2478780><P Class=ENCC>&nbsp;
+<SYNC Start=2485298><P Class=ENCC>
+It's machine 25 again.
+<SYNC Start=2486841><P Class=ENCC>
+Been spittin' silver all day.<br>
+<SYNC Start=2489174><P Class=ENCC>
+It's a good day to gamble.
+<SYNC Start=2490457><P Class=ENCC>&nbsp;
+<SYNC Start=2539387><P Class=ENCC>
+Vegas.  Guy like you.
+<SYNC Start=2543214><P Class=ENCC>
+Come on you're trying to tell me<br>
+that you didn't make a little pit stop.
+<SYNC Start=2545603><P Class=ENCC>&nbsp;
+<SYNC Start=2546919><P Class=ENCC>
+Look, what you do on your time<br>
+is nobody's business.
+<SYNC Start=2549239><P Class=ENCC>
+What you do on my time is my business.
+<SYNC Start=2552341><P Class=ENCC>&nbsp;
+<SYNC Start=2553429><P Class=ENCC>
+Warrick Brown had one of<br>
+my guys sub for him in court.
+<SYNC Start=2556231><P Class=ENCC>
+But I have it on good authority<br>
+that he was gambling.
+<SYNC Start=2558818><P Class=ENCC>&nbsp;
+<SYNC Start=2560101><P Class=ENCC>
+Warrick has a problem.
+<SYNC Start=2561482><P Class=ENCC>
+Ignoring it isn't gonna make it go away.
+<SYNC Start=2564171><P Class=ENCC>
+I won't let you down again.<br>
+<SYNC Start=2566500><P Class=ENCC>&nbsp;
+<SYNC Start=2571339><P Class=ENCC>
+<font color=#D9E7FF>  자막제작 - 네이트 CSI 자막팀 <br>
+(http://club.nate.com/clubcsi)
+<SYNC Start=2573719><P Class=ENCC>&nbsp;
+</BODY>
+</SAMI>

@@ -1,0 +1,3863 @@
+﻿<SAMI>
+<HEAD>
+<STYLE TYPE="text/css">
+<!--
+P { margin-left:2pt; margin-right:2pt; margin-bottom:1pt;
+    margin-top:1pt; font-size:20pt; text-align:center;
+    font-family:Arial, Sans-serif; font-weight:bold; color:white;
+    }
+.KRCC { Name:Korean; lang:ko-KR; SAMIType:CC; }
+.ENCC {Name: English; lang:en-US; SAMI_TYPE: CC;}-->
+</STYLE>
+<!--
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+-->
+<!--
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+-->
+</HEAD>
+<BODY>
+<SYNC Start=0><P Class=KRCC>
+<i>Z Nation 이전 줄거리 건너뛰기</i>
+<SYNC Start=1508><P Class=KRCC>&nbsp;
+<SYNC Start=2929><P Class=KRCC>
+What the hell is going on?
+<SYNC Start=4095><P Class=KRCC>&nbsp;
+<SYNC Start=4097><P Class=KRCC>
+<i>The path to truth, it's<br>not a straight line.</i>
+<SYNC Start=5930><P Class=KRCC>&nbsp;
+<SYNC Start=9269><P Class=KRCC>
+Long gestating plans have been percolating.
+<SYNC Start=11653><P Class=KRCC>&nbsp;
+<SYNC Start=11688><P Class=KRCC>
+Coming into fruition all at once.
+<SYNC Start=13770><P Class=KRCC>&nbsp;
+<SYNC Start=14280><P Class=KRCC>
+I am the true incarnation<br>of the resurrected.
+<SYNC Start=17314><P Class=KRCC>&nbsp;
+<SYNC Start=17733><P Class=KRCC>
+<i>Communication towers.</i>
+<SYNC Start=19650><P Class=KRCC>&nbsp;
+<SYNC Start=20452><P Class=KRCC>
+<i>Multi-layered encryption.</i>
+<SYNC Start=22986><P Class=KRCC>&nbsp;
+<SYNC Start=23072><P Class=KRCC>
+All of the damn chem trails in the sky.
+<SYNC Start=25072><P Class=KRCC>&nbsp;
+<SYNC Start=25124><P Class=KRCC>
+I mean have you seen that?
+<SYNC Start=26406><P Class=KRCC>&nbsp;
+<SYNC Start=26458><P Class=KRCC>
+<i>What is that?</i>
+<SYNC Start=27324><P Class=KRCC>&nbsp;
+<SYNC Start=27409><P Class=KRCC>
+Holy acid flashback man.
+<SYNC Start=30360><P Class=KRCC>&nbsp;
+<SYNC Start=106705><P Class=KRCC>
+우린 이 도로를 벗어 나야 해요
+<SYNC Start=108405><P Class=KRCC>&nbsp;
+<SYNC Start=108407><P Class=KRCC>
+난 여기 좀비구역서 최대한 <br>멀어지고 싶은거야
+<SYNC Start=111742><P Class=KRCC>&nbsp;
+<SYNC Start=111877><P Class=KRCC>
+그러나 우리가 다른 선택은 없는 가 봐
+<SYNC Start=114077><P Class=KRCC>&nbsp;
+<SYNC Start=131680><P Class=KRCC>
+Wait.
+<SYNC Start=132596><P Class=KRCC>&nbsp;
+<SYNC Start=134767><P Class=KRCC>
+저게 뭐죠?
+<SYNC Start=136400><P Class=KRCC>&nbsp;
+<SYNC Start=143108><P Class=KRCC>
+새로운 건데
+<SYNC Start=144741><P Class=KRCC>&nbsp;
+<SYNC Start=144777><P Class=KRCC>
+난 저게 뭘 하는 지 보고 싶은데
+<SYNC Start=146693><P Class=KRCC>&nbsp;
+<SYNC Start=147162><P Class=KRCC>
+사무라이식 도축을 했는데
+<SYNC Start=148996><P Class=KRCC>&nbsp;
+<SYNC Start=149031><P Class=KRCC>
+이런건 정말로 획기적인 거인데
+<SYNC Start=151665><P Class=KRCC>&nbsp;
+<SYNC Start=155421><P Class=KRCC>
+4234번째군
+<SYNC Start=158338><P Class=KRCC>&nbsp;
+<SYNC Start=159341><P Class=KRCC>
+그리고 오늘로써 3번째구
+<SYNC Start=161008><P Class=KRCC>&nbsp;
+<SYNC Start=161043><P Class=KRCC>
+그냥 보이는 대로 다 죽이는구먼 
+<SYNC Start=163710><P Class=KRCC>&nbsp;
+<SYNC Start=163762><P Class=KRCC>
+35번째
+<SYNC Start=165295><P Class=KRCC>&nbsp;
+<SYNC Start=171353><P Class=KRCC>
+<i>여기가 그 유명한 소를 도축을 <br>하던 외계인 지역인걸 들어본 적이</i>
+<SYNC Start=174271><P Class=KRCC>&nbsp;
+<SYNC Start=174306><P Class=KRCC>
+<i>있는 사람 손 들어</i>
+<SYNC Start=175105><P Class=KRCC>&nbsp;
+<SYNC Start=175140><P Class=KRCC>
+<i>외계인 소 도축이요?</i>
+<SYNC Start=176640><P Class=KRCC>&nbsp;
+<SYNC Start=176692><P Class=KRCC>
+응 엑스파일서 안 봤어?
+<SYNC Start=178558><P Class=KRCC>&nbsp;
+<SYNC Start=178610><P Class=KRCC>
+맞아요 삼춘이 애길 한적이 있어요<br>외계인 출몰 지역이요
+<SYNC Start=181361><P Class=KRCC>&nbsp;
+<SYNC Start=181397><P Class=KRCC>
+혹시 너 좀비 대마핀거 아냐?
+<SYNC Start=183530><P Class=KRCC>&nbsp;
+<SYNC Start=183565><P Class=KRCC>
+No.
+<SYNC Start=184147><P Class=KRCC>&nbsp;
+<SYNC Start=184199><P Class=KRCC>
+그럼 그거나 피고 임 좀 다물어
+<SYNC Start=185732><P Class=KRCC>&nbsp;
+<SYNC Start=185784><P Class=KRCC>
+UFO를 믿지 않아?
+<SYNC Start=187617><P Class=KRCC>&nbsp;
+<SYNC Start=188237><P Class=KRCC>
+<i>Sure.</i>
+<SYNC Start=189152><P Class=KRCC>&nbsp;
+<SYNC Start=189204><P Class=KRCC>
+<i>말도 안되요 외계인은 없어요</i>
+<SYNC Start=191154><P Class=KRCC>&nbsp;
+<SYNC Start=191156><P Class=KRCC>
+<i>만약 그들이 존재를 한다면 <br>여기에서 그런 짓이나 하지 않겠지</i>
+<SYNC Start=193490><P Class=KRCC>&nbsp;
+<SYNC Start=193542><P Class=KRCC>
+<i>이런 멍청한 좀비들이나 도축하고 말야</i>
+<SYNC Start=195375><P Class=KRCC>&nbsp;
+<SYNC Start=195411><P Class=KRCC>
+<i>그건 비과학적 논리야</i>
+<SYNC Start=197327><P Class=KRCC>&nbsp;
+<SYNC Start=197329><P Class=KRCC>
+그런데 좀비들이 있잖아요 그러니 외계인들도
+<SYNC Start=199629><P Class=KRCC>&nbsp;
+<SYNC Start=199665><P Class=KRCC>
+내 말은 좀비은 맞는데 그건 아닌 소리지
+<SYNC Start=202082><P Class=KRCC>&nbsp;
+<SYNC Start=202134><P Class=KRCC>
+어이 그래도 좀비가 있는데 외계인들도 없지
+<SYNC Start=204801><P Class=KRCC>&nbsp;
+<SYNC Start=213762><P Class=KRCC>
+오 제발 이 녀석아 시동 좀 걸려라
+<SYNC Start=216313><P Class=KRCC>&nbsp;
+<SYNC Start=225107><P Class=KRCC>
+무슨 언어인거지?
+<SYNC Start=227023><P Class=KRCC>&nbsp;
+<SYNC Start=227076><P Class=KRCC>
+외계인이 말 거는 것 같아요
+<SYNC Start=229526><P Class=KRCC>&nbsp;
+<SYNC Start=229578><P Class=KRCC>
+너 일부러 그런 말해서 내 기분 잡치게 <br>할려고 하는 것 아냐?
+<SYNC Start=232329><P Class=KRCC>&nbsp;
+<SYNC Start=235501><P Class=KRCC>
+나만 여기서 기분이 오싹한건가요?
+<SYNC Start=237617><P Class=KRCC>&nbsp;
+<SYNC Start=243842><P Class=KRCC>
+저 불빛이 어디서 나오는 잘 감시해?
+<SYNC Start=246593><P Class=KRCC>&nbsp;
+<SYNC Start=270536><P Class=KRCC>
+내 말이
+<SYNC Start=272569><P Class=KRCC>&nbsp;
+<SYNC Start=277576><P Class=KRCC>
+저거 흥미로운데
+<SYNC Start=279743><P Class=KRCC>&nbsp;
+<SYNC Start=279795><P Class=KRCC>
+난 내 종말보다 이게 더 신기한지 모르겠어
+<SYNC Start=282996><P Class=KRCC>&nbsp;
+<SYNC Start=283048><P Class=KRCC>
+thank you.
+<SYNC Start=284047><P Class=KRCC>&nbsp;
+<SYNC Start=292591><P Class=KRCC>
+누가 저기 앞서 가서 뭔지 보고 올 사람?
+<SYNC Start=295425><P Class=KRCC>&nbsp;
+<SYNC Start=295427><P Class=KRCC>
+비행기인가?
+<SYNC Start=296343><P Class=KRCC>&nbsp;
+<SYNC Start=296395><P Class=KRCC>
+저런 비행운을 본적이 있어
+<SYNC Start=298345><P Class=KRCC>&nbsp;
+<SYNC Start=298680><P Class=KRCC>
+그냥 구름이라고?
+<SYNC Start=300230><P Class=KRCC>&nbsp;
+<SYNC Start=300265><P Class=KRCC>
+저건 분명 날라 다닌거야
+<SYNC Start=301348><P Class=KRCC>&nbsp;
+<SYNC Start=301400><P Class=KRCC>
+아 집중해
+<SYNC Start=302349><P Class=KRCC>&nbsp;
+<SYNC Start=302401><P Class=KRCC>
+울 아빠는 저런 게 있다고 하셨어
+<SYNC Start=305685><P Class=KRCC>&nbsp;
+<SYNC Start=305737><P Class=KRCC>
+비행기 조종사였지
+<SYNC Start=306770><P Class=KRCC>&nbsp;
+<SYNC Start=306989><P Class=KRCC>
+아빠는 저런 비행 물체는 본적이 있고
+<SYNC Start=310824><P Class=KRCC>&nbsp;
+<SYNC Start=310859><P Class=KRCC>
+네바다 북쪽에서 저런 현상을 목격하셨지
+<SYNC Start=313443><P Class=KRCC>&nbsp;
+<SYNC Start=313445><P Class=KRCC>
+그런 일이 있는 후 정말로 믿으셨지
+<SYNC Start=315662><P Class=KRCC>&nbsp;
+<SYNC Start=315697><P Class=KRCC>
+그래서 난 아주 많은 걸 재잘되면서 <br>물어보았죠
+<SYNC Start=318415><P Class=KRCC>&nbsp;
+<SYNC Start=318450><P Class=KRCC>
+더 이상 궁금하진 않네
+<SYNC Start=319533><P Class=KRCC>&nbsp;
+<SYNC Start=319585><P Class=KRCC>
+좀비는 확실히 있고<br>외계인은 없어
+<SYNC Start=322035><P Class=KRCC>&nbsp;
+<SYNC Start=322087><P Class=KRCC>
+내 말이
+<SYNC Start=323336><P Class=KRCC>&nbsp;
+<SYNC Start=323372><P Class=KRCC>
+UFO는 늘 비행보다 바른 상태라고<br>사람들이 그랬지
+<SYNC Start=327374><P Class=KRCC>&nbsp;
+<SYNC Start=327426><P Class=KRCC>
+오늘 우리가 본 것은 맞는 것 같아
+<SYNC Start=329342><P Class=KRCC>&nbsp;
+<SYNC Start=329378><P Class=KRCC>
+내 말이
+<SYNC Start=330427><P Class=KRCC>&nbsp;
+<SYNC Start=330462><P Class=KRCC>
+널 물게 만들지
+<SYNC Start=332929><P Class=KRCC>&nbsp;
+<SYNC Start=334299><P Class=KRCC>
+농담이야
+<SYNC Start=335682><P Class=KRCC>&nbsp;
+<SYNC Start=349698><P Class=KRCC>
+<i>♪ Have mercy.♪</i>
+<SYNC Start=351748><P Class=KRCC>&nbsp;
+<SYNC Start=353202><P Class=KRCC>
+<i>♪ Oh, have mercy. ♪</i>
+<SYNC Start=356899><P Class=KRCC>&nbsp;
+<SYNC Start=356899><P Class=KRCC>
+그냥 만들어 봄 <font color="829EE0">수정 배포 자유</font> -<br>하도 안 나와서 오립니다 그냥 즐감요^^
+<SYNC Start=359192><P Class=KRCC>&nbsp;
+<SYNC Start=361627><P Class=KRCC>
+10K, 망원경 좀 가져와
+<SYNC Start=364160><P Class=KRCC>&nbsp;
+<SYNC Start=365914><P Class=KRCC>
+저기가 우리가 가기에 확실한가 보게
+<SYNC Start=369382><P Class=KRCC>&nbsp;
+<SYNC Start=370469><P Class=KRCC>
+Okay, Addy. 난 우릴 따라오고
+<SYNC Start=373386><P Class=KRCC>&nbsp;
+<SYNC Start=373422><P Class=KRCC>
+저쪽으로
+<SYNC Start=373837><P Class=KRCC>&nbsp;
+<SYNC Start=373889><P Class=KRCC>
+Thanks.
+<SYNC Start=374971><P Class=KRCC>&nbsp;
+<SYNC Start=375007><P Class=KRCC>
+만약 우리가 도망가야 한다면
+<SYNC Start=378141><P Class=KRCC>&nbsp;
+<SYNC Start=378176><P Class=KRCC>
+우리가 단박에 올라 타야 해
+<SYNC Start=380260><P Class=KRCC>&nbsp;
+<SYNC Start=381013><P Class=KRCC>
+저게 만약 전투비행기라면 우릴 찾을꺼야
+<SYNC Start=383513><P Class=KRCC>&nbsp;
+<SYNC Start=383515><P Class=KRCC>
+종말보다 무섭게 우릴 죽일꺼고
+<SYNC Start=386066><P Class=KRCC>&nbsp;
+<SYNC Start=386101><P Class=KRCC>
+저게 운전 보다 빠를 것 같아요
+<SYNC Start=387567><P Class=KRCC>&nbsp;
+<SYNC Start=387603><P Class=KRCC>
+공교롭게도 내가 마지막에 비행길 <br>잡았을 땐 그러질 못했지
+<SYNC Start=391071><P Class=KRCC>&nbsp;
+<SYNC Start=391106><P Class=KRCC>
+뭔가 문제가 있었나봐?
+<SYNC Start=392405><P Class=KRCC>&nbsp;
+<SYNC Start=392441><P Class=KRCC>
+그게 내가 본적이 없던 비행기 <br>모습을 해서 말야
+<SYNC Start=395692><P Class=KRCC>&nbsp;
+<SYNC Start=395744><P Class=KRCC>
+우린 로스웰에 도착했어
+<SYNC Start=397494><P Class=KRCC>&nbsp;
+<SYNC Start=397529><P Class=KRCC>
+좀비들과 같이 말야
+<SYNC Start=398745><P Class=KRCC>&nbsp;
+<SYNC Start=398780><P Class=KRCC>
+머피 말이 맞아 어찌 됐던지<br>이것들은 지구 생명체가 아니지
+<SYNC Start=402249><P Class=KRCC>&nbsp;
+<SYNC Start=402284><P Class=KRCC>
+이거 무슨 드론 같은 건가?
+<SYNC Start=404034><P Class=KRCC>&nbsp;
+<SYNC Start=404536><P Class=KRCC>
+Maybe.
+<SYNC Start=405535><P Class=KRCC>&nbsp;
+<SYNC Start=405537><P Class=KRCC>
+근데 뭔 종류의 드론인거아?
+<SYNC Start=407203><P Class=KRCC>&nbsp;
+<SYNC Start=407205><P Class=KRCC>
+내가 말했잖아 우리 삼춘이
+<SYNC Start=408538><P Class=KRCC>&nbsp;
+<SYNC Start=408540><P Class=KRCC>
+입 다물라 했지
+<SYNC Start=411041><P Class=KRCC>&nbsp;
+<SYNC Start=425774><P Class=KRCC>
+이게 우리가 믿어야 하는 상황인거지?
+<SYNC Start=428525><P Class=KRCC>&nbsp;
+<SYNC Start=428777><P Class=KRCC>
+외계인 불시착 뭐 이런것
+<SYNC Start=430644><P Class=KRCC>&nbsp;
+<SYNC Start=430696><P Class=KRCC>
+꼭 미래와 같군
+<SYNC Start=432395><P Class=KRCC>&nbsp;
+<SYNC Start=432948><P Class=KRCC>
+살펴보니 여기에 오랫동안 있던 모습이네
+<SYNC Start=436566><P Class=KRCC>&nbsp;
+<SYNC Start=436902><P Class=KRCC>
+모든 문제가 발생 했을 때 <br>불시착한 것 같아
+<SYNC Start=440036><P Class=KRCC>&nbsp;
+<SYNC Start=440238><P Class=KRCC>
+여기에 뭐라 표식이 되어 있는 것 같은데
+<SYNC Start=442405><P Class=KRCC>&nbsp;
+<SYNC Start=442741><P Class=KRCC>
+좀 이상하고
+<SYNC Start=444240><P Class=KRCC>&nbsp;
+<SYNC Start=444493><P Class=KRCC>
+이건 비행기가 아니예요 날개가 없어요
+<SYNC Start=446910><P Class=KRCC>&nbsp;
+<SYNC Start=446962><P Class=KRCC>
+그럼 헬기 나 다른 건가
+<SYNC Start=448745><P Class=KRCC>&nbsp;
+<SYNC Start=449081><P Class=KRCC>
+그런데 헬기 회전 축이 안보여
+<SYNC Start=451965><P Class=KRCC>&nbsp;
+<SYNC Start=452751><P Class=KRCC>
+이게 뭐죠?
+<SYNC Start=455251><P Class=KRCC>&nbsp;
+<SYNC Start=457222><P Class=KRCC>
+만약 UFO라 하며 난 나갈꺼야
+<SYNC Start=460223><P Class=KRCC>&nbsp;
+<SYNC Start=460592><P Class=KRCC>
+이거 보이기가
+<SYNC Start=462392><P Class=KRCC>&nbsp;
+<SYNC Start=462427><P Class=KRCC>
+원형 비행 실험체처럼 생겼어
+<SYNC Start=464978><P Class=KRCC>&nbsp;
+<SYNC Start=465013><P Class=KRCC>
+이게 뭐든 어젯 밤 우리가 <br>본 것 과는 다른 종류야
+<SYNC Start=467897><P Class=KRCC>&nbsp;
+<SYNC Start=467933><P Class=KRCC>
+자 가자고 제발
+<SYNC Start=469349><P Class=KRCC>&nbsp;
+<SYNC Start=469401><P Class=KRCC>
+로스웰 안으로?
+<SYNC Start=470650><P Class=KRCC>&nbsp;
+<SYNC Start=470686><P Class=KRCC>
+우리 식량들 필요 하잖아
+<SYNC Start=472435><P Class=KRCC>&nbsp;
+<SYNC Start=472487><P Class=KRCC>
+대단해 좀비 외계인을 보겠군
+<SYNC Start=475021><P Class=KRCC>&nbsp;
+<SYNC Start=476408><P Class=KRCC>
+외계인 따윈 상관없어 다 미신이야
+<SYNC Start=479275><P Class=KRCC>&nbsp;
+<SYNC Start=486001><P Class=KRCC>
+<i>여기에 더 있어</i>
+<SYNC Start=487917><P Class=KRCC>&nbsp;
+<SYNC Start=488954><P Class=KRCC>
+10K, 너가 가
+<SYNC Start=490253><P Class=KRCC>&nbsp;
+<SYNC Start=521536><P Class=KRCC>
+4236과 4237번
+<SYNC Start=524988><P Class=KRCC>&nbsp;
+<SYNC Start=548524><P Class=KRCC>
+3시 방향에
+<SYNC Start=549523><P Class=KRCC>&nbsp;
+<SYNC Start=553312><P Class=KRCC>
+
+<SYNC Start=555028><P Class=KRCC>&nbsp;
+<SYNC Start=555531><P Class=KRCC>
+이 녀석 대단해
+<SYNC Start=556980><P Class=KRCC>&nbsp;
+<SYNC Start=557533><P Class=KRCC>
+여기가 그 유명한 엑스파일이 나온 곳이네요
+<SYNC Start=560817><P Class=KRCC>&nbsp;
+<SYNC Start=560986><P Class=KRCC>
+이게 유일하게 로스웰 시민들이 <br>믿었던 미신인거지
+<SYNC Start=563487><P Class=KRCC>&nbsp;
+<SYNC Start=563539><P Class=KRCC>
+결국 다 돈벌이 인거야
+<SYNC Start=565372><P Class=KRCC>&nbsp;
+<SYNC Start=565707><P Class=KRCC>
+그 신봉자들이 안에 있는 것 같아요
+<SYNC Start=568658><P Class=KRCC>&nbsp;
+<SYNC Start=587646><P Class=KRCC>
+여기에 방문을 하러 오신 건가요?
+<SYNC Start=589563><P Class=KRCC>&nbsp;
+<SYNC Start=589598><P Class=KRCC>
+방문이요?
+<SYNC Start=591348><P Class=KRCC>&nbsp;
+<SYNC Start=591350><P Class=KRCC>
+내 생각에는 그자의 얘긴
+<SYNC Start=593817><P Class=KRCC>&nbsp;
+<SYNC Start=593852><P Class=KRCC>
+Bernadette를 만졌거나 보신게 아닌지?
+<SYNC Start=596403><P Class=KRCC>&nbsp;
+<SYNC Start=596438><P Class=KRCC>
+뭐요?
+<SYNC Start=597654><P Class=KRCC>&nbsp;
+<SYNC Start=597689><P Class=KRCC>
+걱정말아요. 전 Roy라고 해요.<br>전 오티 담당해요
+<SYNC Start=601525><P Class=KRCC>&nbsp;
+<SYNC Start=601527><P Class=KRCC>
+오티요?
+<SYNC Start=602442><P Class=KRCC>&nbsp;
+<SYNC Start=602494><P Class=KRCC>
+탈출을 위해서죠
+<SYNC Start=605362><P Class=KRCC>&nbsp;
+<SYNC Start=605414><P Class=KRCC>
+뭔 탈출?
+<SYNC Start=606446><P Class=KRCC>&nbsp;
+<SYNC Start=606498><P Class=KRCC>
+다 이해를 못하셔도 괜찮아요<br>새로운 식구들이 여길 오죠
+<SYNC Start=608999><P Class=KRCC>&nbsp;
+<SYNC Start=609034><P Class=KRCC>
+리버사이드에서도 오고 <br>아이오와에서도 오고
+<SYNC Start=611201><P Class=KRCC>&nbsp;
+<SYNC Start=611203><P Class=KRCC>
+그럼 이 자가 우주선의 선장인가요
+<SYNC Start=613370><P Class=KRCC>&nbsp;
+<SYNC Start=614840><P Class=KRCC>
+아니 지금 우리가 너의 그 병신 같은 이야길
+<SYNC Start=615922><P Class=KRCC>&nbsp;
+<SYNC Start=615958><P Class=KRCC>
+이해 해줘야 하는 상황인가요?
+<SYNC Start=617207><P Class=KRCC>&nbsp;
+<SYNC Start=617259><P Class=KRCC>
+여기에 계시면 이해 할 수 없는 <br>많은 일들이 생깁니다
+<SYNC Start=619876><P Class=KRCC>&nbsp;
+<SYNC Start=619928><P Class=KRCC>
+비행체의 오묘한 불꽃에서 <br>기분이 좋아지잖아요?
+<SYNC Start=622295><P Class=KRCC>&nbsp;
+<SYNC Start=622347><P Class=KRCC>
+아니요 우린 그 비행 물체에 대해 <br>알아 보러 온거예요
+<SYNC Start=625715><P Class=KRCC>&nbsp;
+<SYNC Start=625717><P Class=KRCC>
+거기에다 음식과 기름이 있음 좋겠군요
+<SYNC Start=626933><P Class=KRCC>&nbsp;
+<SYNC Start=626969><P Class=KRCC>
+당신들은 영생에 대한 생각을 가지고 <br>오신 게 아닌가 보군요
+<SYNC Start=630103><P Class=KRCC>&nbsp;
+<SYNC Start=630138><P Class=KRCC>
+대부분의 사람들은 로스웰에 <br>영생을 위해 오니깐요
+<SYNC Start=633023><P Class=KRCC>&nbsp;
+<SYNC Start=633058><P Class=KRCC>
+요즘 같은 시절엔 말이죠
+<SYNC Start=634357><P Class=KRCC>&nbsp;
+<SYNC Start=634860><P Class=KRCC>
+Nope.
+<SYNC Start=635892><P Class=KRCC>&nbsp;
+<SYNC Start=635894><P Class=KRCC>
+우리가 오는 길에 이상한 불빛을 보긴 했어요
+<SYNC Start=637861><P Class=KRCC>&nbsp;
+<SYNC Start=637896><P Class=KRCC>
+지난 밤에 말이죠
+<SYNC Start=638895><P Class=KRCC>&nbsp;
+<SYNC Start=638897><P Class=KRCC>
+아주 이상하더라고 뭐가 오싹하고
+<SYNC Start=641231><P Class=KRCC>&nbsp;
+<SYNC Start=641233><P Class=KRCC>
+중요한 점은 아직 늦지 않으신 거란 거죠
+<SYNC Start=643400><P Class=KRCC>&nbsp;
+<SYNC Start=643452><P Class=KRCC>
+Bernadette가 되돌아 오기 전에 <br>주변을 소개해드리죠
+<SYNC Start=646870><P Class=KRCC>&nbsp;
+<SYNC Start=646905><P Class=KRCC>
+제가 여러분께 제 Xtronauts<br>친구들을 소개 하죠
+<SYNC Start=649072><P Class=KRCC>&nbsp;
+<SYNC Start=649124><P Class=KRCC>
+Xtronauts?
+<SYNC Start=650156><P Class=KRCC>&nbsp;
+<SYNC Start=650742><P Class=KRCC>
+네 이들이 여러분들이 궁금해 하는 <br>외계인들이예요
+<SYNC Start=653910><P Class=KRCC>&nbsp;
+<SYNC Start=654246><P Class=KRCC>
+신봉자가 아니예요
+<SYNC Start=656546><P Class=KRCC>&nbsp;
+<SYNC Start=656582><P Class=KRCC>
+우린 그런 신봉자가 아니예요<br>그들은 미친거죠
+<SYNC Start=660717><P Class=KRCC>&nbsp;
+<SYNC Start=660752><P Class=KRCC>
+우리 신봉자이고 우리는 제발로<br>온 사람들이예요
+<SYNC Start=663920><P Class=KRCC>&nbsp;
+<SYNC Start=663922><P Class=KRCC>
+우리 자신을 Xtronauts라고 칭해요
+<SYNC Start=666556><P Class=KRCC>&nbsp;
+<SYNC Start=666592><P Class=KRCC>
+우리가 비행선을 타고 지구 곳곳이 <br>다니는 첫 인간들이기 때문이죠
+<SYNC Start=669926><P Class=KRCC>&nbsp;
+<SYNC Start=669978><P Class=KRCC>
+그럼 그렇게 하고자 하는 계획은 뭔가요?
+<SYNC Start=674097><P Class=KRCC>&nbsp;
+<SYNC Start=674149><P Class=KRCC>
+종말로부터 도망 나온 방문자들 중에
+<SYNC Start=676650><P Class=KRCC>&nbsp;
+<SYNC Start=676685><P Class=KRCC>
+우리가 선별해서 뽑고선 우주선을 <br>탈 수 있게 훈련을 하죠
+<SYNC Start=679603><P Class=KRCC>&nbsp;
+<SYNC Start=679655><P Class=KRCC>
+6일 후에 Bernadette가 누군 태울지 <br>고릅니다
+<SYNC Start=682772><P Class=KRCC>&nbsp;
+<SYNC Start=682774><P Class=KRCC>
+Bernadette?
+<SYNC Start=683773><P Class=KRCC>&nbsp;
+<SYNC Start=683775><P Class=KRCC>
+우리 모두 그것을 보았지요
+<SYNC Start=684774><P Class=KRCC>&nbsp;
+<SYNC Start=684776><P Class=KRCC>
+그녀가 유일한 영매사예요
+<SYNC Start=686576><P Class=KRCC>&nbsp;
+<SYNC Start=686612><P Class=KRCC>
+그럼 로이씨 다른 외계인들은 <br>어떻게 대화를 하죠
+<SYNC Start=689496><P Class=KRCC>&nbsp;
+<SYNC Start=689531><P Class=KRCC>
+그들이 무전기로 대화를 하나요?
+<SYNC Start=691865><P Class=KRCC>&nbsp;
+<SYNC Start=691917><P Class=KRCC>
+무전기는 너무나도 신호가 약해요
+<SYNC Start=694084><P Class=KRCC>&nbsp;
+<SYNC Start=694119><P Class=KRCC>
+그들은 지구인의 기술은 필요 없답니다
+<SYNC Start=695702><P Class=KRCC>&nbsp;
+<SYNC Start=695754><P Class=KRCC>
+그들은 그녈 통해서 전달을 해요
+<SYNC Start=699122><P Class=KRCC>&nbsp;
+<SYNC Start=699875><P Class=KRCC>
+<i>드디어</i>
+<SYNC Start=700957><P Class=KRCC>&nbsp;
+<SYNC Start=701460><P Class=KRCC>
+그들이 왔군요
+<SYNC Start=702959><P Class=KRCC>&nbsp;
+<SYNC Start=703962><P Class=KRCC>
+그들이 말해준 것처럼 <br>상황이 생겼네요
+<SYNC Start=707714><P Class=KRCC>&nbsp;
+<SYNC Start=707766><P Class=KRCC>
+새로운 자들이 왔다고요
+<SYNC Start=710517><P Class=KRCC>&nbsp;
+<SYNC Start=711353><P Class=KRCC>
+이쪽으로 오시면 다른 방문자들도 <br>기다리고 있답니다
+<SYNC Start=717223><P Class=KRCC>&nbsp;
+<SYNC Start=721446><P Class=KRCC>
+그들이 말하길
+<SYNC Start=722812><P Class=KRCC>&nbsp;
+<SYNC Start=730822><P Class=KRCC>
+그가 여기에 왔다고 하더라고요
+<SYNC Start=732155><P Class=KRCC>&nbsp;
+<SYNC Start=732207><P Class=KRCC>
+사절단에 말이죠
+<SYNC Start=734124><P Class=KRCC>&nbsp;
+<SYNC Start=734209><P Class=KRCC>
+Oh, oh, okay.
+<SYNC Start=735458><P Class=KRCC>&nbsp;
+<SYNC Start=750559><P Class=KRCC>
+
+<SYNC Start=751925><P Class=KRCC>&nbsp;
+<SYNC Start=757933><P Class=KRCC>
+우린 여러분이 불고기 치킨을 <br>좋아하실지 궁금하네요
+<SYNC Start=761818><P Class=KRCC>&nbsp;
+<SYNC Start=762404><P Class=KRCC>
+우리가 남은 게 이거라서요
+<SYNC Start=764020><P Class=KRCC>&nbsp;
+<SYNC Start=764072><P Class=KRCC>
+No beef stroganoff?
+<SYNC Start=765855><P Class=KRCC>&nbsp;
+<SYNC Start=765857><P Class=KRCC>
+감사하네요 잘 먹을께요
+<SYNC Start=768491><P Class=KRCC>&nbsp;
+<SYNC Start=776001><P Class=KRCC>
+얼마나 머피 사절단을 여기에 <br>두실 껀가요?
+<SYNC Start=778702><P Class=KRCC>&nbsp;
+<SYNC Start=778920><P Class=KRCC>
+우리가 저 사절단에 음식과 필수품을 <br>줘야 할 때 가지죠
+<SYNC Start=781705><P Class=KRCC>&nbsp;
+<SYNC Start=781757><P Class=KRCC>
+우리는 최대한 금방 가겠어요
+<SYNC Start=783673><P Class=KRCC>&nbsp;
+<SYNC Start=786378><P Class=KRCC>
+먼저 가세요 사절단 여러분
+<SYNC Start=788094><P Class=KRCC>&nbsp;
+<SYNC Start=788380><P Class=KRCC>
+인간들의 정이 나쁘지만은 않지 응 머피??
+<SYNC Start=792215><P Class=KRCC>&nbsp;
+<SYNC Start=792217><P Class=KRCC>
+가끔 외계인 대사도 필요하지
+<SYNC Start=794601><P Class=KRCC>&nbsp;
+<SYNC Start=794636><P Class=KRCC>
+내가 언제간 지구 정복자가 되서 <br>다 엎어 버릴꺼여
+<SYNC Start=798304><P Class=KRCC>&nbsp;
+<SYNC Start=814039><P Class=KRCC>
+Can I help you?
+<SYNC Start=815372><P Class=KRCC>&nbsp;
+<SYNC Start=822247><P Class=KRCC>
+Dan.
+<SYNC Start=823413><P Class=KRCC>&nbsp;
+<SYNC Start=823749><P Class=KRCC>
+Dan Scully.
+<SYNC Start=825415><P Class=KRCC>&nbsp;
+<SYNC Start=826501><P Class=KRCC>
+당신이 이 외계인 신봉자들을 <br>다 믿지는 않을 것 같은데
+<SYNC Start=829919><P Class=KRCC>&nbsp;
+<SYNC Start=829921><P Class=KRCC>
+아닌가요?
+<SYNC Start=830387><P Class=KRCC>&nbsp;
+<SYNC Start=830422><P Class=KRCC>
+No, we don't.
+<SYNC Start=831671><P Class=KRCC>&nbsp;
+<SYNC Start=832090><P Class=KRCC>
+맞아요 이자들은 다 미친거죠
+<SYNC Start=836760><P Class=KRCC>&nbsp;
+<SYNC Start=839514><P Class=KRCC>
+그럼 뭐하시는 건가요?
+<SYNC Start=840980><P Class=KRCC>&nbsp;
+<SYNC Start=841016><P Class=KRCC>
+그냥 지나가다가 당신 얘길 듣고 온거요
+<SYNC Start=844434><P Class=KRCC>&nbsp;
+<SYNC Start=845070><P Class=KRCC>
+그들이 말하길 외계인과<br>UFO를 보는게 사실이라 하고
+<SYNC Start=849522><P Class=KRCC>&nbsp;
+<SYNC Start=852160><P Class=KRCC>
+Bernadette라 여자가 거기로 인도 한다고 들었소만
+<SYNC Start=855862><P Class=KRCC>&nbsp;
+<SYNC Start=858200><P Class=KRCC>
+누군가는 들 미친 사람이 있지 않겠소
+<SYNC Start=859199><P Class=KRCC>&nbsp;
+<SYNC Start=859251><P Class=KRCC>
+근데 여기 모인 바보들은 외계인들이 <br>자신을 구원할거라 믿으니 말이요
+<SYNC Start=862452><P Class=KRCC>&nbsp;
+<SYNC Start=862454><P Class=KRCC>
+Right.
+<SYNC Start=864337><P Class=KRCC>&nbsp;
+<SYNC Start=867926><P Class=KRCC>
+그럼 여기 정확히 무슨 일이 이루어지는 <br>지 아는 분은 또 없나요?
+<SYNC Start=869759><P Class=KRCC>&nbsp;
+<SYNC Start=871713><P Class=KRCC>
+Not really.
+<SYNC Start=873463><P Class=KRCC>&nbsp;
+<SYNC Start=873965><P Class=KRCC>
+이 자 말을 듣지 마세요
+<SYNC Start=875932><P Class=KRCC>&nbsp;
+<SYNC Start=876134><P Class=KRCC>
+우리 또한 무슨 일이 이루어지는 모르지 않소.
+<SYNC Start=879269><P Class=KRCC>&nbsp;
+<SYNC Start=883558><P Class=KRCC>
+그 외계인들은 우릴 살려두지는 않는 것 같아요
+<SYNC Start=886943><P Class=KRCC>&nbsp;
+<SYNC Start=887946><P Class=KRCC>
+왜냐하면 이미 여기에 왔으니깐요
+<SYNC Start=890780><P Class=KRCC>&nbsp;
+<SYNC Start=890816><P Class=KRCC>
+내 말이 이 병신 같은 상황이 <br>뭔지 좀 알아 내라 했지
+<SYNC Start=892649><P Class=KRCC>&nbsp;
+<SYNC Start=892651><P Class=KRCC>
+그들은 수천년동안 여기에 이미 와 있었어요
+<SYNC Start=894284><P Class=KRCC>&nbsp;
+<SYNC Start=894319><P Class=KRCC>
+그들이 그 좀비 바이러스를 <br>퍼트린 자들이고요
+<SYNC Start=896986><P Class=KRCC>&nbsp;
+<SYNC Start=897539><P Class=KRCC>
+그들은 지구핵에서 살고,<br>지구 표면에서는 발견이 안되오
+<SYNC Start=899572><P Class=KRCC>&nbsp;
+<SYNC Start=899624><P Class=KRCC>
+그러니 우주선 밖을 나오게 된다면 <br>얼마나 끔찍 할껀가요
+<SYNC Start=900990><P Class=KRCC>&nbsp;
+<SYNC Start=900992><P Class=KRCC>
+이게 영양가 없는 정보인건 아시죠
+<SYNC Start=903576><P Class=KRCC>&nbsp;
+<SYNC Start=903628><P Class=KRCC>
+그리고 전 지구 태생이라서요
+<SYNC Start=905879><P Class=KRCC>&nbsp;
+<SYNC Start=905914><P Class=KRCC>
+오 알겠어요
+<SYNC Start=907547><P Class=KRCC>&nbsp;
+<SYNC Start=908049><P Class=KRCC>
+내가 미쳤다고 생각하시는 건가요
+<SYNC Start=908998><P Class=KRCC>&nbsp;
+<SYNC Start=909000><P Class=KRCC>
+Yeah, I do.
+<SYNC Start=910166><P Class=KRCC>&nbsp;
+<SYNC Start=910218><P Class=KRCC>
+요즘 미친 세상엔 제정신이면 살 수나 있오
+<SYNC Start=913253><P Class=KRCC>&nbsp;
+<SYNC Start=914506><P Class=KRCC>
+내가 만약 당신 쪽 사람이라면
+<SYNC Start=916005><P Class=KRCC>&nbsp;
+<SYNC Start=917592><P Class=KRCC>
+여길 벗어 날꺼요
+<SYNC Start=919008><P Class=KRCC>&nbsp;
+<SYNC Start=919010><P Class=KRCC>
+좀비 외계인이 날 집어 삼키기 전에 말이요
+<SYNC Start=922762><P Class=KRCC>&nbsp;
+<SYNC Start=923348><P Class=KRCC>
+더 늦기 전에 벗어나요
+<SYNC Start=925231><P Class=KRCC>&nbsp;
+<SYNC Start=925851><P Class=KRCC>
+Doc.
+<SYNC Start=927016><P Class=KRCC>&nbsp;
+<SYNC Start=927736><P Class=KRCC>
+당신이 뭘 원하던지
+<SYNC Start=929068><P Class=KRCC>&nbsp;
+<SYNC Start=930689><P Class=KRCC>
+그 외계인 아줌마 말 듣지 마시오
+<SYNC Start=933239><P Class=KRCC>&nbsp;
+<SYNC Start=933658><P Class=KRCC>
+그녀가 당신들을 다 죽일껍니다
+<SYNC Start=936075><P Class=KRCC>&nbsp;
+<SYNC Start=941833><P Class=KRCC>
+좋아 미친자는 보호소로 들어가야지<br>그만 가세요
+<SYNC Start=946085><P Class=KRCC>&nbsp;
+<SYNC Start=946121><P Class=KRCC>
+그럼 우리가 본 물체는 뭐지?
+<SYNC Start=949122><P Class=KRCC>&nbsp;
+<SYNC Start=949174><P Class=KRCC>
+그게 우릴 여기서 벗어나게 해주지 않는가
+<SYNC Start=950790><P Class=KRCC>&nbsp;
+<SYNC Start=950842><P Class=KRCC>
+여기에 사실 공군기지가 있잖아요
+<SYNC Start=952876><P Class=KRCC>&nbsp;
+<SYNC Start=952878><P Class=KRCC>
+그들이 60년대에 버린 곳이 아닌가
+<SYNC Start=954427><P Class=KRCC>&nbsp;
+<SYNC Start=954462><P Class=KRCC>
+그건 헛소문이고요
+<SYNC Start=956429><P Class=KRCC>&nbsp;
+<SYNC Start=958049><P Class=KRCC>
+난 UFO가 차라리 나아
+<SYNC Start=960466><P Class=KRCC>&nbsp;
+<SYNC Start=960519><P Class=KRCC>
+난 누군가 내 엉덩이에 외계인 <br>좀비를 넣는 다면
+<SYNC Start=962719><P Class=KRCC>&nbsp;
+<SYNC Start=962771><P Class=KRCC>
+여기서 안전히 지내다가 그냥 가겠어
+<SYNC Start=965438><P Class=KRCC>&nbsp;
+<SYNC Start=965774><P Class=KRCC>
+Are you serious?
+<SYNC Start=967473><P Class=KRCC>&nbsp;
+<SYNC Start=968059><P Class=KRCC>
+우리가 지금 이야길 하는 거는
+<SYNC Start=970143><P Class=KRCC>&nbsp;
+<SYNC Start=970195><P Class=KRCC>
+버려진 공군기지를 지금 여기 <br>로스웰에서 가는 거잖아요
+<SYNC Start=973980><P Class=KRCC>&nbsp;
+<SYNC Start=974032><P Class=KRCC>
+차라리 우주선을 강탈해서 캘리포니아로 <br>날라 가자는 얘기나 이거나 맞나요?
+<SYNC Start=979152><P Class=KRCC>&nbsp;
+<SYNC Start=979204><P Class=KRCC>
+너가 그렇게 얘길 한다면
+<SYNC Start=980870><P Class=KRCC>&nbsp;
+<SYNC Start=980906><P Class=KRCC>
+지금 말이 된다고 생각해?
+<SYNC Start=982539><P Class=KRCC>&nbsp;
+<SYNC Start=982574><P Class=KRCC>
+우리가 보긴 했잖아요
+<SYNC Start=983790><P Class=KRCC>&nbsp;
+<SYNC Start=983825><P Class=KRCC>
+무언가 비행을 했고요
+<SYNC Start=985241><P Class=KRCC>&nbsp;
+<SYNC Start=985243><P Class=KRCC>
+그럼 거기에 물과 음식 기름이 있단 소리죠
+<SYNC Start=987493><P Class=KRCC>&nbsp;
+<SYNC Start=987546><P Class=KRCC>
+연락이 끊긴 그 친구와 다시 <br>연락을 할 수도 있고
+<SYNC Start=990547><P Class=KRCC>&nbsp;
+<SYNC Start=990582><P Class=KRCC>
+아마도 너 친구인 댄이 우릴 지구 <br>핵(비행기지)로 데려다 준 것 같네여
+<SYNC Start=993583><P Class=KRCC>&nbsp;
+<SYNC Start=993585><P Class=KRCC>
+제가 보여줄게요
+<SYNC Start=995251><P Class=KRCC>&nbsp;
+<SYNC Start=996421><P Class=KRCC>
+Oh my god.
+<SYNC Start=997387><P Class=KRCC>&nbsp;
+<SYNC Start=997422><P Class=KRCC>
+저기에 얼마나 있었던거지?
+<SYNC Start=999305><P Class=KRCC>&nbsp;
+<SYNC Start=999558><P Class=KRCC>
+한 동안요
+<SYNC Start=1000807><P Class=KRCC>&nbsp;
+<SYNC Start=1001393><P Class=KRCC>
+근데 무섭진 않아 (무섭다는 표현)
+<SYNC Start=1004227><P Class=KRCC>&nbsp;
+<SYNC Start=1004763><P Class=KRCC>
+제가 당신들을 거기로 안내 해드릴께요 <br>여기서 멀지 않아요
+<SYNC Start=1007063><P Class=KRCC>&nbsp;
+<SYNC Start=1007098><P Class=KRCC>
+제가 거길 언제나 가죠<br>거기서 그들과 교감을 나눠요
+<SYNC Start=1009933><P Class=KRCC>&nbsp;
+<SYNC Start=1010151><P Class=KRCC>
+The aliens?
+<SYNC Start=1011317><P Class=KRCC>&nbsp;
+<SYNC Start=1011353><P Class=KRCC>
+그들은 방문자라고 불리우길 좋아해요
+<SYNC Start=1014103><P Class=KRCC>&nbsp;
+<SYNC Start=1015907><P Class=KRCC>
+우리가 거기서 무전기와 비행길 찾을 꺼라고
+<SYNC Start=1019609><P Class=KRCC>&nbsp;
+<SYNC Start=1019661><P Class=KRCC>
+아님 빅풋이나
+<SYNC Start=1020693><P Class=KRCC>&nbsp;
+<SYNC Start=1020745><P Class=KRCC>
+웃지마요 우리 삼춘이 빅풋에게 <br>던져진적이 있어요
+<SYNC Start=1024447><P Class=KRCC>&nbsp;
+<SYNC Start=1024950><P Class=KRCC>
+Come.
+<SYNC Start=1026282><P Class=KRCC>&nbsp;
+<SYNC Start=1026284><P Class=KRCC>
+보여드릴께요
+<SYNC Start=1027917><P Class=KRCC>&nbsp;
+<SYNC Start=1032201><P Class=KRCC>
+이것들이 날 오싹하게 만드는 걸
+<SYNC Start=1036120><P Class=KRCC>&nbsp;
+<SYNC Start=1036338><P Class=KRCC>
+난 이게 뭔지 알고도 싶지 않아
+<SYNC Start=1039673><P Class=KRCC>&nbsp;
+<SYNC Start=1041293><P Class=KRCC>
+전기톱도 보이는데
+<SYNC Start=1043877><P Class=KRCC>&nbsp;
+<SYNC Start=1043929><P Class=KRCC>
+그런가
+<SYNC Start=1044845><P Class=KRCC>&nbsp;
+<SYNC Start=1044880><P Class=KRCC>
+지구 물건이 아닌가봐
+<SYNC Start=1046847><P Class=KRCC>&nbsp;
+<SYNC Start=1046882><P Class=KRCC>
+말 멈추지마
+<SYNC Start=1049183><P Class=KRCC>&nbsp;
+<SYNC Start=1049769><P Class=KRCC>
+방문자들이 절 위해 그런 거예요
+<SYNC Start=1053554><P Class=KRCC>&nbsp;
+<SYNC Start=1097683><P Class=KRCC>
+천천히 가요 이러다가 좀비랑 <br>만나면 힘들어져요
+<SYNC Start=1100651><P Class=KRCC>&nbsp;
+<SYNC Start=1100686><P Class=KRCC>
+걱정마요 그들이 절 구해주니깐요
+<SYNC Start=1103187><P Class=KRCC>&nbsp;
+<SYNC Start=1103689><P Class=KRCC>
+당신이야 그렇지만 우린 어쩌라고
+<SYNC Start=1107024><P Class=KRCC>&nbsp;
+<SYNC Start=1111330><P Class=KRCC>
+Wow.
+<SYNC Start=1113080><P Class=KRCC>&nbsp;
+<SYNC Start=1113532><P Class=KRCC>
+무슨 외계인 기술 같은데
+<SYNC Start=1116583><P Class=KRCC>&nbsp;
+<SYNC Start=1118954><P Class=KRCC>
+Bernadette 여기에 무슨 무전기 <br>같은 건 없나요?
+<SYNC Start=1121371><P Class=KRCC>&nbsp;
+<SYNC Start=1121423><P Class=KRCC>
+그들이 사용하는 건요?
+<SYNC Start=1123841><P Class=KRCC>&nbsp;
+<SYNC Start=1123876><P Class=KRCC>
+오래 된 배전실 같은게 있어
+<SYNC Start=1125375><P Class=KRCC>&nbsp;
+<SYNC Start=1125377><P Class=KRCC>
+무전기가 있을 지도 몰라
+<SYNC Start=1126710><P Class=KRCC>&nbsp;
+<SYNC Start=1126762><P Class=KRCC>
+어디에 있어요?
+<SYNC Start=1127761><P Class=KRCC>&nbsp;
+<SYNC Start=1127796><P Class=KRCC>
+당신 뒤에요
+<SYNC Start=1129546><P Class=KRCC>&nbsp;
+<SYNC Start=1133719><P Class=KRCC>
+무전기 확인 하자고
+<SYNC Start=1135435><P Class=KRCC>&nbsp;
+<SYNC Start=1135471><P Class=KRCC>
+왜 다른 건 없을 꺼라고 생각해요
+<SYNC Start=1137554><P Class=KRCC>&nbsp;
+<SYNC Start=1137606><P Class=KRCC>
+Be careful.
+<SYNC Start=1138555><P Class=KRCC>&nbsp;
+<SYNC Start=1139475><P Class=KRCC>
+You too.
+<SYNC Start=1140440><P Class=KRCC>&nbsp;
+<SYNC Start=1148450><P Class=KRCC>
+다른 건 없어?
+<SYNC Start=1149483><P Class=KRCC>&nbsp;
+<SYNC Start=1149535><P Class=KRCC>
+Nothing.
+<SYNC Start=1150234><P Class=KRCC>&nbsp;
+<SYNC Start=1150986><P Class=KRCC>
+다 부서졌는데
+<SYNC Start=1151869><P Class=KRCC>&nbsp;
+<SYNC Start=1151904><P Class=KRCC>
+All right. Let's go.
+<SYNC Start=1152819><P Class=KRCC>&nbsp;
+<SYNC Start=1152872><P Class=KRCC>
+Follow me.
+<SYNC Start=1154238><P Class=KRCC>&nbsp;
+<SYNC Start=1167052><P Class=KRCC>
+Look out!
+<SYNC Start=1167968><P Class=KRCC>&nbsp;
+<SYNC Start=1173259><P Class=KRCC>
+Addy! Get Bernadette!
+<SYNC Start=1175058><P Class=KRCC>&nbsp;
+<SYNC Start=1175978><P Class=KRCC>
+엄마에게로 오렴
+<SYNC Start=1177094><P Class=KRCC>&nbsp;
+<SYNC Start=1194947><P Class=KRCC>
+가실까요?
+<SYNC Start=1196697><P Class=KRCC>&nbsp;
+<SYNC Start=1204456><P Class=KRCC>
+환…영해요
+<SYNC Start=1206757><P Class=KRCC>&nbsp;
+<SYNC Start=1207459><P Class=KRCC>
+ET.
+<SYNC Start=1208625><P Class=KRCC>&nbsp;
+<SYNC Start=1209178><P Class=KRCC>
+무전기 안 보여
+<SYNC Start=1211128><P Class=KRCC>&nbsp;
+<SYNC Start=1211180><P Class=KRCC>
+그냥 좀비 몇몇이야
+<SYNC Start=1212846><P Class=KRCC>&nbsp;
+<SYNC Start=1212881><P Class=KRCC>
+Surprise, surprise.
+<SYNC Start=1214431><P Class=KRCC>&nbsp;
+<SYNC Start=1214466><P Class=KRCC>
+버려진 곳일뿐이야
+<SYNC Start=1216800><P Class=KRCC>&nbsp;
+<SYNC Start=1217186><P Class=KRCC>
+누군가 글씨체가 이쁜걸
+<SYNC Start=1219436><P Class=KRCC>&nbsp;
+<SYNC Start=1219471><P Class=KRCC>
+제가 했죠 그래야 오실 때 편리하니깐요
+<SYNC Start=1222639><P Class=KRCC>&nbsp;
+<SYNC Start=1222641><P Class=KRCC>
+도대체가 이 외계인이 뭐가 그리도 좋다고
+<SYNC Start=1225525><P Class=KRCC>&nbsp;
+<SYNC Start=1225561><P Class=KRCC>
+기다리는 거요?
+<SYNC Start=1227144><P Class=KRCC>&nbsp;
+<SYNC Start=1227146><P Class=KRCC>
+냅둬 머피. 그들 일이야 우린 신경 안쓴다고
+<SYNC Start=1231198><P Class=KRCC>&nbsp;
+<SYNC Start=1231233><P Class=KRCC>
+그들은 우릴 지켜보고 있어요
+<SYNC Start=1233150><P Class=KRCC>&nbsp;
+<SYNC Start=1233202><P Class=KRCC>
+우리가 좀비들에게 해하질 않길 바래요
+<SYNC Start=1235235><P Class=KRCC>&nbsp;
+<SYNC Start=1235287><P Class=KRCC>
+그러나 그들은 우리 인간들이 <br>조금은 남길 바래요
+<SYNC Start=1238372><P Class=KRCC>&nbsp;
+<SYNC Start=1238407><P Class=KRCC>
+인간성 존엄 근거로 미쳐버리면
+<SYNC Start=1240874><P Class=KRCC>&nbsp;
+<SYNC Start=1240909><P Class=KRCC>
+내가 먼저 입을 짖어 주겠어
+<SYNC Start=1241992><P Class=KRCC>&nbsp;
+<SYNC Start=1241994><P Class=KRCC>
+여기가 비밀 기지인가요?
+<SYNC Start=1244244><P Class=KRCC>&nbsp;
+<SYNC Start=1246298><P Class=KRCC>
+여기가 당신 최대한 와 본 곳 아닐까요
+<SYNC Start=1248915><P Class=KRCC>&nbsp;
+<SYNC Start=1248968><P Class=KRCC>
+맞죠?
+<SYNC Start=1249967><P Class=KRCC>&nbsp;
+<SYNC Start=1253589><P Class=KRCC>
+Bernadette,
+<SYNC Start=1255339><P Class=KRCC>&nbsp;
+<SYNC Start=1255341><P Class=KRCC>
+여기에 숨겨진 다른 장소는
+<SYNC Start=1257057><P Class=KRCC>&nbsp;
+<SYNC Start=1257092><P Class=KRCC>
+없는 가요?
+<SYNC Start=1259343><P Class=KRCC>&nbsp;
+<SYNC Start=1260062><P Class=KRCC>
+그들이 사절단을 데려 오라 시켰어요
+<SYNC Start=1262763><P Class=KRCC>&nbsp;
+<SYNC Start=1262815><P Class=KRCC>
+Why?
+<SYNC Start=1263730><P Class=KRCC>&nbsp;
+<SYNC Start=1263766><P Class=KRCC>
+모르죠 목소리가 시켰어요
+<SYNC Start=1266099><P Class=KRCC>&nbsp;
+<SYNC Start=1266151><P Class=KRCC>
+The voices?
+<SYNC Start=1267017><P Class=KRCC>&nbsp;
+<SYNC Start=1267019><P Class=KRCC>
+The voices. 전 불빛속에서 그들과 조우를 했죠
+<SYNC Start=1270354><P Class=KRCC>&nbsp;
+<SYNC Start=1271740><P Class=KRCC>
+뭐라고 하던가요?
+<SYNC Start=1273440><P Class=KRCC>&nbsp;
+<SYNC Start=1273492><P Class=KRCC>
+처음에는 잘 들리지 않았어요
+<SYNC Start=1275776><P Class=KRCC>&nbsp;
+<SYNC Start=1275828><P Class=KRCC>
+그러나 나중에 뭐라고 하는지 이해가 되더라고요
+<SYNC Start=1279863><P Class=KRCC>&nbsp;
+<SYNC Start=1279915><P Class=KRCC>
+그들이 여기 보다 나은 곳으로 <br>데려다 준다고 했어요
+<SYNC Start=1282032><P Class=KRCC>&nbsp;
+<SYNC Start=1282084><P Class=KRCC>
+곧 시간이 다가오고 있고요
+<SYNC Start=1283950><P Class=KRCC>&nbsp;
+<SYNC Start=1284003><P Class=KRCC>
+지금 그들이 고치는 중인데<br>금방 끝난다고요
+<SYNC Start=1286670><P Class=KRCC>&nbsp;
+<SYNC Start=1286705><P Class=KRCC>
+와 뭐라는거야
+<SYNC Start=1288538><P Class=KRCC>&nbsp;
+<SYNC Start=1288590><P Class=KRCC>
+나한테 원하는게 뭐라했나요?
+<SYNC Start=1290540><P Class=KRCC>&nbsp;
+<SYNC Start=1290542><P Class=KRCC>
+아직 얘길 하지 않았어요
+<SYNC Start=1292175><P Class=KRCC>&nbsp;
+<SYNC Start=1292211><P Class=KRCC>
+아마도 당신 외계인의 백신일지도 몰라요
+<SYNC Start=1294261><P Class=KRCC>&nbsp;
+<SYNC Start=1294296><P Class=KRCC>
+Great. Just great.
+<SYNC Start=1296129><P Class=KRCC>&nbsp;
+<SYNC Start=1296181><P Class=KRCC>
+그럼 얼마동안 이들과 교신을 한거죠?
+<SYNC Start=1299716><P Class=KRCC>&nbsp;
+<SYNC Start=1299768><P Class=KRCC>
+처음에는
+<SYNC Start=1300851><P Class=KRCC>&nbsp;
+<SYNC Start=1300886><P Class=KRCC>
+남들처럼 하늘에서 불빛을 봤어요
+<SYNC Start=1302886><P Class=KRCC>&nbsp;
+<SYNC Start=1302888><P Class=KRCC>
+그들이 누군지 몰랐고요 어느 날
+<SYNC Start=1305188><P Class=KRCC>&nbsp;
+<SYNC Start=1305224><P Class=KRCC>
+제가 좀비에게 쫓기고 있을때
+<SYNC Start=1307057><P Class=KRCC>&nbsp;
+<SYNC Start=1307059><P Class=KRCC>
+전 죽는 줄 알았어요
+<SYNC Start=1308308><P Class=KRCC>&nbsp;
+<SYNC Start=1308360><P Class=KRCC>
+그러자 빛이 저에게 오구선 구해준다고 했어요
+<SYNC Start=1313113><P Class=KRCC>&nbsp;
+<SYNC Start=1318237><P Class=KRCC>
+여기로 데려왔죠
+<SYNC Start=1319870><P Class=KRCC>&nbsp;
+<SYNC Start=1321540><P Class=KRCC>
+그럼 목소리가 들리는 장소로 데려다 주겠어요?
+<SYNC Start=1325742><P Class=KRCC>&nbsp;
+<SYNC Start=1327296><P Class=KRCC>
+Yes.
+<SYNC Start=1328328><P Class=KRCC>&nbsp;
+<SYNC Start=1332835><P Class=KRCC>
+이게 뭐여?
+<SYNC Start=1334384><P Class=KRCC>&nbsp;
+<SYNC Start=1336755><P Class=KRCC>
+All right. 좀 무서운데
+<SYNC Start=1338922><P Class=KRCC>&nbsp;
+<SYNC Start=1348233><P Class=KRCC>
+All right, 뭐가 오는거지?
+<SYNC Start=1349516><P Class=KRCC>&nbsp;
+<SYNC Start=1349568><P Class=KRCC>
+We wait.
+<SYNC Start=1350567><P Class=KRCC>&nbsp;
+<SYNC Start=1351520><P Class=KRCC>
+마법의 샘물이라도 찾은 거야 닥?
+<SYNC Start=1354438><P Class=KRCC>&nbsp;
+<SYNC Start=1354440><P Class=KRCC>
+Cigarettes, cigarettes,<br>cigarettes, gum, cigarettes.
+<SYNC Start=1357941><P Class=KRCC>&nbsp;
+<SYNC Start=1357943><P Class=KRCC>
+껌 좀 씹어봐
+<SYNC Start=1359192><P Class=KRCC>&nbsp;
+<SYNC Start=1359244><P Class=KRCC>
+뭐 다른건 없어?
+<SYNC Start=1360777><P Class=KRCC>&nbsp;
+<SYNC Start=1362581><P Class=KRCC>
+The gum is free.
+<SYNC Start=1364114><P Class=KRCC>&nbsp;
+<SYNC Start=1364116><P Class=KRCC>
+요즘 같은 세상에는 뭐든지 꽁짜지
+<SYNC Start=1366783><P Class=KRCC>&nbsp;
+<SYNC Start=1373542><P Class=KRCC>
+이상한걸
+<SYNC Start=1375459><P Class=KRCC>&nbsp;
+<SYNC Start=1379131><P Class=KRCC>
+껌이나 뽑아요
+<SYNC Start=1381715><P Class=KRCC>&nbsp;
+<SYNC Start=1383302><P Class=KRCC>
+그래 어차피 몸에 해로운걸 안해야지
+<SYNC Start=1386019><P Class=KRCC>&nbsp;
+<SYNC Start=1397316><P Class=KRCC>
+Doc, no!
+<SYNC Start=1398732><P Class=KRCC>&nbsp;
+<SYNC Start=1400953><P Class=KRCC>
+지진이다!
+<SYNC Start=1402452><P Class=KRCC>&nbsp;
+<SYNC Start=1405073><P Class=KRCC>
+이거 엘레베이터인데!
+<SYNC Start=1407491><P Class=KRCC>&nbsp;
+<SYNC Start=1409161><P Class=KRCC>
+이럴 줄 알았지요!
+<SYNC Start=1410293><P Class=KRCC>&nbsp;
+<SYNC Start=1410329><P Class=KRCC>
+다 함께 오길 원했구요!
+<SYNC Start=1412412><P Class=KRCC>&nbsp;
+<SYNC Start=1412464><P Class=KRCC>
+그녀 어찌 안전 밸트를 매고 있어?!
+<SYNC Start=1414881><P Class=KRCC>&nbsp;
+<SYNC Start=1430816><P Class=KRCC>
+도착 했네요
+<SYNC Start=1432432><P Class=KRCC>&nbsp;
+<SYNC Start=1436738><P Class=KRCC>
+이건 도대체가 뭔지 모를
+<SYNC Start=1437904><P Class=KRCC>&nbsp;
+<SYNC Start=1437940><P Class=KRCC>
+숨겨진 엘리베이터가 이루어진 곳이지?
+<SYNC Start=1441691><P Class=KRCC>&nbsp;
+<SYNC Start=1466351><P Class=KRCC>
+내가 여길 오자고 안 했잖아
+<SYNC Start=1468301><P Class=KRCC>&nbsp;
+<SYNC Start=1468687><P Class=KRCC>
+Well, kid.
+<SYNC Start=1469970><P Class=KRCC>&nbsp;
+<SYNC Start=1470022><P Class=KRCC>
+너 삼춘이 말한 숨겨진 기지 이야긴 맞는 것 같아
+<SYNC Start=1473106><P Class=KRCC>&nbsp;
+<SYNC Start=1473225><P Class=KRCC>
+말했잖아요 진실이라고요
+<SYNC Start=1474975><P Class=KRCC>&nbsp;
+<SYNC Start=1475060><P Class=KRCC>
+이걸 하길 원하는 거야?
+<SYNC Start=1476309><P Class=KRCC>&nbsp;
+<SYNC Start=1476361><P Class=KRCC>
+그래 맞는 말이야 넘 위험해
+<SYNC Start=1478778><P Class=KRCC>&nbsp;
+<SYNC Start=1478814><P Class=KRCC>
+일단 이 아래 있는게 뭔지 <br>확인부터 하고선 파악을 해요
+<SYNC Start=1481898><P Class=KRCC>&nbsp;
+<SYNC Start=1487406><P Class=KRCC>
+이 밑에 뭔가 있다는 자체가 맘에 안 들어
+<SYNC Start=1489906><P Class=KRCC>&nbsp;
+<SYNC Start=1496259><P Class=KRCC>
+그분들이예요 여기에 그들이 계셔요
+<SYNC Start=1500678><P Class=KRCC>&nbsp;
+<SYNC Start=1501047><P Class=KRCC>
+Bernadette!
+<SYNC Start=1502463><P Class=KRCC>&nbsp;
+<SYNC Start=1506686><P Class=KRCC>
+괜찮아요 그들은 제가 누군지 알아요!
+<SYNC Start=1509303><P Class=KRCC>&nbsp;
+<SYNC Start=1516863><P Class=KRCC>
+일단 준비를 하고선 잘해냅시다
+<SYNC Start=1518613><P Class=KRCC>&nbsp;
+<SYNC Start=1519566><P Class=KRCC>
+여기에 그분들이 계셔요 잘 될꺼예요
+<SYNC Start=1522533><P Class=KRCC>&nbsp;
+<SYNC Start=1522785><P Class=KRCC>
+너무 아름 답지 않은가요?
+<SYNC Start=1524735><P Class=KRCC>&nbsp;
+<SYNC Start=1530910><P Class=KRCC>
+이게 뭐지 정말이지 할 말이
+<SYNC Start=1532910><P Class=KRCC>&nbsp;
+<SYNC Start=1534164><P Class=KRCC>
+우리 아빠가 이야기 한대로
+<SYNC Start=1536581><P Class=KRCC>&nbsp;
+<SYNC Start=1549896><P Class=KRCC>
+우릴 해치진 않아요
+<SYNC Start=1551929><P Class=KRCC>&nbsp;
+<SYNC Start=1556436><P Class=KRCC>
+Wait.
+<SYNC Start=1556767><P Class=KRCC>&nbsp;
+<SYNC Start=1558571><P Class=KRCC>
+무언가 잘못 되었어요!
+<SYNC Start=1559937><P Class=KRCC>&nbsp;
+<SYNC Start=1564194><P Class=KRCC>
+안되요 쏘지 마요!
+<SYNC Start=1565943><P Class=KRCC>&nbsp;
+<SYNC Start=1575838><P Class=KRCC>
+그를 죽였어요!
+<SYNC Start=1576787><P Class=KRCC>&nbsp;
+<SYNC Start=1576839><P Class=KRCC>
+뒤로 물러나! Stay back!
+<SYNC Start=1578589><P Class=KRCC>&nbsp;
+<SYNC Start=1578625><P Class=KRCC>
+우리가 뭘 죽인 줄도 모르겠어
+<SYNC Start=1580875><P Class=KRCC>&nbsp;
+<SYNC Start=1585014><P Class=KRCC>
+Get down!
+<SYNC Start=1586714><P Class=KRCC>&nbsp;
+<SYNC Start=1594140><P Class=KRCC>
+다음 번에 구조 낙하산이라도 <br>챙기도 다닐꺼야
+<SYNC Start=1597558><P Class=KRCC>&nbsp;
+<SYNC Start=1601147><P Class=KRCC>
+내가 확인 해볼께
+<SYNC Start=1602947><P Class=KRCC>&nbsp;
+<SYNC Start=1606653><P Class=KRCC>
+뭐지?
+<SYNC Start=1608319><P Class=KRCC>&nbsp;
+<SYNC Start=1609539><P Class=KRCC>
+Zombie guts?
+<SYNC Start=1611322><P Class=KRCC>&nbsp;
+<SYNC Start=1611374><P Class=KRCC>
+Alien blood?
+<SYNC Start=1612623><P Class=KRCC>&nbsp;
+<SYNC Start=1612659><P Class=KRCC>
+이거 미치겠어
+<SYNC Start=1614875><P Class=KRCC>&nbsp;
+<SYNC Start=1614911><P Class=KRCC>
+왜 그를 죽인 거죠?
+<SYNC Start=1616210><P Class=KRCC>&nbsp;
+<SYNC Start=1616246><P Class=KRCC>
+그게 우리 일이니깐요
+<SYNC Start=1618496><P Class=KRCC>&nbsp;
+<SYNC Start=1618498><P Class=KRCC>
+당신들은 그럴 권리가 없어요
+<SYNC Start=1620381><P Class=KRCC>&nbsp;
+<SYNC Start=1620416><P Class=KRCC>
+그 말이 맞긴 해도
+<SYNC Start=1621882><P Class=KRCC>&nbsp;
+<SYNC Start=1621918><P Class=KRCC>
+뭔지 모를 땐
+<SYNC Start=1623167><P Class=KRCC>&nbsp;
+<SYNC Start=1623169><P Class=KRCC>
+좀비로 변하기 전에 다 <br>죽이는게 나아요
+<SYNC Start=1626087><P Class=KRCC>&nbsp;
+<SYNC Start=1627390><P Class=KRCC>
+여긴 안전하지 않아 그러니 나가자고
+<SYNC Start=1629807><P Class=KRCC>&nbsp;
+<SYNC Start=1630176><P Class=KRCC>
+이걸 한 번 봐야 할 것 같지 않아요
+<SYNC Start=1632760><P Class=KRCC>&nbsp;
+<SYNC Start=1633980><P Class=KRCC>
+Let's go.
+<SYNC Start=1635146><P Class=KRCC>&nbsp;
+<SYNC Start=1637267><P Class=KRCC>
+Warren! 이걸 봐
+<SYNC Start=1640851><P Class=KRCC>&nbsp;
+<SYNC Start=1644774><P Class=KRCC>
+공상과학드라마 같아
+<SYNC Start=1647408><P Class=KRCC>&nbsp;
+<SYNC Start=1653116><P Class=KRCC>
+이거 작동을 하나?
+<SYNC Start=1655116><P Class=KRCC>&nbsp;
+<SYNC Start=1656336><P Class=KRCC>
+Way cool.
+<SYNC Start=1658536><P Class=KRCC>&nbsp;
+<SYNC Start=1658588><P Class=KRCC>
+Alien?
+<SYNC Start=1659620><P Class=KRCC>&nbsp;
+<SYNC Start=1659672><P Class=KRCC>
+Maybe.
+<SYNC Start=1660871><P Class=KRCC>&nbsp;
+<SYNC Start=1661207><P Class=KRCC>
+Maybe not.
+<SYNC Start=1662173><P Class=KRCC>&nbsp;
+<SYNC Start=1663376><P Class=KRCC>
+Wait a minute.
+<SYNC Start=1664508><P Class=KRCC>&nbsp;
+<SYNC Start=1665128><P Class=KRCC>
+이거 유닉스 시스템이야
+<SYNC Start=1668596><P Class=KRCC>&nbsp;
+<SYNC Start=1668631><P Class=KRCC>
+Really?
+<SYNC Start=1669680><P Class=KRCC>&nbsp;
+<SYNC Start=1669716><P Class=KRCC>
+아뇨 나 미술고 나왔거든요
+<SYNC Start=1672850><P Class=KRCC>&nbsp;
+<SYNC Start=1674937><P Class=KRCC>
+그럼 좀비 시민과 대화를 <br>나눌 수 있는 건가?
+<SYNC Start=1678022><P Class=KRCC>&nbsp;
+<SYNC Start=1678391><P Class=KRCC>
+한 번 해보지
+<SYNC Start=1679890><P Class=KRCC>&nbsp;
+<SYNC Start=1680560><P Class=KRCC>
+저쪽에서 뭐가 나와도 바로 죽여
+<SYNC Start=1683978><P Class=KRCC>&nbsp;
+<SYNC Start=1686733><P Class=KRCC>
+닥은 머피랑 같이 있고
+<SYNC Start=1688532><P Class=KRCC>&nbsp;
+<SYNC Start=1688568><P Class=KRCC>
+에비가 대화에 성공한 후 우린 나가는 거야
+<SYNC Start=1691118><P Class=KRCC>&nbsp;
+<SYNC Start=1691154><P Class=KRCC>
+Roger that.
+<SYNC Start=1692403><P Class=KRCC>&nbsp;
+<SYNC Start=1706502><P Class=KRCC>
+Wow.
+<SYNC Start=1707585><P Class=KRCC>&nbsp;
+<SYNC Start=1707587><P Class=KRCC>
+여기서 밑을 다 볼 수 있겠어
+<SYNC Start=1709587><P Class=KRCC>&nbsp;
+<SYNC Start=1709589><P Class=KRCC>
+그래서 우리가 오늘 걸 다 본 모양이야
+<SYNC Start=1711255><P Class=KRCC>&nbsp;
+<SYNC Start=1722485><P Class=KRCC>
+무언가 울기 빠져 나가길 원한 것 같아
+<SYNC Start=1724435><P Class=KRCC>&nbsp;
+<SYNC Start=1728491><P Class=KRCC>
+지금은 버려둔 곳 같아
+<SYNC Start=1730024><P Class=KRCC>&nbsp;
+<SYNC Start=1732195><P Class=KRCC>
+Wait.
+<SYNC Start=1733110><P Class=KRCC>&nbsp;
+<SYNC Start=1733162><P Class=KRCC>
+Bernadette 아줌마는?
+<SYNC Start=1734528><P Class=KRCC>&nbsp;
+<SYNC Start=1734580><P Class=KRCC>
+<i>I'm here.</i>
+<SYNC Start=1736280><P Class=KRCC>&nbsp;
+<SYNC Start=1750930><P Class=KRCC>
+우리가 그들을 믿질 못하면 <br>이렇게 되는 것이예요
+<SYNC Start=1754932><P Class=KRCC>&nbsp;
+<SYNC Start=1756219><P Class=KRCC>
+그들이 그런건가요?
+<SYNC Start=1757468><P Class=KRCC>&nbsp;
+<SYNC Start=1757520><P Class=KRCC>
+선택이 폭이 없군
+<SYNC Start=1759303><P Class=KRCC>&nbsp;
+<SYNC Start=1768981><P Class=KRCC>
+작동 돼?
+<SYNC Start=1770448><P Class=KRCC>&nbsp;
+<SYNC Start=1773202><P Class=KRCC>
+뭐라고 설명을 못하겠어요
+<SYNC Start=1775119><P Class=KRCC>&nbsp;
+<SYNC Start=1775154><P Class=KRCC>
+배터리 문제인지 다른게
+<SYNC Start=1777154><P Class=KRCC>&nbsp;
+<SYNC Start=1791637><P Class=KRCC>
+여기에 있는 괴물은 뭐고 우릴 다 <br>죽일려고 하는건지
+<SYNC Start=1794839><P Class=KRCC>&nbsp;
+<SYNC Start=1795174><P Class=KRCC>
+그러니깐요
+<SYNC Start=1796140><P Class=KRCC>&nbsp;
+<SYNC Start=1796676><P Class=KRCC>
+뭔가 일이 더 꼬이는 것 같아
+<SYNC Start=1798976><P Class=KRCC>&nbsp;
+<SYNC Start=1799011><P Class=KRCC>
+알고 싶지 않고
+<SYNC Start=1801011><P Class=KRCC>&nbsp;
+<SYNC Start=1809689><P Class=KRCC>
+What?
+<SYNC Start=1810821><P Class=KRCC>&nbsp;
+<SYNC Start=1814944><P Class=KRCC>
+Okay.
+<SYNC Start=1816694><P Class=KRCC>&nbsp;
+<SYNC Start=1820249><P Class=KRCC>
+Oh.
+<SYNC Start=1821365><P Class=KRCC>&nbsp;
+<SYNC Start=1827673><P Class=KRCC>
+무언가 우릴 밖으로 보내는 것 같아
+<SYNC Start=1830174><P Class=KRCC>&nbsp;
+<SYNC Start=1831043><P Class=KRCC>
+그게 진짜지 허상인 모르겠어요
+<SYNC Start=1833844><P Class=KRCC>&nbsp;
+<SYNC Start=1833880><P Class=KRCC>
+먼가 이상하긴 해
+<SYNC Start=1835379><P Class=KRCC>&nbsp;
+<SYNC Start=1835431><P Class=KRCC>
+그들이 영어를 쓰는 것도 이상하고
+<SYNC Start=1839383><P Class=KRCC>&nbsp;
+<SYNC Start=1839435><P Class=KRCC>
+이미 우리 인터넷으로 공부라도 한건가
+<SYNC Start=1842269><P Class=KRCC>&nbsp;
+<SYNC Start=1842305><P Class=KRCC>
+세계를 다닌 자료가 있어
+<SYNC Start=1844722><P Class=KRCC>&nbsp;
+<SYNC Start=1848194><P Class=KRCC>
+Oh.
+<SYNC Start=1849477><P Class=KRCC>&nbsp;
+<SYNC Start=1851230><P Class=KRCC>
+무슨 우주서 온 스토커와도 같아
+<SYNC Start=1856567><P Class=KRCC>&nbsp;
+<SYNC Start=1856569><P Class=KRCC>
+이거
+<SYNC Start=1857735><P Class=KRCC>&nbsp;
+<SYNC Start=1859906><P Class=KRCC>
+미치겠군
+<SYNC Start=1862740><P Class=KRCC>&nbsp;
+<SYNC Start=1867296><P Class=KRCC>
+더 이상 없는데 뭐가
+<SYNC Start=1869713><P Class=KRCC>&nbsp;
+<SYNC Start=1876722><P Class=KRCC>
+그게 다야?
+<SYNC Start=1878472><P Class=KRCC>&nbsp;
+<SYNC Start=1880343><P Class=KRCC>
+넌 스타군
+<SYNC Start=1882726><P Class=KRCC>&nbsp;
+<SYNC Start=1884564><P Class=KRCC>
+그건 뭐지?
+<SYNC Start=1885896><P Class=KRCC>&nbsp;
+<SYNC Start=1886933><P Class=KRCC>
+Zona. Zona가 뭐야?
+<SYNC Start=1890351><P Class=KRCC>&nbsp;
+<SYNC Start=1890937><P Class=KRCC>
+그들 고향이 아닌가
+<SYNC Start=1893904><P Class=KRCC>&nbsp;
+<SYNC Start=1893990><P Class=KRCC>
+아님 그들이 우릴 죽이러 들 때 <br>필요한게 아니었을까
+<SYNC Start=1897441><P Class=KRCC>&nbsp;
+<SYNC Start=1906380><P Class=KRCC>
+이쪽으로
+<SYNC Start=1907629><P Class=KRCC>&nbsp;
+<SYNC Start=1916590><P Class=KRCC>
+저기에 뭔가가 있어
+<SYNC Start=1917756><P Class=KRCC>&nbsp;
+<SYNC Start=1917808><P Class=KRCC>
+혹시 모르니 준비하고
+<SYNC Start=1919058><P Class=KRCC>&nbsp;
+<SYNC Start=1919810><P Class=KRCC>
+걱정마요 그들은 평화를 위해 왔어요
+<SYNC Start=1923729><P Class=KRCC>&nbsp;
+<SYNC Start=1925766><P Class=KRCC>
+이들이 원하는 걸 어찌 알아요?
+<SYNC Start=1927516><P Class=KRCC>&nbsp;
+<SYNC Start=1927568><P Class=KRCC>
+만약 좀비라면 우리 뇌를 먹을 꺼예요
+<SYNC Start=1929184><P Class=KRCC>&nbsp;
+<SYNC Start=1929236><P Class=KRCC>
+외계인이라면 문제인거고
+<SYNC Start=1930819><P Class=KRCC>&nbsp;
+<SYNC Start=1930855><P Class=KRCC>
+난 어떤 일이 생기든 다 죽일거예요
+<SYNC Start=1931904><P Class=KRCC>&nbsp;
+<SYNC Start=1931939><P Class=KRCC>
+죽이지 말아요
+<SYNC Start=1933572><P Class=KRCC>&nbsp;
+<SYNC Start=1933607><P Class=KRCC>
+우릴 해치지 않아요?
+<SYNC Start=1936575><P Class=KRCC>&nbsp;
+<SYNC Start=1938195><P Class=KRCC>
+Bernadette, no!
+<SYNC Start=1938994><P Class=KRCC>&nbsp;
+<SYNC Start=1939030><P Class=KRCC>
+괜찮아요
+<SYNC Start=1940612><P Class=KRCC>&nbsp;
+<SYNC Start=1949123><P Class=KRCC>
+문제가 없어요
+<SYNC Start=1951090><P Class=KRCC>&nbsp;
+<SYNC Start=1965306><P Class=KRCC>
+<i>쏘지 말아요</i>
+<SYNC Start=1967356><P Class=KRCC>&nbsp;
+<SYNC Start=2000591><P Class=KRCC>
+Bernadette!
+<SYNC Start=2001256><P Class=KRCC>&nbsp;
+<SYNC Start=2001308><P Class=KRCC>
+Get down!
+<SYNC Start=2002174><P Class=KRCC>&nbsp;
+<SYNC Start=2009567><P Class=KRCC>
+Bernadette!
+<SYNC Start=2010566><P Class=KRCC>&nbsp;
+<SYNC Start=2010601><P Class=KRCC>
+쫒아가요
+<SYNC Start=2012184><P Class=KRCC>&nbsp;
+<SYNC Start=2016690><P Class=KRCC>
+Bernadette!
+<SYNC Start=2018524><P Class=KRCC>&nbsp;
+<SYNC Start=2020828><P Class=KRCC>
+죽이네
+<SYNC Start=2022194><P Class=KRCC>&nbsp;
+<SYNC Start=2024865><P Class=KRCC>
+작동해?
+<SYNC Start=2025531><P Class=KRCC>&nbsp;
+<SYNC Start=2025583><P Class=KRCC>
+글쎄요
+<SYNC Start=2026748><P Class=KRCC>&nbsp;
+<SYNC Start=2032456><P Class=KRCC>
+되는 것 같아요
+<SYNC Start=2034673><P Class=KRCC>&nbsp;
+<SYNC Start=2034708><P Class=KRCC>
+
+<SYNC Start=2036508><P Class=KRCC>&nbsp;
+<SYNC Start=2039430><P Class=KRCC>
+Bernadette?
+<SYNC Start=2040879><P Class=KRCC>&nbsp;
+<SYNC Start=2040931><P Class=KRCC>
+Come on. 그걸 가져와요
+<SYNC Start=2042881><P Class=KRCC>&nbsp;
+<SYNC Start=2057898><P Class=KRCC>
+Ready?
+<SYNC Start=2059281><P Class=KRCC>&nbsp;
+<SYNC Start=2068409><P Class=KRCC>
+What the hell?
+<SYNC Start=2070075><P Class=KRCC>&nbsp;
+<SYNC Start=2070377><P Class=KRCC>
+다시 제자리야
+<SYNC Start=2072794><P Class=KRCC>&nbsp;
+<SYNC Start=2073631><P Class=KRCC>
+이게 무슨 마법인가?
+<SYNC Start=2075914><P Class=KRCC>&nbsp;
+<SYNC Start=2075916><P Class=KRCC>
+방문객 입장
+<SYNC Start=2077382><P Class=KRCC>&nbsp;
+<SYNC Start=2077418><P Class=KRCC>
+그녀와 외계인은 안보여?
+<SYNC Start=2080052><P Class=KRCC>&nbsp;
+<SYNC Start=2082556><P Class=KRCC>
+There.
+<SYNC Start=2083755><P Class=KRCC>&nbsp;
+<SYNC Start=2085426><P Class=KRCC>
+미치겠어
+<SYNC Start=2087926><P Class=KRCC>&nbsp;
+<SYNC Start=2093350><P Class=KRCC>
+Careful, gentlemen.
+<SYNC Start=2095267><P Class=KRCC>&nbsp;
+<SYNC Start=2096403><P Class=KRCC>
+일 그르치지마요
+<SYNC Start=2098437><P Class=KRCC>&nbsp;
+<SYNC Start=2099023><P Class=KRCC>
+모든 건물이 살아있는 것 같아
+<SYNC Start=2101523><P Class=KRCC>&nbsp;
+<SYNC Start=2101825><P Class=KRCC>
+알겠어요
+<SYNC Start=2103492><P Class=KRCC>&nbsp;
+<SYNC Start=2103661><P Class=KRCC>
+모든 세상이 그런게지
+<SYNC Start=2105360><P Class=KRCC>&nbsp;
+<SYNC Start=2106080><P Class=KRCC>
+우리가 뭘 찾은지 믿기가 힘들꺼예요
+<SYNC Start=2109748><P Class=KRCC>&nbsp;
+<SYNC Start=2109950><P Class=KRCC>
+뭔데?
+<SYNC Start=2111500><P Class=KRCC>&nbsp;
+<SYNC Start=2118959><P Class=KRCC>
+이게 뭐야
+<SYNC Start=2120459><P Class=KRCC>&nbsp;
+<SYNC Start=2124298><P Class=KRCC>
+Murphy,괜찮아?
+<SYNC Start=2126465><P Class=KRCC>&nbsp;
+<SYNC Start=2128018><P Class=KRCC>
+Murphy?
+<SYNC Start=2129351><P Class=KRCC>&nbsp;
+<SYNC Start=2130137><P Class=KRCC>
+Murphy, 안돼!
+<SYNC Start=2131687><P Class=KRCC>&nbsp;
+<SYNC Start=2139313><P Class=KRCC>
+10K,그들을 없애버려!
+<SYNC Start=2141446><P Class=KRCC>&nbsp;
+<SYNC Start=2152743><P Class=KRCC>
+Murphy, don't do it! Don't go!
+<SYNC Start=2154793><P Class=KRCC>&nbsp;
+<SYNC Start=2155796><P Class=KRCC>
+그들이 좋은 일로 데려가는게 아니야
+<SYNC Start=2159581><P Class=KRCC>&nbsp;
+<SYNC Start=2180404><P Class=KRCC>
+Let's go. This way. 여기로 와
+<SYNC Start=2182521><P Class=KRCC>&nbsp;
+<SYNC Start=2209638><P Class=KRCC>
+저게 터지질 않았으면 싶네요
+<SYNC Start=2211638><P Class=KRCC>&nbsp;
+<SYNC Start=2211664><P Class=KRCC>
+저게 살아있나요?
+<SYNC Start=2213280><P Class=KRCC>&nbsp;
+<SYNC Start=2213366><P Class=KRCC>
+뭐라 할 말이 없어
+<SYNC Start=2214698><P Class=KRCC>&nbsp;
+<SYNC Start=2214784><P Class=KRCC>
+Help him. 그를 도와줘요
+<SYNC Start=2217334><P Class=KRCC>&nbsp;
+<SYNC Start=2217587><P Class=KRCC>
+Oh, oh god.
+<SYNC Start=2219203><P Class=KRCC>&nbsp;
+<SYNC Start=2225294><P Class=KRCC>
+우리가 숨쉬어도 되는 건가요?
+<SYNC Start=2227628><P Class=KRCC>&nbsp;
+<SYNC Start=2228181><P Class=KRCC>
+아무래도 다른 별에서 온 것 같아
+<SYNC Start=2230297><P Class=KRCC>&nbsp;
+<SYNC Start=2243362><P Class=KRCC>
+김수현 (댄 스컬리)?
+<SYNC Start=2244945><P Class=KRCC>&nbsp;
+<SYNC Start=2245364><P Class=KRCC>
+지구 핵서 온 자?
+<SYNC Start=2246947><P Class=KRCC>&nbsp;
+<SYNC Start=2247233><P Class=KRCC>
+이해가 안되요, Mr. Scully.
+<SYNC Start=2249233><P Class=KRCC>&nbsp;
+<SYNC Start=2249318><P Class=KRCC>
+왜 외계인 흉내 내신거죠?
+<SYNC Start=2252036><P Class=KRCC>&nbsp;
+<SYNC Start=2252071><P Class=KRCC>
+미안해요 외게인은 없어요
+<SYNC Start=2255823><P Class=KRCC>&nbsp;
+<SYNC Start=2256159><P Class=KRCC>
+그게
+<SYNC Start=2257041><P Class=KRCC>&nbsp;
+<SYNC Start=2257493><P Class=KRCC>
+그게 저였어요
+<SYNC Start=2259293><P Class=KRCC>&nbsp;
+<SYNC Start=2261414><P Class=KRCC>
+속여서 미안해요
+<SYNC Start=2263998><P Class=KRCC>&nbsp;
+<SYNC Start=2264083><P Class=KRCC>
+비행선에 올라 타면 당신에게 <br>말해 주고 싶었어요
+<SYNC Start=2267918><P Class=KRCC>&nbsp;
+<SYNC Start=2268387><P Class=KRCC>
+외계인들이 없다고?
+<SYNC Start=2271055><P Class=KRCC>&nbsp;
+<SYNC Start=2271090><P Class=KRCC>
+Only you?
+<SYNC Start=2272590><P Class=KRCC>&nbsp;
+<SYNC Start=2272925><P Class=KRCC>
+Just me.
+<SYNC Start=2274675><P Class=KRCC>&nbsp;
+<SYNC Start=2276395><P Class=KRCC>
+나머지들은
+<SYNC Start=2279146><P Class=KRCC>&nbsp;
+<SYNC Start=2279232><P Class=KRCC>
+테스트 좀비 파일럿 이예요
+<SYNC Start=2282433><P Class=KRCC>&nbsp;
+<SYNC Start=2283102><P Class=KRCC>
+어찌 살아 남으거예요?
+<SYNC Start=2284819><P Class=KRCC>&nbsp;
+<SYNC Start=2284904><P Class=KRCC>
+전 몇 달만 여기에 있었어요
+<SYNC Start=2287605><P Class=KRCC>&nbsp;
+<SYNC Start=2288608><P Class=KRCC>
+대부분 죽었거나
+<SYNC Start=2290357><P Class=KRCC>&nbsp;
+<SYNC Start=2290443><P Class=KRCC>
+좀비가 되었죠
+<SYNC Start=2293444><P Class=KRCC>&nbsp;
+<SYNC Start=2293913><P Class=KRCC>
+My job
+<SYNC Start=2295196><P Class=KRCC>&nbsp;
+<SYNC Start=2295281><P Class=KRCC>
+여기서 기술 보완을 하던 사람이예요
+<SYNC Start=2298499><P Class=KRCC>&nbsp;
+<SYNC Start=2299202><P Class=KRCC>
+난 파일럿이 되었어야만 하죠
+<SYNC Start=2301335><P Class=KRCC>&nbsp;
+<SYNC Start=2302505><P Class=KRCC>
+조나라고 불리던 프로젝트죠
+<SYNC Start=2304622><P Class=KRCC>&nbsp;
+<SYNC Start=2305758><P Class=KRCC>
+And
+<SYNC Start=2306957><P Class=KRCC>&nbsp;
+<SYNC Start=2307043><P Class=KRCC>
+당신과 함께 떠나고 싶었어요
+<SYNC Start=2309260><P Class=KRCC>&nbsp;
+<SYNC Start=2309295><P Class=KRCC>
+Zona가 어딘가요?
+<SYNC Start=2310878><P Class=KRCC>&nbsp;
+<SYNC Start=2310963><P Class=KRCC>
+날 데려 가고 싶었다고요?
+<SYNC Start=2312630><P Class=KRCC>&nbsp;
+<SYNC Start=2313266><P Class=KRCC>
+정말 아름다워요
+<SYNC Start=2315516><P Class=KRCC>&nbsp;
+<SYNC Start=2318971><P Class=KRCC>
+그들이 어떻게 절 아나요?
+<SYNC Start=2321472><P Class=KRCC>&nbsp;
+<SYNC Start=2322642><P Class=KRCC>
+얼굴 인식 프로그램이요
+<SYNC Start=2325309><P Class=KRCC>&nbsp;
+<SYNC Start=2325361><P Class=KRCC>
+드론이 당신을 콜로라도에서부터 <br>알았어요
+<SYNC Start=2328028><P Class=KRCC>&nbsp;
+<SYNC Start=2329866><P Class=KRCC>
+A drone in Colorado?
+<SYNC Start=2331315><P Class=KRCC>&nbsp;
+<SYNC Start=2331400><P Class=KRCC>
+이게 외계인 기술이네?
+<SYNC Start=2333817><P Class=KRCC>&nbsp;
+<SYNC Start=2334320><P Class=KRCC>
+누가 알겠어
+<SYNC Start=2335369><P Class=KRCC>&nbsp;
+<SYNC Start=2335454><P Class=KRCC>
+그게 제 최선이었어요
+<SYNC Start=2338489><P Class=KRCC>&nbsp;
+<SYNC Start=2338541><P Class=KRCC>
+Oh wow.
+<SYNC Start=2339957><P Class=KRCC>&nbsp;
+<SYNC Start=2339992><P Class=KRCC>
+난 안 할꺼야?
+<SYNC Start=2342326><P Class=KRCC>&nbsp;
+<SYNC Start=2342378><P Class=KRCC>
+왜 저에게 얘길 하지 않았어요?
+<SYNC Start=2344378><P Class=KRCC>&nbsp;
+<SYNC Start=2344463><P Class=KRCC>
+Because
+<SYNC Start=2345296><P Class=KRCC>&nbsp;
+<SYNC Start=2347083><P Class=KRCC>
+그냥 사실을 말하면 떠날까봐 두려웠어요
+<SYNC Start=2353170><P Class=KRCC>&nbsp;
+<SYNC Start=2358060><P Class=KRCC>
+Dan?
+<SYNC Start=2359510><P Class=KRCC>&nbsp;
+<SYNC Start=2359562><P Class=KRCC>
+그를 그만 보내주자고
+<SYNC Start=2362846><P Class=KRCC>&nbsp;
+<SYNC Start=2390593><P Class=KRCC>
+Come on.
+<SYNC Start=2392293><P Class=KRCC>&nbsp;
+<SYNC Start=2402555><P Class=KRCC>
+Told ya so.
+<SYNC Start=2404054><P Class=KRCC>&nbsp;
+<SYNC Start=2404140><P Class=KRCC>
+암것도 없잖아
+<SYNC Start=2405889><P Class=KRCC>&nbsp;
+<SYNC Start=2428247><P Class=KRCC>
+제대로 못 알아서 미안허이
+<SYNC Start=2430798><P Class=KRCC>&nbsp;
+<SYNC Start=2431584><P Class=KRCC>
+난 외계인과 함께 가고 싶었어
+<SYNC Start=2435052><P Class=KRCC>&nbsp;
+<SYNC Start=2435087><P Class=KRCC>
+이놈의 세상이 뭔지
+<SYNC Start=2438222><P Class=KRCC>&nbsp;
+<SYNC Start=2440142><P Class=KRCC>
+괜찮아요?
+<SYNC Start=2441925><P Class=KRCC>&nbsp;
+<SYNC Start=2441978><P Class=KRCC>
+이게 제 모습이 아니라서
+<SYNC Start=2443594><P Class=KRCC>&nbsp;
+<SYNC Start=2443929><P Class=KRCC>
+로스웰다운 거죠 뭐
+<SYNC Start=2445813><P Class=KRCC>&nbsp;
+<SYNC Start=2445898><P Class=KRCC>
+그런 헛된 희망이라도 있어야 버티죠
+<SYNC Start=2447931><P Class=KRCC>&nbsp;
+<SYNC Start=2448017><P Class=KRCC>
+저에게는요
+<SYNC Start=2449316><P Class=KRCC>&nbsp;
+<SYNC Start=2449402><P Class=KRCC>
+그럼 뭘 해야 하지?
+<SYNC Start=2451652><P Class=KRCC>&nbsp;
+<SYNC Start=2452521><P Class=KRCC>
+I don't know.
+<SYNC Start=2454655><P Class=KRCC>&nbsp;
+<SYNC Start=2457860><P Class=KRCC>
+난 믿어요
+<SYNC Start=2459994><P Class=KRCC>&nbsp;
+<SYNC Start=2482101><P Class=KRCC>
+She's here! She's okay!
+<SYNC Start=2485602><P Class=KRCC>&nbsp;
+<SYNC Start=2488224><P Class=KRCC>
+우린 불빛과 폭발을 보고선 <br>당신을 걱정했어요
+<SYNC Start=2492109><P Class=KRCC>&nbsp;
+<SYNC Start=2492144><P Class=KRCC>
+그들을 보았나요 뭐라고 해요?
+<SYNC Start=2496146><P Class=KRCC>&nbsp;
+<SYNC Start=2501320><P Class=KRCC>
+우리가 좀 더 기다리라고 해요
+<SYNC Start=2504655><P Class=KRCC>&nbsp;
+<SYNC Start=2505458><P Class=KRCC>
+우리 인간은 아직 나약하다고요
+<SYNC Start=2508575><P Class=KRCC>&nbsp;
+
+<SYNC Start=0><P Class=ENCC>
+<i>Previously on Z Nation</i>
+<SYNC Start=1508><P Class=ENCC>&nbsp;
+<SYNC Start=2929><P Class=ENCC>
+What the hell is going on?
+<SYNC Start=4095><P Class=ENCC>&nbsp;
+<SYNC Start=4097><P Class=ENCC>
+<i>The path to truth, it's<br>not a straight line.</i>
+<SYNC Start=5930><P Class=ENCC>&nbsp;
+<SYNC Start=7934><P Class=ENCC>
+[growling]
+<SYNC Start=8817><P Class=ENCC>&nbsp;
+<SYNC Start=9269><P Class=ENCC>
+Long gestating plans have been percolating.
+<SYNC Start=11653><P Class=ENCC>&nbsp;
+<SYNC Start=11688><P Class=ENCC>
+Coming into fruition all at once.
+<SYNC Start=13770><P Class=ENCC>&nbsp;
+<SYNC Start=14280><P Class=ENCC>
+I am the true incarnation<br>of the resurrected.
+<SYNC Start=17314><P Class=ENCC>&nbsp;
+<SYNC Start=17733><P Class=ENCC>
+<i>Communication towers.</i>
+<SYNC Start=19650><P Class=ENCC>&nbsp;
+<SYNC Start=20452><P Class=ENCC>
+<i>Multi-layered encryption.</i>
+<SYNC Start=22986><P Class=ENCC>&nbsp;
+<SYNC Start=23072><P Class=ENCC>
+All of the damn chem trails in the sky.
+<SYNC Start=25072><P Class=ENCC>&nbsp;
+<SYNC Start=25124><P Class=ENCC>
+I mean have you seen that?
+<SYNC Start=26406><P Class=ENCC>&nbsp;
+<SYNC Start=26458><P Class=ENCC>
+<i>What is that?</i>
+<SYNC Start=27324><P Class=ENCC>&nbsp;
+<SYNC Start=27409><P Class=ENCC>
+Holy acid flashback man.
+<SYNC Start=30360><P Class=ENCC>&nbsp;
+<SYNC Start=32331><P Class=ENCC>
+<i>[guitar music plays]</i>
+<SYNC Start=37201><P Class=ENCC>&nbsp;
+<SYNC Start=37203><P Class=ENCC>
+♪
+<SYNC Start=47261><P Class=ENCC>&nbsp;
+<SYNC Start=47263><P Class=ENCC>
+♪
+<SYNC Start=69950><P Class=ENCC>&nbsp;
+<SYNC Start=70002><P Class=ENCC>
+<i>[electric zapping]</i>
+<SYNC Start=81595><P Class=ENCC>&nbsp;
+<SYNC Start=83766><P Class=ENCC>
+<i>[electric zapping]</i>
+<SYNC Start=88518><P Class=ENCC>&nbsp;
+<SYNC Start=88604><P Class=ENCC>
+<i>[unintelligible garbled sounds]</i>
+<SYNC Start=97327><P Class=ENCC>&nbsp;
+<SYNC Start=99732><P Class=ENCC>
+<i>[guitar music plays]</i>
+<SYNC Start=102616><P Class=ENCC>&nbsp;
+<SYNC Start=102651><P Class=ENCC>
+♪
+<SYNC Start=106653><P Class=ENCC>&nbsp;
+<SYNC Start=106705><P Class=ENCC>
+We need to get off the road.
+<SYNC Start=108405><P Class=ENCC>&nbsp;
+<SYNC Start=108407><P Class=ENCC>
+I don't like being so<br>far in Zero's territory.
+<SYNC Start=111742><P Class=ENCC>&nbsp;
+<SYNC Start=111877><P Class=ENCC>
+But I guess we really don't have a choice.
+<SYNC Start=114077><P Class=ENCC>&nbsp;
+<SYNC Start=114163><P Class=ENCC>
+♪
+<SYNC Start=123003><P Class=ENCC>&nbsp;
+<SYNC Start=123055><P Class=ENCC>
+<i>♪ [electronic beeping]</i>
+<SYNC Start=126506><P Class=ENCC>&nbsp;
+<SYNC Start=126558><P Class=ENCC>
+<i>[music stops and resumes]</i>
+<SYNC Start=129393><P Class=ENCC>&nbsp;
+<SYNC Start=131680><P Class=ENCC>
+Wait.
+<SYNC Start=132596><P Class=ENCC>&nbsp;
+<SYNC Start=134767><P Class=ENCC>
+What is that?
+<SYNC Start=136400><P Class=ENCC>&nbsp;
+<SYNC Start=136652><P Class=ENCC>
+♪
+<SYNC Start=141188><P Class=ENCC>&nbsp;
+<SYNC Start=141240><P Class=ENCC>
+[growling]
+<SYNC Start=143073><P Class=ENCC>&nbsp;
+<SYNC Start=143108><P Class=ENCC>
+That is a new one.
+<SYNC Start=144741><P Class=ENCC>&nbsp;
+<SYNC Start=144777><P Class=ENCC>
+Well I want whatever did that.
+<SYNC Start=146693><P Class=ENCC>&nbsp;
+<SYNC Start=147162><P Class=ENCC>
+Like a Samurai surgeon.
+<SYNC Start=148996><P Class=ENCC>&nbsp;
+<SYNC Start=149031><P Class=ENCC>
+Some things you just can't unsee.
+<SYNC Start=151665><P Class=ENCC>&nbsp;
+<SYNC Start=153535><P Class=ENCC>
+[gunshot]
+<SYNC Start=154117><P Class=ENCC>&nbsp;
+<SYNC Start=155421><P Class=ENCC>
+Four thousand two hundred and thirty four.
+<SYNC Start=158338><P Class=ENCC>&nbsp;
+<SYNC Start=159341><P Class=ENCC>
+And a third.
+<SYNC Start=161008><P Class=ENCC>&nbsp;
+<SYNC Start=161043><P Class=ENCC>
+Take the whole kill. You deserve it, kid.
+<SYNC Start=163710><P Class=ENCC>&nbsp;
+<SYNC Start=163762><P Class=ENCC>
+Thirty-five.
+<SYNC Start=165295><P Class=ENCC>&nbsp;
+<SYNC Start=165431><P Class=ENCC>
+♪
+<SYNC Start=167130><P Class=ENCC>&nbsp;
+<SYNC Start=167182><P Class=ENCC>
+<i>[electronic beeping]</i>
+<SYNC Start=171301><P Class=ENCC>&nbsp;
+<SYNC Start=171353><P Class=ENCC>
+<i>[muffled] You know they used to<br>find mutilated cattle out here,</i>
+<SYNC Start=174271><P Class=ENCC>&nbsp;
+<SYNC Start=174306><P Class=ENCC>
+<i>back Pre Z.</i>
+<SYNC Start=175105><P Class=ENCC>&nbsp;
+<SYNC Start=175140><P Class=ENCC>
+<i>[muffled] Mutilated cattle?</i>
+<SYNC Start=176640><P Class=ENCC>&nbsp;
+<SYNC Start=176692><P Class=ENCC>
+Like X-Files mutilated cattle?
+<SYNC Start=178558><P Class=ENCC>&nbsp;
+<SYNC Start=178610><P Class=ENCC>
+Yeah, my uncle knew all<br>about it. Aliens did it.
+<SYNC Start=181361><P Class=ENCC>&nbsp;
+<SYNC Start=181397><P Class=ENCC>
+Have you been smoking my Z weed?
+<SYNC Start=183530><P Class=ENCC>&nbsp;
+<SYNC Start=183565><P Class=ENCC>
+No.
+<SYNC Start=184147><P Class=ENCC>&nbsp;
+<SYNC Start=184199><P Class=ENCC>
+Well maybe you better start.
+<SYNC Start=185732><P Class=ENCC>&nbsp;
+<SYNC Start=185784><P Class=ENCC>
+You believe in UFOs?
+<SYNC Start=187617><P Class=ENCC>&nbsp;
+<SYNC Start=187703><P Class=ENCC>
+<i>[electronic beeping]</i>
+<SYNC Start=188201><P Class=ENCC>&nbsp;
+<SYNC Start=188237><P Class=ENCC>
+<i>Sure.</i>
+<SYNC Start=189152><P Class=ENCC>&nbsp;
+<SYNC Start=189204><P Class=ENCC>
+<i>That's ridiculous. Aliens don't exist.</i>
+<SYNC Start=191154><P Class=ENCC>&nbsp;
+<SYNC Start=191156><P Class=ENCC>
+<i>If they were smart enough to<br>get here, they wouldn't put up</i>
+<SYNC Start=193490><P Class=ENCC>&nbsp;
+<SYNC Start=193542><P Class=ENCC>
+<i>with the dumb-ass human race for a minute.</i>
+<SYNC Start=195375><P Class=ENCC>&nbsp;
+<SYNC Start=195411><P Class=ENCC>
+<i>It's pure science fiction.</i>
+<SYNC Start=197327><P Class=ENCC>&nbsp;
+<SYNC Start=197329><P Class=ENCC>
+That's what people said about zombies.
+<SYNC Start=199629><P Class=ENCC>&nbsp;
+<SYNC Start=199665><P Class=ENCC>
+Well, I mean maybe there's zombies.
+<SYNC Start=202082><P Class=ENCC>&nbsp;
+<SYNC Start=202134><P Class=ENCC>
+But there sure as hell ain't no aliens.
+<SYNC Start=204801><P Class=ENCC>&nbsp;
+<SYNC Start=205087><P Class=ENCC>
+<i>[music stops]</i>
+<SYNC Start=207554><P Class=ENCC>&nbsp;
+<SYNC Start=210342><P Class=ENCC>
+<i>[car engine stops]</i>
+<SYNC Start=211675><P Class=ENCC>&nbsp;
+<SYNC Start=213762><P Class=ENCC>
+Come on, baby. Don't fail me now.
+<SYNC Start=216313><P Class=ENCC>&nbsp;
+<SYNC Start=218684><P Class=ENCC>
+<i>[unintelligible garbled sounds]</i>
+<SYNC Start=224771><P Class=ENCC>&nbsp;
+<SYNC Start=225107><P Class=ENCC>
+What the hell kind of language is that?
+<SYNC Start=227023><P Class=ENCC>&nbsp;
+<SYNC Start=227076><P Class=ENCC>
+Sounds like alien cross talk to me.
+<SYNC Start=229526><P Class=ENCC>&nbsp;
+<SYNC Start=229578><P Class=ENCC>
+Now you're just saying that<br>to piss me off, aren't you?
+<SYNC Start=232329><P Class=ENCC>&nbsp;
+<SYNC Start=232414><P Class=ENCC>
+<i>[unintelligible garbled sounds continue]</i>
+<SYNC Start=235365><P Class=ENCC>&nbsp;
+<SYNC Start=235501><P Class=ENCC>
+Am I the only one a little creeped out?
+<SYNC Start=237617><P Class=ENCC>&nbsp;
+<SYNC Start=237703><P Class=ENCC>
+<i>[unintelligible garbled sounds continue]</i>
+<SYNC Start=243790><P Class=ENCC>&nbsp;
+<SYNC Start=243842><P Class=ENCC>
+Anybody have eyes on where<br>that light's coming from?
+<SYNC Start=246593><P Class=ENCC>&nbsp;
+<SYNC Start=247429><P Class=ENCC>
+<i>[unintelligible garbled sounds continue]</i>
+<SYNC Start=257471><P Class=ENCC>&nbsp;
+<SYNC Start=257473><P Class=ENCC>
+<i>[unintelligible garbled sounds continue]</i>
+<SYNC Start=270400><P Class=ENCC>&nbsp;
+<SYNC Start=270536><P Class=ENCC>
+Like I was saying.
+<SYNC Start=272569><P Class=ENCC>&nbsp;
+<SYNC Start=272905><P Class=ENCC>
+<i>[unintelligible garbled sounds continue]</i>
+<SYNC Start=273870><P Class=ENCC>&nbsp;
+<SYNC Start=273906><P Class=ENCC>
+<i>[music resumes]</i>
+<SYNC Start=275789><P Class=ENCC>&nbsp;
+<SYNC Start=275824><P Class=ENCC>
+[car engine starts]
+<SYNC Start=276790><P Class=ENCC>&nbsp;
+<SYNC Start=277576><P Class=ENCC>
+Well that was exciting.
+<SYNC Start=279743><P Class=ENCC>&nbsp;
+<SYNC Start=279795><P Class=ENCC>
+I don't want my apocalypse any<br>more exciting than it already is
+<SYNC Start=282996><P Class=ENCC>&nbsp;
+<SYNC Start=283048><P Class=ENCC>
+thank you.
+<SYNC Start=284047><P Class=ENCC>&nbsp;
+<SYNC Start=284082><P Class=ENCC>
+♪
+<SYNC Start=292589><P Class=ENCC>&nbsp;
+<SYNC Start=292591><P Class=ENCC>
+Somebody wanna go ahead<br>and tell me what that was?
+<SYNC Start=295425><P Class=ENCC>&nbsp;
+<SYNC Start=295427><P Class=ENCC>
+A plane?
+<SYNC Start=296343><P Class=ENCC>&nbsp;
+<SYNC Start=296395><P Class=ENCC>
+Been seeing those contrails for a while.
+<SYNC Start=298345><P Class=ENCC>&nbsp;
+<SYNC Start=298680><P Class=ENCC>
+Is that possible?
+<SYNC Start=300230><P Class=ENCC>&nbsp;
+<SYNC Start=300265><P Class=ENCC>
+Somebody flying something.
+<SYNC Start=301348><P Class=ENCC>&nbsp;
+<SYNC Start=301400><P Class=ENCC>
+All right, listen.
+<SYNC Start=302349><P Class=ENCC>&nbsp;
+<SYNC Start=302401><P Class=ENCC>
+My dad was this no<br>bullshit, tell it like it is,
+<SYNC Start=305685><P Class=ENCC>&nbsp;
+<SYNC Start=305737><P Class=ENCC>
+Air Force pilot.
+<SYNC Start=306770><P Class=ENCC>&nbsp;
+<SYNC Start=306989><P Class=ENCC>
+He told this story about<br>seeing this brightly lit craft
+<SYNC Start=310824><P Class=ENCC>&nbsp;
+<SYNC Start=310859><P Class=ENCC>
+buzzing over him in northern Nevada.
+<SYNC Start=313443><P Class=ENCC>&nbsp;
+<SYNC Start=313445><P Class=ENCC>
+And it made him a total believer.
+<SYNC Start=315662><P Class=ENCC>&nbsp;
+<SYNC Start=315697><P Class=ENCC>
+And even as a little<br>girl, I like I wondered.
+<SYNC Start=318415><P Class=ENCC>&nbsp;
+<SYNC Start=318450><P Class=ENCC>
+Well wonder no more.
+<SYNC Start=319533><P Class=ENCC>&nbsp;
+<SYNC Start=319585><P Class=ENCC>
+Zombies got here first.<br>There are no aliens.
+<SYNC Start=322035><P Class=ENCC>&nbsp;
+<SYNC Start=322087><P Class=ENCC>
+Well I dunno.
+<SYNC Start=323336><P Class=ENCC>&nbsp;
+<SYNC Start=323372><P Class=ENCC>
+A UFO seems more likely than<br>somebody still able to fly a jet
+<SYNC Start=327374><P Class=ENCC>&nbsp;
+<SYNC Start=327426><P Class=ENCC>
+today. Especially one that can do that.
+<SYNC Start=329342><P Class=ENCC>&nbsp;
+<SYNC Start=329378><P Class=ENCC>
+I'm telling ya
+<SYNC Start=330427><P Class=ENCC>&nbsp;
+<SYNC Start=330462><P Class=ENCC>
+Don't make me bite you.
+<SYNC Start=332929><P Class=ENCC>&nbsp;
+<SYNC Start=334299><P Class=ENCC>
+Kidding.
+<SYNC Start=335682><P Class=ENCC>&nbsp;
+<SYNC Start=344309><P Class=ENCC>
+<i>[electric guitar theme music plays]</i>
+<SYNC Start=349663><P Class=ENCC>&nbsp;
+<SYNC Start=349698><P Class=ENCC>
+<i>♪ Have mercy.♪</i>
+<SYNC Start=351748><P Class=ENCC>&nbsp;
+<SYNC Start=351783><P Class=ENCC>
+<i>[gunshots]</i>
+<SYNC Start=353166><P Class=ENCC>&nbsp;
+<SYNC Start=353202><P Class=ENCC>
+<i>♪ Oh, have mercy. ♪</i>
+<SYNC Start=356899><P Class=ENCC>&nbsp;
+<SYNC Start=356899><P Class=ENCC>
+- Sync and corrected by <font color="829EE0">TheDelta</font> -<br>- www.addic7ed.com -
+<SYNC Start=359192><P Class=ENCC>&nbsp;
+<SYNC Start=361627><P Class=ENCC>
+10K, let me see your scope.
+<SYNC Start=364160><P Class=ENCC>&nbsp;
+<SYNC Start=365914><P Class=ENCC>
+Let's see if there's something<br>for us to go believe in.
+<SYNC Start=369382><P Class=ENCC>&nbsp;
+<SYNC Start=370469><P Class=ENCC>
+Okay, Addy. You can follow us in this
+<SYNC Start=373386><P Class=ENCC>&nbsp;
+<SYNC Start=373422><P Class=ENCC>
+Thing.
+<SYNC Start=373837><P Class=ENCC>&nbsp;
+<SYNC Start=373889><P Class=ENCC>
+Thanks.
+<SYNC Start=374971><P Class=ENCC>&nbsp;
+<SYNC Start=375007><P Class=ENCC>
+Just in case we need to make a getaway.
+<SYNC Start=378141><P Class=ENCC>&nbsp;
+<SYNC Start=378176><P Class=ENCC>
+Looks like something crashed all right.
+<SYNC Start=380260><P Class=ENCC>&nbsp;
+<SYNC Start=381013><P Class=ENCC>
+If it was a plane, we<br>should definitely find it
+<SYNC Start=383513><P Class=ENCC>&nbsp;
+<SYNC Start=383515><P Class=ENCC>
+and fly it the hell out of this apocalypse.
+<SYNC Start=386066><P Class=ENCC>&nbsp;
+<SYNC Start=386101><P Class=ENCC>
+It's a lot faster than driving.
+<SYNC Start=387567><P Class=ENCC>&nbsp;
+<SYNC Start=387603><P Class=ENCC>
+No thanks. Last time I got in<br>a plane, it didn't end so well.
+<SYNC Start=391071><P Class=ENCC>&nbsp;
+<SYNC Start=391106><P Class=ENCC>
+Does anything in your life?
+<SYNC Start=392405><P Class=ENCC>&nbsp;
+<SYNC Start=392441><P Class=ENCC>
+Yeah, well it didn't look<br>like any plane I've seen.
+<SYNC Start=395692><P Class=ENCC>&nbsp;
+<SYNC Start=395744><P Class=ENCC>
+And we are in Rozwell.
+<SYNC Start=397494><P Class=ENCC>&nbsp;
+<SYNC Start=397529><P Class=ENCC>
+With a Z.
+<SYNC Start=398745><P Class=ENCC>&nbsp;
+<SYNC Start=398780><P Class=ENCC>
+Murphy's right. Whatever it<br>is, it isn't extraterrestrial.
+<SYNC Start=402249><P Class=ENCC>&nbsp;
+<SYNC Start=402284><P Class=ENCC>
+What, some kind of drone?
+<SYNC Start=404034><P Class=ENCC>&nbsp;
+<SYNC Start=404536><P Class=ENCC>
+Maybe.
+<SYNC Start=405535><P Class=ENCC>&nbsp;
+<SYNC Start=405537><P Class=ENCC>
+What kinda drone moves like that?
+<SYNC Start=407203><P Class=ENCC>&nbsp;
+<SYNC Start=407205><P Class=ENCC>
+I'm telling ya, my uncle
+<SYNC Start=408538><P Class=ENCC>&nbsp;
+<SYNC Start=408540><P Class=ENCC>
+Don't say it.
+<SYNC Start=411041><P Class=ENCC>&nbsp;
+<SYNC Start=425774><P Class=ENCC>
+Is this what I'm supposed to believe in?
+<SYNC Start=428525><P Class=ENCC>&nbsp;
+<SYNC Start=428777><P Class=ENCC>
+Crash site of some kind.
+<SYNC Start=430644><P Class=ENCC>&nbsp;
+<SYNC Start=430696><P Class=ENCC>
+Looks like the future.
+<SYNC Start=432395><P Class=ENCC>&nbsp;
+<SYNC Start=432948><P Class=ENCC>
+Well it's definitely been here a while.
+<SYNC Start=436566><P Class=ENCC>&nbsp;
+<SYNC Start=436902><P Class=ENCC>
+Probably crashed back<br>when everything went bad.
+<SYNC Start=440036><P Class=ENCC>&nbsp;
+<SYNC Start=440238><P Class=ENCC>
+Looks like there's some markings here.
+<SYNC Start=442405><P Class=ENCC>&nbsp;
+<SYNC Start=442741><P Class=ENCC>
+Kinda weird.
+<SYNC Start=444240><P Class=ENCC>&nbsp;
+<SYNC Start=444493><P Class=ENCC>
+It's not a plane. There's no wings.
+<SYNC Start=446910><P Class=ENCC>&nbsp;
+<SYNC Start=446962><P Class=ENCC>
+Helicopter or something.
+<SYNC Start=448745><P Class=ENCC>&nbsp;
+<SYNC Start=449081><P Class=ENCC>
+Yeah, but where are the rotors?
+<SYNC Start=451965><P Class=ENCC>&nbsp;
+<SYNC Start=452751><P Class=ENCC>
+Guys, what is it?
+<SYNC Start=455251><P Class=ENCC>&nbsp;
+<SYNC Start=457222><P Class=ENCC>
+If anyone says flying<br>saucer, I'm out of here.
+<SYNC Start=460223><P Class=ENCC>&nbsp;
+<SYNC Start=460592><P Class=ENCC>
+Well it sure looks like a
+<SYNC Start=462392><P Class=ENCC>&nbsp;
+<SYNC Start=462427><P Class=ENCC>
+An airborne disc of some kind.
+<SYNC Start=464978><P Class=ENCC>&nbsp;
+<SYNC Start=465013><P Class=ENCC>
+Well whatever it is, it's not<br>the thing we saw last night.
+<SYNC Start=467897><P Class=ENCC>&nbsp;
+<SYNC Start=467933><P Class=ENCC>
+So let's keep going.
+<SYNC Start=469349><P Class=ENCC>&nbsp;
+<SYNC Start=469401><P Class=ENCC>
+Into Roswell?
+<SYNC Start=470650><P Class=ENCC>&nbsp;
+<SYNC Start=470686><P Class=ENCC>
+We need supplies.
+<SYNC Start=472435><P Class=ENCC>&nbsp;
+<SYNC Start=472487><P Class=ENCC>
+Great, more alien huggers.
+<SYNC Start=475021><P Class=ENCC>&nbsp;
+<SYNC Start=475073><P Class=ENCC>
+<i>[growling]</i>
+<SYNC Start=476356><P Class=ENCC>&nbsp;
+<SYNC Start=476408><P Class=ENCC>
+Never mind aliens. Puppies<br>and kittens, people.
+<SYNC Start=479275><P Class=ENCC>&nbsp;
+<SYNC Start=479328><P Class=ENCC>
+<i>[growling]</i>
+<SYNC Start=482779><P Class=ENCC>&nbsp;
+<SYNC Start=482831><P Class=ENCC>
+[gunshot]
+<SYNC Start=483446><P Class=ENCC>&nbsp;
+<SYNC Start=483532><P Class=ENCC>
+[gunshot]
+<SYNC Start=484414><P Class=ENCC>&nbsp;
+<SYNC Start=486001><P Class=ENCC>
+<i>Couple more over here.</i>
+<SYNC Start=487917><P Class=ENCC>&nbsp;
+<SYNC Start=488954><P Class=ENCC>
+10K, you're up.
+<SYNC Start=490253><P Class=ENCC>&nbsp;
+<SYNC Start=494626><P Class=ENCC>
+[growling]
+<SYNC Start=498011><P Class=ENCC>&nbsp;
+<SYNC Start=498046><P Class=ENCC>
+[splorch]
+<SYNC Start=499262><P Class=ENCC>&nbsp;
+<SYNC Start=501266><P Class=ENCC>
+[growling]
+<SYNC Start=502465><P Class=ENCC>&nbsp;
+<SYNC Start=502517><P Class=ENCC>
+<i>[growling]</i>
+<SYNC Start=508054><P Class=ENCC>&nbsp;
+<SYNC Start=508106><P Class=ENCC>
+[splorch]
+<SYNC Start=509439><P Class=ENCC>&nbsp;
+<SYNC Start=521536><P Class=ENCC>
+Four thousand two hundred<br>thirty-six. Thirty-seven.
+<SYNC Start=524988><P Class=ENCC>&nbsp;
+<SYNC Start=546939><P Class=ENCC>
+<i>[growling]</i>
+<SYNC Start=548472><P Class=ENCC>&nbsp;
+<SYNC Start=548524><P Class=ENCC>
+Three o'clock.
+<SYNC Start=549523><P Class=ENCC>&nbsp;
+<SYNC Start=549558><P Class=ENCC>
+[growling]
+<SYNC Start=551608><P Class=ENCC>&nbsp;
+<SYNC Start=551643><P Class=ENCC>
+[swish]
+<SYNC Start=552192><P Class=ENCC>&nbsp;
+<SYNC Start=552311><P Class=ENCC>
+[splorch]
+<SYNC Start=552893><P Class=ENCC>&nbsp;
+<SYNC Start=553312><P Class=ENCC>
+Four thousand two hundred thirty-eight.
+<SYNC Start=555028><P Class=ENCC>&nbsp;
+<SYNC Start=555531><P Class=ENCC>
+Kid's on a roll.
+<SYNC Start=556980><P Class=ENCC>&nbsp;
+<SYNC Start=557533><P Class=ENCC>
+Okay, talk about "I want to believe."
+<SYNC Start=560817><P Class=ENCC>&nbsp;
+<SYNC Start=560986><P Class=ENCC>
+The only thing the good<br>people of Roswell believe in
+<SYNC Start=563487><P Class=ENCC>&nbsp;
+<SYNC Start=563539><P Class=ENCC>
+is liberating money from suckers.
+<SYNC Start=565372><P Class=ENCC>&nbsp;
+<SYNC Start=565707><P Class=ENCC>
+Looks like we got some believers inside.
+<SYNC Start=568658><P Class=ENCC>&nbsp;
+<SYNC Start=587646><P Class=ENCC>
+Are you here for the Visitors?
+<SYNC Start=589563><P Class=ENCC>&nbsp;
+<SYNC Start=589598><P Class=ENCC>
+Visitors?
+<SYNC Start=591348><P Class=ENCC>&nbsp;
+<SYNC Start=591350><P Class=ENCC>
+I think he means
+<SYNC Start=593817><P Class=ENCC>&nbsp;
+<SYNC Start=593852><P Class=ENCC>
+Have you been touched by Bernadette?
+<SYNC Start=596403><P Class=ENCC>&nbsp;
+<SYNC Start=596438><P Class=ENCC>
+Who?
+<SYNC Start=597654><P Class=ENCC>&nbsp;
+<SYNC Start=597689><P Class=ENCC>
+Don't worry. I'm Roy. I'll<br>help you with the orientation.
+<SYNC Start=601525><P Class=ENCC>&nbsp;
+<SYNC Start=601527><P Class=ENCC>
+Orientation?
+<SYNC Start=602442><P Class=ENCC>&nbsp;
+<SYNC Start=602494><P Class=ENCC>
+Yeah. For the exodus.
+<SYNC Start=605362><P Class=ENCC>&nbsp;
+<SYNC Start=605414><P Class=ENCC>
+What exodus?
+<SYNC Start=606446><P Class=ENCC>&nbsp;
+<SYNC Start=606498><P Class=ENCC>
+It's okay to be confused.<br>Many new arrivals are.
+<SYNC Start=608999><P Class=ENCC>&nbsp;
+<SYNC Start=609034><P Class=ENCC>
+We had a guy from Riverside, Iowa show up,
+<SYNC Start=611201><P Class=ENCC>&nbsp;
+<SYNC Start=611203><P Class=ENCC>
+thought he was a starship captain.
+<SYNC Start=613370><P Class=ENCC>&nbsp;
+<SYNC Start=613422><P Class=ENCC>
+[laughing]
+<SYNC Start=614788><P Class=ENCC>&nbsp;
+<SYNC Start=614840><P Class=ENCC>
+Are we supposed to understand
+<SYNC Start=615922><P Class=ENCC>&nbsp;
+<SYNC Start=615958><P Class=ENCC>
+what the hell you're talking about?
+<SYNC Start=617207><P Class=ENCC>&nbsp;
+<SYNC Start=617259><P Class=ENCC>
+You've been drawn here<br>by inexplicable visions
+<SYNC Start=619876><P Class=ENCC>&nbsp;
+<SYNC Start=619928><P Class=ENCC>
+of leaving the planet on<br>a chariot of fire, right?
+<SYNC Start=622295><P Class=ENCC>&nbsp;
+<SYNC Start=622347><P Class=ENCC>
+No. We were drawn here by<br>inexplicable visions of finding
+<SYNC Start=625715><P Class=ENCC>&nbsp;
+<SYNC Start=625717><P Class=ENCC>
+food and gas.
+<SYNC Start=626933><P Class=ENCC>&nbsp;
+<SYNC Start=626969><P Class=ENCC>
+You didn't have a dream of<br>a large elongated human form
+<SYNC Start=630103><P Class=ENCC>&nbsp;
+<SYNC Start=630138><P Class=ENCC>
+with almond eyes telepathically<br>urging you to come to Roswell
+<SYNC Start=633023><P Class=ENCC>&nbsp;
+<SYNC Start=633058><P Class=ENCC>
+at this appointed time?
+<SYNC Start=634357><P Class=ENCC>&nbsp;
+<SYNC Start=634860><P Class=ENCC>
+Nope.
+<SYNC Start=635892><P Class=ENCC>&nbsp;
+<SYNC Start=635894><P Class=ENCC>
+We did see some really<br>strange lights in the sky
+<SYNC Start=637861><P Class=ENCC>&nbsp;
+<SYNC Start=637896><P Class=ENCC>
+last night though.
+<SYNC Start=638895><P Class=ENCC>&nbsp;
+<SYNC Start=638897><P Class=ENCC>
+Everything's strange to<br>you. You grew up in a cave.
+<SYNC Start=641231><P Class=ENCC>&nbsp;
+<SYNC Start=641233><P Class=ENCC>
+Well the important thing<br>is that you're not too late.
+<SYNC Start=643400><P Class=ENCC>&nbsp;
+<SYNC Start=643452><P Class=ENCC>
+Let me show you around<br>before Bernadette returns.
+<SYNC Start=646870><P Class=ENCC>&nbsp;
+<SYNC Start=646905><P Class=ENCC>
+I'll introduce you to<br>your fellow Xtronauts.
+<SYNC Start=649072><P Class=ENCC>&nbsp;
+<SYNC Start=649124><P Class=ENCC>
+Xtronauts?
+<SYNC Start=650156><P Class=ENCC>&nbsp;
+<SYNC Start=650742><P Class=ENCC>
+Hey, man. These... these<br>aliens that you're looking for,
+<SYNC Start=653910><P Class=ENCC>&nbsp;
+<SYNC Start=654246><P Class=ENCC>
+they're not the probing kind are they?
+<SYNC Start=656546><P Class=ENCC>&nbsp;
+<SYNC Start=656582><P Class=ENCC>
+No. We are not abductees.<br>Those people are crazy.
+<SYNC Start=660717><P Class=ENCC>&nbsp;
+<SYNC Start=660752><P Class=ENCC>
+We're inductees. We've<br>been invited, not kidnapped.
+<SYNC Start=663920><P Class=ENCC>&nbsp;
+<SYNC Start=663922><P Class=ENCC>
+We refer to ourselves as Xtronauts because
+<SYNC Start=666556><P Class=ENCC>&nbsp;
+<SYNC Start=666592><P Class=ENCC>
+we will be the first humans<br>to explore the alien world.
+<SYNC Start=669926><P Class=ENCC>&nbsp;
+<SYNC Start=669978><P Class=ENCC>
+So, ummm. How do you plan<br>on doing that exactly?
+<SYNC Start=674097><P Class=ENCC>&nbsp;
+<SYNC Start=674149><P Class=ENCC>
+The Visitors are coming to<br>save us from the apocalypse.
+<SYNC Start=676650><P Class=ENCC>&nbsp;
+<SYNC Start=676685><P Class=ENCC>
+We have been chosen,<br>and they're almost ready.
+<SYNC Start=679603><P Class=ENCC>&nbsp;
+<SYNC Start=679655><P Class=ENCC>
+Just six more days. Bernadette<br>is in close contact with them.
+<SYNC Start=682772><P Class=ENCC>&nbsp;
+<SYNC Start=682774><P Class=ENCC>
+Bernadette?
+<SYNC Start=683773><P Class=ENCC>&nbsp;
+<SYNC Start=683775><P Class=ENCC>
+We've all seen them.
+<SYNC Start=684774><P Class=ENCC>&nbsp;
+<SYNC Start=684776><P Class=ENCC>
+But she's the only one<br>they communicate with.
+<SYNC Start=686576><P Class=ENCC>&nbsp;
+<SYNC Start=686612><P Class=ENCC>
+And Roy, the... the aliens<br>that you communicate with,
+<SYNC Start=689496><P Class=ENCC>&nbsp;
+<SYNC Start=689531><P Class=ENCC>
+do they by any chance use a radio?
+<SYNC Start=691865><P Class=ENCC>&nbsp;
+<SYNC Start=691917><P Class=ENCC>
+Radio is far too primitive for them.
+<SYNC Start=694084><P Class=ENCC>&nbsp;
+<SYNC Start=694119><P Class=ENCC>
+They don't need our technology.
+<SYNC Start=695702><P Class=ENCC>&nbsp;
+<SYNC Start=695754><P Class=ENCC>
+They communicate with her telepathically.
+<SYNC Start=699122><P Class=ENCC>&nbsp;
+<SYNC Start=699875><P Class=ENCC>
+<i>Finally.</i>
+<SYNC Start=700957><P Class=ENCC>&nbsp;
+<SYNC Start=701460><P Class=ENCC>
+They are here.
+<SYNC Start=702959><P Class=ENCC>&nbsp;
+<SYNC Start=703962><P Class=ENCC>
+It's happening just<br>like they said it would.
+<SYNC Start=707714><P Class=ENCC>&nbsp;
+<SYNC Start=707766><P Class=ENCC>
+Strangers have arrived.
+<SYNC Start=710517><P Class=ENCC>&nbsp;
+<SYNC Start=711353><P Class=ENCC>
+Among them will be the one<br>the Visitors are waiting for.
+<SYNC Start=717223><P Class=ENCC>&nbsp;
+<SYNC Start=721446><P Class=ENCC>
+They said
+<SYNC Start=722812><P Class=ENCC>&nbsp;
+<SYNC Start=730822><P Class=ENCC>
+And here he is.
+<SYNC Start=732155><P Class=ENCC>&nbsp;
+<SYNC Start=732207><P Class=ENCC>
+The Emissary.
+<SYNC Start=734124><P Class=ENCC>&nbsp;
+<SYNC Start=734209><P Class=ENCC>
+Oh, oh, okay.
+<SYNC Start=735458><P Class=ENCC>&nbsp;
+<SYNC Start=735494><P Class=ENCC>
+[clapping]
+<SYNC Start=741581><P Class=ENCC>&nbsp;
+<SYNC Start=745337><P Class=ENCC>
+<i>[growling]</i>
+<SYNC Start=748838><P Class=ENCC>&nbsp;
+<SYNC Start=748974><P Class=ENCC>
+[gunshot]
+<SYNC Start=749673><P Class=ENCC>&nbsp;
+<SYNC Start=750559><P Class=ENCC>
+Four thousand two hundred thirty-nine.
+<SYNC Start=751925><P Class=ENCC>&nbsp;
+<SYNC Start=753345><P Class=ENCC>
+<i>[gunshot]</i>
+<SYNC Start=753927><P Class=ENCC>&nbsp;
+<SYNC Start=757933><P Class=ENCC>
+We hope you like teriyaki chicken.
+<SYNC Start=761818><P Class=ENCC>&nbsp;
+<SYNC Start=762404><P Class=ENCC>
+It's all we have left.
+<SYNC Start=764020><P Class=ENCC>&nbsp;
+<SYNC Start=764072><P Class=ENCC>
+No beef stroganoff?
+<SYNC Start=765855><P Class=ENCC>&nbsp;
+<SYNC Start=765857><P Class=ENCC>
+I'm sure it will be fine. Thank you.
+<SYNC Start=768491><P Class=ENCC>&nbsp;
+<SYNC Start=776001><P Class=ENCC>
+How long we gonna let them think<br>that Murphy's their emissary?
+<SYNC Start=778702><P Class=ENCC>&nbsp;
+<SYNC Start=778920><P Class=ENCC>
+As long as they keep giving<br>the emissary food and water.
+<SYNC Start=781705><P Class=ENCC>&nbsp;
+<SYNC Start=781757><P Class=ENCC>
+We'll be out of here soon enough.
+<SYNC Start=783673><P Class=ENCC>&nbsp;
+<SYNC Start=786378><P Class=ENCC>
+After you, your Emissary.
+<SYNC Start=788094><P Class=ENCC>&nbsp;
+<SYNC Start=788380><P Class=ENCC>
+Savior of the human race wasn't<br>good enough for you, huh Murphy?
+<SYNC Start=792215><P Class=ENCC>&nbsp;
+<SYNC Start=792217><P Class=ENCC>
+Needed to be the alien ambassador too.
+<SYNC Start=794601><P Class=ENCC>&nbsp;
+<SYNC Start=794636><P Class=ENCC>
+I'm working my way up to<br>Supreme Leader of the Planet.
+<SYNC Start=798304><P Class=ENCC>&nbsp;
+<SYNC Start=810652><P Class=ENCC>
+[clearing throat]
+<SYNC Start=811951><P Class=ENCC>&nbsp;
+<SYNC Start=814039><P Class=ENCC>
+Can I help you?
+<SYNC Start=815372><P Class=ENCC>&nbsp;
+<SYNC Start=822247><P Class=ENCC>
+Dan.
+<SYNC Start=823413><P Class=ENCC>&nbsp;
+<SYNC Start=823749><P Class=ENCC>
+Dan Scully.
+<SYNC Start=825415><P Class=ENCC>&nbsp;
+<SYNC Start=826501><P Class=ENCC>
+And I bet you don't believe any<br>of this alien exodus crap either
+<SYNC Start=829919><P Class=ENCC>&nbsp;
+<SYNC Start=829921><P Class=ENCC>
+do you?
+<SYNC Start=830387><P Class=ENCC>&nbsp;
+<SYNC Start=830422><P Class=ENCC>
+No, we don't.
+<SYNC Start=831671><P Class=ENCC>&nbsp;
+<SYNC Start=832090><P Class=ENCC>
+Neither do I. These people are nuts.
+<SYNC Start=836760><P Class=ENCC>&nbsp;
+<SYNC Start=839514><P Class=ENCC>
+So what are you doing here?
+<SYNC Start=840980><P Class=ENCC>&nbsp;
+<SYNC Start=841016><P Class=ENCC>
+Just passing through when<br>I came upon these folks.
+<SYNC Start=844434><P Class=ENCC>&nbsp;
+<SYNC Start=845070><P Class=ENCC>
+They think they've been<br>actually seeing UFOs and this
+<SYNC Start=849522><P Class=ENCC>&nbsp;
+<SYNC Start=852160><P Class=ENCC>
+Bernadette chick has been talking to them.
+<SYNC Start=855862><P Class=ENCC>&nbsp;
+<SYNC Start=858200><P Class=ENCC>
+Someone who knows better
+<SYNC Start=859199><P Class=ENCC>&nbsp;
+<SYNC Start=859251><P Class=ENCC>
+than to believe that UFOs<br>are coming to save us.
+<SYNC Start=862452><P Class=ENCC>&nbsp;
+<SYNC Start=862454><P Class=ENCC>
+[laughing] Right.
+<SYNC Start=864337><P Class=ENCC>&nbsp;
+<SYNC Start=867926><P Class=ENCC>
+So you wanna know what's really going on?
+<SYNC Start=869759><P Class=ENCC>&nbsp;
+<SYNC Start=871713><P Class=ENCC>
+Not really.
+<SYNC Start=873463><P Class=ENCC>&nbsp;
+<SYNC Start=873965><P Class=ENCC>
+Don't listen to him.
+<SYNC Start=875932><P Class=ENCC>&nbsp;
+<SYNC Start=876134><P Class=ENCC>
+Of course we want to know<br>what's really going on.
+<SYNC Start=879269><P Class=ENCC>&nbsp;
+<SYNC Start=883558><P Class=ENCC>
+The aliens are not coming to save us.
+<SYNC Start=886943><P Class=ENCC>&nbsp;
+<SYNC Start=887946><P Class=ENCC>
+Because they're already here.
+<SYNC Start=890780><P Class=ENCC>&nbsp;
+<SYNC Start=890816><P Class=ENCC>
+I told you we didn't want<br>to know what's going on.
+<SYNC Start=892649><P Class=ENCC>&nbsp;
+<SYNC Start=892651><P Class=ENCC>
+They've been here for thousands of years.
+<SYNC Start=894284><P Class=ENCC>&nbsp;
+<SYNC Start=894319><P Class=ENCC>
+They're the ones who<br>caused the zombie virus.
+<SYNC Start=896986><P Class=ENCC>&nbsp;
+<SYNC Start=897539><P Class=ENCC>
+They live inside Pluto,<br>which isn't really a planet.
+<SYNC Start=899572><P Class=ENCC>&nbsp;
+<SYNC Start=899624><P Class=ENCC>
+It's really a hollowed out spaceship.
+<SYNC Start=900990><P Class=ENCC>&nbsp;
+<SYNC Start=900992><P Class=ENCC>
+Okay. You know this is<br>all very informative,
+<SYNC Start=903576><P Class=ENCC>&nbsp;
+<SYNC Start=903628><P Class=ENCC>
+but I'm due back on planet Earth, so
+<SYNC Start=905879><P Class=ENCC>&nbsp;
+<SYNC Start=905914><P Class=ENCC>
+Oh, I know.
+<SYNC Start=907547><P Class=ENCC>&nbsp;
+<SYNC Start=908049><P Class=ENCC>
+You think I'm crazy.
+<SYNC Start=908998><P Class=ENCC>&nbsp;
+<SYNC Start=909000><P Class=ENCC>
+Yeah, I do.
+<SYNC Start=910166><P Class=ENCC>&nbsp;
+<SYNC Start=910218><P Class=ENCC>
+Well these days crazy stays alive.
+<SYNC Start=913253><P Class=ENCC>&nbsp;
+<SYNC Start=914506><P Class=ENCC>
+If I was you people,
+<SYNC Start=916005><P Class=ENCC>&nbsp;
+<SYNC Start=917592><P Class=ENCC>
+I'd get out of here
+<SYNC Start=919008><P Class=ENCC>&nbsp;
+<SYNC Start=919010><P Class=ENCC>
+before the zombie aliens<br>come back and infect us all.
+<SYNC Start=922762><P Class=ENCC>&nbsp;
+<SYNC Start=923348><P Class=ENCC>
+Do it now before it's too late.
+<SYNC Start=925231><P Class=ENCC>&nbsp;
+<SYNC Start=925851><P Class=ENCC>
+Doc.
+<SYNC Start=927016><P Class=ENCC>&nbsp;
+<SYNC Start=927736><P Class=ENCC>
+And whatever you do,
+<SYNC Start=929068><P Class=ENCC>&nbsp;
+<SYNC Start=930689><P Class=ENCC>
+do not listen to that Bernadette chick.
+<SYNC Start=933239><P Class=ENCC>&nbsp;
+<SYNC Start=933658><P Class=ENCC>
+She will get you all killed.
+<SYNC Start=936075><P Class=ENCC>&nbsp;
+<SYNC Start=941833><P Class=ENCC>
+Okay. The lunatics have taken<br>over the asylum. Time to go.
+<SYNC Start=946085><P Class=ENCC>&nbsp;
+<SYNC Start=946121><P Class=ENCC>
+What about that aircraft "thing" we saw?
+<SYNC Start=949122><P Class=ENCC>&nbsp;
+<SYNC Start=949174><P Class=ENCC>
+That can fly us out of here.
+<SYNC Start=950790><P Class=ENCC>&nbsp;
+<SYNC Start=950842><P Class=ENCC>
+There's an Air Force base here actually.
+<SYNC Start=952876><P Class=ENCC>&nbsp;
+<SYNC Start=952878><P Class=ENCC>
+They abandoned it back in the 60's.
+<SYNC Start=954427><P Class=ENCC>&nbsp;
+<SYNC Start=954462><P Class=ENCC>
+But that's just a cover story.
+<SYNC Start=956429><P Class=ENCC>&nbsp;
+<SYNC Start=958049><P Class=ENCC>
+Well I want to believe in UFOs.
+<SYNC Start=960466><P Class=ENCC>&nbsp;
+<SYNC Start=960519><P Class=ENCC>
+I mean if somebody wants<br>to fly my ass off this
+<SYNC Start=962719><P Class=ENCC>&nbsp;
+<SYNC Start=962771><P Class=ENCC>
+god forsaken planet, I'm cool with it.
+<SYNC Start=965438><P Class=ENCC>&nbsp;
+<SYNC Start=965774><P Class=ENCC>
+Are you serious?
+<SYNC Start=967473><P Class=ENCC>&nbsp;
+<SYNC Start=968059><P Class=ENCC>
+Are we actually talking about
+<SYNC Start=970143><P Class=ENCC>&nbsp;
+<SYNC Start=970195><P Class=ENCC>
+going to an abandoned<br>Air Force base in Roswell
+<SYNC Start=973980><P Class=ENCC>&nbsp;
+<SYNC Start=974032><P Class=ENCC>
+to see if we can find a<br>UFO to fly us to California?
+<SYNC Start=979152><P Class=ENCC>&nbsp;
+<SYNC Start=979204><P Class=ENCC>
+Well when you say it like that
+<SYNC Start=980870><P Class=ENCC>&nbsp;
+<SYNC Start=980906><P Class=ENCC>
+You mean in English?
+<SYNC Start=982539><P Class=ENCC>&nbsp;
+<SYNC Start=982574><P Class=ENCC>
+Look. We did see something.
+<SYNC Start=983790><P Class=ENCC>&nbsp;
+<SYNC Start=983825><P Class=ENCC>
+And that something was flying,
+<SYNC Start=985241><P Class=ENCC>&nbsp;
+<SYNC Start=985243><P Class=ENCC>
+which means there's a<br>ground crew with fuel, food,
+<SYNC Start=987493><P Class=ENCC>&nbsp;
+<SYNC Start=987546><P Class=ENCC>
+and communication. And I want<br>to get a look at that base.
+<SYNC Start=990547><P Class=ENCC>&nbsp;
+<SYNC Start=990582><P Class=ENCC>
+Maybe your buddy Dan can<br>show us the way... to Pluto.
+<SYNC Start=993583><P Class=ENCC>&nbsp;
+<SYNC Start=993585><P Class=ENCC>
+I can show you.
+<SYNC Start=995251><P Class=ENCC>&nbsp;
+<SYNC Start=996421><P Class=ENCC>
+Oh my god.
+<SYNC Start=997387><P Class=ENCC>&nbsp;
+<SYNC Start=997422><P Class=ENCC>
+How long have you been there?
+<SYNC Start=999305><P Class=ENCC>&nbsp;
+<SYNC Start=999558><P Class=ENCC>
+A while.
+<SYNC Start=1000807><P Class=ENCC>&nbsp;
+<SYNC Start=1001393><P Class=ENCC>
+Okay. That's not creepy.
+<SYNC Start=1004227><P Class=ENCC>&nbsp;
+<SYNC Start=1004763><P Class=ENCC>
+I can show you where the<br>base is. It's not far.
+<SYNC Start=1007063><P Class=ENCC>&nbsp;
+<SYNC Start=1007098><P Class=ENCC>
+I go there all the time.<br>That's where they contact me.
+<SYNC Start=1009933><P Class=ENCC>&nbsp;
+<SYNC Start=1010151><P Class=ENCC>
+The aliens?
+<SYNC Start=1011317><P Class=ENCC>&nbsp;
+<SYNC Start=1011353><P Class=ENCC>
+They prefer the term Visitors.
+<SYNC Start=1014103><P Class=ENCC>&nbsp;
+<SYNC Start=1015907><P Class=ENCC>
+Who knows, maybe we'll<br>find a plane and a radio.
+<SYNC Start=1019609><P Class=ENCC>&nbsp;
+<SYNC Start=1019661><P Class=ENCC>
+Or bigfoot.
+<SYNC Start=1020693><P Class=ENCC>&nbsp;
+<SYNC Start=1020745><P Class=ENCC>
+Hey, don't laugh. My<br>uncle had a Sasquatch pelt.
+<SYNC Start=1024447><P Class=ENCC>&nbsp;
+<SYNC Start=1024950><P Class=ENCC>
+Come.
+<SYNC Start=1026282><P Class=ENCC>&nbsp;
+<SYNC Start=1026284><P Class=ENCC>
+I'll show you.
+<SYNC Start=1027917><P Class=ENCC>&nbsp;
+<SYNC Start=1032201><P Class=ENCC>
+(Addy) Those things are really<br>starting to freak me out.
+<SYNC Start=1036120><P Class=ENCC>&nbsp;
+<SYNC Start=1036338><P Class=ENCC>
+(Doc) I'd like to know<br>who and what is doing that.
+<SYNC Start=1039673><P Class=ENCC>&nbsp;
+<SYNC Start=1041293><P Class=ENCC>
+I've seen chain saws do that.
+<SYNC Start=1043877><P Class=ENCC>&nbsp;
+<SYNC Start=1043929><P Class=ENCC>
+Sort of.
+<SYNC Start=1044845><P Class=ENCC>&nbsp;
+<SYNC Start=1044880><P Class=ENCC>
+Yeah, that's not human<br>technology. Just saying.
+<SYNC Start=1046847><P Class=ENCC>&nbsp;
+<SYNC Start=1046882><P Class=ENCC>
+Well stop just saying.
+<SYNC Start=1049183><P Class=ENCC>&nbsp;
+<SYNC Start=1049769><P Class=ENCC>
+The Visitors did this.<br>They were protecting me.
+<SYNC Start=1053554><P Class=ENCC>&nbsp;
+<SYNC Start=1054190><P Class=ENCC>
+♪
+<SYNC Start=1064231><P Class=ENCC>&nbsp;
+<SYNC Start=1064233><P Class=ENCC>
+♪
+<SYNC Start=1085219><P Class=ENCC>&nbsp;
+<SYNC Start=1097683><P Class=ENCC>
+Slow down, girlfriend. We don't<br>want to run into any zombies.
+<SYNC Start=1100651><P Class=ENCC>&nbsp;
+<SYNC Start=1100686><P Class=ENCC>
+Don't worry. They won't<br>let anything happen to me.
+<SYNC Start=1103187><P Class=ENCC>&nbsp;
+<SYNC Start=1103689><P Class=ENCC>
+You don't happen to know if<br>that applies to us too, do you?
+<SYNC Start=1107024><P Class=ENCC>&nbsp;
+<SYNC Start=1111330><P Class=ENCC>
+Wow.
+<SYNC Start=1113080><P Class=ENCC>&nbsp;
+<SYNC Start=1113532><P Class=ENCC>
+Look at this high tech alien technology.
+<SYNC Start=1116583><P Class=ENCC>&nbsp;
+<SYNC Start=1118954><P Class=ENCC>
+Bernadette, you don't know<br>if there's any radio equipment
+<SYNC Start=1121371><P Class=ENCC>&nbsp;
+<SYNC Start=1121423><P Class=ENCC>
+around here that maybe<br>the Visitors may have used?
+<SYNC Start=1123841><P Class=ENCC>&nbsp;
+<SYNC Start=1123876><P Class=ENCC>
+There's a room with old electrical stuff.
+<SYNC Start=1125375><P Class=ENCC>&nbsp;
+<SYNC Start=1125377><P Class=ENCC>
+There might be a radio in it.
+<SYNC Start=1126710><P Class=ENCC>&nbsp;
+<SYNC Start=1126762><P Class=ENCC>
+Yeah, where would that be?
+<SYNC Start=1127761><P Class=ENCC>&nbsp;
+<SYNC Start=1127796><P Class=ENCC>
+Right behind you.
+<SYNC Start=1129546><P Class=ENCC>&nbsp;
+<SYNC Start=1133719><P Class=ENCC>
+We'll check out the radio.
+<SYNC Start=1135435><P Class=ENCC>&nbsp;
+<SYNC Start=1135471><P Class=ENCC>
+Why don't you guys see what else you find.
+<SYNC Start=1137554><P Class=ENCC>&nbsp;
+<SYNC Start=1137606><P Class=ENCC>
+Be careful.
+<SYNC Start=1138555><P Class=ENCC>&nbsp;
+<SYNC Start=1139475><P Class=ENCC>
+You too.
+<SYNC Start=1140440><P Class=ENCC>&nbsp;
+<SYNC Start=1148450><P Class=ENCC>
+What you got?
+<SYNC Start=1149483><P Class=ENCC>&nbsp;
+<SYNC Start=1149535><P Class=ENCC>
+Nothing.
+<SYNC Start=1150234><P Class=ENCC>&nbsp;
+<SYNC Start=1150986><P Class=ENCC>
+This thing's stripped.
+<SYNC Start=1151869><P Class=ENCC>&nbsp;
+<SYNC Start=1151904><P Class=ENCC>
+All right. Let's go.
+<SYNC Start=1152819><P Class=ENCC>&nbsp;
+<SYNC Start=1152872><P Class=ENCC>
+Follow me.
+<SYNC Start=1154238><P Class=ENCC>&nbsp;
+<SYNC Start=1166302><P Class=ENCC>
+<i>[growling]</i>
+<SYNC Start=1167000><P Class=ENCC>&nbsp;
+<SYNC Start=1167052><P Class=ENCC>
+Look out!
+<SYNC Start=1167968><P Class=ENCC>&nbsp;
+<SYNC Start=1168587><P Class=ENCC>
+[growling]
+<SYNC Start=1170420><P Class=ENCC>&nbsp;
+<SYNC Start=1170472><P Class=ENCC>
+[slice]
+<SYNC Start=1171088><P Class=ENCC>&nbsp;
+<SYNC Start=1171307><P Class=ENCC>
+[growling]
+<SYNC Start=1173173><P Class=ENCC>&nbsp;
+<SYNC Start=1173259><P Class=ENCC>
+Addy! Get Bernadette!
+<SYNC Start=1175058><P Class=ENCC>&nbsp;
+<SYNC Start=1175978><P Class=ENCC>
+Come to mama.
+<SYNC Start=1177094><P Class=ENCC>&nbsp;
+<SYNC Start=1177730><P Class=ENCC>
+[splorch]
+<SYNC Start=1178345><P Class=ENCC>&nbsp;
+<SYNC Start=1178597><P Class=ENCC>
+[thwap]
+<SYNC Start=1179263><P Class=ENCC>&nbsp;
+<SYNC Start=1179515><P Class=ENCC>
+[growling]
+<SYNC Start=1183767><P Class=ENCC>&nbsp;
+<SYNC Start=1183769><P Class=ENCC>
+[clank]
+<SYNC Start=1184268><P Class=ENCC>&nbsp;
+<SYNC Start=1185938><P Class=ENCC>
+[growling]
+<SYNC Start=1187604><P Class=ENCC>&nbsp;
+<SYNC Start=1187656><P Class=ENCC>
+[stab]
+<SYNC Start=1188071><P Class=ENCC>&nbsp;
+<SYNC Start=1188524><P Class=ENCC>
+[stab]
+<SYNC Start=1188939><P Class=ENCC>&nbsp;
+<SYNC Start=1189024><P Class=ENCC>
+[slice]
+<SYNC Start=1189523><P Class=ENCC>&nbsp;
+<SYNC Start=1189608><P Class=ENCC>
+[slice]
+<SYNC Start=1190240><P Class=ENCC>&nbsp;
+<SYNC Start=1191110><P Class=ENCC>
+[splorch]
+<SYNC Start=1191775><P Class=ENCC>&nbsp;
+<SYNC Start=1194947><P Class=ENCC>
+Shall we?
+<SYNC Start=1196697><P Class=ENCC>&nbsp;
+<SYNC Start=1204456><P Class=ENCC>
+Wel... come
+<SYNC Start=1206757><P Class=ENCC>&nbsp;
+<SYNC Start=1207459><P Class=ENCC>
+ET.
+<SYNC Start=1208625><P Class=ENCC>&nbsp;
+<SYNC Start=1209178><P Class=ENCC>
+(Warren) We didn't find a radio.
+<SYNC Start=1211128><P Class=ENCC>&nbsp;
+<SYNC Start=1211180><P Class=ENCC>
+(Addy) We did find some Zs though.
+<SYNC Start=1212846><P Class=ENCC>&nbsp;
+<SYNC Start=1212881><P Class=ENCC>
+(Murphy) Surprise, surprise.
+<SYNC Start=1214431><P Class=ENCC>&nbsp;
+<SYNC Start=1214466><P Class=ENCC>
+(Vasquez) Rest of the place is gutted.
+<SYNC Start=1216800><P Class=ENCC>&nbsp;
+<SYNC Start=1217186><P Class=ENCC>
+Well somebody's got nice handwriting.
+<SYNC Start=1219436><P Class=ENCC>&nbsp;
+<SYNC Start=1219471><P Class=ENCC>
+I did that. This is where<br>they're going to land.
+<SYNC Start=1222639><P Class=ENCC>&nbsp;
+<SYNC Start=1222641><P Class=ENCC>
+What makes you so sure that these aliens
+<SYNC Start=1225525><P Class=ENCC>&nbsp;
+<SYNC Start=1225561><P Class=ENCC>
+are the good guys anyway?
+<SYNC Start=1227144><P Class=ENCC>&nbsp;
+<SYNC Start=1227146><P Class=ENCC>
+Leave her alone, Murphy. They won't save<br>everyone. Only the ones who've been called.
+<SYNC Start=1231198><P Class=ENCC>&nbsp;
+<SYNC Start=1231233><P Class=ENCC>
+They've seen what we did to ourselves.
+<SYNC Start=1233150><P Class=ENCC>&nbsp;
+<SYNC Start=1233202><P Class=ENCC>
+They don't want us doing it to them.
+<SYNC Start=1235235><P Class=ENCC>&nbsp;
+<SYNC Start=1235287><P Class=ENCC>
+But they believe there's still<br>hope for some of humanity.
+<SYNC Start=1238372><P Class=ENCC>&nbsp;
+<SYNC Start=1238407><P Class=ENCC>
+You better hope they have<br>a higher opinion of humanity
+<SYNC Start=1240874><P Class=ENCC>&nbsp;
+<SYNC Start=1240909><P Class=ENCC>
+than I do.
+<SYNC Start=1241992><P Class=ENCC>&nbsp;
+<SYNC Start=1241994><P Class=ENCC>
+What about the top secret areas?
+<SYNC Start=1244244><P Class=ENCC>&nbsp;
+<SYNC Start=1246298><P Class=ENCC>
+You know more about this<br>base than you're telling us,
+<SYNC Start=1248915><P Class=ENCC>&nbsp;
+<SYNC Start=1248968><P Class=ENCC>
+don't you?
+<SYNC Start=1249967><P Class=ENCC>&nbsp;
+<SYNC Start=1253589><P Class=ENCC>
+Bernadette,
+<SYNC Start=1255339><P Class=ENCC>&nbsp;
+<SYNC Start=1255341><P Class=ENCC>
+is there some kind of hidden base
+<SYNC Start=1257057><P Class=ENCC>&nbsp;
+<SYNC Start=1257092><P Class=ENCC>
+that you're not telling us about?
+<SYNC Start=1259343><P Class=ENCC>&nbsp;
+<SYNC Start=1260062><P Class=ENCC>
+They told me only to bring the Emissary.
+<SYNC Start=1262763><P Class=ENCC>&nbsp;
+<SYNC Start=1262815><P Class=ENCC>
+Why?
+<SYNC Start=1263730><P Class=ENCC>&nbsp;
+<SYNC Start=1263766><P Class=ENCC>
+I don't know. That's what the voices say.
+<SYNC Start=1266099><P Class=ENCC>&nbsp;
+<SYNC Start=1266151><P Class=ENCC>
+The voices?
+<SYNC Start=1267017><P Class=ENCC>&nbsp;
+<SYNC Start=1267019><P Class=ENCC>
+The voices. I hear them. In the light.
+<SYNC Start=1270354><P Class=ENCC>&nbsp;
+<SYNC Start=1271740><P Class=ENCC>
+What do the voices say?
+<SYNC Start=1273440><P Class=ENCC>&nbsp;
+<SYNC Start=1273492><P Class=ENCC>
+I don't understand it when I first hear it.
+<SYNC Start=1275776><P Class=ENCC>&nbsp;
+<SYNC Start=1275828><P Class=ENCC>
+Only later does it make sense.<br>I just know what they mean.
+<SYNC Start=1279863><P Class=ENCC>&nbsp;
+<SYNC Start=1279915><P Class=ENCC>
+They want to take us<br>away to a better place.
+<SYNC Start=1282032><P Class=ENCC>&nbsp;
+<SYNC Start=1282084><P Class=ENCC>
+They said it would be soon.
+<SYNC Start=1283950><P Class=ENCC>&nbsp;
+<SYNC Start=1284003><P Class=ENCC>
+They're making repairs, but<br>they'll be finished soon.
+<SYNC Start=1286670><P Class=ENCC>&nbsp;
+<SYNC Start=1286705><P Class=ENCC>
+Wow, far out.
+<SYNC Start=1288538><P Class=ENCC>&nbsp;
+<SYNC Start=1288590><P Class=ENCC>
+And what do they want with me?
+<SYNC Start=1290540><P Class=ENCC>&nbsp;
+<SYNC Start=1290542><P Class=ENCC>
+They didn't say.
+<SYNC Start=1292175><P Class=ENCC>&nbsp;
+<SYNC Start=1292211><P Class=ENCC>
+Maybe you're the alien cure too.
+<SYNC Start=1294261><P Class=ENCC>&nbsp;
+<SYNC Start=1294296><P Class=ENCC>
+Great. Just great.
+<SYNC Start=1296129><P Class=ENCC>&nbsp;
+<SYNC Start=1296181><P Class=ENCC>
+So how long have you been in<br>contact with these Visitors?
+<SYNC Start=1299716><P Class=ENCC>&nbsp;
+<SYNC Start=1299768><P Class=ENCC>
+At first,
+<SYNC Start=1300851><P Class=ENCC>&nbsp;
+<SYNC Start=1300886><P Class=ENCC>
+I was like everyone else.<br>I saw the lights in the sky,
+<SYNC Start=1302886><P Class=ENCC>&nbsp;
+<SYNC Start=1302888><P Class=ENCC>
+but I had no idea what they<br>were. And then one night,
+<SYNC Start=1305188><P Class=ENCC>&nbsp;
+<SYNC Start=1305224><P Class=ENCC>
+I was about to be killed by Zs.
+<SYNC Start=1307057><P Class=ENCC>&nbsp;
+<SYNC Start=1307059><P Class=ENCC>
+I was ready to die.
+<SYNC Start=1308308><P Class=ENCC>&nbsp;
+<SYNC Start=1308360><P Class=ENCC>
+And then the light came and it<br>spoke to me and protected me.
+<SYNC Start=1313113><P Class=ENCC>&nbsp;
+<SYNC Start=1313148><P Class=ENCC>
+<i>[unintelligible garbled sounds]</i>
+<SYNC Start=1318118><P Class=ENCC>&nbsp;
+<SYNC Start=1318237><P Class=ENCC>
+They led me here.
+<SYNC Start=1319870><P Class=ENCC>&nbsp;
+<SYNC Start=1321540><P Class=ENCC>
+Can you take us there, this<br>place where you hear the voices?
+<SYNC Start=1325742><P Class=ENCC>&nbsp;
+<SYNC Start=1327296><P Class=ENCC>
+Yes.
+<SYNC Start=1328328><P Class=ENCC>&nbsp;
+<SYNC Start=1332835><P Class=ENCC>
+How in the hell?
+<SYNC Start=1334384><P Class=ENCC>&nbsp;
+<SYNC Start=1336755><P Class=ENCC>
+All right. I'm a little freaked out.
+<SYNC Start=1338922><P Class=ENCC>&nbsp;
+<SYNC Start=1348233><P Class=ENCC>
+All right, what now?
+<SYNC Start=1349516><P Class=ENCC>&nbsp;
+<SYNC Start=1349568><P Class=ENCC>
+We wait.
+<SYNC Start=1350567><P Class=ENCC>&nbsp;
+<SYNC Start=1351520><P Class=ENCC>
+(Addy) [laughing] Hope<br>springs eternal, huh Doc?
+<SYNC Start=1354438><P Class=ENCC>&nbsp;
+<SYNC Start=1354440><P Class=ENCC>
+Cigarettes, cigarettes,<br>cigarettes, gum, cigarettes.
+<SYNC Start=1357941><P Class=ENCC>&nbsp;
+<SYNC Start=1357943><P Class=ENCC>
+Try the gum.
+<SYNC Start=1359192><P Class=ENCC>&nbsp;
+<SYNC Start=1359244><P Class=ENCC>
+Anybody got any quarters?
+<SYNC Start=1360777><P Class=ENCC>&nbsp;
+<SYNC Start=1360829><P Class=ENCC>
+[slam]
+<SYNC Start=1361778><P Class=ENCC>&nbsp;
+<SYNC Start=1362581><P Class=ENCC>
+The gum is free.
+<SYNC Start=1364114><P Class=ENCC>&nbsp;
+<SYNC Start=1364116><P Class=ENCC>
+It's the apocalypse. Everything's free.
+<SYNC Start=1366783><P Class=ENCC>&nbsp;
+<SYNC Start=1373542><P Class=ENCC>
+That's weird.
+<SYNC Start=1375459><P Class=ENCC>&nbsp;
+<SYNC Start=1379131><P Class=ENCC>
+Try the gum.
+<SYNC Start=1381715><P Class=ENCC>&nbsp;
+<SYNC Start=1383302><P Class=ENCC>
+All right, well I'm trying to quit anyway.
+<SYNC Start=1386019><P Class=ENCC>&nbsp;
+<SYNC Start=1397316><P Class=ENCC>
+Doc, no!
+<SYNC Start=1398732><P Class=ENCC>&nbsp;
+<SYNC Start=1399535><P Class=ENCC>
+[groaning]
+<SYNC Start=1400617><P Class=ENCC>&nbsp;
+<SYNC Start=1400953><P Class=ENCC>
+Earthquake!
+<SYNC Start=1402452><P Class=ENCC>&nbsp;
+<SYNC Start=1402488><P Class=ENCC>
+[all screaming]
+<SYNC Start=1405038><P Class=ENCC>&nbsp;
+<SYNC Start=1405073><P Class=ENCC>
+No, it's an elevator! Look!
+<SYNC Start=1407491><P Class=ENCC>&nbsp;
+<SYNC Start=1409161><P Class=ENCC>
+You knew this was gonna happen!
+<SYNC Start=1410293><P Class=ENCC>&nbsp;
+<SYNC Start=1410329><P Class=ENCC>
+You wanted to come along!
+<SYNC Start=1412412><P Class=ENCC>&nbsp;
+<SYNC Start=1412464><P Class=ENCC>
+How come she has a seatbelt?!
+<SYNC Start=1414881><P Class=ENCC>&nbsp;
+<SYNC Start=1428096><P Class=ENCC>
+[moaning]
+<SYNC Start=1430096><P Class=ENCC>&nbsp;
+<SYNC Start=1430816><P Class=ENCC>
+We're here.
+<SYNC Start=1432432><P Class=ENCC>&nbsp;
+<SYNC Start=1436738><P Class=ENCC>
+What the hell kind of
+<SYNC Start=1437904><P Class=ENCC>&nbsp;
+<SYNC Start=1437940><P Class=ENCC>
+acid trip fun house elevator ride was that?
+<SYNC Start=1441691><P Class=ENCC>&nbsp;
+<SYNC Start=1461180><P Class=ENCC>
+[slam]
+<SYNC Start=1462462><P Class=ENCC>&nbsp;
+<SYNC Start=1466351><P Class=ENCC>
+I guess we're not going back that way.
+<SYNC Start=1468301><P Class=ENCC>&nbsp;
+<SYNC Start=1468687><P Class=ENCC>
+Well, kid.
+<SYNC Start=1469970><P Class=ENCC>&nbsp;
+<SYNC Start=1470022><P Class=ENCC>
+Your uncle was right<br>about the secret base part.
+<SYNC Start=1473106><P Class=ENCC>&nbsp;
+<SYNC Start=1473225><P Class=ENCC>
+I'm telling you, it's all true.
+<SYNC Start=1474975><P Class=ENCC>&nbsp;
+<SYNC Start=1475060><P Class=ENCC>
+We sure we want to do this?
+<SYNC Start=1476309><P Class=ENCC>&nbsp;
+<SYNC Start=1476361><P Class=ENCC>
+He's got a point. It's not worth the risk.
+<SYNC Start=1478778><P Class=ENCC>&nbsp;
+<SYNC Start=1478814><P Class=ENCC>
+Tell me you don't want<br>to know what's down here.
+<SYNC Start=1481898><P Class=ENCC>&nbsp;
+<SYNC Start=1487406><P Class=ENCC>
+I don't want to know what's down here.
+<SYNC Start=1489906><P Class=ENCC>&nbsp;
+<SYNC Start=1496259><P Class=ENCC>
+It's them. Those are<br>the voices. They're here.
+<SYNC Start=1500678><P Class=ENCC>&nbsp;
+<SYNC Start=1501047><P Class=ENCC>
+Bernadette!
+<SYNC Start=1502463><P Class=ENCC>&nbsp;
+<SYNC Start=1506686><P Class=ENCC>
+It's okay! They know me!
+<SYNC Start=1509303><P Class=ENCC>&nbsp;
+<SYNC Start=1516863><P Class=ENCC>
+Get ready for anything.
+<SYNC Start=1518613><P Class=ENCC>&nbsp;
+<SYNC Start=1519566><P Class=ENCC>
+They're here. Just like they said.
+<SYNC Start=1522533><P Class=ENCC>&nbsp;
+<SYNC Start=1522785><P Class=ENCC>
+Aren't they beautiful?
+<SYNC Start=1524735><P Class=ENCC>&nbsp;
+<SYNC Start=1526956><P Class=ENCC>
+<i>[purring-like sound]</i>
+<SYNC Start=1530791><P Class=ENCC>&nbsp;
+<SYNC Start=1530910><P Class=ENCC>
+Well I'll be damned.
+<SYNC Start=1532910><P Class=ENCC>&nbsp;
+<SYNC Start=1534164><P Class=ENCC>
+Just like my dad said.
+<SYNC Start=1536581><P Class=ENCC>&nbsp;
+<SYNC Start=1538251><P Class=ENCC>
+[purring continues]
+<SYNC Start=1549760><P Class=ENCC>&nbsp;
+<SYNC Start=1549896><P Class=ENCC>
+They won't hurt us.
+<SYNC Start=1551929><P Class=ENCC>&nbsp;
+<SYNC Start=1556436><P Class=ENCC>
+Wait.
+<SYNC Start=1556767><P Class=ENCC>&nbsp;
+<SYNC Start=1556819><P Class=ENCC>
+[purring]
+<SYNC Start=1558519><P Class=ENCC>&nbsp;
+<SYNC Start=1558571><P Class=ENCC>
+Something's wrong!
+<SYNC Start=1559937><P Class=ENCC>&nbsp;
+<SYNC Start=1560073><P Class=ENCC>
+[snarling]
+<SYNC Start=1563274><P Class=ENCC>&nbsp;
+<SYNC Start=1563276><P Class=ENCC>
+[gunfire]
+<SYNC Start=1564108><P Class=ENCC>&nbsp;
+<SYNC Start=1564194><P Class=ENCC>
+No, don't shoot it!
+<SYNC Start=1565943><P Class=ENCC>&nbsp;
+<SYNC Start=1566079><P Class=ENCC>
+[gunfire]
+<SYNC Start=1569113><P Class=ENCC>&nbsp;
+<SYNC Start=1570166><P Class=ENCC>
+[gunshot]
+<SYNC Start=1570948><P Class=ENCC>&nbsp;
+<SYNC Start=1575838><P Class=ENCC>
+You killed him!
+<SYNC Start=1576787><P Class=ENCC>&nbsp;
+<SYNC Start=1576839><P Class=ENCC>
+Stay back! Stay back!
+<SYNC Start=1578589><P Class=ENCC>&nbsp;
+<SYNC Start=1578625><P Class=ENCC>
+I'm not sure what we killed.
+<SYNC Start=1580875><P Class=ENCC>&nbsp;
+<SYNC Start=1582262><P Class=ENCC>
+<i>[beeping]</i>
+<SYNC Start=1584011><P Class=ENCC>&nbsp;
+<SYNC Start=1584047><P Class=ENCC>
+<i>[rapid beeping]</i>
+<SYNC Start=1584962><P Class=ENCC>&nbsp;
+<SYNC Start=1585014><P Class=ENCC>
+Get down!
+<SYNC Start=1586714><P Class=ENCC>&nbsp;
+<SYNC Start=1587550><P Class=ENCC>
+<i>[explosion]</i>
+<SYNC Start=1588966><P Class=ENCC>&nbsp;
+<SYNC Start=1594140><P Class=ENCC>
+Next apocalypse I'm<br>wearing a paper jumpsuit.
+<SYNC Start=1597558><P Class=ENCC>&nbsp;
+<SYNC Start=1597610><P Class=ENCC>
+<i>[faint beeping]</i>
+<SYNC Start=1599193><P Class=ENCC>&nbsp;
+<SYNC Start=1600530><P Class=ENCC>
+<i>[faint beeping]</i>
+<SYNC Start=1601112><P Class=ENCC>&nbsp;
+<SYNC Start=1601147><P Class=ENCC>
+I'll check it out.
+<SYNC Start=1602947><P Class=ENCC>&nbsp;
+<SYNC Start=1603399><P Class=ENCC>
+<i>[faint beeping]</i>
+<SYNC Start=1604982><P Class=ENCC>&nbsp;
+<SYNC Start=1606653><P Class=ENCC>
+What is it?
+<SYNC Start=1608319><P Class=ENCC>&nbsp;
+<SYNC Start=1609539><P Class=ENCC>
+Zombie guts?
+<SYNC Start=1611322><P Class=ENCC>&nbsp;
+<SYNC Start=1611374><P Class=ENCC>
+Alien blood?
+<SYNC Start=1612623><P Class=ENCC>&nbsp;
+<SYNC Start=1612659><P Class=ENCC>
+Your guys is as good as mine.
+<SYNC Start=1614875><P Class=ENCC>&nbsp;
+<SYNC Start=1614911><P Class=ENCC>
+Why did you kill him?
+<SYNC Start=1616210><P Class=ENCC>&nbsp;
+<SYNC Start=1616246><P Class=ENCC>
+Because that's what we do.
+<SYNC Start=1618496><P Class=ENCC>&nbsp;
+<SYNC Start=1618498><P Class=ENCC>
+You can't kill what's not alive.
+<SYNC Start=1620381><P Class=ENCC>&nbsp;
+<SYNC Start=1620416><P Class=ENCC>
+Yeah, he's right about that.
+<SYNC Start=1621882><P Class=ENCC>&nbsp;
+<SYNC Start=1621918><P Class=ENCC>
+Whatever that was,
+<SYNC Start=1623167><P Class=ENCC>&nbsp;
+<SYNC Start=1623169><P Class=ENCC>
+it died and turned zombie<br>way before we got here.
+<SYNC Start=1626087><P Class=ENCC>&nbsp;
+<SYNC Start=1627390><P Class=ENCC>
+Come on. It's not safe here. Let's go.
+<SYNC Start=1629807><P Class=ENCC>&nbsp;
+<SYNC Start=1630176><P Class=ENCC>
+Hey, guys. You might want to see this.
+<SYNC Start=1632760><P Class=ENCC>&nbsp;
+<SYNC Start=1633980><P Class=ENCC>
+Let's go.
+<SYNC Start=1635146><P Class=ENCC>&nbsp;
+<SYNC Start=1635231><P Class=ENCC>
+<i>[beeping]</i>
+<SYNC Start=1637014><P Class=ENCC>&nbsp;
+<SYNC Start=1637267><P Class=ENCC>
+Warren! Look at this.
+<SYNC Start=1640851><P Class=ENCC>&nbsp;
+<SYNC Start=1644774><P Class=ENCC>
+Now that's some syfy shit.
+<SYNC Start=1647408><P Class=ENCC>&nbsp;
+<SYNC Start=1653116><P Class=ENCC>
+It's interactive?
+<SYNC Start=1655116><P Class=ENCC>&nbsp;
+<SYNC Start=1656336><P Class=ENCC>
+Way cool.
+<SYNC Start=1658536><P Class=ENCC>&nbsp;
+<SYNC Start=1658588><P Class=ENCC>
+Alien?
+<SYNC Start=1659620><P Class=ENCC>&nbsp;
+<SYNC Start=1659672><P Class=ENCC>
+Maybe.
+<SYNC Start=1660871><P Class=ENCC>&nbsp;
+<SYNC Start=1661207><P Class=ENCC>
+Maybe not.
+<SYNC Start=1662173><P Class=ENCC>&nbsp;
+<SYNC Start=1663376><P Class=ENCC>
+Wait a minute.
+<SYNC Start=1664508><P Class=ENCC>&nbsp;
+<SYNC Start=1665128><P Class=ENCC>
+It's a Unix system. I know this.
+<SYNC Start=1668596><P Class=ENCC>&nbsp;
+<SYNC Start=1668631><P Class=ENCC>
+Really?
+<SYNC Start=1669680><P Class=ENCC>&nbsp;
+<SYNC Start=1669716><P Class=ENCC>
+No. I went to art school.
+<SYNC Start=1672850><P Class=ENCC>&nbsp;
+<SYNC Start=1674937><P Class=ENCC>
+Okay, well can you use<br>it to contact Citizen Z?
+<SYNC Start=1678022><P Class=ENCC>&nbsp;
+<SYNC Start=1678391><P Class=ENCC>
+I can try.
+<SYNC Start=1679890><P Class=ENCC>&nbsp;
+<SYNC Start=1680560><P Class=ENCC>
+At the risk of alerting<br>whoever's on the other side.
+<SYNC Start=1683978><P Class=ENCC>&nbsp;
+<SYNC Start=1686733><P Class=ENCC>
+All right. Well Doc,<br>you stay here with Murphy
+<SYNC Start=1688532><P Class=ENCC>&nbsp;
+<SYNC Start=1688568><P Class=ENCC>
+while Addy tries to make<br>contact. And let's go.
+<SYNC Start=1691118><P Class=ENCC>&nbsp;
+<SYNC Start=1691154><P Class=ENCC>
+Roger that.
+<SYNC Start=1692403><P Class=ENCC>&nbsp;
+<SYNC Start=1706502><P Class=ENCC>
+Wow.
+<SYNC Start=1707585><P Class=ENCC>&nbsp;
+<SYNC Start=1707587><P Class=ENCC>
+You can see the whole base from here.
+<SYNC Start=1709587><P Class=ENCC>&nbsp;
+<SYNC Start=1709589><P Class=ENCC>
+That's how they knew we were coming.
+<SYNC Start=1711255><P Class=ENCC>&nbsp;
+<SYNC Start=1722485><P Class=ENCC>
+Something sure wanted out of here.
+<SYNC Start=1724435><P Class=ENCC>&nbsp;
+<SYNC Start=1728491><P Class=ENCC>
+Seems empty now.
+<SYNC Start=1730024><P Class=ENCC>&nbsp;
+<SYNC Start=1732195><P Class=ENCC>
+Wait.
+<SYNC Start=1733110><P Class=ENCC>&nbsp;
+<SYNC Start=1733162><P Class=ENCC>
+Where's Bernadette?
+<SYNC Start=1734528><P Class=ENCC>&nbsp;
+<SYNC Start=1734580><P Class=ENCC>
+<i>I'm here.</i>
+<SYNC Start=1736280><P Class=ENCC>&nbsp;
+<SYNC Start=1750930><P Class=ENCC>
+This is what happens<br>when we don't trust them.
+<SYNC Start=1754932><P Class=ENCC>&nbsp;
+<SYNC Start=1756219><P Class=ENCC>
+Aliens did this?
+<SYNC Start=1757468><P Class=ENCC>&nbsp;
+<SYNC Start=1757520><P Class=ENCC>
+We left them no choice.
+<SYNC Start=1759303><P Class=ENCC>&nbsp;
+<SYNC Start=1768981><P Class=ENCC>
+That work?
+<SYNC Start=1770448><P Class=ENCC>&nbsp;
+<SYNC Start=1771734><P Class=ENCC>
+<i>[rapid clicking]</i>
+<SYNC Start=1772650><P Class=ENCC>&nbsp;
+<SYNC Start=1773202><P Class=ENCC>
+Can't tell if it's out of
+<SYNC Start=1775119><P Class=ENCC>&nbsp;
+<SYNC Start=1775154><P Class=ENCC>
+ammo or batteries.
+<SYNC Start=1777154><P Class=ENCC>&nbsp;
+<SYNC Start=1791637><P Class=ENCC>
+What do you think was in<br>there? That thing we killed?
+<SYNC Start=1794839><P Class=ENCC>&nbsp;
+<SYNC Start=1795174><P Class=ENCC>
+I hope so.
+<SYNC Start=1796140><P Class=ENCC>&nbsp;
+<SYNC Start=1796676><P Class=ENCC>
+Cuz if it's something worse than that,
+<SYNC Start=1798976><P Class=ENCC>&nbsp;
+<SYNC Start=1799011><P Class=ENCC>
+I don't want to find out.
+<SYNC Start=1801011><P Class=ENCC>&nbsp;
+<SYNC Start=1809689><P Class=ENCC>
+What?
+<SYNC Start=1810821><P Class=ENCC>&nbsp;
+<SYNC Start=1814944><P Class=ENCC>
+Okay.
+<SYNC Start=1816694><P Class=ENCC>&nbsp;
+<SYNC Start=1820249><P Class=ENCC>
+Oh.
+<SYNC Start=1821365><P Class=ENCC>&nbsp;
+<SYNC Start=1827673><P Class=ENCC>
+Something for you to look forward to.
+<SYNC Start=1830174><P Class=ENCC>&nbsp;
+<SYNC Start=1831043><P Class=ENCC>
+Yeah, I can't tell what's<br>real and what isn't.
+<SYNC Start=1833844><P Class=ENCC>&nbsp;
+<SYNC Start=1833880><P Class=ENCC>
+Don't you think it's unusual
+<SYNC Start=1835379><P Class=ENCC>&nbsp;
+<SYNC Start=1835431><P Class=ENCC>
+that these aliens mostly<br>communicate in English. Mostly.
+<SYNC Start=1839383><P Class=ENCC>&nbsp;
+<SYNC Start=1839435><P Class=ENCC>
+I dunno. Maybe this is their<br>tap into our old internet.
+<SYNC Start=1842269><P Class=ENCC>&nbsp;
+<SYNC Start=1842305><P Class=ENCC>
+They've got global files here.
+<SYNC Start=1844722><P Class=ENCC>&nbsp;
+<SYNC Start=1848194><P Class=ENCC>
+Oh.
+<SYNC Start=1849477><P Class=ENCC>&nbsp;
+<SYNC Start=1851230><P Class=ENCC>
+Okay. So these aliens<br>are stalkers from space.
+<SYNC Start=1856567><P Class=ENCC>&nbsp;
+<SYNC Start=1856569><P Class=ENCC>
+Is that
+<SYNC Start=1857735><P Class=ENCC>&nbsp;
+<SYNC Start=1859906><P Class=ENCC>
+Wow. I look like hell.
+<SYNC Start=1862740><P Class=ENCC>&nbsp;
+<SYNC Start=1867296><P Class=ENCC>
+Well look what the cat dragged in.
+<SYNC Start=1869713><P Class=ENCC>&nbsp;
+<SYNC Start=1876722><P Class=ENCC>
+What is all this?
+<SYNC Start=1878472><P Class=ENCC>&nbsp;
+<SYNC Start=1880343><P Class=ENCC>
+You are one popular dude.
+<SYNC Start=1882726><P Class=ENCC>&nbsp;
+<SYNC Start=1884564><P Class=ENCC>
+And what's this?
+<SYNC Start=1885896><P Class=ENCC>&nbsp;
+<SYNC Start=1886933><P Class=ENCC>
+Zona. What's Zona?
+<SYNC Start=1890351><P Class=ENCC>&nbsp;
+<SYNC Start=1890937><P Class=ENCC>
+Maybe it's their home planet.
+<SYNC Start=1893904><P Class=ENCC>&nbsp;
+<SYNC Start=1893990><P Class=ENCC>
+Or what they call the pie<br>they're gonna bake us into.
+<SYNC Start=1897441><P Class=ENCC>&nbsp;
+<SYNC Start=1906380><P Class=ENCC>
+This way.
+<SYNC Start=1907629><P Class=ENCC>&nbsp;
+<SYNC Start=1915473><P Class=ENCC>
+[growling]
+<SYNC Start=1916505><P Class=ENCC>&nbsp;
+<SYNC Start=1916590><P Class=ENCC>
+There it is.
+<SYNC Start=1917756><P Class=ENCC>&nbsp;
+<SYNC Start=1917808><P Class=ENCC>
+Be ready for anything.
+<SYNC Start=1919058><P Class=ENCC>&nbsp;
+<SYNC Start=1919810><P Class=ENCC>
+No, don't worry. They won't<br>hurt us. They come in peace. See.
+<SYNC Start=1923729><P Class=ENCC>&nbsp;
+<SYNC Start=1925766><P Class=ENCC>
+What do you think it wants?
+<SYNC Start=1927516><P Class=ENCC>&nbsp;
+<SYNC Start=1927568><P Class=ENCC>
+If it's a zombie, it wants brains.
+<SYNC Start=1929184><P Class=ENCC>&nbsp;
+<SYNC Start=1929236><P Class=ENCC>
+If it's an alien, it wants to probe us.
+<SYNC Start=1930819><P Class=ENCC>&nbsp;
+<SYNC Start=1930855><P Class=ENCC>
+Either way, I'm killing it.
+<SYNC Start=1931904><P Class=ENCC>&nbsp;
+<SYNC Start=1931939><P Class=ENCC>
+No! Don't kill it.
+<SYNC Start=1933572><P Class=ENCC>&nbsp;
+<SYNC Start=1933607><P Class=ENCC>
+Can't you see it doesn't want to hurt us?
+<SYNC Start=1936575><P Class=ENCC>&nbsp;
+<SYNC Start=1936994><P Class=ENCC>
+[purring]
+<SYNC Start=1938110><P Class=ENCC>&nbsp;
+<SYNC Start=1938195><P Class=ENCC>
+Bernadette, no!
+<SYNC Start=1938994><P Class=ENCC>&nbsp;
+<SYNC Start=1939030><P Class=ENCC>
+It's all right.
+<SYNC Start=1940612><P Class=ENCC>&nbsp;
+<SYNC Start=1949123><P Class=ENCC>
+[whispering] It's okay.
+<SYNC Start=1951090><P Class=ENCC>&nbsp;
+<SYNC Start=1952126><P Class=ENCC>
+[growling]
+<SYNC Start=1953509><P Class=ENCC>&nbsp;
+<SYNC Start=1956430><P Class=ENCC>
+[growling]
+<SYNC Start=1957262><P Class=ENCC>&nbsp;
+<SYNC Start=1958799><P Class=ENCC>
+[gunshot]
+<SYNC Start=1959515><P Class=ENCC>&nbsp;
+<SYNC Start=1964138><P Class=ENCC>
+- [growling]<br>- [gunfire]
+<SYNC Start=1965270><P Class=ENCC>&nbsp;
+<SYNC Start=1965306><P Class=ENCC>
+<i>Please stop shooting him.</i>
+<SYNC Start=1967356><P Class=ENCC>&nbsp;
+<SYNC Start=1967391><P Class=ENCC>
+- [growling]<br>- [gunfire]
+<SYNC Start=1973979><P Class=ENCC>&nbsp;
+<SYNC Start=1974031><P Class=ENCC>
+<i>[muffled sound]</i>
+<SYNC Start=1975230><P Class=ENCC>&nbsp;
+<SYNC Start=1975282><P Class=ENCC>
+[gunshot]
+<SYNC Start=1975814><P Class=ENCC>&nbsp;
+<SYNC Start=1975816><P Class=ENCC>
+<i>[muffled sound]</i>
+<SYNC Start=1990712><P Class=ENCC>&nbsp;
+<SYNC Start=1990748><P Class=ENCC>
+[gunshot]
+<SYNC Start=1991880><P Class=ENCC>&nbsp;
+<SYNC Start=1991999><P Class=ENCC>
+<i>[muffled sound]</i>
+<SYNC Start=1994833><P Class=ENCC>&nbsp;
+<SYNC Start=1995336><P Class=ENCC>
+[purring]
+<SYNC Start=1997803><P Class=ENCC>&nbsp;
+<SYNC Start=1997838><P Class=ENCC>
+[gunshot]
+<SYNC Start=1998337><P Class=ENCC>&nbsp;
+<SYNC Start=1998722><P Class=ENCC>
+<i>[beeping]</i>
+<SYNC Start=2000556><P Class=ENCC>&nbsp;
+<SYNC Start=2000591><P Class=ENCC>
+Bernadette!
+<SYNC Start=2001256><P Class=ENCC>&nbsp;
+<SYNC Start=2001308><P Class=ENCC>
+Get down!
+<SYNC Start=2002174><P Class=ENCC>&nbsp;
+<SYNC Start=2003427><P Class=ENCC>
+[explosion]
+<SYNC Start=2004309><P Class=ENCC>&nbsp;
+<SYNC Start=2009567><P Class=ENCC>
+Bernadette!
+<SYNC Start=2010566><P Class=ENCC>&nbsp;
+<SYNC Start=2010601><P Class=ENCC>
+After them.
+<SYNC Start=2012184><P Class=ENCC>&nbsp;
+<SYNC Start=2016690><P Class=ENCC>
+Bernadette!
+<SYNC Start=2018524><P Class=ENCC>&nbsp;
+<SYNC Start=2020828><P Class=ENCC>
+Sweet.
+<SYNC Start=2022194><P Class=ENCC>&nbsp;
+<SYNC Start=2024865><P Class=ENCC>
+Does it work?
+<SYNC Start=2025531><P Class=ENCC>&nbsp;
+<SYNC Start=2025583><P Class=ENCC>
+I dunno.
+<SYNC Start=2026748><P Class=ENCC>&nbsp;
+<SYNC Start=2027501><P Class=ENCC>
+[gun energizing]
+<SYNC Start=2029701><P Class=ENCC>&nbsp;
+<SYNC Start=2029753><P Class=ENCC>
+[zapping-splorch]
+<SYNC Start=2031587><P Class=ENCC>&nbsp;
+<SYNC Start=2032456><P Class=ENCC>
+Guess that'd be a yes.
+<SYNC Start=2034673><P Class=ENCC>&nbsp;
+<SYNC Start=2034708><P Class=ENCC>
+Four thousand two hundred forty-three.
+<SYNC Start=2036508><P Class=ENCC>&nbsp;
+<SYNC Start=2036594><P Class=ENCC>
+<i>[screaming]</i>
+<SYNC Start=2039094><P Class=ENCC>&nbsp;
+<SYNC Start=2039430><P Class=ENCC>
+Bernadette?
+<SYNC Start=2040879><P Class=ENCC>&nbsp;
+<SYNC Start=2040931><P Class=ENCC>
+Come on. Bring that thing.
+<SYNC Start=2042881><P Class=ENCC>&nbsp;
+<SYNC Start=2057898><P Class=ENCC>
+Ready?
+<SYNC Start=2059281><P Class=ENCC>&nbsp;
+<SYNC Start=2068409><P Class=ENCC>
+What the hell?
+<SYNC Start=2070075><P Class=ENCC>&nbsp;
+<SYNC Start=2070377><P Class=ENCC>
+We're right back where we started.
+<SYNC Start=2072794><P Class=ENCC>&nbsp;
+<SYNC Start=2073631><P Class=ENCC>
+What was Mr. Toad's Wild Ride for?
+<SYNC Start=2075914><P Class=ENCC>&nbsp;
+<SYNC Start=2075916><P Class=ENCC>
+Visitor's entrance.
+<SYNC Start=2077382><P Class=ENCC>&nbsp;
+<SYNC Start=2077418><P Class=ENCC>
+Anybody got eyes on<br>Bernadette or the alien?
+<SYNC Start=2080052><P Class=ENCC>&nbsp;
+<SYNC Start=2082556><P Class=ENCC>
+There.
+<SYNC Start=2083755><P Class=ENCC>&nbsp;
+<SYNC Start=2085426><P Class=ENCC>
+Well I'll be damned.
+<SYNC Start=2087926><P Class=ENCC>&nbsp;
+<SYNC Start=2093350><P Class=ENCC>
+Careful, gentlemen.
+<SYNC Start=2095267><P Class=ENCC>&nbsp;
+<SYNC Start=2096403><P Class=ENCC>
+Don't get sucked up.
+<SYNC Start=2098437><P Class=ENCC>&nbsp;
+<SYNC Start=2099023><P Class=ENCC>
+Looks like the entire base is alive.
+<SYNC Start=2101523><P Class=ENCC>&nbsp;
+<SYNC Start=2101825><P Class=ENCC>
+Not just the base,
+<SYNC Start=2103492><P Class=ENCC>&nbsp;
+<SYNC Start=2103661><P Class=ENCC>
+the whole city.
+<SYNC Start=2105360><P Class=ENCC>&nbsp;
+<SYNC Start=2106080><P Class=ENCC>
+(Addy) You guys will not<br>believe what we found out on that
+<SYNC Start=2109748><P Class=ENCC>&nbsp;
+<SYNC Start=2109950><P Class=ENCC>
+What is that?
+<SYNC Start=2111500><P Class=ENCC>&nbsp;
+<SYNC Start=2118959><P Class=ENCC>
+I don't believe it.
+<SYNC Start=2120459><P Class=ENCC>&nbsp;
+<SYNC Start=2124298><P Class=ENCC>
+Murphy, you all right?
+<SYNC Start=2126465><P Class=ENCC>&nbsp;
+<SYNC Start=2128018><P Class=ENCC>
+Murphy?
+<SYNC Start=2129351><P Class=ENCC>&nbsp;
+<SYNC Start=2130137><P Class=ENCC>
+Murphy, don't!
+<SYNC Start=2131687><P Class=ENCC>&nbsp;
+<SYNC Start=2132356><P Class=ENCC>
+[zapping]
+<SYNC Start=2133805><P Class=ENCC>&nbsp;
+<SYNC Start=2139313><P Class=ENCC>
+10K, don't let them get him!
+<SYNC Start=2141446><P Class=ENCC>&nbsp;
+<SYNC Start=2141899><P Class=ENCC>
+[gun energizing]
+<SYNC Start=2143482><P Class=ENCC>&nbsp;
+<SYNC Start=2144618><P Class=ENCC>
+[whoosh]
+<SYNC Start=2145784><P Class=ENCC>&nbsp;
+<SYNC Start=2147905><P Class=ENCC>
+[zapping]
+<SYNC Start=2152241><P Class=ENCC>&nbsp;
+<SYNC Start=2152743><P Class=ENCC>
+Murphy, don't do it! Don't go!
+<SYNC Start=2154793><P Class=ENCC>&nbsp;
+<SYNC Start=2155796><P Class=ENCC>
+They're gonna probe you for<br>sure! And not in a good way!
+<SYNC Start=2159581><P Class=ENCC>&nbsp;
+<SYNC Start=2161669><P Class=ENCC>
+[gun energizing]
+<SYNC Start=2164636><P Class=ENCC>&nbsp;
+<SYNC Start=2169476><P Class=ENCC>
+[whoosh]
+<SYNC Start=2170842><P Class=ENCC>&nbsp;
+<SYNC Start=2180404><P Class=ENCC>
+Let's go. This way. This way.
+<SYNC Start=2182521><P Class=ENCC>&nbsp;
+<SYNC Start=2193617><P Class=ENCC>
+[explosion]
+<SYNC Start=2202708><P Class=ENCC>&nbsp;
+<SYNC Start=2209638><P Class=ENCC>
+Be careful that thing doesn't blow.
+<SYNC Start=2211638><P Class=ENCC>&nbsp;
+<SYNC Start=2211664><P Class=ENCC>
+Is it alive?
+<SYNC Start=2213280><P Class=ENCC>&nbsp;
+<SYNC Start=2213366><P Class=ENCC>
+I can't tell.
+<SYNC Start=2214698><P Class=ENCC>&nbsp;
+<SYNC Start=2214784><P Class=ENCC>
+Help him. Please help him.
+<SYNC Start=2217334><P Class=ENCC>&nbsp;
+<SYNC Start=2217587><P Class=ENCC>
+Oh, oh god.
+<SYNC Start=2219203><P Class=ENCC>&nbsp;
+<SYNC Start=2225294><P Class=ENCC>
+What if it can't breathe our air?
+<SYNC Start=2227628><P Class=ENCC>&nbsp;
+<SYNC Start=2228181><P Class=ENCC>
+Then I guess he came to the wrong planet.
+<SYNC Start=2230297><P Class=ENCC>&nbsp;
+<SYNC Start=2230383><P Class=ENCC>
+[hissing of air]
+<SYNC Start=2232466><P Class=ENCC>&nbsp;
+<SYNC Start=2241727><P Class=ENCC>
+[coughing]
+<SYNC Start=2243277><P Class=ENCC>&nbsp;
+<SYNC Start=2243362><P Class=ENCC>
+Dan Scully?
+<SYNC Start=2244945><P Class=ENCC>&nbsp;
+<SYNC Start=2245364><P Class=ENCC>
+That nutjob from Pluto?
+<SYNC Start=2246947><P Class=ENCC>&nbsp;
+<SYNC Start=2247233><P Class=ENCC>
+I don't understand, Mr. Scully.
+<SYNC Start=2249233><P Class=ENCC>&nbsp;
+<SYNC Start=2249318><P Class=ENCC>
+Why are you acting like one of the aliens?
+<SYNC Start=2252036><P Class=ENCC>&nbsp;
+<SYNC Start=2252071><P Class=ENCC>
+I'm sorry, Bernadette. There are no aliens.
+<SYNC Start=2255823><P Class=ENCC>&nbsp;
+<SYNC Start=2256159><P Class=ENCC>
+It's
+<SYNC Start=2257041><P Class=ENCC>&nbsp;
+<SYNC Start=2257493><P Class=ENCC>
+It was always just me.
+<SYNC Start=2259293><P Class=ENCC>&nbsp;
+<SYNC Start=2261414><P Class=ENCC>
+I'm sorry I lied to you.
+<SYNC Start=2263998><P Class=ENCC>&nbsp;
+<SYNC Start=2264083><P Class=ENCC>
+I was gonna tell you the<br>truth once you got on board.
+<SYNC Start=2267918><P Class=ENCC>&nbsp;
+<SYNC Start=2268387><P Class=ENCC>
+You mean there are no aliens?
+<SYNC Start=2271055><P Class=ENCC>&nbsp;
+<SYNC Start=2271090><P Class=ENCC>
+Only you?
+<SYNC Start=2272590><P Class=ENCC>&nbsp;
+<SYNC Start=2272925><P Class=ENCC>
+Just me.
+<SYNC Start=2274675><P Class=ENCC>&nbsp;
+<SYNC Start=2276395><P Class=ENCC>
+The rest were just
+<SYNC Start=2279146><P Class=ENCC>&nbsp;
+<SYNC Start=2279232><P Class=ENCC>
+test pilot zombies from year one.
+<SYNC Start=2282433><P Class=ENCC>&nbsp;
+<SYNC Start=2283102><P Class=ENCC>
+Why are you still alive?
+<SYNC Start=2284819><P Class=ENCC>&nbsp;
+<SYNC Start=2284904><P Class=ENCC>
+I've only been here a few months.
+<SYNC Start=2287605><P Class=ENCC>&nbsp;
+<SYNC Start=2288608><P Class=ENCC>
+Everyone was
+<SYNC Start=2290357><P Class=ENCC>&nbsp;
+<SYNC Start=2290443><P Class=ENCC>
+dead or turned when I got here.
+<SYNC Start=2293444><P Class=ENCC>&nbsp;
+<SYNC Start=2293913><P Class=ENCC>
+My job
+<SYNC Start=2295196><P Class=ENCC>&nbsp;
+<SYNC Start=2295281><P Class=ENCC>
+was to salvage any technology<br>they were testing here.
+<SYNC Start=2298499><P Class=ENCC>&nbsp;
+<SYNC Start=2299202><P Class=ENCC>
+I was supposed to fly
+<SYNC Start=2301335><P Class=ENCC>&nbsp;
+<SYNC Start=2302505><P Class=ENCC>
+this craft back to Zona.
+<SYNC Start=2304622><P Class=ENCC>&nbsp;
+<SYNC Start=2305758><P Class=ENCC>
+And
+<SYNC Start=2306957><P Class=ENCC>&nbsp;
+<SYNC Start=2307043><P Class=ENCC>
+I wanted to take you with me.
+<SYNC Start=2309260><P Class=ENCC>&nbsp;
+<SYNC Start=2309295><P Class=ENCC>
+Where's Zona?
+<SYNC Start=2310878><P Class=ENCC>&nbsp;
+<SYNC Start=2310963><P Class=ENCC>
+You wanted to take me?
+<SYNC Start=2312630><P Class=ENCC>&nbsp;
+<SYNC Start=2313266><P Class=ENCC>
+It's beautiful there.
+<SYNC Start=2315516><P Class=ENCC>&nbsp;
+<SYNC Start=2318971><P Class=ENCC>
+How did they know about me?
+<SYNC Start=2321472><P Class=ENCC>&nbsp;
+<SYNC Start=2322642><P Class=ENCC>
+Face recognition software.
+<SYNC Start=2325309><P Class=ENCC>&nbsp;
+<SYNC Start=2325361><P Class=ENCC>
+A drone picked you up in Colorado.
+<SYNC Start=2328028><P Class=ENCC>&nbsp;
+<SYNC Start=2329866><P Class=ENCC>
+A drone in Colorado?
+<SYNC Start=2331315><P Class=ENCC>&nbsp;
+<SYNC Start=2331400><P Class=ENCC>
+This is alien technology, isn't it?
+<SYNC Start=2333817><P Class=ENCC>&nbsp;
+<SYNC Start=2334320><P Class=ENCC>
+Who knows.
+<SYNC Start=2335369><P Class=ENCC>&nbsp;
+<SYNC Start=2335454><P Class=ENCC>
+That's all above my pay grade.
+<SYNC Start=2338489><P Class=ENCC>&nbsp;
+<SYNC Start=2338541><P Class=ENCC>
+Oh wow.
+<SYNC Start=2339957><P Class=ENCC>&nbsp;
+<SYNC Start=2339992><P Class=ENCC>
+I'm not gonna make it, am I?
+<SYNC Start=2342326><P Class=ENCC>&nbsp;
+<SYNC Start=2342378><P Class=ENCC>
+Why didn't you just tell me?
+<SYNC Start=2344378><P Class=ENCC>&nbsp;
+<SYNC Start=2344463><P Class=ENCC>
+Because
+<SYNC Start=2345296><P Class=ENCC>&nbsp;
+<SYNC Start=2347083><P Class=ENCC>
+I was... I was afraid you<br>wouldn't go without the others.
+<SYNC Start=2353170><P Class=ENCC>&nbsp;
+<SYNC Start=2356175><P Class=ENCC>
+[moaning]
+<SYNC Start=2357641><P Class=ENCC>&nbsp;
+<SYNC Start=2358060><P Class=ENCC>
+Dan?
+<SYNC Start=2359510><P Class=ENCC>&nbsp;
+<SYNC Start=2359562><P Class=ENCC>
+Come on. Let's give him mercy. Come on.
+<SYNC Start=2362846><P Class=ENCC>&nbsp;
+<SYNC Start=2373659><P Class=ENCC>
+[snarling]
+<SYNC Start=2376277><P Class=ENCC>&nbsp;
+<SYNC Start=2376362><P Class=ENCC>
+[gunshot]
+<SYNC Start=2377244><P Class=ENCC>&nbsp;
+<SYNC Start=2390593><P Class=ENCC>
+[whispering] Come on.
+<SYNC Start=2392293><P Class=ENCC>&nbsp;
+<SYNC Start=2394213><P Class=ENCC>
+<i>[beeping]</i>
+<SYNC Start=2397598><P Class=ENCC>&nbsp;
+<SYNC Start=2397683><P Class=ENCC>
+<i>[rapid beeping]</i>
+<SYNC Start=2399216><P Class=ENCC>&nbsp;
+<SYNC Start=2399302><P Class=ENCC>
+<i>[explosion]</i>
+<SYNC Start=2401051><P Class=ENCC>&nbsp;
+<SYNC Start=2402555><P Class=ENCC>
+Told ya so.
+<SYNC Start=2404054><P Class=ENCC>&nbsp;
+<SYNC Start=2404140><P Class=ENCC>
+This proves nothing.
+<SYNC Start=2405889><P Class=ENCC>&nbsp;
+<SYNC Start=2428247><P Class=ENCC>
+I'm sorry it didn't work out.
+<SYNC Start=2430798><P Class=ENCC>&nbsp;
+<SYNC Start=2431584><P Class=ENCC>
+You know I would've liked<br>to go with the aliens.
+<SYNC Start=2435052><P Class=ENCC>&nbsp;
+<SYNC Start=2435087><P Class=ENCC>
+Anything to get out of<br>this damn apocalypse.
+<SYNC Start=2438222><P Class=ENCC>&nbsp;
+<SYNC Start=2440142><P Class=ENCC>
+You going to be okay?
+<SYNC Start=2441925><P Class=ENCC>&nbsp;
+<SYNC Start=2441978><P Class=ENCC>
+It's not me I'm worried about.
+<SYNC Start=2443594><P Class=ENCC>&nbsp;
+<SYNC Start=2443929><P Class=ENCC>
+It's all the others back at Roswell
+<SYNC Start=2445813><P Class=ENCC>&nbsp;
+<SYNC Start=2445898><P Class=ENCC>
+who have all their hopes tied up on this.
+<SYNC Start=2447931><P Class=ENCC>&nbsp;
+<SYNC Start=2448017><P Class=ENCC>
+In me
+<SYNC Start=2449316><P Class=ENCC>&nbsp;
+<SYNC Start=2449402><P Class=ENCC>
+What are you going to do?
+<SYNC Start=2451652><P Class=ENCC>&nbsp;
+<SYNC Start=2452521><P Class=ENCC>
+I don't know.
+<SYNC Start=2454655><P Class=ENCC>&nbsp;
+<SYNC Start=2457860><P Class=ENCC>
+I believe in you.
+<SYNC Start=2459994><P Class=ENCC>&nbsp;
+<SYNC Start=2482101><P Class=ENCC>
+She's here! She's okay!
+<SYNC Start=2485602><P Class=ENCC>&nbsp;
+<SYNC Start=2488224><P Class=ENCC>
+We saw the lights and the<br>explosion. We were worried sick.
+<SYNC Start=2492109><P Class=ENCC>&nbsp;
+<SYNC Start=2492144><P Class=ENCC>
+Did you see the Visitors?<br>What did they say?
+<SYNC Start=2496146><P Class=ENCC>&nbsp;
+<SYNC Start=2501320><P Class=ENCC>
+They said we need to wait longer.
+<SYNC Start=2504655><P Class=ENCC>&nbsp;
+<SYNC Start=2505458><P Class=ENCC>
+The human race isn't ready yet.
+<SYNC Start=2508575><P Class=ENCC>&nbsp;
+</BODY>
+</SAMI>

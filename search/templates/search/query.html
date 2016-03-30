@@ -1,0 +1,40 @@
+<script type="text/javascript">
+    function req_search() {
+        var q = document.getElementById('q_id')
+        var sm = document.getElementById("selectMode")
+        var mode = sm.options[sm.selectedIndex].value;
+
+        if (q.value.length <= 0) {
+            alert("please, enter keyword")
+            return false
+        }
+        else {
+            if (q.value.indexOf(" ") > 0) {
+                alert("please, input one word")
+                return false
+            }
+        }
+        if(mode=="")
+            mode = "smisearch"
+
+        strURL = "/search/" + mode + "/" + q.value
+        window.location = strURL
+    }
+
+</script>
+ 
+<br /><br />
+
+<select id="selectMode" size="1" >
+    <!--<option value="smisearch">SMISearch</option>-->
+    <option value="smisearch">SMISearch</option>
+    <option value="dictsearch">DICTSearch</option>
+    <option value="websearch">WEBSearch</option>
+</select>
+
+       <input type="text" size="90" name="q" id="q_id" value="{{keyword}}"
+                onkeydown="if (event.keyCode == 13) javascript: req_search()" />
+            <input type="button" value="Search" onclick="javascript:req_search()" />
+      
+    
+</table>

@@ -1,0 +1,4556 @@
+<SAMI>
+<HEAD>
+<TITLE>Better.Call.Saul.S02E02.HDTV.x264-KILLERS[eztv]</TITLE>
+<STYLE TYPE="text/css">
+<!--
+P { margin-left:2pt; margin-right:2pt; margin-bottom:1pt;
+    margin-top:1pt; font-size:20pt; text-align:center;
+    font-family:Arial, Sans-serif; font-weight:bold; color:white;
+    }
+.KRCC { Name:ÇÑ±¹¾î; lang:ko-KR; SAMIType:CC; }
+.ENCC { Name:English; lang:en-US; }
+-->
+</STYLE>
+<!--
+¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ
+¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ
+¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ
+¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ
+¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ
+¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ¤Ñ
+-->
+</HEAD>
+<BODY>
+<SYNC Start=164><P Class=KRCC>
+Previously on "Better Call Saul..."<br>
+´Â »ı·«...
+<SYNC Start=2510><P Class=KRCC>&nbsp;
+<SYNC Start=2699><P Class=KRCC>
+We'd be working on your case.
+<SYNC Start=4266><P Class=KRCC>&nbsp;
+<SYNC Start=4348><P Class=KRCC>
+Chuck wouldn't like it.
+<SYNC Start=5380><P Class=KRCC>&nbsp;
+<SYNC Start=5482><P Class=KRCC>
+Chuck has no say in this.
+<SYNC Start=6548><P Class=KRCC>&nbsp;
+<SYNC Start=6650><P Class=KRCC>
+This deal he's doing with you,
+<SYNC Start=7816><P Class=KRCC>&nbsp;
+<SYNC Start=7918><P Class=KRCC>
+he's doing outside his crew.
+<SYNC Start=9184><P Class=KRCC>&nbsp;
+<SYNC Start=9286><P Class=KRCC>
+He doesn't want his bosses to know.
+<SYNC Start=10919><P Class=KRCC>&nbsp;
+<SYNC Start=11021><P Class=KRCC>
+I had a baseball card collection...
+<SYNC Start=12754><P Class=KRCC>&nbsp;
+<SYNC Start=12856><P Class=KRCC>
+All gone!
+<SYNC Start=13922><P Class=KRCC>&nbsp;
+<SYNC Start=14024><P Class=KRCC>
+You're sure they weren't<br>
+looking for anything else?
+<SYNC Start=15424><P Class=KRCC>&nbsp;
+<SYNC Start=15526><P Class=KRCC>
+Wouldn't it be great if we<br>
+could do that every night?
+<SYNC Start=17192><P Class=KRCC>&nbsp;
+<SYNC Start=17294><P Class=KRCC>
+Yes, but we can't.
+<SYNC Start=19194><P Class=KRCC>&nbsp;
+<SYNC Start=19296><P Class=KRCC>
+We could have gone home<br>
+with $800,000, tax free!
+<SYNC Start=23298><P Class=KRCC>&nbsp;
+<SYNC Start=23400><P Class=KRCC>
+Your point being?
+<SYNC Start=24466><P Class=KRCC>&nbsp;
+<SYNC Start=25235><P Class=KRCC>
+Why didn't we?
+<SYNC Start=26435><P Class=KRCC>&nbsp;
+<SYNC Start=26537><P Class=KRCC>
+James McGill.
+<SYNC Start=27135><P Class=KRCC>&nbsp;
+<SYNC Start=27237><P Class=KRCC>
+Clifford Mane.
+<SYNC Start=28103><P Class=KRCC>&nbsp;
+<SYNC Start=28205><P Class=KRCC>
+Just Jimmy.
+<SYNC Start=29071><P Class=KRCC>&nbsp;
+<SYNC Start=34610><P Class=KRCC>&nbsp;
+<SYNC Start=36978><P Class=KRCC>&nbsp;
+<SYNC Start=40117><P Class=KRCC>&nbsp;
+<SYNC Start=42617><P Class=KRCC>&nbsp;
+<SYNC Start=52096><P Class=KRCC>&nbsp;
+<SYNC Start=55831><P Class=KRCC>&nbsp;
+<SYNC Start=85629><P Class=KRCC>&nbsp;
+<SYNC Start=88096><P Class=KRCC>&nbsp;
+<SYNC Start=88132><P Class=KRCC>&nbsp;
+<SYNC Start=91867><P Class=KRCC>&nbsp;
+<SYNC Start=96306><P Class=KRCC>&nbsp;
+<SYNC Start=100041><P Class=KRCC>&nbsp;
+<SYNC Start=131563><P Class=KRCC>&nbsp;
+<SYNC Start=133162><P Class=KRCC>&nbsp;
+<SYNC Start=134198><P Class=KRCC>&nbsp;
+<SYNC Start=137966><P Class=KRCC>&nbsp;
+<SYNC Start=142153><P Class=KRCC>&nbsp;
+<SYNC Start=145921><P Class=KRCC>&nbsp;
+<SYNC Start=145957><P Class=KRCC>&nbsp;
+<SYNC Start=148457><P Class=KRCC>&nbsp;
+<SYNC Start=157969><P Class=KRCC>
+- Howard.<br>
+- ÁÁÀº ¾ÆÄ§!
+<SYNC Start=159768><P Class=KRCC>&nbsp;
+<SYNC Start=159804><P Class=KRCC>
+McGill ¾¾¿¡°Ô ¹è´Ş ¿Ô½À´Ï´Ù.
+<SYNC Start=161270><P Class=KRCC>&nbsp;
+<SYNC Start=161305><P Class=KRCC>
+¿©±â¼­ ¹¹ÇØ?
+<SYNC Start=162638><P Class=KRCC>&nbsp;
+<SYNC Start=162673><P Class=KRCC>
+¾Æ, ÀÌ°Å ¿À·£¸¸ÀÌ±º.
+<SYNC Start=163839><P Class=KRCC>&nbsp;
+<SYNC Start=163877><P Class=KRCC>
+±×³É ¾ÈºÎÀÎ»ç °â µé·¯ºÃ¾î.
+<SYNC Start=164954><P Class=KRCC>&nbsp;
+<SYNC Start=165276><P Class=KRCC>
+³»°¡ ¾Æ±î À½¾ÇÀ» µé¾ú´ø °Í °°Àºµ¥?
+<SYNC Start=166642><P Class=KRCC>&nbsp;
+<SYNC Start=166677><P Class=KRCC>
+- Èì?<br>
+- ¾Æ³Ä, ¾Æ³Ä.
+<SYNC Start=167877><P Class=KRCC>&nbsp;
+<SYNC Start=167912><P Class=KRCC>
+³­ ±×³É... ±×°Å µé¾îÁÙ°Ô.
+<SYNC Start=172081><P Class=KRCC>&nbsp;
+<SYNC Start=172116><P Class=KRCC>&nbsp;
+<SYNC Start=174516><P Class=KRCC>&nbsp;
+<SYNC Start=176954><P Class=KRCC>
+- ¸¸³ª¼­ ¹İ°¡¿ö, Howard.<br>
+- ¿À, ³ªµµ.
+<SYNC Start=179655><P Class=KRCC>&nbsp;
+<SYNC Start=179690><P Class=KRCC>
+Á¤¸» º¸°í½Í¾ú¾î, ³» Ä£±¸.
+<SYNC Start=182124><P Class=KRCC>&nbsp;
+<SYNC Start=182159><P Class=KRCC>
+ºÎ´ã°®Áö ¸»¶ó±¸.
+<SYNC Start=184460><P Class=KRCC>&nbsp;
+<SYNC Start=184495><P Class=KRCC>
+À½, ´ÙÀ½ ÁÖ¿¡ ÇÑ µÎ ½Ã°£ Á¤µµ<br>
+°¥±î Çß´Âµ¥.
+<SYNC Start=190165><P Class=KRCC>&nbsp;
+<SYNC Start=190201><P Class=KRCC>
+»óÈ² ºÁ¼­ ¸»¾ß.
+<SYNC Start=192167><P Class=KRCC>&nbsp;
+<SYNC Start=192203><P Class=KRCC>
+À½, ³Ê¸¸ ±¦Âú´Ù¸é.
+<SYNC Start=194737><P Class=KRCC>&nbsp;
+<SYNC Start=194793><P Class=KRCC>
+³» ¸»Àº, ¿ì¸° ³Ê°¡ ¿À´Â °Ô ´ç¿¬È÷ ÁÁÁö.
+<SYNC Start=196527><P Class=KRCC>&nbsp;
+<SYNC Start=196562><P Class=KRCC>
+¿ì¸° ¹¹µç ÁÁ¾Æ.
+<SYNC Start=200297><P Class=KRCC>&nbsp;
+<SYNC Start=200332><P Class=KRCC>
+³»°¡ ¾ğÁ¦ µÇ´Â Áö ¾Ë¾Æº¸°í<br>
+Ernesto°¡ ³ÊÇÑÅ× ¹Ì¸® ¾Ë·ÁÁÖµµ·Ï ÇÒ°Ô.
+<SYNC Start=204234><P Class=KRCC>&nbsp;
+<SYNC Start=204270><P Class=KRCC>
+±×°Å ÁÁ³×.
+<SYNC Start=205702><P Class=KRCC>&nbsp;
+<SYNC Start=205738><P Class=KRCC>&nbsp;
+<SYNC Start=208906><P Class=KRCC>&nbsp;
+<SYNC Start=208941><P Class=KRCC>
+Ernie´Â Àß ÀÖ¾î?
+<SYNC Start=210407><P Class=KRCC>&nbsp;
+<SYNC Start=210442><P Class=KRCC>
+¾î, ±×´Â Àß Áö³». Àü¹İÀûÀ¸·Î.
+<SYNC Start=213143><P Class=KRCC>&nbsp;
+<SYNC Start=213178><P Class=KRCC>
+¸ÚÁö±º.
+<SYNC Start=214478><P Class=KRCC>&nbsp;
+<SYNC Start=214513><P Class=KRCC>
+»÷µåÆÄÀÌÆÛ °ü·ÃµÈ °Ç Á¦´ë·Î µÇ°í ÀÖ¾î?
+<SYNC Start=217247><P Class=KRCC>&nbsp;
+<SYNC Start=217283><P Class=KRCC>
+Àß µÇ°í ÀÖÁö.
+<SYNC Start=221084><P Class=KRCC>&nbsp;
+<SYNC Start=221120><P Class=KRCC>
+Davis & MainÀÌ, ¾î... ±²ÀåÈ÷ Àß ÇØÁÖ°í ÀÖ¾î.
+<SYNC Start=225122><P Class=KRCC>&nbsp;
+<SYNC Start=225157><P Class=KRCC>
+±×µéÀÌ Àß ÇÒ°Å¾ß.
+<SYNC Start=226757><P Class=KRCC>&nbsp;
+<SYNC Start=226792><P Class=KRCC>
+ÀÌ°Ç º¹ÀâÇÑ »ç°ÇÀÌ´Ï±î.
+<SYNC Start=229459><P Class=KRCC>&nbsp;
+<SYNC Start=229495><P Class=KRCC>
+À½, È®½ÇÈ÷ µÎ ¸íÀÌ¼­ ÇÒ ÀÏÀº ¾Æ´Ï¾úÁö, ±×°Ç È®½ÇÇØ.
+<SYNC Start=233630><P Class=KRCC>&nbsp;
+<SYNC Start=233666><P Class=KRCC>
+Jimmy¿¡ ´ëÇØ µéÀº °Ç ¾ø¾î?
+<SYNC Start=235933><P Class=KRCC>&nbsp;
+<SYNC Start=235968><P Class=KRCC>
+¼Ò½ÄÀ» µè±ä ÇßÁö, ÀÀ. ±×¶û ¾ê±âÇß¾ú¾î.
+<SYNC Start=239236><P Class=KRCC>&nbsp;
+<SYNC Start=239271><P Class=KRCC>
+Àß Áö³»?
+<SYNC Start=240804><P Class=KRCC>&nbsp;
+<SYNC Start=240839><P Class=KRCC>
+Howard: ±×´Â Àß Áö³».
+<SYNC Start=242639><P Class=KRCC>&nbsp;
+<SYNC Start=242675><P Class=KRCC>
+Àß ÇÏ°í ÀÖ¾î.
+<SYNC Start=246143><P Class=KRCC>&nbsp;
+<SYNC Start=247446><P Class=KRCC>
+¸»ÀÌ ³ª¿Í¼­ ±×·±µ¥... ¼Ò½ÄÀÌ ÇÏ³ª ÀÖ¾î.
+<SYNC Start=252182><P Class=KRCC>&nbsp;
+<SYNC Start=252217><P Class=KRCC>
+Jimmy´Â Davis & Main¿¡¼­ ÀÏÇØ.
+<SYNC Start=254851><P Class=KRCC>&nbsp;
+<SYNC Start=256889><P Class=KRCC>
+¹» ÇÏ´Âµ¥?
+<SYNC Start=258555><P Class=KRCC>&nbsp;
+<SYNC Start=260993><P Class=KRCC>
+¿À, º¯È£»ç·Î ÀÏÇÑ´Ù°í.
+<SYNC Start=263660><P Class=KRCC>&nbsp;
+<SYNC Start=265130><P Class=KRCC>
+Èì.
+<SYNC Start=267197><P Class=KRCC>&nbsp;
+<SYNC Start=269201><P Class=KRCC>
+Clifford MainÀÌ Jimmy¸¦ °í¿ëÇß¾î?
+<SYNC Start=271101><P Class=KRCC>&nbsp;
+<SYNC Start=271136><P Class=KRCC>
+ÀÀ.
+<SYNC Start=273770><P Class=KRCC>&nbsp;
+<SYNC Start=273806><P Class=KRCC>
+°øÁ¤È÷ ¸»ÇØ¼­, ±×´Â ¹İ½Å¹İÀÇ ÇßÁö¸¸,<br>
+Clifford°¡ Jimmy¿¡°Ô ±âÈ¸¸¦ ÇÑ ¹ø ÁÖ±â·Î Çß¾î.
+<SYNC Start=278175><P Class=KRCC>&nbsp;
+<SYNC Start=278210><P Class=KRCC>
+Clifford°¡ Á÷¿øµéÇÑÅ× °í°´ ÀÀ´ë¸¦ ½ÃÄ×´Âµ¥,
+<SYNC Start=280644><P Class=KRCC>&nbsp;
+<SYNC Start=280679><P Class=KRCC>
+»÷µåÆÄÀÌÆÛ °ÅÁÖÀÚµéÇÏ°í ¾ê±âÇÒ ¶§¸¶´Ù
+<SYNC Start=283180><P Class=KRCC>&nbsp;
+<SYNC Start=283215><P Class=KRCC>
+JimmyÀÇ ÀÌ¸§ÀÌ ³ª¿À´õ¶ó±¸.
+<SYNC Start=285115><P Class=KRCC>&nbsp;
+<SYNC Start=285150><P Class=KRCC>
+±×°Ô ±×·¯´Ï±î, ±×´Â...
+<SYNC Start=287884><P Class=KRCC>&nbsp;
+<SYNC Start=287920><P Class=KRCC>
+- ±× ³ëÀÎ³×µé, ±×µéÀº ±×³É...<br>
+- ±×µéÀÌ Jimmy¸¦ ÁÁ¾ÆÇÏ´Â±º.
+<SYNC Start=289987><P Class=KRCC>&nbsp;
+<SYNC Start=290022><P Class=KRCC>
+- ÀÀ, ±×·±°ÅÁö.<br>
+- À¸À½.
+<SYNC Start=292222><P Class=KRCC>&nbsp;
+<SYNC Start=292257><P Class=KRCC>
+°Ô´Ù°¡, ³» »ı°¢¿¡ Clifford´Â<br>
+ÀÌ°Ô ÁÁÀº °Ç¼ö¶ó »ı°¢ÇÏ´Â °Í °°¾Æ.
+<SYNC Start=299696><P Class=KRCC>&nbsp;
+<SYNC Start=299732><P Class=KRCC>
+±×... Áö¼ÓÇÒ ¼ö ÀÖ´Â.
+<SYNC Start=302366><P Class=KRCC>&nbsp;
+<SYNC Start=302401><P Class=KRCC>
+À½.
+<SYNC Start=303433><P Class=KRCC>&nbsp;
+<SYNC Start=304770><P Class=KRCC>
+Jimmy´Â È®½ÇÈ÷ »ç¶÷µéÀ» Àß ´Ù·çÁö.
+<SYNC Start=306737><P Class=KRCC>&nbsp;
+<SYNC Start=306772><P Class=KRCC>
+È®½ÇÈ÷ ±×·¡.
+<SYNC Start=308505><P Class=KRCC>&nbsp;
+<SYNC Start=308540><P Class=KRCC>&nbsp;
+<SYNC Start=310207><P Class=KRCC>&nbsp;
+<SYNC Start=310242><P Class=KRCC>
+Davis & Main¿¡¼­ ±×ÀÇ ¹è°æ¿¡ ´ëÇØ °ÆÁ¤ÇÏÁø ¾Ê´ø°¡?
+<SYNC Start=313910><P Class=KRCC>&nbsp;
+<SYNC Start=313946><P Class=KRCC>
+±×ÀÇ ÇĞ¹úÀÌ³ª?
+<SYNC Start=315812><P Class=KRCC>&nbsp;
+<SYNC Start=315848><P Class=KRCC>
+¼û±è ¾øÀÌ ¸»ÇÏÀÚ¸é,
+<SYNC Start=317180><P Class=KRCC>&nbsp;
+<SYNC Start=317216><P Class=KRCC>
+»çÀü¿¡ Clifford¶û ¾ê±âÇß¾ú¾î.
+<SYNC Start=320150><P Class=KRCC>&nbsp;
+<SYNC Start=320185><P Class=KRCC>
+³­ Á¶±İÀÇ »çÁ¤µµ ºÁÁÖÁö ¾Ê¾Ò´Ù±¸.
+<SYNC Start=321518><P Class=KRCC>&nbsp;
+<SYNC Start=321553><P Class=KRCC>
+¿Ïº®ÇÏ°Ô ÆÇÀ» ¸¸µé·Á°í Çß¾î.
+<SYNC Start=326423><P Class=KRCC>&nbsp;
+<SYNC Start=326458><P Class=KRCC>
+±×Ä¡¸¸ ³»°¡ ¹æÇØÇÒ ¼ö°¡ ¾ø´õ¶ó±¸.
+<SYNC Start=327824><P Class=KRCC>&nbsp;
+<SYNC Start=327860><P Class=KRCC>
+´ç¿¬È÷ ¸ø Çß°ÚÁö.
+<SYNC Start=330027><P Class=KRCC>&nbsp;
+<SYNC Start=330062><P Class=KRCC>
+³Êµµ ÇÒ ¼ö ¾ø¾úÀ»°Å¾ß.
+<SYNC Start=332029><P Class=KRCC>&nbsp;
+<SYNC Start=332064><P Class=KRCC>
+»ç½Ç´ë·Î ¸»ÇÏÀÚ¸é...
+<SYNC Start=334665><P Class=KRCC>&nbsp;
+<SYNC Start=334700><P Class=KRCC>
+Kim Wexler°¡ ¹Ğ¾îºÙ¿´¾î... ¸Å¿ì °­ÇÏ°Ô.
+<SYNC Start=338535><P Class=KRCC>&nbsp;
+<SYNC Start=340272><P Class=KRCC>
+ÇÏÁö¸¸ ³­ ±×·¯Áö ¾Ê¾Ò¾î, ¾î,<br>
+±×·¯´Ï±î, ¹æÇØÇß´Ù°í.
+<SYNC Start=344608><P Class=KRCC>&nbsp;
+<SYNC Start=344643><P Class=KRCC>
+ÆÄÆ®³Ê Æ®·¢ÀÌ¾ß?
+<SYNC Start=346376><P Class=KRCC>&nbsp;
+<SYNC Start=346412><P Class=KRCC>
+³»°¡, ¾î...
+<SYNC Start=350681><P Class=KRCC>&nbsp;
+<SYNC Start=350716><P Class=KRCC>
+ÀÀ.
+<SYNC Start=352449><P Class=KRCC>&nbsp;
+<SYNC Start=352484><P Class=KRCC>
+±×·± °Í °°¾Æ.
+<SYNC Start=354384><P Class=KRCC>&nbsp;
+<SYNC Start=355721><P Class=KRCC>
+¸ÚÁö³×.
+<SYNC Start=359856><P Class=KRCC>&nbsp;
+<SYNC Start=359892><P Class=KRCC>
+Jimmy¿¡°Ô Àß µÆ¾î.
+<SYNC Start=361692><P Class=KRCC>&nbsp;
+<SYNC Start=361727><P Class=KRCC>
+Charlie Hustle, ±×Ä¡?
+<SYNC Start=363460><P Class=KRCC>&nbsp;
+<SYNC Start=363495><P Class=KRCC>
+¸Â¾Æ.
+<SYNC Start=364528><P Class=KRCC>&nbsp;
+<SYNC Start=364563><P Class=KRCC>
+¸Â¾Æ.
+<SYNC Start=367898><P Class=KRCC>&nbsp;
+<SYNC Start=367933><P Class=KRCC>
+À½, ÀÌÁ¦ ¹æÇØÇÏÁö ¸»¾Æ¾ß°Ú±º.
+<SYNC Start=370434><P Class=KRCC>&nbsp;
+<SYNC Start=370469><P Class=KRCC>
+Ernie°¡ ÁØ ¸ñ·Ï¿¡¼­ ´õ Ãß°¡ÇØ´Ş¶ó°í ÇÒ °Ç ¾ø°í?
+<SYNC Start=372235><P Class=KRCC>&nbsp;
+<SYNC Start=372271><P Class=KRCC>
+¸ğµÎ ±¦Âú¾Æ. µü ÁÁ¾Æ.
+<SYNC Start=374705><P Class=KRCC>&nbsp;
+<SYNC Start=374740><P Class=KRCC>
+µé·¯Áà¼­ °í¸¿³×, Howard.
+<SYNC Start=376440><P Class=KRCC>&nbsp;
+<SYNC Start=376475><P Class=KRCC>
+¾ğÁ¦µçÁö. ³­ ³Ê°¡ Á¤¸» ±×¸®¿ö.
+<SYNC Start=378975><P Class=KRCC>&nbsp;
+<SYNC Start=379011><P Class=KRCC>
+¾Ğ¹ÚÇÏ´Â °Ç ¾Æ´Ï¾ß.
+<SYNC Start=380544><P Class=KRCC>&nbsp;
+<SYNC Start=380579><P Class=KRCC>&nbsp;
+<SYNC Start=383246><P Class=KRCC>&nbsp;
+<SYNC Start=383282><P Class=KRCC>&nbsp;
+<SYNC Start=386416><P Class=KRCC>&nbsp;
+<SYNC Start=393692><P Class=KRCC>&nbsp;
+<SYNC Start=397461><P Class=KRCC>&nbsp;
+<SYNC Start=417516><P Class=KRCC>
+¢Ü
+<SYNC Start=421284><P Class=KRCC>&nbsp;
+<SYNC Start=422219><P Class=KRCC>
+¹ø¿ªÆ÷·³ Äá³É<br>
+¿µ¾îÀÚ¸·ÃâÃ³ oykubuyuk www.addic7ed.com
+<SYNC Start=424924><P Class=KRCC>&nbsp;
+<SYNC Start=471886><P Class=KRCC>
+Francis: HHM°úÀÇ ¼­·ù °ËÅä°¡ Á¶Á¤µÉ °ÍÀÔ´Ï´Ù.
+<SYNC Start=475389><P Class=KRCC>&nbsp;
+<SYNC Start=475424><P Class=KRCC>
+Áö±İ±îÁö, ´ÙÀ½°ú °°Àº ¼­·ùµéÀÌ
+<SYNC Start=477658><P Class=KRCC>&nbsp;
+<SYNC Start=477744><P Class=KRCC>
+»÷µåÆÄÀÌÆÛ·ÎºÎÅÍ ¿ä±¸µÇ¾úÀ¸¸ç
+<SYNC Start=479611><P Class=KRCC>&nbsp;
+<SYNC Start=479646><P Class=KRCC>
+¿ì¸®ÀÇ ÃÊ±â Åº¿ø¼­ÀÇ ÀÏºÎ·Î ¾²ÀÏ °ÍÀÔ´Ï´Ù.
+<SYNC Start=482447><P Class=KRCC>&nbsp;
+<SYNC Start=482482><P Class=KRCC>
+Ã¹ ¹øÂ°... °ú°ÅºÎÅÍ ÇöÀç±îÁöÀÇ °ÅÁÖÀÚ ÀÓ´ë °è¾à¼­¸¦<br>
+¸ğµç »÷µåÆÄÀÌÆÛ ÁöºÎ·ÎºÎÅÍ ¹Ş¾Ò½À´Ï´Ù.
+<SYNC Start=487552><P Class=KRCC>&nbsp;
+<SYNC Start=487587><P Class=KRCC>
+µÎ ¹øÂ°... »÷µåÆÄÀÌÆÛ°¡ ÀÌ¿ëÇß´ø ¸ğµç ¹°°Ç °ø±ŞÃ³¿¡¼­<br>
+Ã»±¸¼­¿Í °Å·¡ ¹®¼­¸¦ ¹Ş¾Ò½À´Ï´Ù.
+<SYNC Start=493591><P Class=KRCC>&nbsp;
+<SYNC Start=493627><P Class=KRCC>
+¼¼ ¹øÂ°... »÷µåÆÄÀÌÆÛ¿¡ ÀÖ´Â ÀÚÆÇ±âµé¿¡ ´ëÇØ<br>
+°ú°ÅºÎÅÍ ÇöÀç±îÁöÀÇ ¸ğµç ¸ñ·ÏÀ» ¹Ş¾Ò½À´Ï´Ù.
+<SYNC Start=498396><P Class=KRCC>&nbsp;
+<SYNC Start=498432><P Class=KRCC>
+³× ¹øÂ°... »÷µåÆÄÀÌÆÛ¿Í ¹è±Ş¾÷Ã¼°£ÀÇ<br>
+¸ğµç »ç¾÷Àû ÇùÀÇ¼­¿Í °è¾à¼­¸¦ ¹Ş¾Ò½À´Ï´Ù.
+<SYNC Start=504769><P Class=KRCC>&nbsp;
+<SYNC Start=504805><P Class=KRCC>
+´Ù¼¸ ¹øÂ°... °ÅÁÖÀÚµéÀÇ »çÈ¸º¸Àå¿¬±İ ¼ö·É¾×¿¡ ´ëÇÑ ±â·Ï.
+<SYNC Start=509407><P Class=KRCC>&nbsp;
+<SYNC Start=509443><P Class=KRCC>
+¿©¼¸ ¹øÂ°... ¿ëµ· Áö±Ş ³»¿ª.
+<SYNC Start=513078><P Class=KRCC>&nbsp;
+<SYNC Start=513113><P Class=KRCC>
+ÀÏ°ö ¹øÂ°... °ü·Ã ¾ø´Â ¹°Ç°ÀÌ °ÅÁÖÀÚµé¿¡°Ô Ã»±¸µÈ...
+<SYNC Start=516281><P Class=KRCC>&nbsp;
+<SYNC Start=518352><P Class=KRCC>
+Kim: »õ·Î¿î ¸ğ½ÀÀÌ ¸¾¿¡ µé¾î.
+<SYNC Start=520218><P Class=KRCC>&nbsp;
+<SYNC Start=520253><P Class=KRCC>
+»êÅ¸Æä´Â ¾î¶§?
+<SYNC Start=522454><P Class=KRCC>&nbsp;
+<SYNC Start=522489><P Class=KRCC>
+ÀÌ°Ç, ¾î...
+<SYNC Start=524222><P Class=KRCC>&nbsp;
+<SYNC Start=524257><P Class=KRCC>
+ÀÌ°Ç... ÀÌ°Ç ÁøÂ¥...
+<SYNC Start=526958><P Class=KRCC>&nbsp;
+<SYNC Start=526993><P Class=KRCC>
+ºÃÁö? ³»°¡ ¹¹¶ó Çß¾î?
+<SYNC Start=530228><P Class=KRCC>&nbsp;
+<SYNC Start=530263><P Class=KRCC>
+¸ÚÁø °÷ÀÌÁö?
+<SYNC Start=532230><P Class=KRCC>&nbsp;
+<SYNC Start=532265><P Class=KRCC>
+ÀÓ½Ã È¸»çÄ¡°ï ÃÖ°í¾ß.
+<SYNC Start=535300><P Class=KRCC>&nbsp;
+<SYNC Start=535335><P Class=KRCC>
+±â´Ù¸± ¼ö°¡ ¾ø±º.
+<SYNC Start=538236><P Class=KRCC>&nbsp;
+<SYNC Start=538271><P Class=KRCC>
+³ª HHMÀ» ¶°³¯Áöµµ ¸ğ¸£°Ú¾î.
+<SYNC Start=540238><P Class=KRCC>&nbsp;
+<SYNC Start=540273><P Class=KRCC>
+ÆíÇÑ D&M ±âÂ÷¿¡ ¿Ã¶óÅ¸¾ßÁö.
+<SYNC Start=542907><P Class=KRCC>&nbsp;
+<SYNC Start=542943><P Class=KRCC>
+ÀÌ°Å ¿ÏÀü ÆíÇØ.
+<SYNC Start=545944><P Class=KRCC>&nbsp;
+<SYNC Start=545979><P Class=KRCC>
+³î¶ó¿ö.
+<SYNC Start=548012><P Class=KRCC>&nbsp;
+<SYNC Start=550384><P Class=KRCC>
+Jimmy...
+<SYNC Start=552684><P Class=KRCC>&nbsp;
+<SYNC Start=552719><P Class=KRCC>
+Á¤¸» Àß µÆ¾î.
+<SYNC Start=555253><P Class=KRCC>&nbsp;
+<SYNC Start=555288><P Class=KRCC>
+°í¸¶¿ö.
+<SYNC Start=557088><P Class=KRCC>&nbsp;
+<SYNC Start=557124><P Class=KRCC>
+ÀÖÁö, »óÈ²ÀÌ Á¤¸» ÁÁ¾ÆÁ³¾î.
+<SYNC Start=559958><P Class=KRCC>&nbsp;
+<SYNC Start=559993><P Class=KRCC>
+³­ ½ÉÁö¾î ³» Áıµµ »ì±î ½Í¾î.
+<SYNC Start=564262><P Class=KRCC>&nbsp;
+<SYNC Start=564297><P Class=KRCC>
+- »êÅ¸Æä¿¡?<br>
+- ¾ÆÁ÷ Á¤ÇÏÁø ¾Ê¾Ò¾î.
+<SYNC Start=567165><P Class=KRCC>&nbsp;
+<SYNC Start=567200><P Class=KRCC>
+¾Æ¸¶ À½, Albuquerque¿¡ Á» ´õ °¡±î¿î °÷ÀÌ³ª...
+<SYNC Start=570268><P Class=KRCC>&nbsp;
+<SYNC Start=570303><P Class=KRCC>
+µÎ °÷ ¸ğµÎ ÀÚÁÖ °¡´Ï±î.
+<SYNC Start=572270><P Class=KRCC>&nbsp;
+<SYNC Start=572305><P Class=KRCC>
+ÁÁ³×.
+<SYNC Start=573671><P Class=KRCC>&nbsp;
+<SYNC Start=573707><P Class=KRCC>
+±×·¡¼­, Áß°£ ÁöÁ¡ÀÌ¶ó´Â°ÅÁö.
+<SYNC Start=576541><P Class=KRCC>&nbsp;
+<SYNC Start=576576><P Class=KRCC>
+À½... ³ª´Â »ı°¢ÇÏ°í ÀÖ¾ú¾î, ¾î...
+<SYNC Start=578176><P Class=KRCC>&nbsp;
+<SYNC Start=578211><P Class=KRCC>
+- ¿À, Àá±ñ, Corrales´Â ¾î¶§?<br>
+- Corrales.
+<SYNC Start=579611><P Class=KRCC>&nbsp;
+<SYNC Start=579646><P Class=KRCC>
+±×Ä¡, ¸ÚÁö°í ÀÛÀº ÇÑ Ãş Â¥¸® Áı ÇÏ³ª ¾ò¾î¼­
+<SYNC Start=581279><P Class=KRCC>&nbsp;
+<SYNC Start=581314><P Class=KRCC>
+È¤Àº ±×·¸°Ô ÀÛÁö ¾Ê¾Æµµ µÇ°í.
+<SYNC Start=582981><P Class=KRCC>&nbsp;
+<SYNC Start=583016><P Class=KRCC>
+Å©°í, Å¹ Æ®¿© ÀÖ´Â °Ç?
+<SYNC Start=584382><P Class=KRCC>&nbsp;
+<SYNC Start=584418><P Class=KRCC>
+³ª´Â ³» ±â¸¦ ¹æÇØÇÏ´Â º®ÀÌ ¾øÀ¸¸é ÁÁ°Ú¾î.
+<SYNC Start=587452><P Class=KRCC>&nbsp;
+<SYNC Start=587487><P Class=KRCC>
+¾î, ÇÏÁö¸¸ ³ª´Â Á¤¸» È®½ÇÇÏ°Ô
+<SYNC Start=589921><P Class=KRCC>&nbsp;
+<SYNC Start=589960><P Class=KRCC>
+Àû´çÇÑ Å©±âÀÇ ±¦ÂúÀº °ø°£ÀÌ ÀÖÀ¸¸é ÁÁ°Ú¾î.<br>
+ÀÚ¿¬À» ´À³¥ ¼ö ÀÖ°Ô.
+<SYNC Start=592695><P Class=KRCC>&nbsp;
+<SYNC Start=592730><P Class=KRCC>
+¸»µé.
+<SYNC Start=594596><P Class=KRCC>&nbsp;
+<SYNC Start=594632><P Class=KRCC>
+ÇØºÁ. ¸»À» °¡Áú ¼ö ÀÖ´Ù±¸.
+<SYNC Start=596932><P Class=KRCC>&nbsp;
+<SYNC Start=596967><P Class=KRCC>
+±×°Å ¿ÏÀü ¸ÚÁú°Å¾ß.
+<SYNC Start=598867><P Class=KRCC>&nbsp;
+<SYNC Start=598903><P Class=KRCC>
+³Ê¹« ºñ½Î. ±×°ÍµéÀº, ¾î, ±Í¸®... ¸ÂÁö?
+<SYNC Start=601570><P Class=KRCC>&nbsp;
+<SYNC Start=601605><P Class=KRCC>
+¸»µéÀÌ Ç×»ó ¸Ô´Â °Ô ±Í¸®Áö?
+<SYNC Start=603038><P Class=KRCC>&nbsp;
+<SYNC Start=603074><P Class=KRCC>
+- ±×·²¸¸ÇÑ °¡Ä¡°¡ ÀÖ¾î.<br>
+- ±×¸®°í ÆíÀÚ¿¡´Ù°¡.
+<SYNC Start=604940><P Class=KRCC>&nbsp;
+<SYNC Start=604975><P Class=KRCC>
+³Í ÆíÀÚ¸¦ °¡Á®´Ù°¡ ¸ÁÄ¡·Î<br>
+±×°É ¸ø ¹Ú¾Æ¾ß ÇÑ´Ù±¸.
+<SYNC Start=607910><P Class=KRCC>&nbsp;
+<SYNC Start=607945><P Class=KRCC>
+- ±×°Å ¿ÏÀü ÇÒ¸¸ÇØ.<br>
+- ÀÌ°Ç...
+<SYNC Start=609145><P Class=KRCC>&nbsp;
+<SYNC Start=609187><P Class=KRCC>
+½Ã°ñ¿¡¼­ ¸»µµ Å¸°í
+<SYNC Start=610521><P Class=KRCC>&nbsp;
+<SYNC Start=610573><P Class=KRCC>
+ÇØÁú³è¿¡ ÆÄÆ¼¿À(Áı µÚÀÇ Å×¶ó½º)¿¡¼­<br>
+ÇÑ ÀÜÀÇ ¿ÍÀÎÀ» ¸¶½Ã¸é¼­...
+<SYNC Start=614375><P Class=KRCC>&nbsp;
+<SYNC Start=617755><P Class=KRCC>
+¿À, ¿ì¸® È­´öµµ ÇÏ³ª ÇÊ¿äÇÒ°Å¾ß.
+<SYNC Start=619655><P Class=KRCC>&nbsp;
+<SYNC Start=619691><P Class=KRCC>
+¸î ³¯ ¸î ÀÏÀ» ¹Ùº£Å¥ ÇØ ¸ÔÀ» ¼ö ÀÖ¾î.
+<SYNC Start=621290><P Class=KRCC>&nbsp;
+<SYNC Start=621326><P Class=KRCC>
+±×·¡. ¿ì¸® È®½ÇÈ÷ È­´öÀ» ±¸ÇØ¾ß°Ú¾î.
+<SYNC Start=626329><P Class=KRCC>&nbsp;
+<SYNC Start=629834><P Class=KRCC>&nbsp;
+<SYNC Start=631701><P Class=KRCC>&nbsp;
+<SYNC Start=634072><P Class=KRCC>
+ÁÁ¾Æ, ±×·³...
+<SYNC Start=636505><P Class=KRCC>&nbsp;
+<SYNC Start=636541><P Class=KRCC>
+³­ ÀÀÁ¢½Ç·Î °¡º¼°Ô.
+<SYNC Start=638407><P Class=KRCC>&nbsp;
+<SYNC Start=638443><P Class=KRCC>
+³» »õ È¸»ç Â÷¸¦ °¡Á®´ÙÁØ´ò¾î.
+<SYNC Start=641143><P Class=KRCC>&nbsp;
+<SYNC Start=641179><P Class=KRCC>
+¾î¿ì, Áø½ÉÀÌ¾ß?
+<SYNC Start=643746><P Class=KRCC>&nbsp;
+<SYNC Start=643781><P Class=KRCC>
+- ¹¹°¡?
+<SYNC Start=645681><P Class=KRCC>&nbsp;
+<SYNC Start=645717><P Class=KRCC>
+Jeeves, ³» ¼ø±İ ºñÇà¼± ¾îµø³ª?
+<SYNC Start=648317><P Class=KRCC>&nbsp;
+<SYNC Start=648353><P Class=KRCC>
+¾Æ´Ï, ±×°Å ¸»°í. ´Ù¸¥ °Å.
+<SYNC Start=650219><P Class=KRCC>&nbsp;
+<SYNC Start=650254><P Class=KRCC>
+ÁúÅõÇÏ±â´Â.
+<SYNC Start=651654><P Class=KRCC>&nbsp;
+<SYNC Start=651689><P Class=KRCC>
+¿ÏÀüÈ÷.
+<SYNC Start=654290><P Class=KRCC>&nbsp;
+<SYNC Start=655893><P Class=KRCC>
+¾Æ, ÀØÀ»»·Çß´Ù. ¼±¹° ÁÙ °Å ÀÖ¾î. Àá±ñ¸¸ ±â´Ù·Á.
+<SYNC Start=657893><P Class=KRCC>&nbsp;
+<SYNC Start=657929><P Class=KRCC>&nbsp;
+<SYNC Start=662431><P Class=KRCC>&nbsp;
+<SYNC Start=662467><P Class=KRCC>&nbsp;
+<SYNC Start=663899><P Class=KRCC>&nbsp;
+<SYNC Start=667205><P Class=KRCC>&nbsp;
+<SYNC Start=670439><P Class=KRCC>&nbsp;
+<SYNC Start=670475><P Class=KRCC>
+¿ÏÀü ÀÌ»Ú°Ôµµ Æ÷ÀåÇß³×.
+<SYNC Start=673242><P Class=KRCC>&nbsp;
+<SYNC Start=673277><P Class=KRCC>
+¿­±â ºÎ²ô·¯¿îµ¥.
+<SYNC Start=674410><P Class=KRCC>&nbsp;
+<SYNC Start=674445><P Class=KRCC>
+ÀÌ°Å ¼±¹°ÀÌ¾ß. °í¸¶¿öÇÏ¶ó±¸.
+<SYNC Start=675978><P Class=KRCC>&nbsp;
+<SYNC Start=679000><P Class=KRCC>
+<i> ¼¼»ó¿¡¼­ "µÎ ¹øÂ°·Î" ¸ÚÁø º¯È£»ç</i>
+<SYNC Start=681000><P Class=KRCC>&nbsp;
+<SYNC Start=681219><P Class=KRCC>
+½ÇÁ¦ ÀÌ·± °ÍÃ³·³ Çàµ¿ÇØ.
+<SYNC Start=684186><P Class=KRCC>&nbsp;
+<SYNC Start=684222><P Class=KRCC>
+ºÁºÁ.
+<SYNC Start=685588><P Class=KRCC>&nbsp;
+<SYNC Start=685623><P Class=KRCC>
+µÎ ¹øÂ°´Â ±×·¡µµ ¿©ÀüÈ÷ ¸Å¿ì, ¸Å¿ì ÁÁ¾Æ.
+<SYNC Start=689258><P Class=KRCC>&nbsp;
+<SYNC Start=689293><P Class=KRCC>
+ÁÁ¾Æ.
+<SYNC Start=690826><P Class=KRCC>&nbsp;
+<SYNC Start=698269><P Class=KRCC>
+°í¸¶¿ö.
+<SYNC Start=699969><P Class=KRCC>&nbsp;
+<SYNC Start=700004><P Class=KRCC>
+¿À´Ã ¹ã¿¡ º¼±î?
+<SYNC Start=701203><P Class=KRCC>&nbsp;
+<SYNC Start=701239><P Class=KRCC>
+¾Æ¸¶µµ.
+<SYNC Start=703873><P Class=KRCC>&nbsp;
+<SYNC Start=703908><P Class=KRCC>
+³Ê°¡ ÀÏ¸¸ Àß ³¡³»¸é.
+<SYNC Start=706776><P Class=KRCC>&nbsp;
+<SYNC Start=714419><P Class=KRCC>&nbsp;
+<SYNC Start=716886><P Class=KRCC>&nbsp;
+<SYNC Start=716921><P Class=KRCC>&nbsp;
+<SYNC Start=720656><P Class=KRCC>&nbsp;
+<SYNC Start=722827><P Class=KRCC>&nbsp;
+<SYNC Start=726195><P Class=KRCC>&nbsp;
+<SYNC Start=736340><P Class=KRCC>
+¾È³ç, ÀÌ»ÛÀÌ.
+<SYNC Start=738274><P Class=KRCC>&nbsp;
+<SYNC Start=741979><P Class=KRCC>
+¾î¶§¿ä, ¾Æ°¡¾¾µé?
+<SYNC Start=743312><P Class=KRCC>&nbsp;
+<SYNC Start=743347><P Class=KRCC>&nbsp;
+<SYNC Start=745247><P Class=KRCC>&nbsp;
+<SYNC Start=745283><P Class=KRCC>
+³×, Àúµµ ¾Ë¾Æ¿ä, ±×Ãİ?
+<SYNC Start=746949><P Class=KRCC>&nbsp;
+<SYNC Start=746984><P Class=KRCC>
+ÀÌ°Å ¸ğµÎ °¡Á×¿¡´Ù°¡,
+<SYNC Start=748584><P Class=KRCC>&nbsp;
+<SYNC Start=748619><P Class=KRCC>
+Ãß¿î ¾ÆÄ§À» À§ÇÑ ¿­¼± ±ò¸° ½ÃÆ®¿¡¿ä.
+<SYNC Start=752321><P Class=KRCC>&nbsp;
+<SYNC Start=752356><P Class=KRCC>
+ÀÌ°Ô ¹Ù·Î Ãµ±¹ÀÌÁÒ.
+<SYNC Start=754824><P Class=KRCC>&nbsp;
+<SYNC Start=754859><P Class=KRCC>&nbsp;
+<SYNC Start=757359><P Class=KRCC>&nbsp;
+<SYNC Start=763701><P Class=KRCC>
+ÀÌºÁ¿ä!
+<SYNC Start=765267><P Class=KRCC>&nbsp;
+<SYNC Start=765303><P Class=KRCC>
+ÀÛº°ÀÇ Æ÷¿ËÀÌ¶óµµ?
+<SYNC Start=767536><P Class=KRCC>&nbsp;
+<SYNC Start=767572><P Class=KRCC>
+½È¾î?
+<SYNC Start=769438><P Class=KRCC>&nbsp;
+<SYNC Start=769474><P Class=KRCC>
+ÁÁ¾Æ, ±×·¡, ´«¹°Àº Æ÷±âÇÏ°í,
+<SYNC Start=771140><P Class=KRCC>&nbsp;
+<SYNC Start=771175><P Class=KRCC>
+"´ÙÀ½¿¡ ºÁ¿ä"¶ó°í ÇÏÀÚ°í.
+<SYNC Start=773809><P Class=KRCC>&nbsp;
+<SYNC Start=775246><P Class=KRCC>&nbsp;
+<SYNC Start=778380><P Class=KRCC>&nbsp;
+<SYNC Start=778416><P Class=KRCC>&nbsp;
+<SYNC Start=780916><P Class=KRCC>&nbsp;
+<SYNC Start=784489><P Class=KRCC>&nbsp;
+<SYNC Start=786989><P Class=KRCC>&nbsp;
+<SYNC Start=794866><P Class=KRCC>&nbsp;
+<SYNC Start=797366><P Class=KRCC>&nbsp;
+<SYNC Start=798269><P Class=KRCC>&nbsp;
+<SYNC Start=801203><P Class=KRCC>&nbsp;
+<SYNC Start=801239><P Class=KRCC>&nbsp;
+<SYNC Start=804607><P Class=KRCC>&nbsp;
+<SYNC Start=808780><P Class=KRCC>
+ºĞ¸í ¸ÂÀ»ÅÙµ¥.
+<SYNC Start=811280><P Class=KRCC>&nbsp;
+<SYNC Start=814752><P Class=KRCC>&nbsp;
+<SYNC Start=817052><P Class=KRCC>&nbsp;
+<SYNC Start=817088><P Class=KRCC>&nbsp;
+<SYNC Start=819388><P Class=KRCC>&nbsp;
+<SYNC Start=849720><P Class=KRCC>&nbsp;
+<SYNC Start=852721><P Class=KRCC>&nbsp;
+<SYNC Start=852757><P Class=KRCC>&nbsp;
+<SYNC Start=855891><P Class=KRCC>&nbsp;
+<SYNC Start=863601><P Class=KRCC>&nbsp;
+<SYNC Start=865367><P Class=KRCC>&nbsp;
+<SYNC Start=871709><P Class=KRCC>
+ÀÌºÁ¿ä!
+<SYNC Start=873676><P Class=KRCC>&nbsp;
+<SYNC Start=873711><P Class=KRCC>&nbsp;
+<SYNC Start=876011><P Class=KRCC>&nbsp;
+<SYNC Start=876047><P Class=KRCC>&nbsp;
+<SYNC Start=877479><P Class=KRCC>&nbsp;
+<SYNC Start=878416><P Class=KRCC>
+¿©±â¼­... ¿©±â¼­ ¹¹ ÇÕ´Ï±î?
+<SYNC Start=880950><P Class=KRCC>&nbsp;
+<SYNC Start=880985><P Class=KRCC>
+¿©±â¼­ ÀÏÇÕ´Ï´Ù.
+<SYNC Start=882952><P Class=KRCC>&nbsp;
+<SYNC Start=882987><P Class=KRCC>
+¿À. Á¼Àº ¼¼»óÀÌ±º.
+<SYNC Start=885688><P Class=KRCC>&nbsp;
+<SYNC Start=885723><P Class=KRCC>
+±×·¡¼­, ¿©±â°¡ °æÂû¼­ ÁÖÂ÷Àå ¸Â³ª¿ä?
+<SYNC Start=890626><P Class=KRCC>&nbsp;
+<SYNC Start=890661><P Class=KRCC>
+³×.
+<SYNC Start=892294><P Class=KRCC>&nbsp;
+<SYNC Start=892330><P Class=KRCC>
+±×µéÀÌ ÀÎÁõÇÑ °÷ÀÎÁö´Â Àß ¸ğ¸£ÁÒ?
+<SYNC Start=894630><P Class=KRCC>&nbsp;
+<SYNC Start=896634><P Class=KRCC>
+±×³É ¿©±â ±ÙÃ³¿¡¼­ µ¹¾Æ´Ù´Ï¸é¼­
+<SYNC Start=899802><P Class=KRCC>&nbsp;
+<SYNC Start=899837><P Class=KRCC>
+´ëÈ­ Á» ³ª´©Áö ±×·¡¿ä.
+<SYNC Start=902638><P Class=KRCC>&nbsp;
+<SYNC Start=902673><P Class=KRCC>
+¾Æ, ÁÁ¾Æ¿ä.
+<SYNC Start=905174><P Class=KRCC>&nbsp;
+<SYNC Start=918589><P Class=KRCC>&nbsp;
+<SYNC Start=921156><P Class=KRCC>&nbsp;
+<SYNC Start=921192><P Class=KRCC>
+¿©±â¿¡ ¿Ö ¿Â°Å¿ä?
+<SYNC Start=923559><P Class=KRCC>&nbsp;
+<SYNC Start=923594><P Class=KRCC>
+°æÂû°üÀÌ¶û ÇØ°áÇÒ ÀÏÀÌ ÀÖ¾î¿ä.
+<SYNC Start=926462><P Class=KRCC>&nbsp;
+<SYNC Start=926497><P Class=KRCC>
+±× ÀÏÀÌ¶ó´Â °Ô ¹«¾ùÀÌ¿À?
+<SYNC Start=928964><P Class=KRCC>&nbsp;
+<SYNC Start=929000><P Class=KRCC>
+À½, ´ç½ÅÀÌ ²À ¾Ë¾Æ¾ß°Ú´Ù¸é, <br>
+Àú µµµÏ ¸Â¾Ò¾î¿ä.
+<SYNC Start=932468><P Class=KRCC>&nbsp;
+<SYNC Start=932503><P Class=KRCC>
+´©±º°¡°¡ Áı¿¡ Ä§ÀÔÇØ¼­ Á¦ °É ÈÉÃÄ°¬ÁÒ.
+<SYNC Start=935304><P Class=KRCC>&nbsp;
+<SYNC Start=935339><P Class=KRCC>
+´ç½ÅÀÇ ¾àÀÌ±º.
+<SYNC Start=936805><P Class=KRCC>&nbsp;
+<SYNC Start=936841><P Class=KRCC>
+³×, ±Ùµ¥ Àú ÁøÂ¥ È®½ÇÇÏ°Ô <br>
+°æÂûÇÑÅ× Àı´ë ¸»ÇÏÁö ¾Ê¾Ò¾î¿ä.
+<SYNC Start=939408><P Class=KRCC>&nbsp;
+<SYNC Start=939443><P Class=KRCC>
+Àü ¹Ùº¸°¡ ¾Æ´Ï°Åµç¿ä.
+<SYNC Start=941277><P Class=KRCC>&nbsp;
+<SYNC Start=941312><P Class=KRCC>
+ÀÌ¹Ì °æÂûÇÏ°í ¾ê±æ Çß¼Ò?
+<SYNC Start=943846><P Class=KRCC>&nbsp;
+<SYNC Start=943881><P Class=KRCC>
+µÎ ¸íÀÌ Áı¿¡ µé·¶¾î¿ä.
+<SYNC Start=946148><P Class=KRCC>&nbsp;
+<SYNC Start=946183><P Class=KRCC>
+ÇÏÁö¸¸ Á¦°¡ ½Å°æ ¾²´Â °Ç <br>
+¾àÀÌ ¾Æ´Ï¶ó±¸¿ä.
+<SYNC Start=948617><P Class=KRCC>&nbsp;
+<SYNC Start=948653><P Class=KRCC>
+Á¦ ¸»Àº, Á¦°¡ ½Å°æ¾²´Â °Ç.
+<SYNC Start=950352><P Class=KRCC>&nbsp;
+<SYNC Start=950388><P Class=KRCC>
+Á¦ ¾ß±¸ Ä«µå¿¡¿ä.
+<SYNC Start=952021><P Class=KRCC>&nbsp;
+<SYNC Start=952056><P Class=KRCC>
+Àü ±×°É µÇÃ£°í ½Í¾î¿ä.
+<SYNC Start=953789><P Class=KRCC>&nbsp;
+<SYNC Start=955226><P Class=KRCC>
+- ¾ß±¸ Ä«µå?<br>
+- ³×.
+<SYNC Start=958093><P Class=KRCC>&nbsp;
+<SYNC Start=958129><P Class=KRCC>
+ÀúÇÑÅ× ¿ÏÀü ºñ½Ñ ¾ß±¸ Ä«µå Äİ·º¼ÇÀÌ ÀÖ´Âµ¥,
+<SYNC Start=961330><P Class=KRCC>&nbsp;
+<SYNC Start=961365><P Class=KRCC>
+´©±º°¡°¡ ±×°É ÈÉÃÄ°¬¾î¿ä.
+<SYNC Start=963032><P Class=KRCC>&nbsp;
+<SYNC Start=963067><P Class=KRCC>
+´ç½ÅÇÑÅ× ÀÌ·± ¸» ÇÏ´Â °Ô <br>
+º°·Î ³î¶øÁöµµ ¾Ê°ÚÁö¸¸
+<SYNC Start=966335><P Class=KRCC>&nbsp;
+<SYNC Start=966370><P Class=KRCC>
+ÀÌ°Å ¿ÏÀü ¾È ÁÁÀº »ı°¢ÀÌ¿À.
+<SYNC Start=968604><P Class=KRCC>&nbsp;
+<SYNC Start=968639><P Class=KRCC>
+´ç½ÅÀÌ °æÂûÇÑÅ× ¸»ÇÏ·Á ÇÏ´Â °Ô
+<SYNC Start=970673><P Class=KRCC>&nbsp;
+<SYNC Start=970708><P Class=KRCC>
+¹üÁË¸¦ Æ÷ÇÔÇÑ ¸ğµç °É ¸»ÇÏ°Ô µÉ °Å¶õ ¸»ÀÌÁö.
+<SYNC Start=972041><P Class=KRCC>&nbsp;
+<SYNC Start=972076><P Class=KRCC>
+Àü ¹üÁËÀÚ¶ó ¿©±â ¿Â °Ô ¾Æ´Ï¿¡¿ä.
+<SYNC Start=974610><P Class=KRCC>&nbsp;
+<SYNC Start=974645><P Class=KRCC>
+Àü ÇÇÇØÀÚ·Î ¿©±â ¿Â °Å¶ó±¸¿ä.
+<SYNC Start=976312><P Class=KRCC>&nbsp;
+<SYNC Start=976347><P Class=KRCC>
+´ÜÁö Á¦°¡ °¡²û ¾àÀ» Á¶±İ ÆÇ´Ù°í ÇØ¼­
+<SYNC Start=981784><P Class=KRCC>&nbsp;
+<SYNC Start=981819><P Class=KRCC>
+¹üÁË·ÎºÎÅÍ º¸È£ ¹ŞÀ» ±Ç¸®°¡ <br>
+»ç¶óÁø °Ç ¾Æ´ÏÀİ¾Æ¿ä?
+<SYNC Start=985187><P Class=KRCC>&nbsp;
+<SYNC Start=985222><P Class=KRCC>
+±×¸®°í Àú´Â °æÂû°üµéÀÌ¶û ´ëÈ­ÇÒ ¶§ <br>
+¾öÃ» Á¶½ÉÈ÷ ¸»Çß´Ù±¸¿ä.
+<SYNC Start=988223><P Class=KRCC>&nbsp;
+<SYNC Start=988259><P Class=KRCC>
+±×µéÀº ³»°¡ ÇÏ°í ÀÖ´Â ´Ù¸¥ ÀÏ¿¡ <br>
+´ëÇØ ¾ËÁöµµ ¸øÇÒ°Å¿¡¿ä.
+<SYNC Start=992227><P Class=KRCC>&nbsp;
+<SYNC Start=993731><P Class=KRCC>
+´ç½Å¿¡ ´ëÇÑ º¸°í¼­ ÀÛ¼ºÀÌ ³¡³­°Å¸é, <br>
+´ëÃ¼ ¿©±â ¿Ö ¿Ô¼Ò?
+<SYNC Start=996198><P Class=KRCC>&nbsp;
+<SYNC Start=996233><P Class=KRCC>
+±×µéÀÌ Àı È£ÃâÇß¾î¿ä.
+<SYNC Start=997466><P Class=KRCC>&nbsp;
+<SYNC Start=997501><P Class=KRCC>
+¸î °¡Áö Áú¹®ÀÌ ÀÖ´ë¿ä.
+<SYNC Start=999001><P Class=KRCC>&nbsp;
+<SYNC Start=999036><P Class=KRCC>
+°æÂû°üµéÀÌ µµµÏÀ» Àâ±â À§ÇØ ¾öÃ» Çå½ÅÀûÀÌ³×¿ä.
+<SYNC Start=1003238><P Class=KRCC>&nbsp;
+<SYNC Start=1003274><P Class=KRCC>
+´ç½ÅÀÌ ÀÌ·± ÀÏ¿¡ Ã³À½ÀÌ´Ï ¼³¸íÇØ ÁÖ°Ú¼Ò.
+<SYNC Start=1007309><P Class=KRCC>&nbsp;
+<SYNC Start=1007345><P Class=KRCC>
+±×µéÀº ´ç½ÅÀ» ÇÔÁ¤¿¡ ºü¶ß¸®·Á´Â°Å¿ä.
+<SYNC Start=1010646><P Class=KRCC>&nbsp;
+<SYNC Start=1010681><P Class=KRCC>
+±×°Ô ¹ºµ¥¿ä? ÇÔÁ¤?
+<SYNC Start=1012848><P Class=KRCC>&nbsp;
+<SYNC Start=1012883><P Class=KRCC>
+ÀÌ °æÂûµéÀº ´ç½Å Ä«µå¸¦ Ã£´Â µ¥¿¡´Â °ü½É ¾ø¼Ò.
+<SYNC Start=1016585><P Class=KRCC>&nbsp;
+<SYNC Start=1016620><P Class=KRCC>
+´ç½ÅÀº ºĞ¸íÈ÷ ÀÇ½É ¹Ş°í ÀÖ´Â°Å¿ä.
+<SYNC Start=1018721><P Class=KRCC>&nbsp;
+<SYNC Start=1018756><P Class=KRCC>
+±×µéÀÌ ´«Ä¡ Ã§ ¼ö ÀÖ´Â °Ô ´Ü ÇÏ³ªµµ ¾ø¾ú´Ù±¸¿ä.
+<SYNC Start=1021023><P Class=KRCC>&nbsp;
+<SYNC Start=1021058><P Class=KRCC>
+¿ì¸®°¡ ³ª´³´ø ¸¶Áö¸· ´ëÈ­¸¦ ±â¾ïÇÏ½Ã°Ô³ª.
+<SYNC Start=1023826><P Class=KRCC>&nbsp;
+<SYNC Start=1023861><P Class=KRCC>
+±×¸®°í ÀÌ ±ôºıÀÌ´Â ³×¿Â »çÀÎ Â÷·®Àº<br>
+"¸¶¾à µô·¯"¶ó°í ¸»ÇÏ´Â °Å³ª ¸¶Âù°¡Áö¾ß.
+<SYNC Start=1027930><P Class=KRCC>&nbsp;
+<SYNC Start=1027965><P Class=KRCC>
+±×µéÀº ´ç½ÅÀ» ÀÇ½ÉÇÏ°í ÀÖ¼Ò.
+<SYNC Start=1029498><P Class=KRCC>&nbsp;
+<SYNC Start=1029533><P Class=KRCC>
+±×µéÀÌ ´ç½ÅÀ» ¾ÈÀ¸·Î µ¥·Á°£ ´ÙÀ½, <br>
+Ä£±¸ÀÎ Ã´ ÇÒÅ×Áö.
+<SYNC Start=1032034><P Class=KRCC>&nbsp;
+<SYNC Start=1032086><P Class=KRCC>
+±×¸®°í ´ç½ÅÀ» ÀÏºÎ·¯ ¾È½É½ÃÅ³°Å¿ä.
+<SYNC Start=1035287><P Class=KRCC>&nbsp;
+<SYNC Start=1035322><P Class=KRCC>
+±×¸®°í ±×µéÀº ´ç½ÅÀ» Á¡Á¡ ÁË¾î¿Ã°É¼¼.
+<SYNC Start=1038156><P Class=KRCC>&nbsp;
+<SYNC Start=1038192><P Class=KRCC>
+±×¸®°í ´ç½ÅÀº ºÙÀâÈú°Å¿ä.
+<SYNC Start=1040058><P Class=KRCC>&nbsp;
+<SYNC Start=1040094><P Class=KRCC>
+Àü... Àú´Â...
+<SYNC Start=1042260><P Class=KRCC>&nbsp;
+<SYNC Start=1042296><P Class=KRCC>
+Àü µ¿ÀÇÇÏÁö ¾Ê¾Æ¿ä.
+<SYNC Start=1043995><P Class=KRCC>&nbsp;
+<SYNC Start=1044031><P Class=KRCC>
+³íÀïÇÒ °¡Ä¡µµ ¾ø¼Ò. ´çÀå ÁıÀ¸·Î °¡½Ã¿À.
+<SYNC Start=1047232><P Class=KRCC>&nbsp;
+<SYNC Start=1047267><P Class=KRCC>
+ÇÏÁö¸¸ Àü ¾à¼ÓÀÌ ÀÖ´Â°É¿ä.
+<SYNC Start=1048800><P Class=KRCC>&nbsp;
+<SYNC Start=1048836><P Class=KRCC>
+±ú¹ö¸®½Ã¿À.
+<SYNC Start=1050168><P Class=KRCC>&nbsp;
+<SYNC Start=1050204><P Class=KRCC>
+±×¸®°í ±×µéÀÌ ´ç½Å¿¡°Ô ÀüÈ­ÇÏ¸é,<br>
+ÀüÈ­¸¦ ¹ŞÁöµµ ¸¶½Ã¿À.
+<SYNC Start=1052437><P Class=KRCC>&nbsp;
+<SYNC Start=1052473><P Class=KRCC>
+±×Ä¡¸¸ Á¦ ¾ß±¸ Ä«µå´Â¿ä?
+<SYNC Start=1054473><P Class=KRCC>&nbsp;
+<SYNC Start=1054508><P Class=KRCC>
+- ÀÏ ÇÏ´À¶ó µå´Â ºñ¿ëÀÌ¶ó »ı°¢ÇÏ½Ã¿À.<br>
+- ½È¾î¿ä!
+<SYNC Start=1056241><P Class=KRCC>&nbsp;
+<SYNC Start=1056276><P Class=KRCC>
+½È¾î¿ä!!
+<SYNC Start=1058110><P Class=KRCC>&nbsp;
+<SYNC Start=1058145><P Class=KRCC>
+Àü ±×°É µÇÃ£À»°Å¿¡¿ä!
+<SYNC Start=1059911><P Class=KRCC>&nbsp;
+<SYNC Start=1059947><P Class=KRCC>
+ÀÌ Á¤µµ À§ÇèÀº °¨¼öÇÒ°Å¿¡¿ä!
+<SYNC Start=1061580><P Class=KRCC>&nbsp;
+<SYNC Start=1061615><P Class=KRCC>
+¾Æ´¢, ÇÏÁö ¸¶½Ã¿À.
+<SYNC Start=1063248><P Class=KRCC>&nbsp;
+<SYNC Start=1063283><P Class=KRCC>
+±×·¸°Ô ÇÑ´Ù¸é ³» Çàº¹µµ <br>
+À§Çè¿¡ ¸ô¾Æ³Ö´Â°Å¶õ ¸»ÀÌ¿À.
+<SYNC Start=1066251><P Class=KRCC>&nbsp;
+<SYNC Start=1066286><P Class=KRCC>
+Àü ÇØ¾ß¸¸ÇØ¿ä!
+<SYNC Start=1067819><P Class=KRCC>&nbsp;
+<SYNC Start=1067855><P Class=KRCC>
+Àü... Àü...
+<SYNC Start=1070922><P Class=KRCC>&nbsp;
+<SYNC Start=1070958><P Class=KRCC>
+±× Ä«µåµé¿ä?
+<SYNC Start=1073992><P Class=KRCC>&nbsp;
+<SYNC Start=1074027><P Class=KRCC>
+±×°Íµé Áß ¸î °³´Â Á¦ ¾Æºü °Å¶ó±¸¿ä.
+<SYNC Start=1077596><P Class=KRCC>&nbsp;
+<SYNC Start=1077631><P Class=KRCC>
+Àü... Àü ±×°ÍµéÀ» µÇÃ£À»°Å¿¡¿ä.
+<SYNC Start=1081032><P Class=KRCC>&nbsp;
+<SYNC Start=1081068><P Class=KRCC>
+Àü µÇÃ£À»°Å¶ó±¸¿ä.
+<SYNC Start=1083468><P Class=KRCC>&nbsp;
+<SYNC Start=1083504><P Class=KRCC>&nbsp;
+<SYNC Start=1085504><P Class=KRCC>&nbsp;
+<SYNC Start=1092880><P Class=KRCC>
+³»°¡ ´ç½Å Ä«µåµéÀ» Ã£¾ÆÁÖÁö.
+<SYNC Start=1096148><P Class=KRCC>&nbsp;
+<SYNC Start=1098152><P Class=KRCC>
+±×°Ç...
+<SYNC Start=1100485><P Class=KRCC>&nbsp;
+<SYNC Start=1100521><P Class=KRCC>
+´ç½ÅÀÌ ÇÏ°Ú´Ù±¸¿ä?
+<SYNC Start=1103155><P Class=KRCC>&nbsp;
+<SYNC Start=1104491><P Class=KRCC>
+¿Í¿ì, ÀÌ°Ç...
+<SYNC Start=1106291><P Class=KRCC>&nbsp;
+<SYNC Start=1106326><P Class=KRCC>
+´ç½Å ¸Å¿ì °ü´ëÇÏ±º¿ä.
+<SYNC Start=1108527><P Class=KRCC>&nbsp;
+<SYNC Start=1108562><P Class=KRCC>
+ºñ¿ëÀÌ µé°Å¿ä.
+<SYNC Start=1110762><P Class=KRCC>&nbsp;
+<SYNC Start=1112366><P Class=KRCC>
+¿À.
+<SYNC Start=1114533><P Class=KRCC>&nbsp;
+<SYNC Start=1114568><P Class=KRCC>
+³×, ¾î...
+<SYNC Start=1117669><P Class=KRCC>&nbsp;
+<SYNC Start=1117704><P Class=KRCC>
+¿ì¸® ºñ¿ë¿¡ ´ëÇØ ÇùÀÇ¸¦ ÇØ¾ß°Ú±º¿ä.
+<SYNC Start=1122374><P Class=KRCC>&nbsp;
+<SYNC Start=1122409><P Class=KRCC>
+¾î..
+<SYNC Start=1124843><P Class=KRCC>&nbsp;
+<SYNC Start=1124878><P Class=KRCC>
+¿À.
+<SYNC Start=1126945><P Class=KRCC>&nbsp;
+<SYNC Start=1128582><P Class=KRCC>
+¾Ë¾Ò¾î¿ä!
+<SYNC Start=1130816><P Class=KRCC>&nbsp;
+<SYNC Start=1130851><P Class=KRCC>
+¼¼»ó¿¡.
+<SYNC Start=1132384><P Class=KRCC>&nbsp;
+<SYNC Start=1136949><P Class=KRCC>&nbsp;
+<SYNC Start=1139350><P Class=KRCC>&nbsp;
+<SYNC Start=1139386><P Class=KRCC>&nbsp;
+<SYNC Start=1142654><P Class=KRCC>&nbsp;
+<SYNC Start=1156636><P Class=KRCC>&nbsp;
+<SYNC Start=1159137><P Class=KRCC>&nbsp;
+<SYNC Start=1178391><P Class=KRCC>&nbsp;
+<SYNC Start=1180892><P Class=KRCC>&nbsp;
+<SYNC Start=1185365><P Class=KRCC>&nbsp;
+<SYNC Start=1188733><P Class=KRCC>&nbsp;
+<SYNC Start=1190904><P Class=KRCC>&nbsp;
+<SYNC Start=1193404><P Class=KRCC>&nbsp;
+<SYNC Start=1221201><P Class=KRCC>&nbsp;
+<SYNC Start=1223835><P Class=KRCC>&nbsp;
+<SYNC Start=1223870><P Class=KRCC>
+µé¾î¿À¼¼¿ä.
+<SYNC Start=1225404><P Class=KRCC>&nbsp;
+<SYNC Start=1225438><P Class=KRCC>
+¹æÇØÇÏ·Á´Â °Ç ¾Æ´Ï¾ú¾î¿ä.
+<SYNC Start=1227038><P Class=KRCC>&nbsp;
+<SYNC Start=1227175><P Class=KRCC>
+ÀüÇô¿ä. ±×³É ¿­ Á» ½ÄÈ÷°í ÀÖ¾ú¾î¿ä.
+<SYNC Start=1229642><P Class=KRCC>&nbsp;
+<SYNC Start=1229678><P Class=KRCC>
+- ¼Ò¸®°¡ ³Ê¹« ÁÁ³×¿ä.<br>
+- °í¸¶¿ö¿ä.
+<SYNC Start=1232145><P Class=KRCC>&nbsp;
+<SYNC Start=1232180><P Class=KRCC>
+¸Ó¸®¼ÓÀÌ ±ú²ıÇØÁöÁÒ. ¿¬ÁÖÇØº¼·¡¿ä?
+<SYNC Start=1234247><P Class=KRCC>&nbsp;
+<SYNC Start=1234282><P Class=KRCC>
+¿À, °íµîÇĞ»ı ¶§ ¹è¿ì·Á°í Çß¾úÁö¸¸,
+<SYNC Start=1235982><P Class=KRCC>&nbsp;
+<SYNC Start=1236017><P Class=KRCC>
+¿©ÀÚ ¸¶À½À» ¾ò´Âµ¥¿¡ <br>
+´õ ½¬¿î ¹æ¹ıÀÌ ÀÖ´Ù´Â °É ±ú´Ş¾ÒÁÒ.
+<SYNC Start=1239752><P Class=KRCC>&nbsp;
+<SYNC Start=1239788><P Class=KRCC>
+À½, ´ç½Åµµ ½ºÆ®·¹½º¸¦ Ç® °Ô ÀÖÀ¸¸é ÁÁ°Ú³×¿ä.
+<SYNC Start=1241688><P Class=KRCC>&nbsp;
+<SYNC Start=1241745><P Class=KRCC>
+´©±¸µç ±×·± °Ç ÇÊ¿äÇÏÁÒ.
+<SYNC Start=1243512><P Class=KRCC>&nbsp;
+<SYNC Start=1243547><P Class=KRCC>
+ÀûÀÀÀº Àß µÇ³ª¿ä?
+<SYNC Start=1244546><P Class=KRCC>&nbsp;
+<SYNC Start=1244581><P Class=KRCC>
+ÁÁ¾Æ¿ä.
+<SYNC Start=1245881><P Class=KRCC>&nbsp;
+<SYNC Start=1245916><P Class=KRCC>
+¾î, ÀÌ°Ç... ÀúÇÑÅ×´Â ÇÑ ´Ü°è ´õ ³ª¾Æ°¡´Â °Å¿¡¿ä.
+<SYNC Start=1250052><P Class=KRCC>&nbsp;
+<SYNC Start=1250087><P Class=KRCC>
+¿ì¸° ´ç½ÅÀÌ µé¾î¿Í¼­ ÁÁ¾Æ¿ä.
+<SYNC Start=1252154><P Class=KRCC>&nbsp;
+<SYNC Start=1252189><P Class=KRCC>
+¹¹µç ÇÊ¿äÇÑ °Ô ÀÖÀ¸¸é ¾Ë·ÁÁÖ¼¼¿ä, Jimmy.
+<SYNC Start=1255557><P Class=KRCC>&nbsp;
+<SYNC Start=1255592><P Class=KRCC>
+°í¸¶¿ö¿ä... Cliff.
+<SYNC Start=1257692><P Class=KRCC>&nbsp;
+<SYNC Start=1257728><P Class=KRCC>
+À½, ¿©±â ¿À°Ô µÅ¼­ Çàº¹ÇÏ³×¿ä.
+<SYNC Start=1260362><P Class=KRCC>&nbsp;
+<SYNC Start=1260397><P Class=KRCC>
+ÁÁ³×¿ä.
+<SYNC Start=1262864><P Class=KRCC>&nbsp;
+<SYNC Start=1262900><P Class=KRCC>
+¾î, ´Ù½Ã ÀÏÇÏ·¯ °¡º¼°Ô¿ä.
+<SYNC Start=1264766><P Class=KRCC>&nbsp;
+<SYNC Start=1264802><P Class=KRCC>
+³×, Àúµµ¿ä. ±×·¡¾ß°ÚÁÒ.
+<SYNC Start=1266768><P Class=KRCC>&nbsp;
+<SYNC Start=1266804><P Class=KRCC>
+¾ö...
+<SYNC Start=1268670><P Class=KRCC>&nbsp;
+<SYNC Start=1268705><P Class=KRCC>
+»ç½Ç Á¦°¡ ¹º°¡¸¦ Á» Ã£¾Ò´Âµ¥¿ä.
+<SYNC Start=1271339><P Class=KRCC>&nbsp;
+<SYNC Start=1271375><P Class=KRCC>
+ÃÊ¹İ¿¡ Á¶»çµÈ °Í Áß¿¡¿ä.
+<SYNC Start=1273608><P Class=KRCC>&nbsp;
+<SYNC Start=1273644><P Class=KRCC>
+- ¿À ±×·¡¿ä?<br>
+- Schweikart¶û Cokely´Â °è¼ÓÇØ¼­
+<SYNC Start=1276278><P Class=KRCC>&nbsp;
+<SYNC Start=1276313><P Class=KRCC>
+"¼±ÅÃÀûÀÎ ¿ëµ· ÇÁ·Î±×·¥"ÀÌ¶ó°í ÇÏ°í ÀÖ´Âµ¥,
+<SYNC Start=1278246><P Class=KRCC>&nbsp;
+<SYNC Start=1278282><P Class=KRCC>
+Á¦°¡ °ÅÁÖÀÚµéÀÇ °è¾à ¹øÈ£¸¦ È®ÀÎÇØºÃ¾î¿ä.
+<SYNC Start=1280248><P Class=KRCC>&nbsp;
+<SYNC Start=1280284><P Class=KRCC>
+´©±¸ ÇÑ ¸íµµ Âü¿©ÇÏÁö ¾ÊÀº <br>
+»ç¶÷ÀÌ ¾ø¾ú¾î¿ä, ÀÌ°Ç Á¦ »ı°¢¿¡
+<SYNC Start=1282884><P Class=KRCC>&nbsp;
+<SYNC Start=1282920><P Class=KRCC>
+±İÀü ÇùÀÇ¿¡ ÀÖ¾î Á» ´õ ÀÇ¹«ÀûÀÌ¾ú´Ù°í »ı°¢ÇØ¿ä.
+<SYNC Start=1285620><P Class=KRCC>&nbsp;
+<SYNC Start=1285656><P Class=KRCC>
+±×·¡¼­ ´ç½ÅÀº ±×°Ô ÇãÁ¡ÀÌ¶ó<br>
+»ó´ëÃøÀÌ ÆÄ°íµé °Å¶ó°í »ı°¢ÇÏ´Â°Ç°¡¿ä?
+<SYNC Start=1289057><P Class=KRCC>&nbsp;
+<SYNC Start=1289093><P Class=KRCC>
+»ó´ëÃøÀÌ °è¼Ó ÀÌ°Ô ¼±ÅÃÀûÀÌ¾ú´Ù°í<br>
+ÁÖÀåÇÏ¸é, ÀÚ¹ßÀûÀÎ °Ô µÇ°ÚÁÒ.
+<SYNC Start=1291526><P Class=KRCC>&nbsp;
+<SYNC Start=1291562><P Class=KRCC>
+Á¦ »ı°¢¿£ ¿ì¸®°¡ ¹İ·ĞÇÒ ¼ö <br>
+ÀÖÀ»°Å¶ó »ı°¢ÇØ¿ä.
+<SYNC Start=1293061><P Class=KRCC>&nbsp;
+<SYNC Start=1293097><P Class=KRCC>
+"Âü¿©ÇÑ´Ù"¿¡ ´ëÇÑ µ¿ÀÇ°¡ <br>
+°ÅÁÖÇÔ¿¡ ÀÖ¾î ¿ä±¸Á¶°ÇÀÌ¾ú´Ù¸é
+<SYNC Start=1295530><P Class=KRCC>&nbsp;
+<SYNC Start=1295566><P Class=KRCC>
+¹°·Ğ ±×·¸°Ô º¸ÀÌ±¸¿ä,
+<SYNC Start=1296965><P Class=KRCC>&nbsp;
+<SYNC Start=1297000><P Class=KRCC>
+ÀÚ¿øºÀ»çÀÚµéÀº ¾îºÒ¼º¼³ÀÌ¶ó´õ±º¿ä.
+<SYNC Start=1300669><P Class=KRCC>&nbsp;
+<SYNC Start=1303107><P Class=KRCC>
+¿©±â ¹º°¡ ÀÖ´Â °Í °°±º¿ä.
+<SYNC Start=1305440><P Class=KRCC>&nbsp;
+<SYNC Start=1305476><P Class=KRCC>
+Àß Çß¾î¿ä, Jimmy.
+<SYNC Start=1308343><P Class=KRCC>&nbsp;
+<SYNC Start=1309847><P Class=KRCC>
+°í¸¶¿ö¿ä, Cliff.
+<SYNC Start=1311680><P Class=KRCC>&nbsp;
+<SYNC Start=1313083><P Class=KRCC>
+¢Ü
+<SYNC Start=1316351><P Class=KRCC>&nbsp;
+<SYNC Start=1324361><P Class=KRCC>
+¾È³çÇÏ¼¼¿ä.
+<SYNC Start=1326561><P Class=KRCC>&nbsp;
+<SYNC Start=1326597><P Class=KRCC>
+¾È³çÇÏ½Ê´Ï±î.
+<SYNC Start=1329231><P Class=KRCC>&nbsp;
+<SYNC Start=1329266><P Class=KRCC>
+¾î¼­¿À¼¼¿ä. ¹«¾ùÀ» µµ¿Íµå¸±±î¿ä?
+<SYNC Start=1331099><P Class=KRCC>&nbsp;
+<SYNC Start=1331135><P Class=KRCC>
+¾î, °ßÀûÀ» ºÎÅ¹ÇÏ°í ½ÍÀºµ¥¿ä.
+<SYNC Start=1333635><P Class=KRCC>&nbsp;
+<SYNC Start=1333670><P Class=KRCC>
+Á¦ Â÷¿ä. <i>Á¦ Â÷¿ä</i>
+<SYNC Start=1335337><P Class=KRCC>&nbsp;
+<SYNC Start=1335372><P Class=KRCC>
+Â÷µµ Ãë±ŞÇÏÁÒ?
+<SYNC Start=1336972><P Class=KRCC>&nbsp;
+<SYNC Start=1337007><P Class=KRCC>
+³×, ÀÚµ¿Â÷¿ä. <i>¾ğÁ¦³ª¿ä</i>. ¾Æ.
+<SYNC Start=1339508><P Class=KRCC>&nbsp;
+<SYNC Start=1339543><P Class=KRCC>
+Á¦ ½ÃÆ®¸¦ Ãµ°¥ÀÌ ÇÏ°í ½ÍÀºµ¥¿ä.
+<SYNC Start=1342177><P Class=KRCC>&nbsp;
+<SYNC Start=1342212><P Class=KRCC>
+¾ö... À½...
+<SYNC Start=1344779><P Class=KRCC>&nbsp;
+<SYNC Start=1344815><P Class=KRCC>
+À½, ÇÑ ¹ø º¸½Ç·¡¿ä? <i>º¸½Ç·¡¿ä?</i>
+<SYNC Start=1347949><P Class=KRCC>&nbsp;
+<SYNC Start=1347985><P Class=KRCC>&nbsp;
+<SYNC Start=1350485><P Class=KRCC>&nbsp;
+<SYNC Start=1350521><P Class=KRCC>&nbsp;
+<SYNC Start=1353021><P Class=KRCC>&nbsp;
+<SYNC Start=1356627><P Class=KRCC>
+- Á¶±İ¸¸ ±â´Ù·ÁÁÖ¼¼¿ä<br>
+- ³×, ³×, ³×, ³×.
+<SYNC Start=1359694><P Class=KRCC>&nbsp;
+<SYNC Start=1367137><P Class=KRCC>&nbsp;
+<SYNC Start=1370872><P Class=KRCC>&nbsp;
+<SYNC Start=1370908><P Class=KRCC>&nbsp;
+<SYNC Start=1373408><P Class=KRCC>&nbsp;
+<SYNC Start=1375212><P Class=KRCC>
+°¨»çÇÕ´Ï´Ù.
+<SYNC Start=1377579><P Class=KRCC>&nbsp;
+<SYNC Start=1387157><P Class=KRCC>
+³×.
+<SYNC Start=1389791><P Class=KRCC>&nbsp;
+<SYNC Start=1389826><P Class=KRCC>
+¹º°¡ »õ·Î¿î °É »ı°¢ÇÏ°í ÀÖ¾î¿ä.
+<SYNC Start=1391726><P Class=KRCC>&nbsp;
+<SYNC Start=1391762><P Class=KRCC>
+¿À·¡µÈ °Í¿£ °ü½ÉÀÌ ´ú °¡´Â ¹ıÀÌÁÒ.
+<SYNC Start=1395363><P Class=KRCC>&nbsp;
+<SYNC Start=1396500><P Class=KRCC>
+<i>ÀÌ ÀÏÀ» ÇÏ´Â °Ç ÁÁÀºµ¥, ±×ÀÇ µ·À¸·Î´Â<br>
+»õ Â÷ÀÇ °è¾à±İ¿¡ ¾²´Â °Ô ³ªÀ»°Å¾ß.</i>
+<SYNC Start=1400500><P Class=KRCC>&nbsp;
+<SYNC Start=1400737><P Class=KRCC>&nbsp;
+<SYNC Start=1402704><P Class=KRCC>&nbsp;
+<SYNC Start=1402739><P Class=KRCC>
+±×´Â ´ç½ÅÀÌ µ·À» ¸ğ¾Æ¼­ »õ Â÷¸¦ »ç¶ó°í ÇÏ³×¿ä.
+<SYNC Start=1405173><P Class=KRCC>&nbsp;
+<SYNC Start=1405209><P Class=KRCC>
+±×·¡¿ä? ±Û½ê, ÀÌ°Ç °¨Á¤ÀûÀ¸·Î °¡Ä¡°¡ ÀÖ¾î¼­.
+<SYNC Start=1408510><P Class=KRCC>&nbsp;
+<SYNC Start=1409613><P Class=KRCC>&nbsp;
+<SYNC Start=1412047><P Class=KRCC>&nbsp;
+<SYNC Start=1412082><P Class=KRCC>
+- °íÀüÀûÀÎ Â÷³×¿ä.<br>
+- ±×Ãİ.
+<SYNC Start=1415350><P Class=KRCC>&nbsp;
+<SYNC Start=1417621><P Class=KRCC>
+<i>¾î¶² °É ¿øÇÑ´ë?</i>
+<SYNC Start=1419521><P Class=KRCC>&nbsp;
+<SYNC Start=1419556><P Class=KRCC>
+À½, ¾î¶² ÀçÁú·Î ÇØµå¸±±î¿ä?
+<SYNC Start=1421423><P Class=KRCC>&nbsp;
+<SYNC Start=1421458><P Class=KRCC>
+±Û½ê, °¡Á×ÀÌ¶ó´Â °Ç È®½ÇÇÏÁÒ.
+<SYNC Start=1424759><P Class=KRCC>&nbsp;
+<SYNC Start=1424795><P Class=KRCC>
+¾î, ¾Æ¸¶ ¾Ç¾î °¡Á×?
+<SYNC Start=1427862><P Class=KRCC>&nbsp;
+<SYNC Start=1427898><P Class=KRCC>&nbsp;
+<SYNC Start=1429531><P Class=KRCC>&nbsp;
+<SYNC Start=1429566><P Class=KRCC>&nbsp;
+<SYNC Start=1431366><P Class=KRCC>&nbsp;
+<SYNC Start=1431401><P Class=KRCC>
+<i>¼±»ı´Ô</i>. ³Ê¹« ºñ½Î¿ä.
+<SYNC Start=1434035><P Class=KRCC>&nbsp;
+<SYNC Start=1434071><P Class=KRCC>
+³×, ÇÏÁö¸¸ ¸»ÇßµíÀÌ, ÀÌ°Ç °¨Á¤ÀûÀ¸·Î °¡Ä¡°¡ ÀÖ¾î¼­¿ä.
+<SYNC Start=1436938><P Class=KRCC>&nbsp;
+<SYNC Start=1439443><P Class=KRCC>&nbsp;
+<SYNC Start=1442911><P Class=KRCC>&nbsp;
+<SYNC Start=1442946><P Class=KRCC>
+<i>³» »ı°¢¿¡ ÀÌ±¹ÀûÀÎ ´À³¦ÀÇ °¡Á×Àº ¾È ¾î¿ï¸± °Í °°Àºµ¥.</i>
+<SYNC Start=1446748><P Class=KRCC>&nbsp;
+<SYNC Start=1447293><P Class=KRCC>
+<i>ÀÌ·± ´À³¦ÀÇ Â÷¿¡´Â ¹º°¡ Á» ´õ ÀÏ°üµÈ ´À³¦Àº ¾î¶³±î</i>
+<SYNC Start=1449782><P Class=KRCC>&nbsp;
+<SYNC Start=1451743><P Class=KRCC>
+<i>¼³µæ½ÃÄÑºÁ.</i>
+<SYNC Start=1452423><P Class=KRCC>&nbsp;
+<SYNC Start=1452489><P Class=KRCC>
+±×°¡ ¸»ÇÏ±â¸¦, ¾î, ¾Ç¾î °¡Á×Àº ¾È ¾î¿ï¸± °Í °°´ë¿ä.
+<SYNC Start=1456424><P Class=KRCC>&nbsp;
+<SYNC Start=1456460><P Class=KRCC>
+½Ñ °Ô ´õ ÁÁÀ»°Å¿¡¿ä.
+<SYNC Start=1458793><P Class=KRCC>&nbsp;
+<SYNC Start=1458829><P Class=KRCC>
+À½, ´ç½ÅÀÌ °í¸¥ °É º¸¿©ÁÖ½Ã¿À.
+<SYNC Start=1462230><P Class=KRCC>&nbsp;
+<SYNC Start=1462266><P Class=KRCC>&nbsp;
+<SYNC Start=1465467><P Class=KRCC>&nbsp;
+<SYNC Start=1465502><P Class=KRCC>
+¿À, ÁË¼ÛÇÕ´Ï´Ù, ¼±»ı´Ô.
+<SYNC Start=1469070><P Class=KRCC>&nbsp;
+<SYNC Start=1469106><P Class=KRCC>
+¾î, Á¦ ¾ÆµéÀÌ... µµ¿ÍÁÙ°Ì´Ï´Ù.
+<SYNC Start=1472140><P Class=KRCC>&nbsp;
+<SYNC Start=1474000><P Class=KRCC>
+<i>°í¸£´Â °É µµ¿Íµå·Á.</i>
+<SYNC Start=1476000><P Class=KRCC>
+<i>ºñ½Ñ °Å »ç°Ô ÇÏÁö ¸»°í, ¾Ë¾ÒÁö?</i>
+<SYNC Start=1478500><P Class=KRCC>&nbsp;
+<SYNC Start=1479983><P Class=KRCC>
+¾Æ, <i>°¨»çÇÕ´Ï´Ù</i>
+<SYNC Start=1481683><P Class=KRCC>&nbsp;
+<SYNC Start=1484154><P Class=KRCC>&nbsp;
+<SYNC Start=1486655><P Class=KRCC>&nbsp;
+<SYNC Start=1495432><P Class=KRCC>&nbsp;
+<SYNC Start=1497932><P Class=KRCC>&nbsp;
+<SYNC Start=1501271><P Class=KRCC>
+Àı ¾î¶»°Ô Ã£¾ÒÁÒ?
+<SYNC Start=1502904><P Class=KRCC>&nbsp;
+<SYNC Start=1502939><P Class=KRCC>&nbsp;
+<SYNC Start=1504806><P Class=KRCC>&nbsp;
+<SYNC Start=1504841><P Class=KRCC>&nbsp;
+<SYNC Start=1506274><P Class=KRCC>&nbsp;
+<SYNC Start=1509346><P Class=KRCC>
+¿©±â ¿Ö ¿Ô³ª¿ä?
+<SYNC Start=1511413><P Class=KRCC>&nbsp;
+<SYNC Start=1511448><P Class=KRCC>
+¾ß±¸ Ä«µå.
+<SYNC Start=1513782><P Class=KRCC>&nbsp;
+<SYNC Start=1513817><P Class=KRCC>
+³» »ı°¢¿¡´Â, ³Ê´Â ±× Áß³âÀÇ À§±â°°Àº Â÷¸¦ ºÃ°í,
+<SYNC Start=1517852><P Class=KRCC>&nbsp;
+<SYNC Start=1517888><P Class=KRCC>
+±× ³²ÀÚ¶û °ü°è¸¦ ²÷±â À§ÇØ Çö¸íÇÑ ¼±ÅÃÀ» Çß¾î.
+<SYNC Start=1519854><P Class=KRCC>&nbsp;
+<SYNC Start=1519890><P Class=KRCC>
+±×¸®°í ³ª´Â ³Î ºñ³­ÇÏÁö ¾Ê¾Æ... <br>
+³ªµµ ±×·¨À¸´Ï±î.
+<SYNC Start=1522090><P Class=KRCC>&nbsp;
+<SYNC Start=1522125><P Class=KRCC>
+±×¸®°í ³Í ±×¿¡°Ô ¹Ù°¡Áö ¾º¿ì·Á Çß°ÚÁö.
+<SYNC Start=1523858><P Class=KRCC>&nbsp;
+<SYNC Start=1523894><P Class=KRCC>
+±×¸®°í ±× ¾ß±¸ Ä«µåµéÀÌ
+<SYNC Start=1526328><P Class=KRCC>&nbsp;
+<SYNC Start=1526363><P Class=KRCC>
+¿ëµ·¹úÀÌ¿¡ ½¬¿î ¹æ¹ıÀ¸·Î »ı°¢ÇßÀ»Å×°í.
+<SYNC Start=1528530><P Class=KRCC>&nbsp;
+<SYNC Start=1528565><P Class=KRCC>
+±× ¹Ùº¸¸¦ º¸³»¹ö¸®°í, ±³ÈÆµµ ÁÖ°í.
+<SYNC Start=1531299><P Class=KRCC>&nbsp;
+<SYNC Start=1531335><P Class=KRCC>
+ÇÏÁö¸¸ ³Í °ú¼ÒÆò°¡ÇÑ °Ô ÀÖ¾î.
+<SYNC Start=1532967><P Class=KRCC>&nbsp;
+<SYNC Start=1533003><P Class=KRCC>
+³Ê°¡ ´Ù·ç°í ÀÖ´Â »ç¶÷ÀÌ <br>
+¾ó¸¶³ª ¹Ùº¸ÀÎÁö ¸»ÀÌ¾ß.
+<SYNC Start=1535303><P Class=KRCC>&nbsp;
+<SYNC Start=1535339><P Class=KRCC>
+¾Æ´¢, Àü ²Ï Àß ¾Ë°í ÀÖ´Âµ¥¿ä.
+<SYNC Start=1538440><P Class=KRCC>&nbsp;
+<SYNC Start=1538475><P Class=KRCC>
+±Û½ê, ±×·¸´Ù¸é ³Í °ú¼ÒÆò°¡ÇÑ°Å¾ß.
+<SYNC Start=1539941><P Class=KRCC>&nbsp;
+<SYNC Start=1539976><P Class=KRCC>
+±×°¡ ±× Ä«µå¿¡ ¾ó¸¶³ª ÁıÂøÇÏ´ÂÁö...
+<SYNC Start=1541543><P Class=KRCC>&nbsp;
+<SYNC Start=1541578><P Class=KRCC>
+³Ê¹« ÁıÂøÇØ¼­, ±×°ÍµéÀ» <br>
+µµµÏ¸Â¾Ò´Ù°í °æÂûÀ» ºÒ·¶Áö.
+<SYNC Start=1546014><P Class=KRCC>&nbsp;
+<SYNC Start=1546049><P Class=KRCC>
+ÀÌÁ¦ °æÂûµéÀÌ ±× »ç¶÷ ÁÖº¯À» Ä³°í ÀÖ¾î.
+<SYNC Start=1547849><P Class=KRCC>&nbsp;
+<SYNC Start=1549586><P Class=KRCC>
+±×°Ç "´ç½Å"ÀÌ ¹®Á¦¿¡ Ã³ÇÑ °Í °°³×¿ä.
+<SYNC Start=1552354><P Class=KRCC>&nbsp;
+<SYNC Start=1552389><P Class=KRCC>
+¾Æ´Ï, ³­ ÀÌ°Ô ²Ï³ª <br>
+"¿ì¸®"°¡ ¹®Á¦¿¡ Ã³ÇÑ °Í °°Àºµ¥.
+<SYNC Start=1554522><P Class=KRCC>&nbsp;
+<SYNC Start=1554558><P Class=KRCC>
+Àú´Â ´ÜÁö Á¦ ±âÈ¸¸¦ ÀâÀº °Í »ÓÀÎµ¥¿ä.
+<SYNC Start=1556725><P Class=KRCC>&nbsp;
+<SYNC Start=1556760><P Class=KRCC>
+ÇÏÁö¸¸ Çà¿îÀ» ºô¾î¿ä.
+<SYNC Start=1558893><P Class=KRCC>&nbsp;
+<SYNC Start=1558929><P Class=KRCC>
+ÀÖÁö, ´ç½ÅÀÌ ¿ì¸®ÀÇ µô·¹¸¶¸¦ º¸°í
+<SYNC Start=1560695><P Class=KRCC>&nbsp;
+<SYNC Start=1560731><P Class=KRCC>
+¿ÇÀº ÀÏÀ» ÇÏ¸é ÁÁ°Ú´Âµ¥.
+<SYNC Start=1562330><P Class=KRCC>&nbsp;
+<SYNC Start=1562366><P Class=KRCC>
+ÇÏÁö¸¸ ¿ì¸®°¡ ¿©±â¼­ ÇÒ ¼ö ÀÖ´Â °Ç
+<SYNC Start=1564132><P Class=KRCC>&nbsp;
+<SYNC Start=1564167><P Class=KRCC>
+´ç±Ù°ú Ã¤Âï ÀÎ °Í °°±º.
+<SYNC Start=1567068><P Class=KRCC>&nbsp;
+<SYNC Start=1567104><P Class=KRCC>
+¿À ±×·¡¿ä?
+<SYNC Start=1570038><P Class=KRCC>&nbsp;
+<SYNC Start=1570073><P Class=KRCC>
+ÀÌ°Ô Ã¤ÂïÀÌ¶ó±¸¿ä? ³×?
+<SYNC Start=1573308><P Class=KRCC>&nbsp;
+<SYNC Start=1573343><P Class=KRCC>
+´ç½ÅÀÌ ¿©±â ¿Í¼­, ¿ì¸® °¡Á·À» À§ÇùÇÏ´Â °Å?
+<SYNC Start=1576411><P Class=KRCC>&nbsp;
+<SYNC Start=1576446><P Class=KRCC>
+³×?
+<SYNC Start=1578179><P Class=KRCC>&nbsp;
+<SYNC Start=1578215><P Class=KRCC>
+´ç½ÅÀº ´õ Å« Ã¤ÂïÀÌ ÇÊ¿äÇÒ°Å¿ä, ³ëÀÎ³×.
+<SYNC Start=1581082><P Class=KRCC>&nbsp;
+<SYNC Start=1586056><P Class=KRCC>
+³­ ¿©±â¿¡ ´ç½Å °¡Á·À» À§ÇùÇÏ·¯ ¿Â °Ô ¾Æ´Ï¶ó³×.
+<SYNC Start=1588890><P Class=KRCC>&nbsp;
+<SYNC Start=1590394><P Class=KRCC>
+±×¸®°í ±× Ã¤ÂïÀÇ ÀÌ¸§Àº Tuco SalamancaÁö.
+<SYNC Start=1594028><P Class=KRCC>&nbsp;
+<SYNC Start=1594064><P Class=KRCC>
+ÀÌÁ¦, ¸»ÇÏÀÚ¸é, ³Ê´Â ÇùÁ¶ÇÏÁö ¾ÊÀ»Å×°í,
+<SYNC Start=1598733><P Class=KRCC>&nbsp;
+<SYNC Start=1598769><P Class=KRCC>
+Tuco´Â ³ÊÀÇ ±× Á¶±×¸¸ °ç´Ù¸® »ç¾÷À» ¾Ë°Ô µÇ°ÚÁö.
+<SYNC Start=1602604><P Class=KRCC>&nbsp;
+<SYNC Start=1602639><P Class=KRCC>
+ÃæºĞÈ÷ Å« Ã¤ÂïÀÎ°¡?
+<SYNC Start=1605240><P Class=KRCC>&nbsp;
+<SYNC Start=1607711><P Class=KRCC>
+ÇÏÁö¸¸, ³ª´Â ´ç±ÙÀ» ´õ ¼±È£ÇÑ´Ù³×.
+<SYNC Start=1611913><P Class=KRCC>&nbsp;
+<SYNC Start=1611948><P Class=KRCC>
+´ç½Åµµ ±×·²°Å¶ó »ı°¢ÇØ.
+<SYNC Start=1614249><P Class=KRCC>&nbsp;
+<SYNC Start=1615752><P Class=KRCC>
+±×°Ô ¹ºµ¥¿ä?
+<SYNC Start=1617452><P Class=KRCC>&nbsp;
+<SYNC Start=1617487><P Class=KRCC>
+³Í ³ªÇÑÅ× ¾ß±¸ Ä«µå¸¦ µ¹·ÁÁÖ°í,
+<SYNC Start=1621423><P Class=KRCC>&nbsp;
+<SYNC Start=1621458><P Class=KRCC>
+¸¸ºÒÀ» Çö±İÀ¸·Î ÁÙ °Í,
+<SYNC Start=1623525><P Class=KRCC>&nbsp;
+<SYNC Start=1623560><P Class=KRCC>
+±×¸®°í ´ç½ÅÀº ´ë·« Àâ¾Æ¼­... 6¸¸ºÒÀº ¹ú °Å¶ó³×.
+<SYNC Start=1630165><P Class=KRCC>&nbsp;
+<SYNC Start=1632235><P Class=KRCC>&nbsp;
+<SYNC Start=1633468><P Class=KRCC>&nbsp;
+<SYNC Start=1633503><P Class=KRCC>
+´ëÃ¼ ±×°Ô ¾î¶»°Ô µÇ´Â°ÅÁÒ?
+<SYNC Start=1636571><P Class=KRCC>&nbsp;
+<SYNC Start=1671384><P Class=KRCC>&nbsp;
+<SYNC Start=1673042><P Class=KRCC>&nbsp;
+<SYNC Start=1677017><P Class=KRCC>&nbsp;
+<SYNC Start=1678363><P Class=KRCC>&nbsp;
+<SYNC Start=1682639><P Class=KRCC>
+Chuck: Ernesto?
+<SYNC Start=1684972><P Class=KRCC>&nbsp;
+<SYNC Start=1690713><P Class=KRCC>
+Hey.
+<SYNC Start=1692513><P Class=KRCC>&nbsp;
+<SYNC Start=1694517><P Class=KRCC>
+¾îµğ °¡¼¼¿ä?
+<SYNC Start=1696184><P Class=KRCC>&nbsp;
+<SYNC Start=1696219><P Class=KRCC>
+ÀÀ, ¿ì¸®°¡ °¡Áö.
+<SYNC Start=1699086><P Class=KRCC>&nbsp;
+<SYNC Start=1699122><P Class=KRCC>
+Pryce: ³» Â÷´Â ÄÚ³Ê¸¦ µ¹ ¶§ ²Ï ±î´Ù·Î¿ö.
+<SYNC Start=1704091><P Class=KRCC>&nbsp;
+<SYNC Start=1704127><P Class=KRCC>
+±×¸®°í...
+<SYNC Start=1705493><P Class=KRCC>&nbsp;
+<SYNC Start=1705528><P Class=KRCC>
+±×¸®°í ÇÁ¸®¹Ì¾ö °¡½º·Î »ç¿ëÇØÁà.
+<SYNC Start=1707528><P Class=KRCC>&nbsp;
+<SYNC Start=1707564><P Class=KRCC>
+¹°·Ğ »ç±â°°±ä ÇÏÁö¸¸, ÀÌ°Å Å« Â÷ÀÌ¶ó±¸.
+<SYNC Start=1711599><P Class=KRCC>&nbsp;
+<SYNC Start=1711634><P Class=KRCC>
+±×¸®°í ÀÏÁÖÀÏ¿¡ ÃÖ¼Ò ÇÑ ¹øÀº ¼¼Â÷ÇØ¾ß ÇÏ°í.
+<SYNC Start=1714502><P Class=KRCC>&nbsp;
+<SYNC Start=1714537><P Class=KRCC>
+½ºÇÁ¸µ¿¡´Â ÇÚµå ¿Î½º¸¦ ¹ß¶ó¾ß ÇØ.
+<SYNC Start=1716103><P Class=KRCC>&nbsp;
+<SYNC Start=1716139><P Class=KRCC>
+Å¬¸®¾î ÄÚÆ®¸¦ À§ÇØ º¸È£¸·À» ¹ß¶ó¾ß ÇÒ°Å¾ß.
+<SYNC Start=1720208><P Class=KRCC>&nbsp;
+<SYNC Start=1720243><P Class=KRCC>&nbsp;
+<SYNC Start=1723177><P Class=KRCC>&nbsp;
+<SYNC Start=1723213><P Class=KRCC>
+ÃÖ°íÀÇ ´ë¿ì¸¦ ¹Ş¾Æ¾ß ÇØ.
+<SYNC Start=1725546><P Class=KRCC>&nbsp;
+<SYNC Start=1725582><P Class=KRCC>
+ÀÚµ¿Â÷ ºĞÇØÇÏ´Â °÷(chop shop)¿¡¼­ ÀÏÇÏ´Â<br>
+»ç¶÷µéÇÑÅ× È®½ÇÈ÷ ÇØµÎÁö.
+<SYNC Start=1727882><P Class=KRCC>&nbsp;
+<SYNC Start=1727917><P Class=KRCC>
+°¡Àå ½Å»çÀûÀ¸·Î ´ëÇÏ¶ó±¸.
+<SYNC Start=1729350><P Class=KRCC>&nbsp;
+<SYNC Start=1733022><P Class=KRCC>
+Àá±ñ. ¿Ö?
+<SYNC Start=1735823><P Class=KRCC>&nbsp;
+<SYNC Start=1735859><P Class=KRCC>
+¾ÈµÅ.
+<SYNC Start=1738960><P Class=KRCC>&nbsp;
+<SYNC Start=1738995><P Class=KRCC>
+´ç½ÅÀº ³»°¡ Àú°É Å¸°í ´Ù´Ï±æ ¹Ù¶ó´Â°Å¾ß?
+<SYNC Start=1741329><P Class=KRCC>&nbsp;
+<SYNC Start=1741364><P Class=KRCC>
+Àú°Ç ¸¶Ä¡ 6»ìÂ¥¸® Æ÷ÁÖ°¡ Å¸°í ´Ù´Ï´Â <br>
+½ºÄğ¹ö½º °°¾Æ.
+<SYNC Start=1744298><P Class=KRCC>&nbsp;
+<SYNC Start=1744334><P Class=KRCC>
+µÆ¾î, ÀÌÁ¦ ¿òÁ÷¿©µµ µÇ³ª?
+<SYNC Start=1747535><P Class=KRCC>&nbsp;
+<SYNC Start=1756279><P Class=KRCC>&nbsp;
+<SYNC Start=1759947><P Class=KRCC>&nbsp;
+<SYNC Start=1778301><P Class=KRCC>
+Aaron.
+<SYNC Start=1781702><P Class=KRCC>&nbsp;
+<SYNC Start=1781738><P Class=KRCC>
+¿ÀÄÉÀÌ, Jeterµµ ÀÖ°í.
+<SYNC Start=1783538><P Class=KRCC>&nbsp;
+<SYNC Start=1783573><P Class=KRCC>
+ÁÁ¾Æ. ¿ÀÄÉÀÌ.
+<SYNC Start=1787041><P Class=KRCC>&nbsp;
+<SYNC Start=1791714><P Class=KRCC>&nbsp;
+<SYNC Start=1793214><P Class=KRCC>&nbsp;
+<SYNC Start=1794717><P Class=KRCC>
+Mantle. Mantle. MatleÀÌ´Ù.
+<SYNC Start=1796851><P Class=KRCC>&nbsp;
+<SYNC Start=1796886><P Class=KRCC>
+´Ù µÆ³ª?
+<SYNC Start=1798085><P Class=KRCC>&nbsp;
+<SYNC Start=1798121><P Class=KRCC>
+¾î, ³×, ¸ğµÎ ÀÖ´Â °Í °°³×¿ä.
+<SYNC Start=1801122><P Class=KRCC>&nbsp;
+<SYNC Start=1801157><P Class=KRCC>
+³×, ´Ù ¿©±â ÀÖ¾î¿ä. ¸ğµÎ ¿©±â ÀÖ³×¿ä.
+<SYNC Start=1804058><P Class=KRCC>&nbsp;
+<SYNC Start=1810133><P Class=KRCC>
+ÀÌÁ¦ ´Ù¸¥ ¹°°Ç Â÷·ÊÀÏ¼¼.
+<SYNC Start=1812633><P Class=KRCC>&nbsp;
+<SYNC Start=1829152><P Class=KRCC>
+ÀÌÁ¦ ¿ì¸® »çÀÌÀÇ °Å·¡´Â ´Ù ³¡³­°Ì´Ï´Ù.
+<SYNC Start=1833454><P Class=KRCC>&nbsp;
+<SYNC Start=1838528><P Class=KRCC>&nbsp;
+<SYNC Start=1840127><P Class=KRCC>&nbsp;
+<SYNC Start=1849372><P Class=KRCC>&nbsp;
+<SYNC Start=1851872><P Class=KRCC>&nbsp;
+<SYNC Start=1854811><P Class=KRCC>&nbsp;
+<SYNC Start=1857378><P Class=KRCC>&nbsp;
+<SYNC Start=1861718><P Class=KRCC>&nbsp;
+<SYNC Start=1864485><P Class=KRCC>&nbsp;
+<SYNC Start=1880036><P Class=KRCC>
+Àú±â, Á¦´ë·Î »ç°úÇÒ°Ô¿ä.
+<SYNC Start=1884271><P Class=KRCC>&nbsp;
+<SYNC Start=1884307><P Class=KRCC>&nbsp;
+<SYNC Start=1887008><P Class=KRCC>&nbsp;
+<SYNC Start=1887043><P Class=KRCC>
+¾î, ÀÌ°Ç... ¶Ç °æÂûÀÌ³×¿ä.
+<SYNC Start=1888909><P Class=KRCC>&nbsp;
+<SYNC Start=1892715><P Class=KRCC>
+»÷µåÆÄÀÌÆÛ´Â ¿ì¸®ÀÇ ¿äÃ»¿¡
+<SYNC Start=1894148><P Class=KRCC>&nbsp;
+<SYNC Start=1894183><P Class=KRCC>
+¾Æ¹«·± ´ë´äÀÌ ¾ø³×¿ä.
+<SYNC Start=1895316><P Class=KRCC>&nbsp;
+<SYNC Start=1895351><P Class=KRCC>
+¼­·ù ÀÛ¾÷¸¸ »ê´õ¹ÌÀÎµ¥,
+<SYNC Start=1897018><P Class=KRCC>&nbsp;
+<SYNC Start=1897053><P Class=KRCC>
+»ç½Ç ÀÌ »ç°Ç¿¡ °ü·ÃµÈ ¼­·ù´Â ÀÖÁöµµ ¾Ê¾Æ¿ä.
+<SYNC Start=1899820><P Class=KRCC>&nbsp;
+<SYNC Start=1899856><P Class=KRCC>
+º°·Î ³î¶øÁöµµ ¾Ê±º.
+<SYNC Start=1901355><P Class=KRCC>&nbsp;
+<SYNC Start=1901391><P Class=KRCC>
+¿ì¸° ÀºÇà ±â·Ï¿¡ ´ëÇØ ¼ÒÈ¯ÀåÀ» <br>
+¹ßºÎÇÒ ¼ö ÀÖÀ»°Å¾ß.
+<SYNC Start=1903524><P Class=KRCC>&nbsp;
+<SYNC Start=1903559><P Class=KRCC>
+°í¸¶¿ö, Erin. ±×¸®°í Jimmy.
+<SYNC Start=1905793><P Class=KRCC>&nbsp;
+<SYNC Start=1905828><P Class=KRCC>
+°í°´ ÀÀ´ë´Â ¾î¶»°Ô µÇ°í ÀÖ³ª?
+<SYNC Start=1907328><P Class=KRCC>&nbsp;
+<SYNC Start=1907363><P Class=KRCC>
+¿ì¸®°¡ ¼ÒÈ¯ÀåÀ» ±â´Ù¸®´Â µ¿¾È,
+<SYNC Start=1909497><P Class=KRCC>&nbsp;
+<SYNC Start=1909532><P Class=KRCC>
+Á¦ »ı°¢¿¡´Â °í°´ºĞµéÀÌ ±×µé ½º½º·Î
+<SYNC Start=1911632><P Class=KRCC>&nbsp;
+<SYNC Start=1911668><P Class=KRCC>
+ÀÌ »ç°Ç¿¡ ¸Â¼­ ½Î¿ï ¼ö ÀÖµµ·Ï <br>
+ÇØ¾ßÇÒ °Í °°¾Æ¿ä.
+<SYNC Start=1913234><P Class=KRCC>&nbsp;
+<SYNC Start=1913269><P Class=KRCC>
+ÀÌ »ç¶÷µéÀÇ ´ëºÎºĞÀº ÀÌ ¸ğµç °Í¿¡ <br>
+´ëÇÑ »çº»À» °®°í ÀÖ¾î¿ä.
+<SYNC Start=1918839><P Class=KRCC>&nbsp;
+<SYNC Start=1918875><P Class=KRCC>
+¹°·Ğ, ±×°Í Áß ÀÏºÎ´Â, ¾î...
+<SYNC Start=1921342><P Class=KRCC>&nbsp;
+<SYNC Start=1921377><P Class=KRCC>
+¸ğ¼øµÇ¾î ÀÖ´Â °ÍµéÀÌ ÀÖÁÒ.
+<SYNC Start=1924578><P Class=KRCC>&nbsp;
+<SYNC Start=1924614><P Class=KRCC>
+ÀÌ°Ç Á¤¸» ½Ã°£ÀÌ ¿À·¡ °É¸±°Å¿¡¿ä.
+<SYNC Start=1926914><P Class=KRCC>&nbsp;
+<SYNC Start=1928451><P Class=KRCC>
+¹æÇØÇØ¼­ Á¤¸» ÁË¼ÛÇÕ´Ï´Ù.
+<SYNC Start=1930084><P Class=KRCC>&nbsp;
+<SYNC Start=1930119><P Class=KRCC>
+¾î, ÇÑ ¿©¼ººĞÀº, À½, ±×³à´Â »ó³ÉÇÏÁö¸¸,
+<SYNC Start=1932920><P Class=KRCC>&nbsp;
+<SYNC Start=1932955><P Class=KRCC>
+¾î, ¹®¿¡ ´Ş¸° ¸øÃ³·³ ±Í°¡ ¸Ô¾ú¾î¿ä.
+<SYNC Start=1935189><P Class=KRCC>&nbsp;
+<SYNC Start=1935224><P Class=KRCC>
+±×³à´Â ±×³à°¡ °¡Áø ¼­·ùµéÀ» ±â¾ï...
+<SYNC Start=1939026><P Class=KRCC>&nbsp;
+<SYNC Start=1939062><P Class=KRCC>
+¹Ì¾ÈÇÏÁö¸¸ Àá½Ã ½Ç·ÊÇÏ°Ú³×, Jimmy.
+<SYNC Start=1940494><P Class=KRCC>&nbsp;
+<SYNC Start=1940530><P Class=KRCC>
+¸ğµÎµé ÇÚµåÆù, ÀüÀÚ ¿­¼è,
+<SYNC Start=1941729><P Class=KRCC>&nbsp;
+<SYNC Start=1941764><P Class=KRCC>
+±×¸®°í ÀüÀÚ ±â±â¸¦ ´Ù º¸°üÇØÁÖ°Ô³ª.
+<SYNC Start=1943898><P Class=KRCC>&nbsp;
+<SYNC Start=1977066><P Class=KRCC>
+Chuck. ¾î¼­¿À¼¼¿ä.
+<SYNC Start=1979767><P Class=KRCC>&nbsp;
+<SYNC Start=1979802><P Class=KRCC>
+¾ÉÀ¸½ÃÁÒ.
+<SYNC Start=1981802><P Class=KRCC>&nbsp;
+<SYNC Start=1981838><P Class=KRCC>
+Àú´Â ½Å°æ¾²Áö ¸¶¼¼¿ä.
+<SYNC Start=1984138><P Class=KRCC>&nbsp;
+<SYNC Start=1984173><P Class=KRCC>
+¾È³çÇÏ¼¼¿ä, ¸ğµÎµé.
+<SYNC Start=1987374><P Class=KRCC>&nbsp;
+<SYNC Start=1987410><P Class=KRCC>&nbsp;
+<SYNC Start=1989977><P Class=KRCC>&nbsp;
+<SYNC Start=1992849><P Class=KRCC>
+¹æÇØÇØ¼­ ÁË¼ÛÇÏ±º¿ä.
+<SYNC Start=1994448><P Class=KRCC>&nbsp;
+<SYNC Start=1994484><P Class=KRCC>
+Á¦°¡ ¾ø´Ù°í »ı°¢ÇØÁÖ¼¼¿ä.
+<SYNC Start=1996117><P Class=KRCC>&nbsp;
+<SYNC Start=1996152><P Class=KRCC>
+´ç½ÅÀÌ ¿Í¼­ ÁÁ±º¿ä.
+<SYNC Start=1998619><P Class=KRCC>&nbsp;
+<SYNC Start=1998654><P Class=KRCC>
+Jimmy, ¾îµğ±îÁö ÇßÁö?
+<SYNC Start=2000654><P Class=KRCC>&nbsp;
+<SYNC Start=2000690><P Class=KRCC>
+¾î, ³×.
+<SYNC Start=2003791><P Class=KRCC>&nbsp;
+<SYNC Start=2003826><P Class=KRCC>
+±×·¡¼­, Á¦°¡ ÇÏ°í ½ÍÀº ¸»Àº...
+<SYNC Start=2006127><P Class=KRCC>&nbsp;
+<SYNC Start=2007463><P Class=KRCC>
+À½...
+<SYNC Start=2011098><P Class=KRCC>&nbsp;
+<SYNC Start=2011134><P Class=KRCC>
+¾î, °í°´ºĞµé·ÎºÎÅÍ ¼­·ù¸¦ ¾ò¾î¼­...
+<SYNC Start=2014769><P Class=KRCC>&nbsp;
+<SYNC Start=2019976><P Class=KRCC>
+ºĞ¸í ¸î ºĞµéÀº ¾µ¸ğ ¾ø´Â °É <br>
+¸ğ¾Æ³õ°í ÀÖÀ»°Ì´Ï´Ù.
+<SYNC Start=2021642><P Class=KRCC>&nbsp;
+<SYNC Start=2021677><P Class=KRCC>
+±×ºĞµé¿¡°Ô Ãàº¹ÀÌ ÀÖ±æ.
+<SYNC Start=2023444><P Class=KRCC>&nbsp;
+<SYNC Start=2023479><P Class=KRCC>
+Àü »÷µåÆÄÀÌÆÛ »êÅ¸Æä ÁöºÎ¿¡ ÀÖ´Â Gusdorff ¾¾¸¦ ¹æ¹®Çß¾î¿ä.
+<SYNC Start=2027014><P Class=KRCC>&nbsp;
+<SYNC Start=2027049><P Class=KRCC>
+±×¸®°í Àü ±× ³¯ ¿ÀÈÄ ³»³» °ÇÃÊ´õ¹ÌÃ³·³ ½×¿©ÀÖ´Â
+<SYNC Start=2031652><P Class=KRCC>&nbsp;
+<SYNC Start=2031687><P Class=KRCC>
+¿µ¼öÁõ°ú ¹İ °ª ÄíÆù °°Àº °É Á¤¸®Çß¾î¿ä.
+<SYNC Start=2035122><P Class=KRCC>&nbsp;
+<SYNC Start=2035158><P Class=KRCC>
+ÇÏÁö¸¸ ÀÌÁ¦ ¿ì¸®´Â ±× ºĞÀÇ ¿ùÂ÷ °è»ê¼­¸¦ °®°í ÀÖÁÒ
+<SYNC Start=2039126><P Class=KRCC>&nbsp;
+<SYNC Start=2039162><P Class=KRCC>
+1997³â 3¿ùºÎÅÍ¿ä.
+<SYNC Start=2041695><P Class=KRCC>&nbsp;
+<SYNC Start=2041731><P Class=KRCC>
+±×·¯´Ï±î ÀÌ°Ç ²Ï ³ëµ¿ÀÌ µå´Â ÀÏÀÌ°ÚÁö¸¸,
+<SYNC Start=2044431><P Class=KRCC>&nbsp;
+<SYNC Start=2044467><P Class=KRCC>
+¿ì¸®ÀÇ °í°´µéÀº Ç×»ó ¿ì¸®¿¡°Ô ÀÖ¾î ÃÖ°íÀÇ ÀÚ»êÀÌÁÒ.
+<SYNC Start=2048602><P Class=KRCC>&nbsp;
+<SYNC Start=2048638><P Class=KRCC>
+±×¸®°í, ±×µéÀº ¸®º» »çÅÁµµ °®°í ÀÖÁÒ.
+<SYNC Start=2050704><P Class=KRCC>&nbsp;
+<SYNC Start=2050740><P Class=KRCC>&nbsp;
+<SYNC Start=2052339><P Class=KRCC>&nbsp;
+<SYNC Start=2061184><P Class=KRCC>
+Chuck: Jimmy.
+<SYNC Start=2062683><P Class=KRCC>&nbsp;
+<SYNC Start=2063686><P Class=KRCC>
+¾È³ç?
+<SYNC Start=2065853><P Class=KRCC>&nbsp;
+<SYNC Start=2072895><P Class=KRCC>
+¿©±â¼­ ¹¹ÇØ?
+<SYNC Start=2074295><P Class=KRCC>&nbsp;
+<SYNC Start=2074330><P Class=KRCC>
+³» ÀÌ¸§ÀÌ ÀÌ ºôµù¿¡ ºÙ¾îÀÖ´Ù°í.
+<SYNC Start=2077965><P Class=KRCC>&nbsp;
+<SYNC Start=2078000><P Class=KRCC>
+´ç½ÅÀÌ ¿ÍÁà¼­ ³Ê¹« ÁÁ¾Æ¿ä.
+<SYNC Start=2079533><P Class=KRCC>&nbsp;
+<SYNC Start=2079569><P Class=KRCC>
+¹¹µç ÇÊ¿äÇÏ´Ù¸é, Á¦ »ç¹«½Ç·Î ¿À¼¼¿ä.
+<SYNC Start=2082002><P Class=KRCC>&nbsp;
+<SYNC Start=2086843><P Class=KRCC>&nbsp;
+<SYNC Start=2088876><P Class=KRCC>&nbsp;
+<SYNC Start=2088911><P Class=KRCC>
+¿©±â ¿Ö ¿Ô¾î?
+<SYNC Start=2091111><P Class=KRCC>&nbsp;
+<SYNC Start=2092715><P Class=KRCC>
+Áõ¾ğÇÏ·Á°í.
+<SYNC Start=2095049><P Class=KRCC>&nbsp;
+<SYNC Start=2098287><P Class=KRCC>&nbsp;
+<SYNC Start=2100621><P Class=KRCC>&nbsp;
+<SYNC Start=2106362><P Class=KRCC>
+Jame McGillÀÔ´Ï´Ù.
+<SYNC Start=2108329><P Class=KRCC>&nbsp;
+<SYNC Start=2108364><P Class=KRCC>
+Ehrmantraut¶ó³×.
+<SYNC Start=2110364><P Class=KRCC>&nbsp;
+<SYNC Start=2110399><P Class=KRCC>
+´ç½Å ¿©ÀüÈ÷ ºñµµ´öÀûÀÎ ÀÏÀ» ÇÏ´Â°¡?
+<SYNC Start=2112600><P Class=KRCC>&nbsp;
+<SYNC Start=2112635><P Class=KRCC>
+¸¸¾à ±×·¸´Ù¸é, <br>
+³»°¡ ºÎÅ¹ÇÒ ÀÏÀÌ ÇÏ³ª ÀÖ´Ù³×.
+<SYNC Start=2116370><P Class=KRCC>&nbsp;
+<SYNC Start=2118207><P Class=KRCC>
+¾ğÁ¦, ¾îµğ¿ä?
+<SYNC Start=2121242><P Class=KRCC>&nbsp;
+<SYNC Start=2126636><P Class=KRCC>
+¾ÉÀ¸½ÃÁÒ.
+<SYNC Start=2128703><P Class=KRCC>&nbsp;
+<SYNC Start=2131375><P Class=KRCC>
+Wormald¾¾, ¾ê±âÇÏ·¯ ¿ÍÁÖ¼Å¼­ °¨»çÇÕ´Ï´Ù.
+<SYNC Start=2134443><P Class=KRCC>&nbsp;
+<SYNC Start=2134478><P Class=KRCC>
+³×, ´ç¿¬ÇÏÁÒ.
+<SYNC Start=2135744><P Class=KRCC>&nbsp;
+<SYNC Start=2135779><P Class=KRCC>
+³×, ÀúÈñ°¡ »ç°Ç ÇöÀå¿¡ ³ª°¬´ø °æÂû°üµéÀÇ<br>
+º¸°í¼­¸¦ ºÃ´Âµ¥¿ä,
+<SYNC Start=2138980><P Class=KRCC>&nbsp;
+<SYNC Start=2139016><P Class=KRCC>
+Áú¹® ¸î °³°¡ ÀÖ½À´Ï´Ù.
+<SYNC Start=2141516><P Class=KRCC>&nbsp;
+<SYNC Start=2141552><P Class=KRCC>
+¾Æ, ½Ã°£À» »¯¾î¼­ ÁË¼ÛÇÕ´Ï´Ù.<br>
+±×³É ÀÏ¹İÀûÀÎ ÀıÂ÷¿¡¿ä.
+<SYNC Start=2144252><P Class=KRCC>&nbsp;
+<SYNC Start=2144288><P Class=KRCC>
+¿©±â Á¤¸» º¯È£»ç¸¦ µ¥·Á¿ÀÁö ¾ÊÀ¸¼Åµµ µÇ¼¼¿ä.
+<SYNC Start=2145987><P Class=KRCC>&nbsp;
+<SYNC Start=2146023><P Class=KRCC>
+Àü ¿©±â¿¡ °í¹® ¿ªÇÒ·Î ¿Ô½À´Ï´Ù.
+<SYNC Start=2148790><P Class=KRCC>&nbsp;
+<SYNC Start=2148826><P Class=KRCC>
+DanÀÌ ±×³É, ¾î, ¿·¿¡ <br>
+¿ìÈ£ÀûÀÎ »ç¶÷À» µÎ°í ½Í¾îÇÏ´õ±º¿ä.
+<SYNC Start=2151960><P Class=KRCC>&nbsp;
+<SYNC Start=2151995><P Class=KRCC>
+Coleman: À½, ¿ì¸®µéµµ ´Ù Ä£ÀıÇÏ°Ô ´ëÇÑ´ä´Ï´Ù.
+<SYNC Start=2154296><P Class=KRCC>&nbsp;
+<SYNC Start=2154331><P Class=KRCC>
+¿ì¸± º¸¼¼¿ä. ³× ¸íÀÇ Ä£±¸µéÀÌ¶ó´Ï!
+<SYNC Start=2156798><P Class=KRCC>&nbsp;
+<SYNC Start=2156834><P Class=KRCC>&nbsp;
+<SYNC Start=2158166><P Class=KRCC>&nbsp;
+<SYNC Start=2158202><P Class=KRCC>
+ÀúÈò ±×³É »ç½ÇÀ» ¾Ë°í ½ÍÀº °Ì´Ï´Ù.
+<SYNC Start=2159801><P Class=KRCC>&nbsp;
+<SYNC Start=2159837><P Class=KRCC>
+±×·¡¾ß ¿ì¸®°¡ ´ç½ÅÀÌ ÀÒ¾î¹ö¸° °É Ã£À» ¼ö ÀÖÁÒ.
+<SYNC Start=2162137><P Class=KRCC>&nbsp;
+<SYNC Start=2162172><P Class=KRCC>
+³×, Àú±â ¸»ÀÌÁÒ, ¾î, ±¦Âú¾Æ¿ä.
+<SYNC Start=2164206><P Class=KRCC>&nbsp;
+<SYNC Start=2164241><P Class=KRCC>
+¾î, µµ¿ÍÁÖ½Ç ÇÊ¿ä...
+<SYNC Start=2167275><P Class=KRCC>&nbsp;
+<SYNC Start=2167311><P Class=KRCC>
+¾Æ´Õ´Ï´Ù, ÀÌ°Ç ´ÜÁö ÀÏ¹İÀûÀÎ ÀıÂ÷¿¡¿ä.
+<SYNC Start=2169311><P Class=KRCC>&nbsp;
+<SYNC Start=2169346><P Class=KRCC>
+°æÂû°üµéÀÌ Ç×»ó ¿ì¸®°¡ ÇÊ¿äÇÑ ¸ğµç Á¤º¸¸¦
+<SYNC Start=2170846><P Class=KRCC>&nbsp;
+<SYNC Start=2170881><P Class=KRCC>
+º¸°í¼­¿¡ Àû¾î³õÁø ¾Ê°Åµç¿ä.
+<SYNC Start=2173215><P Class=KRCC>&nbsp;
+<SYNC Start=2173250><P Class=KRCC>
+ÀúÈò ´ÜÁö ´ç½ÅÀÇ ¾ß±¸ Ä«µå¸¦ ÈÉÃÄ°£<br>
+»ç¶÷À» Ã£°í ½ÍÀº °Í »ÓÀÌºó´Ù.
+<SYNC Start=2176151><P Class=KRCC>&nbsp;
+<SYNC Start=2176186><P Class=KRCC>
+³×, ±×°Å, ¾î...
+<SYNC Start=2178820><P Class=KRCC>&nbsp;
+<SYNC Start=2178856><P Class=KRCC>
+ÀÖÁÒ, Á¦ »çÃÌÀÌ Ty Cobb ´ã¹è Ä«µå¸¦ °®°í ÀÖ¾î¿ä.
+<SYNC Start=2181556><P Class=KRCC>&nbsp;
+<SYNC Start=2181592><P Class=KRCC>
+±×°É 6ÀÎÄ¡ À¯¸®Åë¿¡ º¸°üÇÏ´õ¶ó±¸¿ä
+<SYNC Start=2184626><P Class=KRCC>&nbsp;
+<SYNC Start=2184661><P Class=KRCC>
+¸ğ³ª¸®ÀÚÃ³·³¿ä.
+<SYNC Start=2186361><P Class=KRCC>&nbsp;
+<SYNC Start=2186396><P Class=KRCC>
+¿Í¿ì, Ty Cobb¿ä?
+<SYNC Start=2188396><P Class=KRCC>&nbsp;
+<SYNC Start=2188432><P Class=KRCC>
+±×ÇÑÅ× Á¶¸íÀ» ¾îµÓ°Ô ÇÏ¶ó°í ÇÏ¼¼¿ä.
+<SYNC Start=2189831><P Class=KRCC>&nbsp;
+<SYNC Start=2189867><P Class=KRCC>
+ÀÎ°øÀûÀÎ Á¶¸íÀÌ¶óµµ ¾î´À Á¤µµÀÇ
+<SYNC Start=2192167><P Class=KRCC>&nbsp;
+<SYNC Start=2192202><P Class=KRCC>
+ÀÚ¿Ü º¹»ç¼±ÀÌ ³ª¿À°Åµç¿ä, ¾î...
+<SYNC Start=2197506><P Class=KRCC>&nbsp;
+<SYNC Start=2197541><P Class=KRCC>
+- ¿À·£ ½Ã°£ ³öµÎ°Ô µÇ¸é...<br>
+- ³×.
+<SYNC Start=2199040><P Class=KRCC>&nbsp;
+<SYNC Start=2199076><P Class=KRCC>
+À½, ÀúÈñÇÑÅ× Á¤È®È÷ ¼³¸íÇØÁÖ½Ç ¼ö ÀÖÀ¸½Å°¡¿ä?
+<SYNC Start=2201343><P Class=KRCC>&nbsp;
+<SYNC Start=2201378><P Class=KRCC>
+´ç½ÅÀÌ Ä«µå¸¦ Áı ¾È ¾îµğ¿¡ º¸°üÇß´ÂÁö?
+<SYNC Start=2204312><P Class=KRCC>&nbsp;
+<SYNC Start=2204348><P Class=KRCC>
+³×, À½, ¾î, Á¦°¡ ¸»ÇÏ°í ½ÍÀº °Ç,<br>
+ÀÌ°Ç ´õ ÀÌ»ó ¹®Á¦µÇÁö ¾Ê´Â´Ù´Â °Å¿¡¿ä.
+<SYNC Start=2209050><P Class=KRCC>&nbsp;
+<SYNC Start=2209086><P Class=KRCC>
+Àü ±×°É Ã£¾Ò°Åµç¿ä.
+<SYNC Start=2211753><P Class=KRCC>&nbsp;
+<SYNC Start=2211788><P Class=KRCC>
+Ä«µå¸¦ Ã£¾Ò´Ù±¸¿ä?
+<SYNC Start=2213221><P Class=KRCC>&nbsp;
+<SYNC Start=2213257><P Class=KRCC>
+¾î, ³Ü.
+<SYNC Start=2215056><P Class=KRCC>&nbsp;
+<SYNC Start=2215092><P Class=KRCC>
+Àü ±×³É ¿©±â ¿Í¼­ ¸»ÇÏ°í ½Í¾ú¾î¿ä, <br>
+À½, Á÷Á¢¿ä.
+<SYNC Start=2220028><P Class=KRCC>&nbsp;
+<SYNC Start=2220063><P Class=KRCC>
+´ç½ÅÀÌ ±×°É Ã£¾Ò´Ù±¸¿ä?
+<SYNC Start=2221830><P Class=KRCC>&nbsp;
+<SYNC Start=2221865><P Class=KRCC>
+¾îµğ¼­¿ä? Áı ÁÖº¯¿¡¼­¿ä?
+<SYNC Start=2223565><P Class=KRCC>&nbsp;
+<SYNC Start=2223600><P Class=KRCC>
+¾Æ´¢. Àú´Â, À½, »ç¼³ Å½Á¤À» °í¿ëÇß¾î¿ä.
+<SYNC Start=2226835><P Class=KRCC>&nbsp;
+<SYNC Start=2226870><P Class=KRCC>
+±×¸®°í ±×°¡ µµµÏµéÀ» µÚÂÑ¾Ò±¸¿ä.
+<SYNC Start=2229004><P Class=KRCC>&nbsp;
+<SYNC Start=2229039><P Class=KRCC>
+±×·¯´Ï ±×·¸°Ô µÈ°ÅÁÒ.
+<SYNC Start=2230405><P Class=KRCC>&nbsp;
+<SYNC Start=2230440><P Class=KRCC>
+Á¤¸»¿ä? ±×µéÀ» ¾îµğ¼­ Ã£¾Ò´ë¿ä?
+<SYNC Start=2234342><P Class=KRCC>&nbsp;
+<SYNC Start=2234378><P Class=KRCC>
+ÀÖÁÒ, ±¦Âú¾Æ¿ä. Á¤¸»·ç¿ä.
+<SYNC Start=2236444><P Class=KRCC>&nbsp;
+<SYNC Start=2236480><P Class=KRCC>
+Àú´Â Á¤¸»... ´ç½ÅµéÀ» ¹æÇØÇÏ°í ½ÍÁö ¾Ê¾Æ¿ä.
+<SYNC Start=2239180><P Class=KRCC>&nbsp;
+<SYNC Start=2239216><P Class=KRCC>
+¾î, ´ç½ÅµéÀº ÀúÇÑÅ× <br>
+ÃæºĞÈ÷ ¸¹Àº ½Ã°£À» ½ñÀ¸¼Ì¾î¿ä.
+<SYNC Start=2241850><P Class=KRCC>&nbsp;
+<SYNC Start=2241885><P Class=KRCC>
+¾Æ´¢, ¾Æ´¢, ÀÌ°Ç... ±¦Âú¾Æ¿ä. <br>
+ÀÌ°Ô ÀúÈñ ÀÏÀÎ°É¿ä.
+<SYNC Start=2244686><P Class=KRCC>&nbsp;
+<SYNC Start=2244721><P Class=KRCC>
+ÀúÈñ´Â ´ÜÁö »ç½ÇÀ» ¾Ë°í ½ÍÀº °Í »ÓÀÔ´Ï´Ù.
+<SYNC Start=2246555><P Class=KRCC>&nbsp;
+<SYNC Start=2246590><P Class=KRCC>
+»ç°ÇÀ» Á¾°áÇÒ ¼ö ÀÖµµ·Ï µµ¿Íµå¸®ÁÒ.
+<SYNC Start=2248890><P Class=KRCC>&nbsp;
+<SYNC Start=2248926><P Class=KRCC>
+³¡³µ¾î¿ä.
+<SYNC Start=2251293><P Class=KRCC>&nbsp;
+<SYNC Start=2251328><P Class=KRCC>
+»ç°Ç Á¾°áµÆ´Ù±¸¿ä!
+<SYNC Start=2253562><P Class=KRCC>&nbsp;
+<SYNC Start=2253597><P Class=KRCC>
+Àü ´ÜÁö... Àü ´ç½ÅµéÀÌ
+<SYNC Start=2255931><P Class=KRCC>&nbsp;
+<SYNC Start=2255941><P Class=KRCC>
+¾ó¸¶³ª ¸¹Àº ÀÏÀ» ÇÏ°í ÀÖ´ÂÁö ¾Ë¾Æ¿ä.
+<SYNC Start=2257608><P Class=KRCC>&nbsp;
+<SYNC Start=2257655><P Class=KRCC>
+»ìÀÎÀÚ, °­µµ, °» °°Àº °Íµé¿ä. Àú´Â...
+<SYNC Start=2261190><P Class=KRCC>&nbsp;
+<SYNC Start=2261225><P Class=KRCC>
+ÀÌºÁ, Danny, <br>
+³ª°¡¼­ Á» ½¬´Ù ¿À´Â °Ô ¾î¶§?
+<SYNC Start=2263826><P Class=KRCC>&nbsp;
+<SYNC Start=2263861><P Class=KRCC>
+Ä¿ÇÇµµ ¸¶½Ã°í.
+<SYNC Start=2265161><P Class=KRCC>&nbsp;
+<SYNC Start=2265196><P Class=KRCC>
+³»°¡ Çü»çµéÇÏ°í ¾ê±æ ³¡³¾°Ô.
+<SYNC Start=2267797><P Class=KRCC>&nbsp;
+<SYNC Start=2275239><P Class=KRCC>
+±×·³, º»·ĞÀ¸·Î µé¾î°¡º¼±î¿ä.
+<SYNC Start=2278774><P Class=KRCC>&nbsp;
+<SYNC Start=2278810><P Class=KRCC>
+Á¦°¡ ÃßÃøÇÏ±â·Ğ ´ç½Å³×µéÀÇ <br>
+µÎ ¸íÀÇ Á¦º¹ÀÔÀº °æÂû°üµéÀÌ
+<SYNC Start=2282011><P Class=KRCC>&nbsp;
+<SYNC Start=2282046><P Class=KRCC>
+Wormald¾¾ÀÇ Áı¿¡¼­ <br>
+Á¶±×¸¸ Àº½ÅÃ³¸¦ Ã£Àº °Í °°±º¿ä.
+<SYNC Start=2283946><P Class=KRCC>&nbsp;
+<SYNC Start=2283982><P Class=KRCC>
+±×¸®°í ±×°Í ¶§¹®¿¡ ´ç½Å µÑÀÌ ÀÌ·¸°Ô³ª
+<SYNC Start=2286015><P Class=KRCC>&nbsp;
+<SYNC Start=2286050><P Class=KRCC>
+³» Ä£±¸¸¦ "µ½±â" À§ÇØ Ç÷¾ÈÀÌ µÈ °Å±¸¿ä.
+<SYNC Start=2287850><P Class=KRCC>&nbsp;
+<SYNC Start=2287885><P Class=KRCC>
+ÀÌÇØÇØ¿ä.
+<SYNC Start=2289819><P Class=KRCC>&nbsp;
+<SYNC Start=2289854><P Class=KRCC>
+°É·¹¹ŞÀÌ¿¡ ¼û°ÜÁø °ø°£ÀÌ¶ó´Ï...
+<SYNC Start=2291387><P Class=KRCC>&nbsp;
+<SYNC Start=2291422><P Class=KRCC>
+´©±¸µç ÀÇ½É°¡°Ô ¸¸µé°Å¿¡¿ä.
+<SYNC Start=2293222><P Class=KRCC>&nbsp;
+<SYNC Start=2293257><P Class=KRCC>
+ÇÏÁö¸¸ ¿©±â¿¡ ±× ¾î¶² ºÒ¹ıÀûÀÎ °Íµµ<br>
+¾ø´Ù´Â °É Àå´ãÇÏÁÒ.
+<SYNC Start=2297159><P Class=KRCC>&nbsp;
+<SYNC Start=2297195><P Class=KRCC>
+±×·³ ¿Ö ±×°¡ ±×·¸°Ô ºÒ¾ÈÇØÇÏ´Â°Å¿ä?
+<SYNC Start=2298828><P Class=KRCC>&nbsp;
+<SYNC Start=2298863><P Class=KRCC>
+À¸Èì. Á¤¸»ÀÌÁö ±× ½ÄÀº¶¡Àº ÀÇ½É°£´Ù°í.
+<SYNC Start=2301630><P Class=KRCC>&nbsp;
+<SYNC Start=2301666><P Class=KRCC>
+¿ì¸® ¸ğµÎ °¢ÀÚÀÇ ºñ¹ĞÀÌ ÀÖÀİ¾Æ¿ä, ±×Ãİ?
+<SYNC Start=2304633><P Class=KRCC>&nbsp;
+<SYNC Start=2304669><P Class=KRCC>
+±×¸®°í ¿ì¸® Áß ÁË°¡ ¾ø´Â »ç¶÷ÀÌ ÀÖ³ª¿ä?
+<SYNC Start=2307003><P Class=KRCC>&nbsp;
+<SYNC Start=2307038><P Class=KRCC>
+±×¸®°í ±×·± ÁËµéÀÌ <br>
+¸ğµÎ ¹üÁË¶ó ÇÒ ¼ö ÀÖ´Â °Ç ¾Æ´ÏÁÒ.
+<SYNC Start=2311040><P Class=KRCC>&nbsp;
+<SYNC Start=2311075><P Class=KRCC>
+WormaldÀÇ ÁËµµ ±×·¸±¸¿ä, ±×Ãİ?
+<SYNC Start=2313542><P Class=KRCC>&nbsp;
+<SYNC Start=2313578><P Class=KRCC>
+ÇÏÁö¸¸, ±×µéÀº ´Ùµé »ç»ıÈ°ÀÌ ÀÖ´Ù±¸¿ä.
+<SYNC Start=2315745><P Class=KRCC>&nbsp;
+<SYNC Start=2315780><P Class=KRCC>
+»ç»ıÈ°ÀÌ¶ó, ¹¹ ¸¶¾à µô·¯ °°Àº°É ¸»ÇÏ³ª?
+<SYNC Start=2318014><P Class=KRCC>&nbsp;
+<SYNC Start=2318049><P Class=KRCC>
+¾Æ´¢, ¾Æ´¢!
+<SYNC Start=2319648><P Class=KRCC>&nbsp;
+<SYNC Start=2319684><P Class=KRCC>
+±×´Â ±×Àú ÀÌ°Ô ¹Î°¨ÇÑ ÁÖÁ¦¶ó <br>
+¾ó¹ö¹«¸®´Â °Å¶ó±¸¿ä.
+<SYNC Start=2322251><P Class=KRCC>&nbsp;
+<SYNC Start=2322286><P Class=KRCC>
+¸Å¿ì ¿¹¹ÎÇÏ°í, ±×¸®°í ¹ıÀûÀ¸·Î <br>
+¾Æ¹« ¹®Á¦°¡ ¾ø´Â °ÅÁö¿ä.
+<SYNC Start=2326222><P Class=KRCC>&nbsp;
+<SYNC Start=2326257><P Class=KRCC>
+ÀÖÁÒ, ¿ì¸®µµ Á¤¸» ´ç½ÅÀÇ ¸»À» ¹Ï°í ½ÍÀº °Í ¸¸Å­
+<SYNC Start=2329492><P Class=KRCC>&nbsp;
+<SYNC Start=2329527><P Class=KRCC>
+¿ì¸®µµ ÀÌ°Íº¸´Ü Á» ´õ ÇØ¾ßÇØ¿ä.
+<SYNC Start=2331327><P Class=KRCC>&nbsp;
+<SYNC Start=2331362><P Class=KRCC>
+¾Ë¾Ò¾î¿ä, À½, ÀÌ ¸ğµç °Ô °á±¹ <br>
+°³ÀÎÀûÀÎ ºĞÀïÀ¸·Î ¿ä¾àµÇ´Â±º¿ä.
+<SYNC Start=2335331><P Class=KRCC>&nbsp;
+<SYNC Start=2335366><P Class=KRCC>
+±×°ÍÀ¸·Î ³¡³ª´Â °Ì´Ï´Ù.
+<SYNC Start=2336699><P Class=KRCC>&nbsp;
+<SYNC Start=2336734><P Class=KRCC>
+ÀÌ°Ç... ÀÌ°Ç Wormald ¾¾¿Í
+<SYNC Start=2339368><P Class=KRCC>&nbsp;
+<SYNC Start=2339404><P Class=KRCC>
+±×¸®°í, ¾î... <br>
+±×ÀÇ ¿¹¼ú ÈÄ¿øÀÚ »çÀÌÀÇ ÀÏÀÌ¿¡¿ä.
+<SYNC Start=2344473><P Class=KRCC>&nbsp;
+<SYNC Start=2345476><P Class=KRCC>
+- "¿¹¼ú ÈÄ¿øÀÚ"?<br>
+- ³×.
+<SYNC Start=2347043><P Class=KRCC>&nbsp;
+<SYNC Start=2347078><P Class=KRCC>
+¾î, Á¦ °í°´Àº ÇÑ ºÎÀ¯ÇÑ ½Å»çºĞ°ú °è¾àÀ» Çß¾î¿ä.
+<SYNC Start=2352448><P Class=KRCC>&nbsp;
+<SYNC Start=2352483><P Class=KRCC>
+Wormald¾¾´Â ±× ½Å»çºĞ¿¡°Ô
+<SYNC Start=2356752><P Class=KRCC>&nbsp;
+<SYNC Start=2356788><P Class=KRCC>
+Wormald¾¾°¡ ¸¸µå´Â ¿¹¼ú ÀÛÇ°À»<br>
+½Å»çºĞÀÇ °ü´ëÇÔÀÇ ´ë°¡·Î Á¦°øÇÕ´Ï´Ù.
+<SYNC Start=2362758><P Class=KRCC>&nbsp;
+<SYNC Start=2362794><P Class=KRCC>
+ÀúÈò ±×°É ÈÄ¿øÀÌ¶ó ºÎ¸£±¸¿ä.
+<SYNC Start=2365928><P Class=KRCC>&nbsp;
+<SYNC Start=2365963><P Class=KRCC>
+¿¹¼ú ÀÛÇ°ÀÌ¿ä? ¿¹¸¦ µé¾î... ¾î¶²°Å¿ä? ±×¸²ÀÌ¿ä?
+<SYNC Start=2369098><P Class=KRCC>&nbsp;
+<SYNC Start=2369133><P Class=KRCC>
+ÀÌ°Ç Á» ´õ µğÁöÅĞ ¹Ìµğ¾î¿¡ °¡±î¿ö¿ä.
+<SYNC Start=2371901><P Class=KRCC>&nbsp;
+<SYNC Start=2371936><P Class=KRCC>
+µğÁöÅĞ ¹Ìµğ¾î?
+<SYNC Start=2374203><P Class=KRCC>&nbsp;
+<SYNC Start=2374238><P Class=KRCC>
+±×´Â ¿µ»óÀ» ¸¸µì´Ï´Ù.
+<SYNC Start=2376906><P Class=KRCC>&nbsp;
+<SYNC Start=2376941><P Class=KRCC>
+¾î¶² Á¾·ùÀÇ ¿µ»óÀÌ¿ä?
+<SYNC Start=2378140><P Class=KRCC>&nbsp;
+<SYNC Start=2378176><P Class=KRCC>
+¿¹¼úÀû º»´É¿¡ ´ëÇÑ °³ÀÎÀûÀÎ ¿µ»óÀÌ¿ä.
+<SYNC Start=2380976><P Class=KRCC>&nbsp;
+<SYNC Start=2381012><P Class=KRCC>
+±×°Ô ±× ¼û°ÜÁø °ø°£¿¡ ÀÖ¾ú´ø °Ì´Ï´Ù.
+<SYNC Start=2383145><P Class=KRCC>&nbsp;
+<SYNC Start=2383181><P Class=KRCC>
+±×°É À§ÇØ ¸¸µé¾îÁø °÷ÀÌ¿¡¿ä.
+<SYNC Start=2384814><P Class=KRCC>&nbsp;
+<SYNC Start=2387085><P Class=KRCC>
+±×·¡¼­, ±× ¿¹¼ú ÈÄ¿øÀÚ°¡ <br>
+¿µ»ó°ú ¾ß±¸ Ä«µå¸¦ ÈÉÃÆ´Ù±¸¿ä?
+<SYNC Start=2391921><P Class=KRCC>&nbsp;
+<SYNC Start=2391956><P Class=KRCC>
+À½, ¹º°¡ Àß¸ø ÀÌÇØÇÏ¼Ì³×¿ä.
+<SYNC Start=2393956><P Class=KRCC>&nbsp;
+<SYNC Start=2393991><P Class=KRCC>
+Á¦ ¸»Àº, ¾î, ÀÌ°É Ã¢ÀÛÀÇ Â÷ÀÌ¶ó ¸»ÇÏ°í ½Í³×¿ä.
+<SYNC Start=2396492><P Class=KRCC>&nbsp;
+<SYNC Start=2396527><P Class=KRCC>
+¿¹¼ú°¡µéÀº º¯´ö½º·¯¿î »ç¶÷µéÀÌÀİ¾Æ¿ä.
+<SYNC Start=2399261><P Class=KRCC>&nbsp;
+<SYNC Start=2399297><P Class=KRCC>&nbsp;
+<SYNC Start=2400830><P Class=KRCC>&nbsp;
+<SYNC Start=2400865><P Class=KRCC>
+ÀÌºÁ¿ä, ÀÌ ¸ğµç °Ç ¿¬ÀÎ°£ÀÇ <br>
+´ÙÅù¿¡¼­ ¹ú¾îÁø ÀÏÀÌ¿¡¿ä, ³×?
+<SYNC Start=2405734><P Class=KRCC>&nbsp;
+<SYNC Start=2405770><P Class=KRCC>
+¹ıÀûÀ¸·Î Çã°¡µÈ µÎ ¸íÀÇ ¼ºÀÎÀÌ <br>
+»çÀÌ°¡ Æ²¾îÁø°Å¶ó±¸¿ä.
+<SYNC Start=2408437><P Class=KRCC>&nbsp;
+<SYNC Start=2408473><P Class=KRCC>
+±×·¸°Ô µÈ ÀÏÀÌ¿¡¿ä.
+<SYNC Start=2409738><P Class=KRCC>&nbsp;
+<SYNC Start=2409774><P Class=KRCC>
+±×¸®°í, ¾î, "ÈÄ¿øÀÚ"°¡ ±× ¿µ»óÀ» ÈÉÃÆ°í
+<SYNC Start=2413175><P Class=KRCC>&nbsp;
+<SYNC Start=2413211><P Class=KRCC>
+±×¸®°í ¾ß±¸ Ä«µåµÎ¿ä.<br>
+¾Æ¸¶ º»ÀÎÀÇ »ı°¢À» Àü´ŞÇÏ±â À§ÇØ¼­°ÚÁÒ.
+<SYNC Start=2415945><P Class=KRCC>&nbsp;
+<SYNC Start=2415980><P Class=KRCC>
+ÇÏÁö¸¸ ¿©±â¼­ °¡Àå Áß¿äÇÑ °Ç, ¸ğµÎ ÇØ°áµÆ½À´Ï´Ù.
+<SYNC Start=2419248><P Class=KRCC>&nbsp;
+<SYNC Start=2419283><P Class=KRCC>
+¸¶À½Àº ³ª¾Ò°í,
+<SYNC Start=2420583><P Class=KRCC>&nbsp;
+<SYNC Start=2420618><P Class=KRCC>
+Wormald¾¾´Â °í¼ÒÇÏÁö ¾Ê°Ú´ä´Ï´Ù.
+<SYNC Start=2424453><P Class=KRCC>&nbsp;
+<SYNC Start=2424489><P Class=KRCC>
+±× ¿µ»ó¿¡ ¹¹°¡ ÀÖ´Â°Ç°¡¿ä?
+<SYNC Start=2427857><P Class=KRCC>&nbsp;
+<SYNC Start=2427892><P Class=KRCC>
+- ±×°Ç »ç»ıÈ°ÀÔ´Ï´Ù.<br>
+- ±×·¸°Ô ¸»ÇÏ½Ã°ÚÁÒ.
+<SYNC Start=2430493><P Class=KRCC>&nbsp;
+<SYNC Start=2430528><P Class=KRCC>&nbsp;
+<SYNC Start=2431961><P Class=KRCC>&nbsp;
+<SYNC Start=2431996><P Class=KRCC>
+±×µéÀº °¨°¢À» ÀÚ±ØÇÏ´Â ¿µ»óÀ» Âï¾ú¾î¿ä.
+<SYNC Start=2438902><P Class=KRCC>&nbsp;
+<SYNC Start=2439637><P Class=KRCC>
+- ³×, ±×·³ Æ÷¸£³ë±º¿ä.<br>
+- ¾Æ´¢. ¾Æ´¢!
+<SYNC Start=2442138><P Class=KRCC>&nbsp;
+<SYNC Start=2442173><P Class=KRCC>
+º¸Åë ¸»ÇÏ´Â ±×·± °Ç ¾Æ´Õ´Ï´Ù.
+<SYNC Start=2443873><P Class=KRCC>&nbsp;
+<SYNC Start=2443908><P Class=KRCC>
+¾ö¹ĞÈ÷ ¸»ÇÏÀÚ¸é, <br>
+ÆäÆ¼½¬ ºñµğ¿À·Î ºĞ·ùÇÒ ¼ö ÀÖ°Ú³×¿ä.
+<SYNC Start=2447343><P Class=KRCC>&nbsp;
+<SYNC Start=2447378><P Class=KRCC>
+ÇÏÁö¸¸ ÇÏ³ªµµ ºÒ¹ıÀûÀÎ °Ç ¾ø½À´Ï´Ù.
+<SYNC Start=2449178><P Class=KRCC>&nbsp;
+<SYNC Start=2449213><P Class=KRCC>
+ÇÑ ³²ÀÚ¸¸ ³ª¿À±¸¿ä, ¿ÊÀ» ´Ù ÀÔÀº.
+<SYNC Start=2451981><P Class=KRCC>&nbsp;
+<SYNC Start=2452016><P Class=KRCC>
+µ¡ºÙÀÌÀÚ¸é, ¸ğµÎ ±× È¥ÀÚ ÇÏ´Â°Ì´Ï´Ù.
+<SYNC Start=2454183><P Class=KRCC>&nbsp;
+<SYNC Start=2454218><P Class=KRCC>
+±×³É... ±×³É Wormald¾¾°¡ <br>
+¿ÊÀ» ´Ù ÀÔ°í, ¾î... ³×.
+<SYNC Start=2460489><P Class=KRCC>&nbsp;
+<SYNC Start=2460525><P Class=KRCC>
+- ±×·±°ÅÁÒ.<br>
+- ¾Ë°Ú½À´Ï´Ù.
+<SYNC Start=2463359><P Class=KRCC>&nbsp;
+<SYNC Start=2463394><P Class=KRCC>
+±×·¡¼­, ¿ÊÀ» ´Ù ÀÔÀº Wormald¾¾°¡ <br>
+È¥ÀÚ ¹» ÇÏ´Â°Ç°¡¿ä?
+<SYNC Start=2470366><P Class=KRCC>&nbsp;
+<SYNC Start=2471002><P Class=KRCC>
+³×, ÀÌºÁ¿ä. ¹º°¡¿ä?
+<SYNC Start=2472434><P Class=KRCC>&nbsp;
+<SYNC Start=2474205><P Class=KRCC>
+½ºÄõÆ® ÄÚºí·¯¿ä.
+<SYNC Start=2477706><P Class=KRCC>&nbsp;
+<SYNC Start=2477742><P Class=KRCC>
+½ºÄõÆ® ÄÚºí·¯°¡ ¹ºµ¥¿ä?
+<SYNC Start=2481310><P Class=KRCC>&nbsp;
+<SYNC Start=2481345><P Class=KRCC>
+½ºÄõÆ® ÄÚºí·¯.<br>
+±×°Ô ¹ºÁö ¾Æ½ÃÀİ¾Æ¿ä.
+<SYNC Start=2483712><P Class=KRCC>&nbsp;
+<SYNC Start=2483748><P Class=KRCC>
+¾Æ´¢, ¸ô¶ó¿ä...<br>
+½ºÄõÆ® ÄÚºí·¯°¡ ¹ºÁö ¸ğ¸£´Âµ¥¿ä.
+<SYNC Start=2485548><P Class=KRCC>&nbsp;
+<SYNC Start=2485583><P Class=KRCC>
+Àúµµ ¸ô¶ó¿ä. ±×°Ô ¹º°¡¿ä?
+<SYNC Start=2487983><P Class=KRCC>&nbsp;
+<SYNC Start=2488019><P Class=KRCC>
+³×? µÎ ºĞ °æÂû ¸ÂÀ¸¼¼¿ä?
+<SYNC Start=2490052><P Class=KRCC>&nbsp;
+<SYNC Start=2490087><P Class=KRCC>
+È£º¸ÄË ½ºÄõÆ® ÄÚºí·¯¿ä.
+<SYNC Start=2493689><P Class=KRCC>&nbsp;
+<SYNC Start=2493724><P Class=KRCC>
+º¸¸§´Ş ¹®ÆÄÀÌ¿ä.
+<SYNC Start=2496258><P Class=KRCC>&nbsp;
+<SYNC Start=2496294><P Class=KRCC>
+º¸½ºÅæ Å©¸²¿¡ Ã¶Çª´ö!
+<SYNC Start=2500029><P Class=KRCC>&nbsp;
+<SYNC Start=2500064><P Class=KRCC>
+ÁøÂ¥ ¸ô¶ó¿ä?
+<SYNC Start=2501263><P Class=KRCC>&nbsp;
+<SYNC Start=2501299><P Class=KRCC>
+»ö°ñ ¾ó¶ß±â »çÀÌ¸Õ.
+<SYNC Start=2504099><P Class=KRCC>&nbsp;
+<SYNC Start=2504135><P Class=KRCC>
+³×´ú¶õµå»ê »ç°ú ±ÃµÕÀÌ.
+<SYNC Start=2505534><P Class=KRCC>&nbsp;
+<SYNC Start=2505570><P Class=KRCC>
+ÀÌºÁ¿ä, Á¦°¡ ¿µ¾î ¾²°í ÀÖ´Â °Å ¸ÂÁÒ?
+<SYNC Start=2508604><P Class=KRCC>&nbsp;
+<SYNC Start=2508639><P Class=KRCC>
+ºô¾î¸ÔÀ» ½ºÄõÆ® ÄÚºí·¯°¡ ¹ºµ¥?!
+<SYNC Start=2510105><P Class=KRCC>&nbsp;
+<SYNC Start=2510141><P Class=KRCC>
+ÆÄÀÌ À§¿¡ ¾ÉÀº ³²ÀÚ¿¡¿ä!
+<SYNC Start=2512007><P Class=KRCC>&nbsp;
+<SYNC Start=2512043><P Class=KRCC>
+±×°¡ ÆÄÀÌ À§¿¡ ¾É´Â´Ù±¸¿ä!
+<SYNC Start=2514910><P Class=KRCC>&nbsp;
+<SYNC Start=2514946><P Class=KRCC>
+±×¸®°í ±×´Â... ±×´Â <br>
+¾Á·è¾Á·è°Å¸®¸é¼­ µ¹¾Æ´Ù³à¿ä.
+<SYNC Start=2518614><P Class=KRCC>&nbsp;
+<SYNC Start=2518649><P Class=KRCC>
+HellmannÀÇ ¸¶¿ä³×Áî °°Àº °Å¶ó±¸¿ä.<br>
+¡Ø ¹Ì±¹ÀÇ ¸¶¿ä³×Áî ºê·£µå
+<SYNC Start=2522084><P Class=KRCC>&nbsp;
+<SYNC Start=2522119><P Class=KRCC>
+·ÏÅ° »ê¸Æ ¼­ÂÊ¿¡¼± ¶Ç ´Ù¸¥ ÀÌ¸§À¸·Î ºÒ·Á¿ä.
+<SYNC Start=2524286><P Class=KRCC>&nbsp;
+<SYNC Start=2524322><P Class=KRCC>
+¸ğ¸£Áö¸¸¿ä. <br>
+ÇÏÁö¸¸, ¾î, ¾ö¹ĞÈ÷ ¸»ÇÏÀÚ¸é,
+<SYNC Start=2526088><P Class=KRCC>&nbsp;
+<SYNC Start=2526123><P Class=KRCC>
+±×´Â ¿ì´Â ³²ÀÚ ¹öÀüÀ¸·Î ÇØ¿ä, <br>
+±×·¯´Ï±î ´«¹°À» Èê¸®ÁÒ.
+<SYNC Start=2528958><P Class=KRCC>&nbsp;
+<SYNC Start=2528993><P Class=KRCC>
+ÀÌ°Ç Á» ´õ Æ¯º°ÇÑ ¹öÀüÀÌ¿¡¿ä.
+<SYNC Start=2531026><P Class=KRCC>&nbsp;
+<SYNC Start=2531062><P Class=KRCC>
+ÆÄÀÌ¿¡ ¾É´Â ¸ğµç ³²ÀÚ°¡ ¿ïÁø ¾Ê¾Æ¿ä.
+<SYNC Start=2533128><P Class=KRCC>&nbsp;
+<SYNC Start=2533164><P Class=KRCC>
+Á¦°¡ ¹» ÇÏ³ª ¾Ë·Áµå¸®ÁÒ.
+<SYNC Start=2534730><P Class=KRCC>&nbsp;
+<SYNC Start=2534765><P Class=KRCC>
+ÀÌ ³²ÀÚ´Â Æò¹üÇÑ ÁÙ¸®¾È ¹«¾î(Julianne Moore)¿¡¿ä.
+<SYNC Start=2537866><P Class=KRCC>&nbsp;
+<SYNC Start=2537902><P Class=KRCC>
+´«¹° Èê¸®´Â ÀÛ¾÷¿¡ Âø¼öÇÏ±â¸¸ ÇÏ¸é¿ä.
+<SYNC Start=2539101><P Class=KRCC>&nbsp;
+<SYNC Start=2539136><P Class=KRCC>
+ÆÄÀÌ?
+<SYNC Start=2541070><P Class=KRCC>&nbsp;
+<SYNC Start=2541105><P Class=KRCC>
+¹¹¿ä? »ç°ú·Î ¸¸µç °Í °°Àº°Å¿ä?
+<SYNC Start=2542404><P Class=KRCC>&nbsp;
+<SYNC Start=2542440><P Class=KRCC>
+ÀÌºÁ¿ä, Àú´Â ¿µÈ­ Á¦ÀÛÀÚ°¡ ¾Æ´Ï¶ó±¸¿ä.
+<SYNC Start=2544106><P Class=KRCC>&nbsp;
+<SYNC Start=2544141><P Class=KRCC>
+¹Ù³ª³ª Å©¸². ¾î, ... º¹¼ş¾Æ.
+<SYNC Start=2548544><P Class=KRCC>&nbsp;
+<SYNC Start=2548579><P Class=KRCC>
+¿À, ±×¸®°í... °ü·ÃµÈ ÄÚ½ºÆ¬À» ÀÔ°í ÇØ¿ä.
+<SYNC Start=2552081><P Class=KRCC>&nbsp;
+<SYNC Start=2552116><P Class=KRCC>&nbsp;
+<SYNC Start=2554783><P Class=KRCC>&nbsp;
+<SYNC Start=2554819><P Class=KRCC>
+´ç½Å ¿ì¸± ¿³ ¸ÔÀÌ·Á´Â °ÅÁö?
+<SYNC Start=2556986><P Class=KRCC>&nbsp;
+<SYNC Start=2557021><P Class=KRCC>
+Á¦°¡ ²Ù¸ç³½ °ÍÃ³·³ º¸ÀÌ°ÚÁÒ.
+<SYNC Start=2560422><P Class=KRCC>&nbsp;
+<SYNC Start=2560458><P Class=KRCC>
+ÀÌºÁ¿ä, ¼¼»ó¿£ ´Ù¾çÇÑ »ç¶÷ÀÌ ¸¹¾Æ¿ä, Ä£±¸µé.
+<SYNC Start=2564827><P Class=KRCC>&nbsp;
+<SYNC Start=2566197><P Class=KRCC>
+±Ùµ¥ ÀÌ¹ø¿£ Àı ¹Ï¾îÁÖ¼¼¿ä.
+<SYNC Start=2567563><P Class=KRCC>&nbsp;
+<SYNC Start=2567598><P Class=KRCC>
+´ç½Åµé Á¤¸» º¸°í ½ÍÁö ¾ÊÀ»°Å¿¡¿ä.
+<SYNC Start=2569665><P Class=KRCC>&nbsp;
+<SYNC Start=2569700><P Class=KRCC>&nbsp;
+<SYNC Start=2571133><P Class=KRCC>&nbsp;
+<SYNC Start=2577308><P Class=KRCC>
+±×·¡¼­, ¾î, ¿ì¸® ±¦ÂúÀº°ÅÁÒ?
+<SYNC Start=2580409><P Class=KRCC>&nbsp;
+<SYNC Start=2580444><P Class=KRCC>
+³×. ±¦Âú¾Æ¿ä.
+<SYNC Start=2583946><P Class=KRCC>&nbsp;
+<SYNC Start=2583981><P Class=KRCC>
+±Ùµ¥, ¾ÆÁÖ ÀÛÀº ÇÒ ÀÏÀÌ ÀÖ¾î¿ä.
+<SYNC Start=2586615><P Class=KRCC>&nbsp;
+<SYNC Start=2586651><P Class=KRCC>
+À½, ¹ºµ¥¿ä? ¾î¶² ÇÒ ÀÏÀÌ¿ä?
+<SYNC Start=2588651><P Class=KRCC>&nbsp;
+<SYNC Start=2588686><P Class=KRCC>
+´ç½Å ºñµğ¿À¸¦ ÇÏ³ª Âï¾î¾ß ÇÒ°Å¿¡¿ä.
+<SYNC Start=2590719><P Class=KRCC>&nbsp;
+<SYNC Start=2593124><P Class=KRCC>&nbsp;
+<SYNC Start=2595324><P Class=KRCC>&nbsp;
+<SYNC Start=2595359><P Class=KRCC>&nbsp;
+<SYNC Start=2597860><P Class=KRCC>&nbsp;
+<SYNC Start=2603968><P Class=KRCC>&nbsp;
+<SYNC Start=2606468><P Class=KRCC>&nbsp;
+<SYNC Start=2614011><P Class=KRCC>
+Kim: Àá±ñ. Àá±ñ.
+<SYNC Start=2616345><P Class=KRCC>&nbsp;
+<SYNC Start=2616380><P Class=KRCC>
+±×·¡¼­ ±×´Â ÆÄÀÌ¸¦ ¸ÔÀº°Å¾ß, <br>
+¾Æ´Ï¸é ±×³É °Å±â ¾ÉÀº°Å¾ß?
+<SYNC Start=2619515><P Class=KRCC>&nbsp;
+<SYNC Start=2619550><P Class=KRCC>
+µÑ ´Ù. ³Ê°¡ ¿øÇÏ´Â °Å ¹¹µç.
+<SYNC Start=2621717><P Class=KRCC>&nbsp;
+<SYNC Start=2621752><P Class=KRCC>
+¹» ¸ÕÀú ÇÏ´Âµ¥?
+<SYNC Start=2623552><P Class=KRCC>&nbsp;
+<SYNC Start=2623587><P Class=KRCC>
+¾î, ±×°Ç Âï´Â »ç¶÷ ¸¶À½ÀÌÁö.
+<SYNC Start=2625387><P Class=KRCC>&nbsp;
+<SYNC Start=2625423><P Class=KRCC>
+°Å±â¼­ ´«¹°ÀÌ ³ª¿À´Â°ÅÁö, ±×Ä¡?
+<SYNC Start=2627489><P Class=KRCC>&nbsp;
+<SYNC Start=2627525><P Class=KRCC>
+ÀÌ°Ç Æ²¸²¾øÀÌ ÀÌ±â´Â °ÔÀÓÀÌ¾ú¾î.
+<SYNC Start=2629325><P Class=KRCC>&nbsp;
+<SYNC Start=2629360><P Class=KRCC>&nbsp;
+<SYNC Start=2630726><P Class=KRCC>&nbsp;
+<SYNC Start=2630761><P Class=KRCC>
+³Í ´ëÃ¼ ±×·± °É ¾î¶»°Ô »ı°¢ÇØ³½°Å¾ß?
+<SYNC Start=2632895><P Class=KRCC>&nbsp;
+<SYNC Start=2632930><P Class=KRCC>
+³Ê°¡ ³ªÇÑÅ× ¹é¸¸³âÀÇ ½Ã°£À» ÁØ´Ù ÇØµµ
+<SYNC Start=2634863><P Class=KRCC>&nbsp;
+<SYNC Start=2634899><P Class=KRCC>
+³­ ±×·¡µµ ±×·± °Å ¸ø Áö¾î³¾°Å¾ß.
+<SYNC Start=2636565><P Class=KRCC>&nbsp;
+<SYNC Start=2636600><P Class=KRCC>
+¹ÂÁî°¡ ÀÖ¾î.
+<SYNC Start=2637633><P Class=KRCC>&nbsp;
+<SYNC Start=2637668><P Class=KRCC>
+±×³à°¡ ³¯ ÅëÇØ ¸»À» ÇÏ´Â°Å¾ß.
+<SYNC Start=2639168><P Class=KRCC>&nbsp;
+<SYNC Start=2639203><P Class=KRCC>
+³­ °â¼ÕÇÑ ¸Å°³Ã¼ÀÏ »ÓÀÌ¶ó±¸.
+<SYNC Start=2641303><P Class=KRCC>&nbsp;
+<SYNC Start=2641339><P Class=KRCC>
+±×¸®°í ±×µéÀÌ ¹Ï¾ú°í?
+<SYNC Start=2642571><P Class=KRCC>&nbsp;
+<SYNC Start=2642606><P Class=KRCC>
+- ÀÀ.<br>
+- ¿Í¿ì.
+<SYNC Start=2644340><P Class=KRCC>&nbsp;
+<SYNC Start=2644375><P Class=KRCC>
+³»°¡ ÀÇ½ÉÀ» Ç®°Ô ÇÏ´Âµ¥ ¾²ÀÎ<br>
+»·ÇÑ ½Ã³ª¸®¿À ¸î °³¸¦ µé¾îºÃÁö¸¸
+<SYNC Start=2645974><P Class=KRCC>&nbsp;
+<SYNC Start=2646010><P Class=KRCC>
+ÀÌ°Ç ÁøÂ¥ »óÀ¸·Î ÄÉÀÍÀ» ÁÙ¸¸ÇØ.
+<SYNC Start=2647743><P Class=KRCC>&nbsp;
+<SYNC Start=2647778><P Class=KRCC>
+Kim, Kim, Kim.
+<SYNC Start=2649912><P Class=KRCC>&nbsp;
+<SYNC Start=2649947><P Class=KRCC>
+- »óÀ¸·Î ÆÄÀÌ¸¦ ÁÙ¸¸ÇØ.<br>
+- ±×·¡.
+<SYNC Start=2651080><P Class=KRCC>&nbsp;
+<SYNC Start=2651115><P Class=KRCC>
+¹Ì¾È.
+<SYNC Start=2652548><P Class=KRCC>&nbsp;
+<SYNC Start=2652583><P Class=KRCC>
+³ª Áö±İ ´çÀå ÁöºØÀ¸·Î <br>
+¶Ù¾î ¿Ã¶ó°¡¾ß ÇÒ °Í °°¾Æ.
+<SYNC Start=2654249><P Class=KRCC>&nbsp;
+<SYNC Start=2654285><P Class=KRCC>
+±×·¡, ³Êµµ ³Ê ½º½º·ÎÀÇ ¾ÇÇÔÀ» ´À²¸º¸¶ó±¸.
+<SYNC Start=2656819><P Class=KRCC>&nbsp;
+<SYNC Start=2656854><P Class=KRCC>
+¼¼»ó¿¡, ÇÏ³ª ´õ ¾ê±âÇØºÁ.
+<SYNC Start=2659088><P Class=KRCC>&nbsp;
+<SYNC Start=2659123><P Class=KRCC>
+À½, °øÁ¤ÇÏ°Ô ¸»ÇØ¼­, <br>
+½ÇÁ¦·Î ÂïÀº ºñµğ¿À°¡ ´ë´ÜÇßÁö.
+<SYNC Start=2663926><P Class=KRCC>&nbsp;
+<SYNC Start=2663961><P Class=KRCC>
+¹«½¼ ºñµğ¿À?
+<SYNC Start=2666195><P Class=KRCC>&nbsp;
+<SYNC Start=2666230><P Class=KRCC>
+Àá±ñ, Àá±ñ. ³Ê...<br>
+³Ê Á¤¸» ºñµğ¿À¸¦ ÂïÀº°Å¾ß?
+<SYNC Start=2669231><P Class=KRCC>&nbsp;
+<SYNC Start=2669266><P Class=KRCC>
+ÀÌ°Í ¸ÕÀú ¸»ÇÏÀÚ¸é,<br>
+¸¶Áö¸·¿¡ °¡¼±, DanÀÌ Á¤¸» ¿­½ÉÈ÷ ÀÓÇß¾î.
+<SYNC Start=2672101><P Class=KRCC>&nbsp;
+<SYNC Start=2672136><P Class=KRCC>
+±× ´«¹°À» ¹Ï¾ú´Ù´Ï±î.
+<SYNC Start=2674570><P Class=KRCC>&nbsp;
+<SYNC Start=2674605><P Class=KRCC>
+¾î, ÀÌ°Ç ³²Àº °ÍµéÀÌ¾ß. <br>
+¿©ºĞÀ¸·Î ³²°ÜµĞ °Íµé.
+<SYNC Start=2679408><P Class=KRCC>&nbsp;
+<SYNC Start=2679443><P Class=KRCC>
+¿ì¸®°¡ ¾ó¸¶³ª ¸¹ÀÌ Âï¾î¾ß <br>
+ÇÒÁö È®½ÇÇÏÁö ¾Ê¾Æ¼­, ¸¹ÀÌ »ò°Åµç.
+<SYNC Start=2682945><P Class=KRCC>&nbsp;
+<SYNC Start=2682980><P Class=KRCC>
+±Ùµ¥ ³»°¡ ¾à¼ÓÇÏ´Âµ¥,<br>
+ÀÌ°Ç »ç¶÷ ±ÃµÕÀÌ¿¡ ´êÁöµµ ¾Ê¾Ò¾î.
+<SYNC Start=2686949><P Class=KRCC>&nbsp;
+<SYNC Start=2686984><P Class=KRCC>
+³Ê Áõ°Å¸¦ Á¶ÀÛÇÑ°Å¾ß?
+<SYNC Start=2689685><P Class=KRCC>&nbsp;
+<SYNC Start=2689720><P Class=KRCC>
+³­ ºñµğ¿À¸¦ ÂïÀº°Å¾ß.
+<SYNC Start=2691453><P Class=KRCC>&nbsp;
+<SYNC Start=2691489><P Class=KRCC>
+Áõ°Åµµ ¾Æ´Ï¶ó°í.
+<SYNC Start=2693122><P Class=KRCC>&nbsp;
+<SYNC Start=2693157><P Class=KRCC>
+±×°É ÀÌ¿ëÇØ¼­ °í°´ÀÌ ¹«ÁËÀÓÀ» ÀÔÁõÇßÀİ¾Æ.
+<SYNC Start=2694757><P Class=KRCC>&nbsp;
+<SYNC Start=2694792><P Class=KRCC>
+°í°´ÀÌ ¹«ÁËÀÓÀ» ÀÔÁõÇÏ±â À§ÇØ<br>
+À§Á¶µÈ Áõ°Å¸¦ ÀÌ¿ëÇß¾î.
+<SYNC Start=2698861><P Class=KRCC>&nbsp;
+<SYNC Start=2698896><P Class=KRCC>
+À½, ³» »ı°¢¿¡ ³Í ³Ê¹« <br>
+Áö³ªÄ¡°Ô »ı°¢ÇÑ °Í °°¾Æ.
+<SYNC Start=2700429><P Class=KRCC>&nbsp;
+<SYNC Start=2700464><P Class=KRCC>
+Áö³ªÄ¡°Ô »ı°¢ÇÑ °Ô ¾Æ´Ï¾ß.
+<SYNC Start=2702064><P Class=KRCC>&nbsp;
+<SYNC Start=2702099><P Class=KRCC>
+³Ê°¡ À§ÁõÇÑ °É Davis & Main¿¡¼­ <br>
+¾Ë¾Æ³»¸é ¾î¶»°Ô ÇØ?
+<SYNC Start=2706268><P Class=KRCC>&nbsp;
+<SYNC Start=2706303><P Class=KRCC>
+±× »ç¶÷Àº Davis & Main °í°´ÀÌ <br>
+¾Æ´Ï¾ú´Â°É.
+<SYNC Start=2708036><P Class=KRCC>&nbsp;
+<SYNC Start=2708072><P Class=KRCC>
+ÀÌ°Ç ±×³É, ÀÛÀº ¹«·á ¹ı·ü »ó´ãÀÌ¾ú¾î.
+<SYNC Start=2710773><P Class=KRCC>&nbsp;
+<SYNC Start=2710808><P Class=KRCC>
+ÀÌ°Ç ±Ù¹« ½Ã°£ ¿ÜÀÇ ¾÷¹«¿´¾î.<br>
+ÀÌ°Ç, ¾î, ¿ÏÀü ³» È¥ÀÚ¸¸ÀÇ ÀÏÀÌ¾ú´Ù±¸.
+<SYNC Start=2712908><P Class=KRCC>&nbsp;
+<SYNC Start=2712943><P Class=KRCC>
+¿Ö?
+<SYNC Start=2713976><P Class=KRCC>&nbsp;
+<SYNC Start=2716847><P Class=KRCC>
+³Í ¿©ÅÂ²¯ °¡Á³´ø ÀÏ Áß <br>
+ÃÖ°íÀÇ Á÷¾÷À» °®°í ÀÖ´Âµ¥
+<SYNC Start=2718947><P Class=KRCC>&nbsp;
+<SYNC Start=2718983><P Class=KRCC>
+¿Ö ±»ÀÌ ¹«·á ¹ı·ü »ó´ãÀ» À§ÇØ <br>
+±×·± À§ÇèÀ» °¨¼öÇÏ´Â°Å¾ß?
+<SYNC Start=2720916><P Class=KRCC>&nbsp;
+<SYNC Start=2720951><P Class=KRCC>
+³­ ±×³É ³» Ä£±¸ÇÑÅ× È£ÀÇ¸¦ º£Ç¬°Å¾ß.
+<SYNC Start=2722785><P Class=KRCC>&nbsp;
+<SYNC Start=2722820><P Class=KRCC>
+º¯È£»ç ÀÚ°İÀ» ¹ÚÅ»´çÇÒ À§ÇèÀ» °¨¼öÇÏ¸é¼­?<br>
+±×°Ç... ±×°Ç ´ë´ÜÇÑ Ä£±¸³×.
+<SYNC Start=2725721><P Class=KRCC>&nbsp;
+<SYNC Start=2725756><P Class=KRCC>
+±¦Âú¾Æ! ÀÌ°Ç... ¸ÔÇûÀİ¾Æ.
+<SYNC Start=2728223><P Class=KRCC>&nbsp;
+<SYNC Start=2728259><P Class=KRCC>
+Davis & MainÀº ¿©ÀüÈ÷ ¸ğ¸£°í ÀÖ¾î.
+<SYNC Start=2730092><P Class=KRCC>&nbsp;
+<SYNC Start=2730127><P Class=KRCC>
+Jimmy, ³Í À§ÇèÇÑ ÁşÀ» Çß¾î.
+<SYNC Start=2731960><P Class=KRCC>&nbsp;
+<SYNC Start=2731996><P Class=KRCC>
+³Í ±× ¶§ ºÒÆòÇÏÁö ¾Ê¾ÒÀİ¾Æ
+<SYNC Start=2734596><P Class=KRCC>&nbsp;
+<SYNC Start=2734632><P Class=KRCC>
+±× ¶§, ¾î, Áö³­ ¹ø¿¡ <br>
+Çã¼¼³² KenÀÌ ¼ú °ªÀ» ³¾ ¶§.
+<SYNC Start=2737900><P Class=KRCC>&nbsp;
+<SYNC Start=2737935><P Class=KRCC>
+±×°Íµµ ¹ıÀûÀ¸·Î Á¶±İ ¹®Á¦ µÇ´Â ÇàÀ§¿´¾î.
+<SYNC Start=2740636><P Class=KRCC>&nbsp;
+<SYNC Start=2740671><P Class=KRCC>
+±×¸®°í ³»°¡ ±â¾ïÇÏ±â·Ğ, ³Í ±×°É Áñ°å´Ù±¸.
+<SYNC Start=2743272><P Class=KRCC>&nbsp;
+<SYNC Start=2743307><P Class=KRCC>
+¸¹ÀÌ.
+<SYNC Start=2744573><P Class=KRCC>&nbsp;
+<SYNC Start=2744608><P Class=KRCC>
+±×°Ç ÀÌ°Å¶û ¿ÏÀü ´Ù¸¥ ÀÏÀÌ¾ß.
+<SYNC Start=2746909><P Class=KRCC>&nbsp;
+<SYNC Start=2746944><P Class=KRCC>
+¾î¶»°Ô? ¹¹°¡ ´Ù¸¥µ¥?
+<SYNC Start=2748343><P Class=KRCC>&nbsp;
+<SYNC Start=2748379><P Class=KRCC>
+±×°Ç ¿ì¸® Á÷¾÷°ú °ü·ÃÀÌ ¾øÀİ¾Æ.
+<SYNC Start=2749912><P Class=KRCC>&nbsp;
+<SYNC Start=2749947><P Class=KRCC>
+¿ì¸° ±×³É... ¹æÅÁÇÏ°Ô ³í°Å¶ó±¸.
+<SYNC Start=2752915><P Class=KRCC>&nbsp;
+<SYNC Start=2752950><P Class=KRCC>
+ÀÌ°Å?
+<SYNC Start=2753949><P Class=KRCC>&nbsp;
+<SYNC Start=2753984><P Class=KRCC>
+ÀÌ°Ç À§ÁõÀÌ¾ß.
+<SYNC Start=2756819><P Class=KRCC>&nbsp;
+<SYNC Start=2756854><P Class=KRCC>
+Jimmy, ÀÌ°Å ÁøÂ¥ ³Î <br>
+À§Çè¿¡ ºü¶ß¸± ¼ö ÀÖ¾î.
+<SYNC Start=2758754><P Class=KRCC>&nbsp;
+<SYNC Start=2758789><P Class=KRCC>
+¸¸¾à ±×µéÀÌ Ã£¾Æ³»¸é, <br>
+¸¸¾à ±×µéÀÌ Àâ´Â´Ù¸é...
+<SYNC Start=2760656><P Class=KRCC>&nbsp;
+<SYNC Start=2760691><P Class=KRCC>
+±×µéÀº ¾Æ¹«°Íµµ Ã£À» ¼ö ¾øÀ»°Å¾ß.
+<SYNC Start=2762758><P Class=KRCC>&nbsp;
+<SYNC Start=2762793><P Class=KRCC>
+ÁøÂ¥·Î? Àú ¹Û¿¡ ½É°¢ÇÑ ¹üÁË°¡ ÀÖ´Â°Å¾ß.
+<SYNC Start=2765093><P Class=KRCC>&nbsp;
+<SYNC Start=2765129><P Class=KRCC>
+¸¸¾à ÀÌ°É °è¼ÓÇÏ¸é, ±×µéÀº Ã£¾Æ³¾°Å¾ß.
+<SYNC Start=2767696><P Class=KRCC>&nbsp;
+<SYNC Start=2769667><P Class=KRCC>
+¹» À§ÇØ¼­, Jimmy?
+<SYNC Start=2773602><P Class=KRCC>&nbsp;
+<SYNC Start=2773637><P Class=KRCC>
+Áß¿äÇÑ °Ô ¹¹¾ß?
+<SYNC Start=2775838><P Class=KRCC>&nbsp;
+<SYNC Start=2780644><P Class=KRCC>&nbsp;
+<SYNC Start=2783479><P Class=KRCC>&nbsp;
+<SYNC Start=2792056><P Class=KRCC>
+³­ ÀÌ·± °Å µè°í ÀÖÀ» ¼ö ¾ø¾î.
+<SYNC Start=2795824><P Class=KRCC>&nbsp;
+<SYNC Start=2795860><P Class=KRCC>
+´Ù½Ã´Â. ¾Ë¾Ò¾î?
+<SYNC Start=2798594><P Class=KRCC>&nbsp;
+<SYNC Start=2802433><P Class=KRCC>
+³ª ÁøÁöÇØ, Jimmy.
+<SYNC Start=2805100><P Class=KRCC>&nbsp;
+<SYNC Start=2807271><P Class=KRCC>
+µèÁö ¾Ê°Ô µÉ°Å¾ß.
+<SYNC Start=2809204><P Class=KRCC>&nbsp;
+
+<SYNC Start=164><P Class=ENCC>
+<i>Previously on "Better Call Saul..."</i>
+<SYNC Start=2510><P Class=ENCC>&nbsp;
+<SYNC Start=2699><P Class=ENCC>
+We'd be working on your case.
+<SYNC Start=4266><P Class=ENCC>&nbsp;
+<SYNC Start=4348><P Class=ENCC>
+Chuck wouldn't like it.
+<SYNC Start=5380><P Class=ENCC>&nbsp;
+<SYNC Start=5482><P Class=ENCC>
+Chuck has no say in this.
+<SYNC Start=6548><P Class=ENCC>&nbsp;
+<SYNC Start=6650><P Class=ENCC>
+This deal he's doing with you,
+<SYNC Start=7816><P Class=ENCC>&nbsp;
+<SYNC Start=7918><P Class=ENCC>
+he's doing outside his crew.
+<SYNC Start=9184><P Class=ENCC>&nbsp;
+<SYNC Start=9286><P Class=ENCC>
+He doesn't want his bosses to know.
+<SYNC Start=10919><P Class=ENCC>&nbsp;
+<SYNC Start=11021><P Class=ENCC>
+I had a baseball card collection...
+<SYNC Start=12754><P Class=ENCC>&nbsp;
+<SYNC Start=12856><P Class=ENCC>
+All gone!
+<SYNC Start=13922><P Class=ENCC>&nbsp;
+<SYNC Start=14024><P Class=ENCC>
+You're sure they weren't<br>looking for anything else?
+<SYNC Start=15424><P Class=ENCC>&nbsp;
+<SYNC Start=15526><P Class=ENCC>
+Wouldn't it be great if we<br>could do that every night?
+<SYNC Start=17192><P Class=ENCC>&nbsp;
+<SYNC Start=17294><P Class=ENCC>
+Yes, but we can't.
+<SYNC Start=19194><P Class=ENCC>&nbsp;
+<SYNC Start=19296><P Class=ENCC>
+We could have gone home<br>with $800,000, tax free!
+<SYNC Start=23298><P Class=ENCC>&nbsp;
+<SYNC Start=23400><P Class=ENCC>
+Your point being?
+<SYNC Start=24466><P Class=ENCC>&nbsp;
+<SYNC Start=25235><P Class=ENCC>
+Why didn't we?
+<SYNC Start=26435><P Class=ENCC>&nbsp;
+<SYNC Start=26537><P Class=ENCC>
+James McGill.
+<SYNC Start=27135><P Class=ENCC>&nbsp;
+<SYNC Start=27237><P Class=ENCC>
+Clifford Mane.
+<SYNC Start=28103><P Class=ENCC>&nbsp;
+<SYNC Start=28205><P Class=ENCC>
+Just Jimmy.
+<SYNC Start=29071><P Class=ENCC>&nbsp;
+<SYNC Start=157969><P Class=ENCC>
+- Howard.<br>- Morning!
+<SYNC Start=159768><P Class=ENCC>&nbsp;
+<SYNC Start=159804><P Class=ENCC>
+Delivery for McGill.
+<SYNC Start=161270><P Class=ENCC>&nbsp;
+<SYNC Start=161305><P Class=ENCC>
+What're you doing here?
+<SYNC Start=162638><P Class=ENCC>&nbsp;
+<SYNC Start=162673><P Class=ENCC>
+Ah, it's been a while.
+<SYNC Start=163839><P Class=ENCC>&nbsp;
+<SYNC Start=163877><P Class=ENCC>
+Thought I should come in and check on you.
+<SYNC Start=164954><P Class=ENCC>&nbsp;
+<SYNC Start=165276><P Class=ENCC>
+Did I hear music?
+<SYNC Start=166642><P Class=ENCC>&nbsp;
+<SYNC Start=166677><P Class=ENCC>
+- Hmm?<br>- No, no.
+<SYNC Start=167877><P Class=ENCC>&nbsp;
+<SYNC Start=167912><P Class=ENCC>
+I was just... ?­let me get that for you.
+<SYNC Start=172081><P Class=ENCC>&nbsp;
+<SYNC Start=176954><P Class=ENCC>
+- Good to see you, Howard.<br>- Oh, likewise.
+<SYNC Start=179655><P Class=ENCC>&nbsp;
+<SYNC Start=179690><P Class=ENCC>
+You are sorely missed, my friend.
+<SYNC Start=182124><P Class=ENCC>&nbsp;
+<SYNC Start=182159><P Class=ENCC>
+Don't take that as any undo pressure.
+<SYNC Start=184460><P Class=ENCC>&nbsp;
+<SYNC Start=184495><P Class=ENCC>
+Um, I'm thinking of maybe coming in
+<SYNC Start=188097><P Class=ENCC>&nbsp;
+<SYNC Start=188132><P Class=ENCC>
+for an hour or two next week.
+<SYNC Start=190165><P Class=ENCC>&nbsp;
+<SYNC Start=190201><P Class=ENCC>
+Maybe kind of play it by ear.
+<SYNC Start=192167><P Class=ENCC>&nbsp;
+<SYNC Start=192203><P Class=ENCC>
+Well, ?­I-if you feel comfortable.
+<SYNC Start=194737><P Class=ENCC>&nbsp;
+<SYNC Start=194793><P Class=ENCC>
+I mean, we certainly would love to have you.
+<SYNC Start=196527><P Class=ENCC>&nbsp;
+<SYNC Start=196562><P Class=ENCC>
+We will take anything we can get.
+<SYNC Start=200297><P Class=ENCC>&nbsp;
+<SYNC Start=200332><P Class=ENCC>
+I'll figure out a day and get<br>Ernesto to give you a heads up.
+<SYNC Start=204234><P Class=ENCC>&nbsp;
+<SYNC Start=204270><P Class=ENCC>
+That sounds great.
+<SYNC Start=205702><P Class=ENCC>&nbsp;
+<SYNC Start=208941><P Class=ENCC>
+How's Ernie working out?
+<SYNC Start=210407><P Class=ENCC>&nbsp;
+<SYNC Start=210442><P Class=ENCC>
+Uh, he's been fine, for the most part.
+<SYNC Start=213143><P Class=ENCC>&nbsp;
+<SYNC Start=213178><P Class=ENCC>
+Excellent.
+<SYNC Start=214478><P Class=ENCC>&nbsp;
+<SYNC Start=214513><P Class=ENCC>
+Everything on track with, uh, Sandpiper?
+<SYNC Start=217247><P Class=ENCC>&nbsp;
+<SYNC Start=217283><P Class=ENCC>
+Moving along.
+<SYNC Start=221084><P Class=ENCC>&nbsp;
+<SYNC Start=221120><P Class=ENCC>
+Davis & Main are, uh...<br>Really pulling their weight.
+<SYNC Start=225122><P Class=ENCC>&nbsp;
+<SYNC Start=225157><P Class=ENCC>
+Well, they better.
+<SYNC Start=226757><P Class=ENCC>&nbsp;
+<SYNC Start=226792><P Class=ENCC>
+It's a complex case.
+<SYNC Start=229459><P Class=ENCC>&nbsp;
+<SYNC Start=229495><P Class=ENCC>
+Well, it's definitely not<br>a two-man job, that's for sure.
+<SYNC Start=233630><P Class=ENCC>&nbsp;
+<SYNC Start=233666><P Class=ENCC>
+Anyone, uh, heard from Jimmy?
+<SYNC Start=235933><P Class=ENCC>&nbsp;
+<SYNC Start=235968><P Class=ENCC>
+I have, yes. I've talked to him.
+<SYNC Start=239236><P Class=ENCC>&nbsp;
+<SYNC Start=239271><P Class=ENCC>
+How is he?
+<SYNC Start=240804><P Class=ENCC>&nbsp;
+<SYNC Start=240839><P Class=ENCC>
+He's fine.
+<SYNC Start=242639><P Class=ENCC>&nbsp;
+<SYNC Start=242675><P Class=ENCC>
+Doing well.
+<SYNC Start=246143><P Class=ENCC>&nbsp;
+<SYNC Start=247446><P Class=ENCC>
+Speaking of which... I have some news.
+<SYNC Start=252182><P Class=ENCC>&nbsp;
+<SYNC Start=252217><P Class=ENCC>
+He's working at Davis & Main.
+<SYNC Start=254851><P Class=ENCC>&nbsp;
+<SYNC Start=256889><P Class=ENCC>
+Doing what?
+<SYNC Start=258555><P Class=ENCC>&nbsp;
+<SYNC Start=260993><P Class=ENCC>
+Oh, working as an attorney.
+<SYNC Start=263660><P Class=ENCC>&nbsp;
+<SYNC Start=265130><P Class=ENCC>
+Hm.
+<SYNC Start=267197><P Class=ENCC>&nbsp;
+<SYNC Start=269201><P Class=ENCC>
+Clifford Main hired Jimmy?
+<SYNC Start=271101><P Class=ENCC>&nbsp;
+<SYNC Start=271136><P Class=ENCC>
+Mm-hmm.
+<SYNC Start=273770><P Class=ENCC>&nbsp;
+<SYNC Start=273806><P Class=ENCC>
+To be fair, he had his doubts,<br>but he's giving Jimmy a chance.
+<SYNC Start=278175><P Class=ENCC>&nbsp;
+<SYNC Start=278210><P Class=ENCC>
+He had his own people doing client outreach,
+<SYNC Start=280644><P Class=ENCC>&nbsp;
+<SYNC Start=280679><P Class=ENCC>
+but every time they would talk<br>to a Sandpiper resident,
+<SYNC Start=283180><P Class=ENCC>&nbsp;
+<SYNC Start=283215><P Class=ENCC>
+Jimmy's name would come up.
+<SYNC Start=285115><P Class=ENCC>&nbsp;
+<SYNC Start=285150><P Class=ENCC>
+You know, he...
+<SYNC Start=287884><P Class=ENCC>&nbsp;
+<SYNC Start=287920><P Class=ENCC>
+- Those old folks, they just...<br>- They love him.
+<SYNC Start=289987><P Class=ENCC>&nbsp;
+<SYNC Start=290022><P Class=ENCC>
+Yeah, they do. ?­mm-hmm.
+<SYNC Start=292222><P Class=ENCC>&nbsp;
+<SYNC Start=292257><P Class=ENCC>
+Plus, I guess cliff thought<br>it would be a good idea
+<SYNC Start=296460><P Class=ENCC>&nbsp;
+<SYNC Start=296495><P Class=ENCC>
+for the case to have that sort of, uh...
+<SYNC Start=299696><P Class=ENCC>&nbsp;
+<SYNC Start=299732><P Class=ENCC>
+You know... continuity.
+<SYNC Start=302366><P Class=ENCC>&nbsp;
+<SYNC Start=302401><P Class=ENCC>
+Mm.
+<SYNC Start=303433><P Class=ENCC>&nbsp;
+<SYNC Start=304770><P Class=ENCC>
+Jimmy certainly has a way with people.
+<SYNC Start=306737><P Class=ENCC>&nbsp;
+<SYNC Start=306772><P Class=ENCC>
+He does.
+<SYNC Start=308505><P Class=ENCC>&nbsp;
+<SYNC Start=310242><P Class=ENCC>
+They're aware of his background<br>at Davis & Main?
+<SYNC Start=313910><P Class=ENCC>&nbsp;
+<SYNC Start=313946><P Class=ENCC>
+His education?
+<SYNC Start=315812><P Class=ENCC>&nbsp;
+<SYNC Start=315848><P Class=ENCC>
+In the spirit of full disclosure,
+<SYNC Start=317180><P Class=ENCC>&nbsp;
+<SYNC Start=317216><P Class=ENCC>
+Cliff did talk to me beforehand.
+<SYNC Start=320150><P Class=ENCC>&nbsp;
+<SYNC Start=320185><P Class=ENCC>
+I didn't pull any punches.
+<SYNC Start=321518><P Class=ENCC>&nbsp;
+<SYNC Start=321553><P Class=ENCC>
+I tried to paint a complete picture.
+<SYNC Start=326423><P Class=ENCC>&nbsp;
+<SYNC Start=326458><P Class=ENCC>
+But I didn't stand in the way.
+<SYNC Start=327824><P Class=ENCC>&nbsp;
+<SYNC Start=327860><P Class=ENCC>
+Of course not.
+<SYNC Start=330027><P Class=ENCC>&nbsp;
+<SYNC Start=330062><P Class=ENCC>
+Nor should you.
+<SYNC Start=332029><P Class=ENCC>&nbsp;
+<SYNC Start=332064><P Class=ENCC>
+Truth be told...
+<SYNC Start=334665><P Class=ENCC>&nbsp;
+<SYNC Start=334700><P Class=ENCC>
+Kim Wexler pushed for this... hard.
+<SYNC Start=338535><P Class=ENCC>&nbsp;
+<SYNC Start=340272><P Class=ENCC>
+But I didn't, uh,<br>you know, stand in the way.
+<SYNC Start=344608><P Class=ENCC>&nbsp;
+<SYNC Start=344643><P Class=ENCC>
+Partner track?
+<SYNC Start=346376><P Class=ENCC>&nbsp;
+<SYNC Start=346412><P Class=ENCC>
+I would, uh...
+<SYNC Start=350681><P Class=ENCC>&nbsp;
+<SYNC Start=350716><P Class=ENCC>
+Yeah.
+<SYNC Start=352449><P Class=ENCC>&nbsp;
+<SYNC Start=352484><P Class=ENCC>
+Assume so.
+<SYNC Start=354384><P Class=ENCC>&nbsp;
+<SYNC Start=355721><P Class=ENCC>
+That's great.
+<SYNC Start=359856><P Class=ENCC>&nbsp;
+<SYNC Start=359892><P Class=ENCC>
+Good for Jimmy.
+<SYNC Start=361692><P Class=ENCC>&nbsp;
+<SYNC Start=361727><P Class=ENCC>
+Charlie Hustle, right?
+<SYNC Start=363460><P Class=ENCC>&nbsp;
+<SYNC Start=363495><P Class=ENCC>
+Yep.
+<SYNC Start=364528><P Class=ENCC>&nbsp;
+<SYNC Start=364563><P Class=ENCC>
+?­Yep.
+<SYNC Start=367898><P Class=ENCC>&nbsp;
+<SYNC Start=367933><P Class=ENCC>
+Well, I'll get out of your hair.
+<SYNC Start=370434><P Class=ENCC>&nbsp;
+<SYNC Start=370469><P Class=ENCC>
+Anything else you need me<br>to add to Ernie's list?
+<SYNC Start=372235><P Class=ENCC>&nbsp;
+<SYNC Start=372271><P Class=ENCC>
+No. All set. All good.
+<SYNC Start=374705><P Class=ENCC>&nbsp;
+<SYNC Start=374740><P Class=ENCC>
+Thanks for coming by, Howard.
+<SYNC Start=376440><P Class=ENCC>&nbsp;
+<SYNC Start=376475><P Class=ENCC>
+Any time. You truly are missed.
+<SYNC Start=378975><P Class=ENCC>&nbsp;
+<SYNC Start=379011><P Class=ENCC>
+No pressure.
+<SYNC Start=380544><P Class=ENCC>&nbsp;
+<SYNC Start=422219><P Class=ENCC>
+Synced and corrected by oykubuyuk<br>www.addic7ed.com
+<SYNC Start=424924><P Class=ENCC>&nbsp;
+<SYNC Start=471886><P Class=ENCC>
+Document review<br>will be coordinated through HHM.
+<SYNC Start=475389><P Class=ENCC>&nbsp;
+<SYNC Start=475424><P Class=ENCC>
+To date, the following documents
+<SYNC Start=477658><P Class=ENCC>&nbsp;
+<SYNC Start=477744><P Class=ENCC>
+have been requested from Sandpiper
+<SYNC Start=479611><P Class=ENCC>&nbsp;
+<SYNC Start=479646><P Class=ENCC>
+as part of our initial discovery petition.
+<SYNC Start=482447><P Class=ENCC>&nbsp;
+<SYNC Start=482482><P Class=ENCC>
+One... resident lease<br>agreements, past and present,
+<SYNC Start=485550><P Class=ENCC>&nbsp;
+<SYNC Start=485585><P Class=ENCC>
+from all Sandpiper locations.
+<SYNC Start=487552><P Class=ENCC>&nbsp;
+<SYNC Start=487587><P Class=ENCC>
+Two... invoices and transaction documents
+<SYNC Start=490689><P Class=ENCC>&nbsp;
+<SYNC Start=490724><P Class=ENCC>
+from all supply companies used by Sandpiper.
+<SYNC Start=493591><P Class=ENCC>&nbsp;
+<SYNC Start=493627><P Class=ENCC>
+Three... list of all past and present
+<SYNC Start=496127><P Class=ENCC>&nbsp;
+<SYNC Start=496163><P Class=ENCC>
+official Sandpiper vendors.
+<SYNC Start=498396><P Class=ENCC>&nbsp;
+<SYNC Start=498432><P Class=ENCC>
+Four... any and all business<br>agreements and contracts
+<SYNC Start=501766><P Class=ENCC>&nbsp;
+<SYNC Start=501802><P Class=ENCC>
+between Sandpiper and its distributors.
+<SYNC Start=504769><P Class=ENCC>&nbsp;
+<SYNC Start=504805><P Class=ENCC>
+Five... records of residents'<br>social security check receipts.
+<SYNC Start=509407><P Class=ENCC>&nbsp;
+<SYNC Start=509443><P Class=ENCC>
+Six... allowance transaction statements.
+<SYNC Start=513078><P Class=ENCC>&nbsp;
+<SYNC Start=513113><P Class=ENCC>
+Seven... resident invoices<br>non-related to sup...
+<SYNC Start=516281><P Class=ENCC>&nbsp;
+<SYNC Start=518352><P Class=ENCC>
+I'm loving the new look.
+<SYNC Start=520218><P Class=ENCC>&nbsp;
+<SYNC Start=520253><P Class=ENCC>
+How's Santa Fe?
+<SYNC Start=522454><P Class=ENCC>&nbsp;
+<SYNC Start=522489><P Class=ENCC>
+It's, uh...
+<SYNC Start=524222><P Class=ENCC>&nbsp;
+<SYNC Start=524257><P Class=ENCC>
+It's... It's really...
+<SYNC Start=526958><P Class=ENCC>&nbsp;
+<SYNC Start=526993><P Class=ENCC>
+See? What'd I tell you?
+<SYNC Start=530228><P Class=ENCC>&nbsp;
+<SYNC Start=530263><P Class=ENCC>
+Nice place?
+<SYNC Start=532230><P Class=ENCC>&nbsp;
+<SYNC Start=532265><P Class=ENCC>
+The finest in temporary corporate housing.
+<SYNC Start=535300><P Class=ENCC>&nbsp;
+<SYNC Start=535335><P Class=ENCC>
+Can't wait to see it.
+<SYNC Start=538236><P Class=ENCC>&nbsp;
+<SYNC Start=538271><P Class=ENCC>
+Maybe I should leave HHM.
+<SYNC Start=540238><P Class=ENCC>&nbsp;
+<SYNC Start=540273><P Class=ENCC>
+Get on that cushy D&M train.
+<SYNC Start=542907><P Class=ENCC>&nbsp;
+<SYNC Start=542943><P Class=ENCC>
+It is very cushy.
+<SYNC Start=545944><P Class=ENCC>&nbsp;
+<SYNC Start=545979><P Class=ENCC>
+It's amazing.
+<SYNC Start=548012><P Class=ENCC>&nbsp;
+<SYNC Start=550384><P Class=ENCC>
+Jimmy...
+<SYNC Start=552684><P Class=ENCC>&nbsp;
+<SYNC Start=552719><P Class=ENCC>
+I'm so happy for you.
+<SYNC Start=555253><P Class=ENCC>&nbsp;
+<SYNC Start=555288><P Class=ENCC>
+Than.
+<SYNC Start=557088><P Class=ENCC>&nbsp;
+<SYNC Start=557124><P Class=ENCC>
+You know, things are really turning around.
+<SYNC Start=559958><P Class=ENCC>&nbsp;
+<SYNC Start=559993><P Class=ENCC>
+I'm even thinking of looking, you know,
+<SYNC Start=561960><P Class=ENCC>&nbsp;
+<SYNC Start=561995><P Class=ENCC>
+my own place to buy.
+<SYNC Start=564262><P Class=ENCC>&nbsp;
+<SYNC Start=564297><P Class=ENCC>
+- In Santa Fe?<br>- Not sure yet.
+<SYNC Start=567165><P Class=ENCC>&nbsp;
+<SYNC Start=567200><P Class=ENCC>
+Maybe someplace, uh, closer to Albuquerque
+<SYNC Start=570268><P Class=ENCC>&nbsp;
+<SYNC Start=570303><P Class=ENCC>
+since I'm going between the two so much.
+<SYNC Start=572270><P Class=ENCC>&nbsp;
+<SYNC Start=572305><P Class=ENCC>
+Okay.
+<SYNC Start=573671><P Class=ENCC>&nbsp;
+<SYNC Start=573707><P Class=ENCC>
+So, halfway points.
+<SYNC Start=576541><P Class=ENCC>&nbsp;
+<SYNC Start=576576><P Class=ENCC>
+Um... ?­yeah, I was thinking, uh...
+<SYNC Start=578176><P Class=ENCC>&nbsp;
+<SYNC Start=578211><P Class=ENCC>
+- Oh, wait, what about Corrales?<br>- Corrales.
+<SYNC Start=579611><P Class=ENCC>&nbsp;
+<SYNC Start=579646><P Class=ENCC>
+Yeah, get a nice, little bungalow,
+<SYNC Start=581279><P Class=ENCC>&nbsp;
+<SYNC Start=581314><P Class=ENCC>
+or maybe not so little.
+<SYNC Start=582981><P Class=ENCC>&nbsp;
+<SYNC Start=583016><P Class=ENCC>
+Big, open floor plan.
+<SYNC Start=584382><P Class=ENCC>&nbsp;
+<SYNC Start=584418><P Class=ENCC>
+I don't want any walls<br>disrupting my chi, yeah.
+<SYNC Start=587452><P Class=ENCC>&nbsp;
+<SYNC Start=587487><P Class=ENCC>
+Uh, but I'm thinking I definitely want
+<SYNC Start=589921><P Class=ENCC>&nbsp;
+<SYNC Start=589960><P Class=ENCC>
+some decent acreage,<br>get in touch with nature.
+<SYNC Start=592695><P Class=ENCC>&nbsp;
+<SYNC Start=592730><P Class=ENCC>
+Horses.
+<SYNC Start=594596><P Class=ENCC>&nbsp;
+<SYNC Start=594632><P Class=ENCC>
+Come on. You could get horses.
+<SYNC Start=596932><P Class=ENCC>&nbsp;
+<SYNC Start=596967><P Class=ENCC>
+Man, that would be so amazing.
+<SYNC Start=598867><P Class=ENCC>&nbsp;
+<SYNC Start=598903><P Class=ENCC>
+Too expensive. They, uh,<br>all the oats... right?
+<SYNC Start=601570><P Class=ENCC>&nbsp;
+<SYNC Start=601605><P Class=ENCC>
+It's oats ?­that they're always eating?
+<SYNC Start=603038><P Class=ENCC>&nbsp;
+<SYNC Start=603074><P Class=ENCC>
+It's worth it. ?­and the horseshoes.
+<SYNC Start=604940><P Class=ENCC>&nbsp;
+<SYNC Start=604975><P Class=ENCC>
+You have to get them shoes<br>and nail them with a hammer.
+<SYNC Start=607910><P Class=ENCC>&nbsp;
+<SYNC Start=607945><P Class=ENCC>
+- It's totally worth it.<br>- It's...
+<SYNC Start=609145><P Class=ENCC>&nbsp;
+<SYNC Start=609187><P Class=ENCC>
+Long ride through the country
+<SYNC Start=610521><P Class=ENCC>&nbsp;
+<SYNC Start=610573><P Class=ENCC>
+and then glass of wine<br>on the back patio at sunset.
+<SYNC Start=614375><P Class=ENCC>&nbsp;
+<SYNC Start=617755><P Class=ENCC>
+Oh, we should get one of those smokers.
+<SYNC Start=619655><P Class=ENCC>&nbsp;
+<SYNC Start=619691><P Class=ENCC>
+We could just barbecue for days.
+<SYNC Start=621290><P Class=ENCC>&nbsp;
+<SYNC Start=621326><P Class=ENCC>
+Yeah. We definitely Got to get a smoker.
+<SYNC Start=626329><P Class=ENCC>&nbsp;
+<SYNC Start=634072><P Class=ENCC>
+All right, well...
+<SYNC Start=636505><P Class=ENCC>&nbsp;
+<SYNC Start=636541><P Class=ENCC>
+I got to go to the salon.
+<SYNC Start=638407><P Class=ENCC>&nbsp;
+<SYNC Start=638443><P Class=ENCC>
+They're delivering my new company car.
+<SYNC Start=641143><P Class=ENCC>&nbsp;
+<SYNC Start=641179><P Class=ENCC>
+Ugh, are you serious?
+<SYNC Start=643746><P Class=ENCC>&nbsp;
+<SYNC Start=643781><P Class=ENCC>
+What?
+<SYNC Start=645681><P Class=ENCC>&nbsp;
+<SYNC Start=645717><P Class=ENCC>
+Jeeves, ?­where's my solid-gold blimp?
+<SYNC Start=648317><P Class=ENCC>&nbsp;
+<SYNC Start=648353><P Class=ENCC>
+No, not that one. The other one.
+<SYNC Start=650219><P Class=ENCC>&nbsp;
+<SYNC Start=650254><P Class=ENCC>
+Jealous.
+<SYNC Start=651654><P Class=ENCC>&nbsp;
+<SYNC Start=651689><P Class=ENCC>
+Totally.
+<SYNC Start=654290><P Class=ENCC>&nbsp;
+<SYNC Start=655893><P Class=ENCC>
+Oh, I forgot.<br>?­I got you a present. One sec.
+<SYNC Start=657893><P Class=ENCC>&nbsp;
+<SYNC Start=670475><P Class=ENCC>
+Such a beautiful wrapping job.
+<SYNC Start=673242><P Class=ENCC>&nbsp;
+<SYNC Start=673277><P Class=ENCC>
+It's a shame to open it.
+<SYNC Start=674410><P Class=ENCC>&nbsp;
+<SYNC Start=674445><P Class=ENCC>
+It's a gift. Be grateful.
+<SYNC Start=675978><P Class=ENCC>&nbsp;
+<SYNC Start=681219><P Class=ENCC>
+Just keeping it real.
+<SYNC Start=684186><P Class=ENCC>&nbsp;
+<SYNC Start=684222><P Class=ENCC>
+Come on.
+<SYNC Start=685588><P Class=ENCC>&nbsp;
+<SYNC Start=685623><P Class=ENCC>
+Second is still very, very good.
+<SYNC Start=689258><P Class=ENCC>&nbsp;
+<SYNC Start=689293><P Class=ENCC>
+All right.
+<SYNC Start=690826><P Class=ENCC>&nbsp;
+<SYNC Start=698269><P Class=ENCC>
+Thanks.
+<SYNC Start=699969><P Class=ENCC>&nbsp;
+<SYNC Start=700004><P Class=ENCC>
+See you tonight?
+<SYNC Start=701203><P Class=ENCC>&nbsp;
+<SYNC Start=701239><P Class=ENCC>
+Maybe.
+<SYNC Start=703873><P Class=ENCC>&nbsp;
+<SYNC Start=703908><P Class=ENCC>
+If you play your cards right.
+<SYNC Start=706776><P Class=ENCC>&nbsp;
+<SYNC Start=736340><P Class=ENCC>
+Hello, beautiful.
+<SYNC Start=738274><P Class=ENCC>&nbsp;
+<SYNC Start=741979><P Class=ENCC>
+What do you think, ladies?
+<SYNC Start=743312><P Class=ENCC>&nbsp;
+<SYNC Start=745283><P Class=ENCC>
+Yeah, I know, right?
+<SYNC Start=746949><P Class=ENCC>&nbsp;
+<SYNC Start=746984><P Class=ENCC>
+It's got all leather interior,
+<SYNC Start=748584><P Class=ENCC>&nbsp;
+<SYNC Start=748619><P Class=ENCC>
+heated seats for those cold desert mornings.
+<SYNC Start=752321><P Class=ENCC>&nbsp;
+<SYNC Start=752356><P Class=ENCC>
+This must be what heaven looks like.
+<SYNC Start=754824><P Class=ENCC>&nbsp;
+<SYNC Start=763701><P Class=ENCC>
+Hey!
+<SYNC Start=765267><P Class=ENCC>&nbsp;
+<SYNC Start=765303><P Class=ENCC>
+Goodbye hug?
+<SYNC Start=767536><P Class=ENCC>&nbsp;
+<SYNC Start=767572><P Class=ENCC>
+No?
+<SYNC Start=769438><P Class=ENCC>&nbsp;
+<SYNC Start=769474><P Class=ENCC>
+All right, well, forgo the tears
+<SYNC Start=771140><P Class=ENCC>&nbsp;
+<SYNC Start=771175><P Class=ENCC>
+and just say, "till we meet again."
+<SYNC Start=773809><P Class=ENCC>&nbsp;
+<SYNC Start=808780><P Class=ENCC>
+Must be metric.
+<SYNC Start=811280><P Class=ENCC>&nbsp;
+<SYNC Start=871709><P Class=ENCC>
+Hey!
+<SYNC Start=873676><P Class=ENCC>&nbsp;
+<SYNC Start=878416><P Class=ENCC>
+What... What are you doing here?
+<SYNC Start=880950><P Class=ENCC>&nbsp;
+<SYNC Start=880985><P Class=ENCC>
+I work here.
+<SYNC Start=882952><P Class=ENCC>&nbsp;
+<SYNC Start=882987><P Class=ENCC>
+Oh. Small world.
+<SYNC Start=885688><P Class=ENCC>&nbsp;
+<SYNC Start=885723><P Class=ENCC>
+So, is this the parking lot<br>for the police station?
+<SYNC Start=890626><P Class=ENCC>&nbsp;
+<SYNC Start=890661><P Class=ENCC>
+It is.
+<SYNC Start=892294><P Class=ENCC>&nbsp;
+<SYNC Start=892330><P Class=ENCC>
+You don't know if they validate, do you?
+<SYNC Start=894630><P Class=ENCC>&nbsp;
+<SYNC Start=896634><P Class=ENCC>
+Why don't you pull around over there,
+<SYNC Start=899802><P Class=ENCC>&nbsp;
+<SYNC Start=899837><P Class=ENCC>
+and we'll have a little talk.
+<SYNC Start=902638><P Class=ENCC>&nbsp;
+<SYNC Start=902673><P Class=ENCC>
+Uh, okay.
+<SYNC Start=905174><P Class=ENCC>&nbsp;
+<SYNC Start=921192><P Class=ENCC>
+Why are you here?
+<SYNC Start=923559><P Class=ENCC>&nbsp;
+<SYNC Start=923594><P Class=ENCC>
+I... I have business with the police.
+<SYNC Start=926462><P Class=ENCC>&nbsp;
+<SYNC Start=926497><P Class=ENCC>
+And what business might that be?
+<SYNC Start=928964><P Class=ENCC>&nbsp;
+<SYNC Start=929000><P Class=ENCC>
+Well, if you must know, I was robbed.
+<SYNC Start=932468><P Class=ENCC>&nbsp;
+<SYNC Start=932503><P Class=ENCC>
+Somebody broke into my house<br>and stole my property.
+<SYNC Start=935304><P Class=ENCC>&nbsp;
+<SYNC Start=935339><P Class=ENCC>
+Your drugs.
+<SYNC Start=936805><P Class=ENCC>&nbsp;
+<SYNC Start=936841><P Class=ENCC>
+Yeah, but obviously<br>?­I didn't tell the cops that.
+<SYNC Start=939408><P Class=ENCC>&nbsp;
+<SYNC Start=939443><P Class=ENCC>
+I'm not stupid.
+<SYNC Start=941277><P Class=ENCC>&nbsp;
+<SYNC Start=941312><P Class=ENCC>
+You've already spoken to them?
+<SYNC Start=943846><P Class=ENCC>&nbsp;
+<SYNC Start=943881><P Class=ENCC>
+A couple of them came by my house.
+<SYNC Start=946148><P Class=ENCC>&nbsp;
+<SYNC Start=946183><P Class=ENCC>
+But it's not the drugs that I care about.
+<SYNC Start=948617><P Class=ENCC>&nbsp;
+<SYNC Start=948653><P Class=ENCC>
+I mean, I care.
+<SYNC Start=950352><P Class=ENCC>&nbsp;
+<SYNC Start=950388><P Class=ENCC>
+It's my baseball cards
+<SYNC Start=952021><P Class=ENCC>&nbsp;
+<SYNC Start=952056><P Class=ENCC>
+I need back.
+<SYNC Start=953789><P Class=ENCC>&nbsp;
+<SYNC Start=955226><P Class=ENCC>
+- Your baseball cards?<br>- Yes.
+<SYNC Start=958093><P Class=ENCC>&nbsp;
+<SYNC Start=958129><P Class=ENCC>
+I have a very valuable<br>collection of baseball cards,
+<SYNC Start=961330><P Class=ENCC>&nbsp;
+<SYNC Start=961365><P Class=ENCC>
+and someone stole them.
+<SYNC Start=963032><P Class=ENCC>&nbsp;
+<SYNC Start=963067><P Class=ENCC>
+I guess I shouldn't be surprised<br>I have to tell you this.
+<SYNC Start=966335><P Class=ENCC>&nbsp;
+<SYNC Start=966370><P Class=ENCC>
+But it's probably a bad idea
+<SYNC Start=968604><P Class=ENCC>&nbsp;
+<SYNC Start=968639><P Class=ENCC>
+that you willingly talk to the police,
+<SYNC Start=970673><P Class=ENCC>&nbsp;
+<SYNC Start=970708><P Class=ENCC>
+being a criminal and all.
+<SYNC Start=972041><P Class=ENCC>&nbsp;
+<SYNC Start=972076><P Class=ENCC>
+I'm not here as a criminal.
+<SYNC Start=974610><P Class=ENCC>&nbsp;
+<SYNC Start=974645><P Class=ENCC>
+I'm here as a crime victim.
+<SYNC Start=976312><P Class=ENCC>&nbsp;
+<SYNC Start=976347><P Class=ENCC>
+Just because I occasionally sell<br>some pharmaceuticals,
+<SYNC Start=981784><P Class=ENCC>&nbsp;
+<SYNC Start=981819><P Class=ENCC>
+I no longer have a right<br>to protection from crime?
+<SYNC Start=985187><P Class=ENCC>&nbsp;
+<SYNC Start=985222><P Class=ENCC>
+And I was very careful<br>when I talked to them.
+<SYNC Start=988223><P Class=ENCC>&nbsp;
+<SYNC Start=988259><P Class=ENCC>
+I... they have no idea<br>about my other business.
+<SYNC Start=992227><P Class=ENCC>&nbsp;
+<SYNC Start=993731><P Class=ENCC>
+If you already made your report,<br>why are you here?
+<SYNC Start=996198><P Class=ENCC>&nbsp;
+<SYNC Start=996233><P Class=ENCC>
+They called me.
+<SYNC Start=997466><P Class=ENCC>&nbsp;
+<SYNC Start=997501><P Class=ENCC>
+They have a few more questions.
+<SYNC Start=999001><P Class=ENCC>&nbsp;
+<SYNC Start=999036><P Class=ENCC>
+They are very dedicated<br>to finding this thief.
+<SYNC Start=1003238><P Class=ENCC>&nbsp;
+<SYNC Start=1003274><P Class=ENCC>
+Since you're new to this,<br>let me explain it to you.
+<SYNC Start=1007309><P Class=ENCC>&nbsp;
+<SYNC Start=1007345><P Class=ENCC>
+They've invited you on a fishing trip.
+<SYNC Start=1010646><P Class=ENCC>&nbsp;
+<SYNC Start=1010681><P Class=ENCC>
+What's that? A fishing trip?
+<SYNC Start=1012848><P Class=ENCC>&nbsp;
+<SYNC Start=1012883><P Class=ENCC>
+Those cops have no interest in<br>helping you get your cards back.
+<SYNC Start=1016585><P Class=ENCC>&nbsp;
+<SYNC Start=1016620><P Class=ENCC>
+You're obviously under suspicion.
+<SYNC Start=1018721><P Class=ENCC>&nbsp;
+<SYNC Start=1018756><P Class=ENCC>
+There was nothing there for them to see.
+<SYNC Start=1021023><P Class=ENCC>&nbsp;
+<SYNC Start=1021058><P Class=ENCC>
+I refer you ?­to our previous conversation
+<SYNC Start=1023826><P Class=ENCC>&nbsp;
+<SYNC Start=1023861><P Class=ENCC>
+and this blinking neon sign of a<br>vehicle that says "drug dealer."
+<SYNC Start=1027930><P Class=ENCC>&nbsp;
+<SYNC Start=1027965><P Class=ENCC>
+They suspect you.
+<SYNC Start=1029498><P Class=ENCC>&nbsp;
+<SYNC Start=1029533><P Class=ENCC>
+They will get you in there,<br>pretend to be your friend,
+<SYNC Start=1032034><P Class=ENCC>&nbsp;
+<SYNC Start=1032086><P Class=ENCC>
+lull you into a false sense of security,
+<SYNC Start=1035287><P Class=ENCC>&nbsp;
+<SYNC Start=1035322><P Class=ENCC>
+and then they will sweat you.
+<SYNC Start=1038156><P Class=ENCC>&nbsp;
+<SYNC Start=1038192><P Class=ENCC>
+And you will break.
+<SYNC Start=1040058><P Class=ENCC>&nbsp;
+<SYNC Start=1040094><P Class=ENCC>
+I don't... I...
+<SYNC Start=1042260><P Class=ENCC>&nbsp;
+<SYNC Start=1042296><P Class=ENCC>
+I disagree.
+<SYNC Start=1043995><P Class=ENCC>&nbsp;
+<SYNC Start=1044031><P Class=ENCC>
+Not open for debate. You go home now.
+<SYNC Start=1047232><P Class=ENCC>&nbsp;
+<SYNC Start=1047267><P Class=ENCC>
+But I have an appointment.
+<SYNC Start=1048800><P Class=ENCC>&nbsp;
+<SYNC Start=1048836><P Class=ENCC>
+Break it.
+<SYNC Start=1050168><P Class=ENCC>&nbsp;
+<SYNC Start=1050204><P Class=ENCC>
+And if they call you,<br>do not answer the phone.
+<SYNC Start=1052437><P Class=ENCC>&nbsp;
+<SYNC Start=1052473><P Class=ENCC>
+But what about my baseball cards?
+<SYNC Start=1054473><P Class=ENCC>&nbsp;
+<SYNC Start=1054508><P Class=ENCC>
+- Cost of doing business.<br>- No!
+<SYNC Start=1056241><P Class=ENCC>&nbsp;
+<SYNC Start=1056276><P Class=ENCC>
+No, no, no!
+<SYNC Start=1058110><P Class=ENCC>&nbsp;
+<SYNC Start=1058145><P Class=ENCC>
+I am getting those back!
+<SYNC Start=1059911><P Class=ENCC>&nbsp;
+<SYNC Start=1059947><P Class=ENCC>
+I will take the risk!
+<SYNC Start=1061580><P Class=ENCC>&nbsp;
+<SYNC Start=1061615><P Class=ENCC>
+No, you won't.
+<SYNC Start=1063248><P Class=ENCC>&nbsp;
+<SYNC Start=1063283><P Class=ENCC>
+Because then you'll be putting<br>my well-being at risk.
+<SYNC Start=1066251><P Class=ENCC>&nbsp;
+<SYNC Start=1066286><P Class=ENCC>
+I have to!
+<SYNC Start=1067819><P Class=ENCC>&nbsp;
+<SYNC Start=1067855><P Class=ENCC>
+I... I...
+<SYNC Start=1070922><P Class=ENCC>&nbsp;
+<SYNC Start=1070958><P Class=ENCC>
+Those cards?
+<SYNC Start=1073992><P Class=ENCC>&nbsp;
+<SYNC Start=1074027><P Class=ENCC>
+Some of them were my dad's.
+<SYNC Start=1077596><P Class=ENCC>&nbsp;
+<SYNC Start=1077631><P Class=ENCC>
+I... I am getting them back.
+<SYNC Start=1081032><P Class=ENCC>&nbsp;
+<SYNC Start=1081068><P Class=ENCC>
+I'm getting them back.
+<SYNC Start=1083468><P Class=ENCC>&nbsp;
+<SYNC Start=1092880><P Class=ENCC>
+I'll find your cards.
+<SYNC Start=1096148><P Class=ENCC>&nbsp;
+<SYNC Start=1098152><P Class=ENCC>
+Is... ser...
+<SYNC Start=1100485><P Class=ENCC>&nbsp;
+<SYNC Start=1100521><P Class=ENCC>
+is that something you do?
+<SYNC Start=1103155><P Class=ENCC>&nbsp;
+<SYNC Start=1104491><P Class=ENCC>
+Wow, that's...
+<SYNC Start=1106291><P Class=ENCC>&nbsp;
+<SYNC Start=1106326><P Class=ENCC>
+That is so generous of you.
+<SYNC Start=1108527><P Class=ENCC>&nbsp;
+<SYNC Start=1108562><P Class=ENCC>
+Oh, it'll cost you.
+<SYNC Start=1110762><P Class=ENCC>&nbsp;
+<SYNC Start=1112366><P Class=ENCC>
+Oh.
+<SYNC Start=1114533><P Class=ENCC>&nbsp;
+<SYNC Start=1114568><P Class=ENCC>
+Okay, uh...
+<SYNC Start=1117669><P Class=ENCC>&nbsp;
+<SYNC Start=1117704><P Class=ENCC>
+We should discuss some sort<br>of financial arrangement
+<SYNC Start=1122374><P Class=ENCC>&nbsp;
+<SYNC Start=1122409><P Class=ENCC>
+in which I... I, uh...
+<SYNC Start=1124843><P Class=ENCC>&nbsp;
+<SYNC Start=1124878><P Class=ENCC>
+Oh.
+<SYNC Start=1126945><P Class=ENCC>&nbsp;
+<SYNC Start=1128582><P Class=ENCC>
+Okay, then!
+<SYNC Start=1130816><P Class=ENCC>&nbsp;
+<SYNC Start=1130851><P Class=ENCC>
+Jesus.
+<SYNC Start=1132384><P Class=ENCC>&nbsp;
+<SYNC Start=1223870><P Class=ENCC>
+Come on in.
+<SYNC Start=1225404><P Class=ENCC>&nbsp;
+<SYNC Start=1225438><P Class=ENCC>
+I didn't mean to interrupt.
+<SYNC Start=1227038><P Class=ENCC>&nbsp;
+<SYNC Start=1227175><P Class=ENCC>
+Not at all. I was just<br>blowing off some steam.
+<SYNC Start=1229642><P Class=ENCC>&nbsp;
+<SYNC Start=1229678><P Class=ENCC>
+- You sound good.<br>- Thank you.
+<SYNC Start=1232145><P Class=ENCC>&nbsp;
+<SYNC Start=1232180><P Class=ENCC>
+Clears the head. You play?
+<SYNC Start=1234247><P Class=ENCC>&nbsp;
+<SYNC Start=1234282><P Class=ENCC>
+Oh, I tried to learn in high school,
+<SYNC Start=1235982><P Class=ENCC>&nbsp;
+<SYNC Start=1236017><P Class=ENCC>
+but then I decided there were<br>easier ways to get girls.
+<SYNC Start=1239752><P Class=ENCC>&nbsp;
+<SYNC Start=1239788><P Class=ENCC>
+Well, I hope you've got a way to decompress.
+<SYNC Start=1241688><P Class=ENCC>&nbsp;
+<SYNC Start=1241745><P Class=ENCC>
+Everybody needs something.
+<SYNC Start=1243512><P Class=ENCC>&nbsp;
+<SYNC Start=1243547><P Class=ENCC>
+How you settling in?
+<SYNC Start=1244546><P Class=ENCC>&nbsp;
+<SYNC Start=1244581><P Class=ENCC>
+Great.
+<SYNC Start=1245881><P Class=ENCC>&nbsp;
+<SYNC Start=1245916><P Class=ENCC>
+Uh, it's... ?­it's quite a step up for me.
+<SYNC Start=1250052><P Class=ENCC>&nbsp;
+<SYNC Start=1250087><P Class=ENCC>
+Well, we're happy to have you.
+<SYNC Start=1252154><P Class=ENCC>&nbsp;
+<SYNC Start=1252189><P Class=ENCC>
+Just let us know if there's<br>anything else you need, Jimmy.
+<SYNC Start=1255557><P Class=ENCC>&nbsp;
+<SYNC Start=1255592><P Class=ENCC>
+Thanks... Cliff.
+<SYNC Start=1257692><P Class=ENCC>&nbsp;
+<SYNC Start=1257728><P Class=ENCC>
+Um, I'm happy to be here.
+<SYNC Start=1260362><P Class=ENCC>&nbsp;
+<SYNC Start=1260397><P Class=ENCC>
+Great.
+<SYNC Start=1262864><P Class=ENCC>&nbsp;
+<SYNC Start=1262900><P Class=ENCC>
+Uh, better get back to it.
+<SYNC Start=1264766><P Class=ENCC>&nbsp;
+<SYNC Start=1264802><P Class=ENCC>
+Yeah, me, too, I suppose.
+<SYNC Start=1266768><P Class=ENCC>&nbsp;
+<SYNC Start=1266804><P Class=ENCC>
+Um...
+<SYNC Start=1268670><P Class=ENCC>&nbsp;
+<SYNC Start=1268705><P Class=ENCC>
+Actually, um, ?­I might<br>have found something
+<SYNC Start=1271339><P Class=ENCC>&nbsp;
+<SYNC Start=1271375><P Class=ENCC>
+in the initial disclosures.
+<SYNC Start=1273608><P Class=ENCC>&nbsp;
+<SYNC Start=1273644><P Class=ENCC>
+Oh, yeah? Schweikart and<br>Cokely keep referring to
+<SYNC Start=1276278><P Class=ENCC>&nbsp;
+<SYNC Start=1276313><P Class=ENCC>
+the "optional allowance program,"
+<SYNC Start=1278246><P Class=ENCC>&nbsp;
+<SYNC Start=1278282><P Class=ENCC>
+but I checked a number<br>of residents' contracts.
+<SYNC Start=1280248><P Class=ENCC>&nbsp;
+<SYNC Start=1280284><P Class=ENCC>
+Not a single one has opted out,<br>which makes me think
+<SYNC Start=1282884><P Class=ENCC>&nbsp;
+<SYNC Start=1282920><P Class=ENCC>
+it's more of a mandatory<br>financial arrangement.
+<SYNC Start=1285620><P Class=ENCC>&nbsp;
+<SYNC Start=1285656><P Class=ENCC>
+And you're thinking that's<br>the "failure to state a claim"
+<SYNC Start=1287422><P Class=ENCC>&nbsp;
+<SYNC Start=1287458><P Class=ENCC>
+that they filed in their answer?
+<SYNC Start=1289057><P Class=ENCC>&nbsp;
+<SYNC Start=1289093><P Class=ENCC>
+They keep saying it's optional,<br>thereby voluntary.
+<SYNC Start=1291526><P Class=ENCC>&nbsp;
+<SYNC Start=1291562><P Class=ENCC>
+I think we can counter that
+<SYNC Start=1293061><P Class=ENCC>&nbsp;
+<SYNC Start=1293097><P Class=ENCC>
+if "opting in" is a requirement<br>for residency,
+<SYNC Start=1295530><P Class=ENCC>&nbsp;
+<SYNC Start=1295566><P Class=ENCC>
+which it sure seems to be,
+<SYNC Start=1296965><P Class=ENCC>&nbsp;
+<SYNC Start=1297000><P Class=ENCC>
+well, their voluntary claims<br>don't hold water.
+<SYNC Start=1300669><P Class=ENCC>&nbsp;
+<SYNC Start=1303107><P Class=ENCC>
+Might be on to something here.
+<SYNC Start=1305440><P Class=ENCC>&nbsp;
+<SYNC Start=1305476><P Class=ENCC>
+Nice work, Jimmy.
+<SYNC Start=1308343><P Class=ENCC>&nbsp;
+<SYNC Start=1309847><P Class=ENCC>
+Thanks, Cliff.
+<SYNC Start=1311680><P Class=ENCC>&nbsp;
+<SYNC Start=1324361><P Class=ENCC>
+Hola.
+<SYNC Start=1326561><P Class=ENCC>&nbsp;
+<SYNC Start=1326597><P Class=ENCC>
+Hola. Â¿cÃ³mo estÃ¡s?
+<SYNC Start=1329231><P Class=ENCC>&nbsp;
+<SYNC Start=1329266><P Class=ENCC>
+Welcome. How can I help you?
+<SYNC Start=1331099><P Class=ENCC>&nbsp;
+<SYNC Start=1331135><P Class=ENCC>
+Um, I was hoping to get an estimate.
+<SYNC Start=1333635><P Class=ENCC>&nbsp;
+<SYNC Start=1333670><P Class=ENCC>
+Uh, mi car. Mi coche.
+<SYNC Start=1335337><P Class=ENCC>&nbsp;
+<SYNC Start=1335372><P Class=ENCC>
+You do cars?
+<SYNC Start=1336972><P Class=ENCC>&nbsp;
+<SYNC Start=1337007><P Class=ENCC>
+SÃ­. Cars. Todo el tiempo. ?­ah.
+<SYNC Start=1339508><P Class=ENCC>&nbsp;
+<SYNC Start=1339543><P Class=ENCC>
+I... I was hoping to get<br>my seats reupholstered.
+<SYNC Start=1342177><P Class=ENCC>&nbsp;
+<SYNC Start=1342212><P Class=ENCC>
+Um... Mm.
+<SYNC Start=1344779><P Class=ENCC>&nbsp;
+<SYNC Start=1344815><P Class=ENCC>
+Um, take a look? Â¿mira?
+<SYNC Start=1347949><P Class=ENCC>&nbsp;
+<SYNC Start=1356627><P Class=ENCC>
+- Un momento.<br>- SÃ­, sÃ­, sÃ­, sÃ­.
+<SYNC Start=1359694><P Class=ENCC>&nbsp;
+<SYNC Start=1375212><P Class=ENCC>
+Gracias.
+<SYNC Start=1377579><P Class=ENCC>&nbsp;
+<SYNC Start=1387157><P Class=ENCC>
+Yeah.
+<SYNC Start=1389791><P Class=ENCC>&nbsp;
+<SYNC Start=1389826><P Class=ENCC>
+Thinking something new.
+<SYNC Start=1391726><P Class=ENCC>&nbsp;
+<SYNC Start=1391762><P Class=ENCC>
+Give the old girl a little love.
+<SYNC Start=1395363><P Class=ENCC>&nbsp;
+<SYNC Start=1402739><P Class=ENCC>
+He said you should save<br>your money and get a new car.
+<SYNC Start=1405173><P Class=ENCC>&nbsp;
+<SYNC Start=1405209><P Class=ENCC>
+Yeah? Well, it has a sentimental value.
+<SYNC Start=1408510><P Class=ENCC>&nbsp;
+<SYNC Start=1412082><P Class=ENCC>
+- Classic car.<br>- Mmm.
+<SYNC Start=1415350><P Class=ENCC>&nbsp;
+<SYNC Start=1419556><P Class=ENCC>
+Um, what material do you want?
+<SYNC Start=1421423><P Class=ENCC>&nbsp;
+<SYNC Start=1421458><P Class=ENCC>
+Well, I was thinking leather, definitely.
+<SYNC Start=1424759><P Class=ENCC>&nbsp;
+<SYNC Start=1424795><P Class=ENCC>
+Uh, maybe alligator.
+<SYNC Start=1427862><P Class=ENCC>&nbsp;
+<SYNC Start=1431401><P Class=ENCC>
+SeÃ±or. Too much money.
+<SYNC Start=1434035><P Class=ENCC>&nbsp;
+<SYNC Start=1434071><P Class=ENCC>
+Yeah, but like I said,<br>it has a sentimental value.
+<SYNC Start=1436938><P Class=ENCC>&nbsp;
+<SYNC Start=1452489><P Class=ENCC>
+He says, uh, alligator's<br>gonna look all wrong.
+<SYNC Start=1456424><P Class=ENCC>&nbsp;
+<SYNC Start=1456460><P Class=ENCC>
+Cheaper might be better.
+<SYNC Start=1458793><P Class=ENCC>&nbsp;
+<SYNC Start=1458829><P Class=ENCC>
+Well, show me what you'd pick.
+<SYNC Start=1462230><P Class=ENCC>&nbsp;
+<SYNC Start=1465502><P Class=ENCC>
+Ooh. I'm sorry, seÃ±or.
+<SYNC Start=1469070><P Class=ENCC>&nbsp;
+<SYNC Start=1469106><P Class=ENCC>
+Uh, my son... He... He will help you, okay?
+<SYNC Start=1472140><P Class=ENCC>&nbsp;
+<SYNC Start=1479983><P Class=ENCC>
+Ah, mucho gusto.
+<SYNC Start=1481683><P Class=ENCC>&nbsp;
+<SYNC Start=1501271><P Class=ENCC>
+How'd you find me?
+<SYNC Start=1502904><P Class=ENCC>&nbsp;
+<SYNC Start=1509346><P Class=ENCC>
+Why are you here?
+<SYNC Start=1511413><P Class=ENCC>&nbsp;
+<SYNC Start=1511448><P Class=ENCC>
+Baseball cards.
+<SYNC Start=1513782><P Class=ENCC>&nbsp;
+<SYNC Start=1513817><P Class=ENCC>
+The way I figure, you saw that<br>mid-life crisis of a vehicle
+<SYNC Start=1517852><P Class=ENCC>&nbsp;
+<SYNC Start=1517888><P Class=ENCC>
+and wisely decided<br>?­to cut ties with the man,
+<SYNC Start=1519854><P Class=ENCC>&nbsp;
+<SYNC Start=1519890><P Class=ENCC>
+and I don't blame you... I did, too.
+<SYNC Start=1522090><P Class=ENCC>&nbsp;
+<SYNC Start=1522125><P Class=ENCC>
+And then you ripped him off.
+<SYNC Start=1523858><P Class=ENCC>&nbsp;
+<SYNC Start=1523894><P Class=ENCC>
+And I'm sure those baseball cards
+<SYNC Start=1526328><P Class=ENCC>&nbsp;
+<SYNC Start=1526363><P Class=ENCC>
+looked like an easy way<br>to make a few extra bucks
+<SYNC Start=1528530><P Class=ENCC>&nbsp;
+<SYNC Start=1528565><P Class=ENCC>
+off that idiot, teach him a lesson, too.
+<SYNC Start=1531299><P Class=ENCC>&nbsp;
+<SYNC Start=1531335><P Class=ENCC>
+But you underestimated
+<SYNC Start=1532967><P Class=ENCC>&nbsp;
+<SYNC Start=1533003><P Class=ENCC>
+just how big an idiot you were dealing with.
+<SYNC Start=1535303><P Class=ENCC>&nbsp;
+<SYNC Start=1535339><P Class=ENCC>
+No, I am pretty aware.
+<SYNC Start=1538440><P Class=ENCC>&nbsp;
+<SYNC Start=1538475><P Class=ENCC>
+Well, then, you underestimated
+<SYNC Start=1539941><P Class=ENCC>&nbsp;
+<SYNC Start=1539976><P Class=ENCC>
+how attached the man was to those cards...
+<SYNC Start=1541543><P Class=ENCC>&nbsp;
+<SYNC Start=1541578><P Class=ENCC>
+so attached, he called the police<br>and reported them stolen.
+<SYNC Start=1546014><P Class=ENCC>&nbsp;
+<SYNC Start=1546049><P Class=ENCC>
+Now they're nosing around.
+<SYNC Start=1547849><P Class=ENCC>&nbsp;
+<SYNC Start=1549586><P Class=ENCC>
+That sounds like a "you" problem.
+<SYNC Start=1552354><P Class=ENCC>&nbsp;
+<SYNC Start=1552389><P Class=ENCC>
+No, I think it's very much an "us" problem.
+<SYNC Start=1554522><P Class=ENCC>&nbsp;
+<SYNC Start=1554558><P Class=ENCC>
+Yeah, I guess I'll just<br>have to take my chances.
+<SYNC Start=1556725><P Class=ENCC>&nbsp;
+<SYNC Start=1556760><P Class=ENCC>
+But [Whistles] Good luck to you.
+<SYNC Start=1558893><P Class=ENCC>&nbsp;
+<SYNC Start=1558929><P Class=ENCC>
+You know, I was hoping you'd see our dilemma
+<SYNC Start=1560695><P Class=ENCC>&nbsp;
+<SYNC Start=1560731><P Class=ENCC>
+and do the right thing.
+<SYNC Start=1562330><P Class=ENCC>&nbsp;
+<SYNC Start=1562366><P Class=ENCC>
+But I think what we have here now
+<SYNC Start=1564132><P Class=ENCC>&nbsp;
+<SYNC Start=1564167><P Class=ENCC>
+is a carrot-and-stick situation.
+<SYNC Start=1567068><P Class=ENCC>&nbsp;
+<SYNC Start=1567104><P Class=ENCC>
+Oh, yeah?
+<SYNC Start=1570038><P Class=ENCC>&nbsp;
+<SYNC Start=1570073><P Class=ENCC>
+This the stick? Hmm?
+<SYNC Start=1573308><P Class=ENCC>&nbsp;
+<SYNC Start=1573343><P Class=ENCC>
+You coming here, threatening my family?
+<SYNC Start=1576411><P Class=ENCC>&nbsp;
+<SYNC Start=1576446><P Class=ENCC>
+Huh?
+<SYNC Start=1578179><P Class=ENCC>&nbsp;
+<SYNC Start=1578215><P Class=ENCC>
+'Cause you're gonna need<br>a bigger stick, old man.
+<SYNC Start=1581082><P Class=ENCC>&nbsp;
+<SYNC Start=1586056><P Class=ENCC>
+I'm not here to threaten your family.
+<SYNC Start=1588890><P Class=ENCC>&nbsp;
+<SYNC Start=1590394><P Class=ENCC>
+And the name of the stick is Tuco Salamanca.
+<SYNC Start=1594028><P Class=ENCC>&nbsp;
+<SYNC Start=1594064><P Class=ENCC>
+Now, you don't play ball, so to speak,
+<SYNC Start=1598733><P Class=ENCC>&nbsp;
+<SYNC Start=1598769><P Class=ENCC>
+and Tuco finds out about<br>your little side business.
+<SYNC Start=1602604><P Class=ENCC>&nbsp;
+<SYNC Start=1602639><P Class=ENCC>
+That a big enough stick?
+<SYNC Start=1605240><P Class=ENCC>&nbsp;
+<SYNC Start=1607711><P Class=ENCC>
+However, I prefer the carrot.
+<SYNC Start=1611913><P Class=ENCC>&nbsp;
+<SYNC Start=1611948><P Class=ENCC>
+I think you will, too.
+<SYNC Start=1614249><P Class=ENCC>&nbsp;
+<SYNC Start=1615752><P Class=ENCC>
+And what would that be?
+<SYNC Start=1617452><P Class=ENCC>&nbsp;
+<SYNC Start=1617487><P Class=ENCC>
+You give me back the baseball cards,
+<SYNC Start=1621423><P Class=ENCC>&nbsp;
+<SYNC Start=1621458><P Class=ENCC>
+$10,000 in cash,
+<SYNC Start=1623525><P Class=ENCC>&nbsp;
+<SYNC Start=1623560><P Class=ENCC>
+and you net roughly... roughly... $60,000.
+<SYNC Start=1630165><P Class=ENCC>&nbsp;
+<SYNC Start=1633503><P Class=ENCC>
+And how exactly does that work?
+<SYNC Start=1636571><P Class=ENCC>&nbsp;
+<SYNC Start=1682639><P Class=ENCC>
+Ernesto?
+<SYNC Start=1684972><P Class=ENCC>&nbsp;
+<SYNC Start=1690713><P Class=ENCC>
+Hey.
+<SYNC Start=1692513><P Class=ENCC>&nbsp;
+<SYNC Start=1694517><P Class=ENCC>
+Going somewhere?
+<SYNC Start=1696184><P Class=ENCC>&nbsp;
+<SYNC Start=1696219><P Class=ENCC>
+Yes, we are.
+<SYNC Start=1699086><P Class=ENCC>&nbsp;
+<SYNC Start=1699122><P Class=ENCC>
+She's a little tricky around the corners.
+<SYNC Start=1704091><P Class=ENCC>&nbsp;
+<SYNC Start=1704127><P Class=ENCC>
+So...
+<SYNC Start=1705493><P Class=ENCC>&nbsp;
+<SYNC Start=1705528><P Class=ENCC>
+And you got to go with the premium gas.
+<SYNC Start=1707528><P Class=ENCC>&nbsp;
+<SYNC Start=1707564><P Class=ENCC>
+I know it seems like a scam,<br>but it makes a huge difference.
+<SYNC Start=1711599><P Class=ENCC>&nbsp;
+<SYNC Start=1711634><P Class=ENCC>
+And I would get her washed<br>at least once a week.
+<SYNC Start=1714502><P Class=ENCC>&nbsp;
+<SYNC Start=1714537><P Class=ENCC>
+And spring for the hand wax.
+<SYNC Start=1716103><P Class=ENCC>&nbsp;
+<SYNC Start=1716139><P Class=ENCC>
+You're gonna want that<br>extra layer of protection
+<SYNC Start=1718673><P Class=ENCC>&nbsp;
+<SYNC Start=1718708><P Class=ENCC>
+for the clear coat.
+<SYNC Start=1720208><P Class=ENCC>&nbsp;
+<SYNC Start=1723213><P Class=ENCC>
+She deserves the best.
+<SYNC Start=1725546><P Class=ENCC>&nbsp;
+<SYNC Start=1725582><P Class=ENCC>
+I'll make sure the boys at the chop shop
+<SYNC Start=1727882><P Class=ENCC>&nbsp;
+<SYNC Start=1727917><P Class=ENCC>
+are real gentle with her.
+<SYNC Start=1729350><P Class=ENCC>&nbsp;
+<SYNC Start=1733022><P Class=ENCC>
+Wait. W-why?
+<SYNC Start=1735823><P Class=ENCC>&nbsp;
+<SYNC Start=1735859><P Class=ENCC>
+No.
+<SYNC Start=1738960><P Class=ENCC>&nbsp;
+<SYNC Start=1738995><P Class=ENCC>
+You think I'd be caught dead<br>driving that thing?
+<SYNC Start=1741329><P Class=ENCC>&nbsp;
+<SYNC Start=1741364><P Class=ENCC>
+It looks like a school bus<br>for 6-year-old pimps.
+<SYNC Start=1744298><P Class=ENCC>&nbsp;
+<SYNC Start=1744334><P Class=ENCC>
+All right, shall we move this along?
+<SYNC Start=1747535><P Class=ENCC>&nbsp;
+<SYNC Start=1778301><P Class=ENCC>
+Aaron.
+<SYNC Start=1781702><P Class=ENCC>&nbsp;
+<SYNC Start=1781738><P Class=ENCC>
+Okay, there's Jeter.
+<SYNC Start=1783538><P Class=ENCC>&nbsp;
+<SYNC Start=1783573><P Class=ENCC>
+All right. Okay.
+<SYNC Start=1787041><P Class=ENCC>&nbsp;
+<SYNC Start=1794717><P Class=ENCC>
+Mantle. Mantle. There's Mantle.
+<SYNC Start=1796851><P Class=ENCC>&nbsp;
+<SYNC Start=1796886><P Class=ENCC>
+We good?
+<SYNC Start=1798085><P Class=ENCC>&nbsp;
+<SYNC Start=1798121><P Class=ENCC>
+Uh, yeah, that looks like everyone.
+<SYNC Start=1801122><P Class=ENCC>&nbsp;
+<SYNC Start=1801157><P Class=ENCC>
+Yeah, they're here.<br>?­looks like everyone's here.
+<SYNC Start=1804058><P Class=ENCC>&nbsp;
+<SYNC Start=1810133><P Class=ENCC>
+And now the other item.
+<SYNC Start=1812633><P Class=ENCC>&nbsp;
+<SYNC Start=1829152><P Class=ENCC>
+And now our business is concluded.
+<SYNC Start=1833454><P Class=ENCC>&nbsp;
+<SYNC Start=1880036><P Class=ENCC>
+You know, I can't help thinking<br>an apology was in order.
+<SYNC Start=1884271><P Class=ENCC>&nbsp;
+<SYNC Start=1887043><P Class=ENCC>
+Uh, it's... it's the police again.
+<SYNC Start=1888909><P Class=ENCC>&nbsp;
+<SYNC Start=1892715><P Class=ENCC>
+Sandpiper hasn't really responded
+<SYNC Start=1894148><P Class=ENCC>&nbsp;
+<SYNC Start=1894183><P Class=ENCC>
+to our discovery requests.
+<SYNC Start=1895316><P Class=ENCC>&nbsp;
+<SYNC Start=1895351><P Class=ENCC>
+They've buried us in paperwork,
+<SYNC Start=1897018><P Class=ENCC>&nbsp;
+<SYNC Start=1897053><P Class=ENCC>
+but nothing actually relevant<br>to the particulars in this case.
+<SYNC Start=1899820><P Class=ENCC>&nbsp;
+<SYNC Start=1899856><P Class=ENCC>
+No real surprise there.
+<SYNC Start=1901355><P Class=ENCC>&nbsp;
+<SYNC Start=1901391><P Class=ENCC>
+We may have to subpoena their bank records.
+<SYNC Start=1903524><P Class=ENCC>&nbsp;
+<SYNC Start=1903559><P Class=ENCC>
+Thank you, Erin. Jimmy.
+<SYNC Start=1905793><P Class=ENCC>&nbsp;
+<SYNC Start=1905828><P Class=ENCC>
+How we doing with client outreach?
+<SYNC Start=1907328><P Class=ENCC>&nbsp;
+<SYNC Start=1907363><P Class=ENCC>
+Oh, while we're waiting on those subpoenas,
+<SYNC Start=1909497><P Class=ENCC>&nbsp;
+<SYNC Start=1909532><P Class=ENCC>
+I'm thinking we should t<br>wrangling some of this stuff
+<SYNC Start=1911632><P Class=ENCC>&nbsp;
+<SYNC Start=1911668><P Class=ENCC>
+from the clients themselves.
+<SYNC Start=1913234><P Class=ENCC>&nbsp;
+<SYNC Start=1913269><P Class=ENCC>
+Most of these folks<br>have hard copies of everything
+<SYNC Start=1916003><P Class=ENCC>&nbsp;
+<SYNC Start=1916039><P Class=ENCC>
+going back to the Eisenhower administration.
+<SYNC Start=1918839><P Class=ENCC>&nbsp;
+<SYNC Start=1918875><P Class=ENCC>
+Of course, given some of their, uh...
+<SYNC Start=1921342><P Class=ENCC>&nbsp;
+<SYNC Start=1921377><P Class=ENCC>
+Inconsistent organizational practices,
+<SYNC Start=1924578><P Class=ENCC>&nbsp;
+<SYNC Start=1924614><P Class=ENCC>
+it's gonna be slow going.
+<SYNC Start=1926914><P Class=ENCC>&nbsp;
+<SYNC Start=1928451><P Class=ENCC>
+I'm so sorry to interrupt.
+<SYNC Start=1930084><P Class=ENCC>&nbsp;
+<SYNC Start=1930119><P Class=ENCC>
+Uh, this one lady, um, she's sweet,
+<SYNC Start=1932920><P Class=ENCC>&nbsp;
+<SYNC Start=1932955><P Class=ENCC>
+but, uh, deaf as a doornail.
+<SYNC Start=1935189><P Class=ENCC>&nbsp;
+<SYNC Start=1935224><P Class=ENCC>
+She keeps all of her paperwork<br>in, um, she keeps it...
+<SYNC Start=1939026><P Class=ENCC>&nbsp;
+<SYNC Start=1939062><P Class=ENCC>
+I'm sorry. Excuse me, Jimmy.
+<SYNC Start=1940494><P Class=ENCC>&nbsp;
+<SYNC Start=1940530><P Class=ENCC>
+I'm gonna need everybody's phone,
+<SYNC Start=1941729><P Class=ENCC>&nbsp;
+<SYNC Start=1941764><P Class=ENCC>
+key fobs, and electronics.
+<SYNC Start=1943898><P Class=ENCC>&nbsp;
+<SYNC Start=1977066><P Class=ENCC>
+Chuck. Welcome.
+<SYNC Start=1979767><P Class=ENCC>&nbsp;
+<SYNC Start=1979802><P Class=ENCC>
+Please. Have a seat.
+<SYNC Start=1981802><P Class=ENCC>&nbsp;
+<SYNC Start=1981838><P Class=ENCC>
+Don't mind me.
+<SYNC Start=1984138><P Class=ENCC>&nbsp;
+<SYNC Start=1984173><P Class=ENCC>
+Hey, everybody.
+<SYNC Start=1987374><P Class=ENCC>&nbsp;
+<SYNC Start=1992849><P Class=ENCC>
+Sorry for the interruption.
+<SYNC Start=1994448><P Class=ENCC>&nbsp;
+<SYNC Start=1994484><P Class=ENCC>
+Just pretend I'm not here.
+<SYNC Start=1996117><P Class=ENCC>&nbsp;
+<SYNC Start=1996152><P Class=ENCC>
+Happy to have you.
+<SYNC Start=1998619><P Class=ENCC>&nbsp;
+<SYNC Start=1998654><P Class=ENCC>
+Jimmy, where were we?
+<SYNC Start=2000654><P Class=ENCC>&nbsp;
+<SYNC Start=2000690><P Class=ENCC>
+Uh, yeah.
+<SYNC Start=2003791><P Class=ENCC>&nbsp;
+<SYNC Start=2003826><P Class=ENCC>
+So, I was saying...
+<SYNC Start=2006127><P Class=ENCC>&nbsp;
+<SYNC Start=2007463><P Class=ENCC>
+Um...
+<SYNC Start=2011098><P Class=ENCC>&nbsp;
+<SYNC Start=2011134><P Class=ENCC>
+Uh, getting the documents<br>from some of the clients...
+<SYNC Start=2014769><P Class=ENCC>&nbsp;
+<SYNC Start=2019976><P Class=ENCC>
+We definitely have some pack rats.
+<SYNC Start=2021642><P Class=ENCC>&nbsp;
+<SYNC Start=2021677><P Class=ENCC>
+God bless 'em.
+<SYNC Start=2023444><P Class=ENCC>&nbsp;
+<SYNC Start=2023479><P Class=ENCC>
+I was visiting Mrs. Gusdorff<br>at, uh, Sandpiper Santa Fe,
+<SYNC Start=2027014><P Class=ENCC>&nbsp;
+<SYNC Start=2027049><P Class=ENCC>
+and I spent the whole afternoon<br>sorting through just a haystack
+<SYNC Start=2031652><P Class=ENCC>&nbsp;
+<SYNC Start=2031687><P Class=ENCC>
+of recipes and half-off coupons<br>from big lots.
+<SYNC Start=2035122><P Class=ENCC>&nbsp;
+<SYNC Start=2035158><P Class=ENCC>
+But now we've got copies of<br>this woman's monthly statements
+<SYNC Start=2039126><P Class=ENCC>&nbsp;
+<SYNC Start=2039162><P Class=ENCC>
+going back to March 1997,
+<SYNC Start=2041695><P Class=ENCC>&nbsp;
+<SYNC Start=2041731><P Class=ENCC>
+so it might be a little labor-intensive,
+<SYNC Start=2044431><P Class=ENCC>&nbsp;
+<SYNC Start=2044467><P Class=ENCC>
+but our clients will always be<br>our best resource.
+<SYNC Start=2048602><P Class=ENCC>&nbsp;
+<SYNC Start=2048638><P Class=ENCC>
+Plus, they have ribbon candy.
+<SYNC Start=2050704><P Class=ENCC>&nbsp;
+<SYNC Start=2061184><P Class=ENCC>
+Jimmy.
+<SYNC Start=2062683><P Class=ENCC>&nbsp;
+<SYNC Start=2063686><P Class=ENCC>
+Hello?
+<SYNC Start=2065853><P Class=ENCC>&nbsp;
+<SYNC Start=2072895><P Class=ENCC>
+What are you doing here?
+<SYNC Start=2074295><P Class=ENCC>&nbsp;
+<SYNC Start=2074330><P Class=ENCC>
+?­My name is on the building.
+<SYNC Start=2077965><P Class=ENCC>&nbsp;
+<SYNC Start=2078000><P Class=ENCC>
+So great to have you here.
+<SYNC Start=2079533><P Class=ENCC>&nbsp;
+<SYNC Start=2079569><P Class=ENCC>
+If you need anything, I'll be in my office.
+<SYNC Start=2082002><P Class=ENCC>&nbsp;
+<SYNC Start=2088911><P Class=ENCC>
+Why are you here?
+<SYNC Start=2091111><P Class=ENCC>&nbsp;
+<SYNC Start=2092715><P Class=ENCC>
+To bear witness.
+<SYNC Start=2095049><P Class=ENCC>&nbsp;
+<SYNC Start=2106362><P Class=ENCC>
+James McGill.
+<SYNC Start=2108329><P Class=ENCC>&nbsp;
+<SYNC Start=2108364><P Class=ENCC>
+It's Ehrmantraut.
+<SYNC Start=2110364><P Class=ENCC>&nbsp;
+<SYNC Start=2110399><P Class=ENCC>
+You still morally flexible?
+<SYNC Start=2112600><P Class=ENCC>&nbsp;
+<SYNC Start=2112635><P Class=ENCC>
+If so, I might have a job for you.
+<SYNC Start=2116370><P Class=ENCC>&nbsp;
+<SYNC Start=2118207><P Class=ENCC>
+Where and when?
+<SYNC Start=2121242><P Class=ENCC>&nbsp;
+<SYNC Start=2126636><P Class=ENCC>
+Take a seat.
+<SYNC Start=2128703><P Class=ENCC>&nbsp;
+<SYNC Start=2131375><P Class=ENCC>
+Mr. Wormald, thank you<br>for coming in and talking to us.
+<SYNC Start=2134443><P Class=ENCC>&nbsp;
+<SYNC Start=2134478><P Class=ENCC>
+Yeah, of course.
+<SYNC Start=2135744><P Class=ENCC>&nbsp;
+<SYNC Start=2135779><P Class=ENCC>
+Yeah, we've been looking at the reports
+<SYNC Start=2137245><P Class=ENCC>&nbsp;
+<SYNC Start=2137281><P Class=ENCC>
+that the officers took at the scene,
+<SYNC Start=2138980><P Class=ENCC>&nbsp;
+<SYNC Start=2139016><P Class=ENCC>
+and we have a few<br>?­small follow-up questions.
+<SYNC Start=2141516><P Class=ENCC>&nbsp;
+<SYNC Start=2141552><P Class=ENCC>
+Uh, sorry to waste your time.<br>Just standard stuff.
+<SYNC Start=2144252><P Class=ENCC>&nbsp;
+<SYNC Start=2144288><P Class=ENCC>
+There's really no need<br>for a lawyer to be here.
+<SYNC Start=2145987><P Class=ENCC>&nbsp;
+<SYNC Start=2146023><P Class=ENCC>
+I'm here in more of an advisory capacity.
+<SYNC Start=2148790><P Class=ENCC>&nbsp;
+<SYNC Start=2148826><P Class=ENCC>
+Dan just, uh, wanted<br>a friendly face next to him.
+<SYNC Start=2151960><P Class=ENCC>&nbsp;
+<SYNC Start=2151995><P Class=ENCC>
+?­Well, we're all friendly here.
+<SYNC Start=2154296><P Class=ENCC>&nbsp;
+<SYNC Start=2154331><P Class=ENCC>
+Look at us. Four friends.
+<SYNC Start=2156798><P Class=ENCC>&nbsp;
+<SYNC Start=2158202><P Class=ENCC>
+We just want to get the facts straight
+<SYNC Start=2159801><P Class=ENCC>&nbsp;
+<SYNC Start=2159837><P Class=ENCC>
+so we can, um, help you get<br>your property for you.
+<SYNC Start=2162137><P Class=ENCC>&nbsp;
+<SYNC Start=2162172><P Class=ENCC>
+Yeah, you know, uh, it's fine.
+<SYNC Start=2164206><P Class=ENCC>&nbsp;
+<SYNC Start=2164241><P Class=ENCC>
+Uh, yeah, there's no need to, uh...
+<SYNC Start=2167275><P Class=ENCC>&nbsp;
+<SYNC Start=2167311><P Class=ENCC>
+No, it's just standard procedure.
+<SYNC Start=2169311><P Class=ENCC>&nbsp;
+<SYNC Start=2169346><P Class=ENCC>
+You know, ?­officers don't always get
+<SYNC Start=2170846><P Class=ENCC>&nbsp;
+<SYNC Start=2170881><P Class=ENCC>
+all the information we need in their report.
+<SYNC Start=2173215><P Class=ENCC>&nbsp;
+<SYNC Start=2173250><P Class=ENCC>
+We just want to find the guys<br>who took your baseball cards.
+<SYNC Start=2176151><P Class=ENCC>&nbsp;
+<SYNC Start=2176186><P Class=ENCC>
+Yeah, that's, uh...
+<SYNC Start=2178820><P Class=ENCC>&nbsp;
+<SYNC Start=2178856><P Class=ENCC>
+You know, my uncle<br>?­had a Ty Cobb tobacco card.
+<SYNC Start=2181556><P Class=ENCC>&nbsp;
+<SYNC Start=2181592><P Class=ENCC>
+Kept that thing behind six inches of glass
+<SYNC Start=2184626><P Class=ENCC>&nbsp;
+<SYNC Start=2184661><P Class=ENCC>
+like it was the Mona Lisa or something.
+<SYNC Start=2186361><P Class=ENCC>&nbsp;
+<SYNC Start=2186396><P Class=ENCC>
+Wow. Ty Cobb?
+<SYNC Start=2188396><P Class=ENCC>&nbsp;
+<SYNC Start=2188432><P Class=ENCC>
+Tell him to keep the lights low.
+<SYNC Start=2189831><P Class=ENCC>&nbsp;
+<SYNC Start=2189867><P Class=ENCC>
+Even artificial lighting<br>has a certain amount
+<SYNC Start=2192167><P Class=ENCC>&nbsp;
+<SYNC Start=2192202><P Class=ENCC>
+of ultraviolet radiation<br>that can, uh, you know...
+<SYNC Start=2197506><P Class=ENCC>&nbsp;
+<SYNC Start=2197541><P Class=ENCC>
+- Over the long term...<br>- Yeah.
+<SYNC Start=2199040><P Class=ENCC>&nbsp;
+<SYNC Start=2199076><P Class=ENCC>
+Um, can you just remind us
+<SYNC Start=2201343><P Class=ENCC>&nbsp;
+<SYNC Start=2201378><P Class=ENCC>
+exactly where you kept<br>your cards in the house?
+<SYNC Start=2204312><P Class=ENCC>&nbsp;
+<SYNC Start=2204348><P Class=ENCC>
+Yeah, well, uh, as I was trying<br>to say, it's no longer an issue.
+<SYNC Start=2209050><P Class=ENCC>&nbsp;
+<SYNC Start=2209086><P Class=ENCC>
+I found them.
+<SYNC Start=2211753><P Class=ENCC>&nbsp;
+<SYNC Start=2211788><P Class=ENCC>
+So you found the cards?
+<SYNC Start=2213221><P Class=ENCC>&nbsp;
+<SYNC Start=2213257><P Class=ENCC>
+Uh, yep.
+<SYNC Start=2215056><P Class=ENCC>&nbsp;
+<SYNC Start=2215092><P Class=ENCC>
+I just wanted to come down and<br>tell you, you know, in person.
+<SYNC Start=2220028><P Class=ENCC>&nbsp;
+<SYNC Start=2220063><P Class=ENCC>
+You found them?
+<SYNC Start=2221830><P Class=ENCC>&nbsp;
+<SYNC Start=2221865><P Class=ENCC>
+Where? Around the house?
+<SYNC Start=2223565><P Class=ENCC>&nbsp;
+<SYNC Start=2223600><P Class=ENCC>
+No. I, uh, I hired a private investigator,
+<SYNC Start=2226835><P Class=ENCC>&nbsp;
+<SYNC Start=2226870><P Class=ENCC>
+and he tracked them down.
+<SYNC Start=2229004><P Class=ENCC>&nbsp;
+<SYNC Start=2229039><P Class=ENCC>
+So, yeah.
+<SYNC Start=2230405><P Class=ENCC>&nbsp;
+<SYNC Start=2230440><P Class=ENCC>
+Really? So, where were they?
+<SYNC Start=2234342><P Class=ENCC>&nbsp;
+<SYNC Start=2234378><P Class=ENCC>
+You know, it's fine. It is.
+<SYNC Start=2236444><P Class=ENCC>&nbsp;
+<SYNC Start=2236480><P Class=ENCC>
+I really... I ought to get out of your hair.
+<SYNC Start=2239180><P Class=ENCC>&nbsp;
+<SYNC Start=2239216><P Class=ENCC>
+Uh, you've wasted enough time on me.
+<SYNC Start=2241850><P Class=ENCC>&nbsp;
+<SYNC Start=2241885><P Class=ENCC>
+No, no, it's... ?­it's okay. It's our job.
+<SYNC Start=2244686><P Class=ENCC>&nbsp;
+<SYNC Start=2244721><P Class=ENCC>
+We just want to get the facts right
+<SYNC Start=2246555><P Class=ENCC>&nbsp;
+<SYNC Start=2246590><P Class=ENCC>
+so we can help close this case for you.
+<SYNC Start=2248890><P Class=ENCC>&nbsp;
+<SYNC Start=2248926><P Class=ENCC>
+It's done.
+<SYNC Start=2251293><P Class=ENCC>&nbsp;
+<SYNC Start=2251328><P Class=ENCC>
+Case closed!
+<SYNC Start=2253562><P Class=ENCC>&nbsp;
+<SYNC Start=2253597><P Class=ENCC>
+I just... I know how much, you know,
+<SYNC Start=2255931><P Class=ENCC>&nbsp;
+<SYNC Start=2255941><P Class=ENCC>
+you guys have on your hands,
+<SYNC Start=2257608><P Class=ENCC>&nbsp;
+<SYNC Start=2257655><P Class=ENCC>
+like murderers and robbers<br>and gangs and stuff. I...
+<SYNC Start=2261190><P Class=ENCC>&nbsp;
+<SYNC Start=2261225><P Class=ENCC>
+Hey, Danny, ?­why don't you get some air?
+<SYNC Start=2263826><P Class=ENCC>&nbsp;
+<SYNC Start=2263861><P Class=ENCC>
+You can have some coffee.
+<SYNC Start=2265161><P Class=ENCC>&nbsp;
+<SYNC Start=2265196><P Class=ENCC>
+I'll finish up ?­with the detectives here.
+<SYNC Start=2267797><P Class=ENCC>&nbsp;
+<SYNC Start=2275239><P Class=ENCC>
+Okay, let's get down<br>to brass tacks here, guys.
+<SYNC Start=2278774><P Class=ENCC>&nbsp;
+<SYNC Start=2278810><P Class=ENCC>
+I'm guessing your two<br>fine uniformed officers
+<SYNC Start=2282011><P Class=ENCC>&nbsp;
+<SYNC Start=2282046><P Class=ENCC>
+found Mr. Wormald's little hidey hole,
+<SYNC Start=2283946><P Class=ENCC>&nbsp;
+<SYNC Start=2283982><P Class=ENCC>
+and that's why you two are so interested
+<SYNC Start=2286015><P Class=ENCC>&nbsp;
+<SYNC Start=2286050><P Class=ENCC>
+in "helping" my friend here.
+<SYNC Start=2287850><P Class=ENCC>&nbsp;
+<SYNC Start=2287885><P Class=ENCC>
+I get it.
+<SYNC Start=2289819><P Class=ENCC>&nbsp;
+<SYNC Start=2289854><P Class=ENCC>
+A hiding place in the baseboard...
+<SYNC Start=2291387><P Class=ENCC>&nbsp;
+<SYNC Start=2291422><P Class=ENCC>
+it's gonna make anyone suspicious.
+<SYNC Start=2293222><P Class=ENCC>&nbsp;
+<SYNC Start=2293257><P Class=ENCC>
+But let me assure you there's<br>nothing illegal going on here.
+<SYNC Start=2297159><P Class=ENCC>&nbsp;
+<SYNC Start=2297195><P Class=ENCC>
+Then why is he so nervous?
+<SYNC Start=2298828><P Class=ENCC>&nbsp;
+<SYNC Start=2298863><P Class=ENCC>
+Mm-hmm. 'Cause I must say, the<br>flop sweat is kind of suspect.
+<SYNC Start=2301630><P Class=ENCC>&nbsp;
+<SYNC Start=2301666><P Class=ENCC>
+We all have our secrets, don't we?
+<SYNC Start=2304633><P Class=ENCC>&nbsp;
+<SYNC Start=2304669><P Class=ENCC>
+And who among us is without sin?
+<SYNC Start=2307003><P Class=ENCC>&nbsp;
+<SYNC Start=2307038><P Class=ENCC>
+But those sins aren't all<br>of the criminal variety,
+<SYNC Start=2311040><P Class=ENCC>&nbsp;
+<SYNC Start=2311075><P Class=ENCC>
+and neither are Mr. Wormald's, okay?
+<SYNC Start=2313542><P Class=ENCC>&nbsp;
+<SYNC Start=2313578><P Class=ENCC>
+They are, however, very private.
+<SYNC Start=2315745><P Class=ENCC>&nbsp;
+<SYNC Start=2315780><P Class=ENCC>
+Private, like drug dealer, maybe?
+<SYNC Start=2318014><P Class=ENCC>&nbsp;
+<SYNC Start=2318049><P Class=ENCC>
+No, no!
+<SYNC Start=2319648><P Class=ENCC>&nbsp;
+<SYNC Start=2319684><P Class=ENCC>
+He's being evasive because<br>it's a sensitive subject,
+<SYNC Start=2322251><P Class=ENCC>&nbsp;
+<SYNC Start=2322286><P Class=ENCC>
+very delicate, and of no concern<br>to law enforcement.
+<SYNC Start=2326222><P Class=ENCC>&nbsp;
+<SYNC Start=2326257><P Class=ENCC>
+You know, as much as we'd love<br>to, um, take your word for it,
+<SYNC Start=2329492><P Class=ENCC>&nbsp;
+<SYNC Start=2329527><P Class=ENCC>
+we're gonna need a little more than that.
+<SYNC Start=2331327><P Class=ENCC>&nbsp;
+<SYNC Start=2331362><P Class=ENCC>
+All right, well, this all comes<br>down to a personal dispute.
+<SYNC Start=2335331><P Class=ENCC>&nbsp;
+<SYNC Start=2335366><P Class=ENCC>
+That's all.
+<SYNC Start=2336699><P Class=ENCC>&nbsp;
+<SYNC Start=2336734><P Class=ENCC>
+It's... it's between, um, Mr. Wormald
+<SYNC Start=2339368><P Class=ENCC>&nbsp;
+<SYNC Start=2339404><P Class=ENCC>
+and, uh... his art patron.
+<SYNC Start=2344473><P Class=ENCC>&nbsp;
+<SYNC Start=2345476><P Class=ENCC>
+- "Art patron"?<br>- Yeah.
+<SYNC Start=2347043><P Class=ENCC>&nbsp;
+<SYNC Start=2347078><P Class=ENCC>
+Uh, my client has an arrangement<br>with a wealthy gentleman
+<SYNC Start=2352448><P Class=ENCC>&nbsp;
+<SYNC Start=2352483><P Class=ENCC>
+for whom Mr. Wormald provides...
+<SYNC Start=2356752><P Class=ENCC>&nbsp;
+<SYNC Start=2356788><P Class=ENCC>
+Art in exchange for<br>?­this gentleman's generous, uh...
+<SYNC Start=2362758><P Class=ENCC>&nbsp;
+<SYNC Start=2362794><P Class=ENCC>
+We'll call it patronage.
+<SYNC Start=2365928><P Class=ENCC>&nbsp;
+<SYNC Start=2365963><P Class=ENCC>
+Art? Like... like what? Paintings?
+<SYNC Start=2369098><P Class=ENCC>&nbsp;
+<SYNC Start=2369133><P Class=ENCC>
+It's more like digital media.
+<SYNC Start=2371901><P Class=ENCC>&nbsp;
+<SYNC Start=2371936><P Class=ENCC>
+Digital media?
+<SYNC Start=2374203><P Class=ENCC>&nbsp;
+<SYNC Start=2374238><P Class=ENCC>
+He made videos for the man.
+<SYNC Start=2376906><P Class=ENCC>&nbsp;
+<SYNC Start=2376941><P Class=ENCC>
+What kind of videos?
+<SYNC Start=2378140><P Class=ENCC>&nbsp;
+<SYNC Start=2378176><P Class=ENCC>
+Private videos of an artistic nature.
+<SYNC Start=2380976><P Class=ENCC>&nbsp;
+<SYNC Start=2381012><P Class=ENCC>
+That's what was in the hiding place.
+<SYNC Start=2383145><P Class=ENCC>&nbsp;
+<SYNC Start=2383181><P Class=ENCC>
+That's what it's for.
+<SYNC Start=2384814><P Class=ENCC>&nbsp;
+<SYNC Start=2387085><P Class=ENCC>
+So, this art patron stole the<br>videos and the baseball cards?
+<SYNC Start=2391921><P Class=ENCC>&nbsp;
+<SYNC Start=2391956><P Class=ENCC>
+Well, there was a misunderstanding.
+<SYNC Start=2393956><P Class=ENCC>&nbsp;
+<SYNC Start=2393991><P Class=ENCC>
+I mean, uh, ?­call it creative differences.
+<SYNC Start=2396492><P Class=ENCC>&nbsp;
+<SYNC Start=2396527><P Class=ENCC>
+Artists are volatile creatures.
+<SYNC Start=2399261><P Class=ENCC>&nbsp;
+<SYNC Start=2400865><P Class=ENCC>
+Guys, this all comes down<br>to just a lovers' spat, okay?
+<SYNC Start=2405734><P Class=ENCC>&nbsp;
+<SYNC Start=2405770><P Class=ENCC>
+Two consenting adults had a falling out.
+<SYNC Start=2408437><P Class=ENCC>&nbsp;
+<SYNC Start=2408473><P Class=ENCC>
+That happens.
+<SYNC Start=2409738><P Class=ENCC>&nbsp;
+<SYNC Start=2409774><P Class=ENCC>
+And the, uh, "patron" stole the videos
+<SYNC Start=2413175><P Class=ENCC>&nbsp;
+<SYNC Start=2413211><P Class=ENCC>
+and the baseball cards, uh,<br>to "make a point," I guess.
+<SYNC Start=2415945><P Class=ENCC>&nbsp;
+<SYNC Start=2415980><P Class=ENCC>
+But the headline here is, it's all settled.
+<SYNC Start=2419248><P Class=ENCC>&nbsp;
+<SYNC Start=2419283><P Class=ENCC>
+Hearts have mended,
+<SYNC Start=2420583><P Class=ENCC>&nbsp;
+<SYNC Start=2420618><P Class=ENCC>
+and Mr. Wormald will not<br>be pressing charges.
+<SYNC Start=2424453><P Class=ENCC>&nbsp;
+<SYNC Start=2424489><P Class=ENCC>
+What was on these videos?
+<SYNC Start=2427857><P Class=ENCC>&nbsp;
+<SYNC Start=2427892><P Class=ENCC>
+- They were private.<br>- You've said that.
+<SYNC Start=2430493><P Class=ENCC>&nbsp;
+<SYNC Start=2431996><P Class=ENCC>
+They were videos intended<br>to titillate the senses.
+<SYNC Start=2438702><P Class=ENCC>&nbsp;
+<SYNC Start=2439637><P Class=ENCC>
+- Okay, so porn.<br>- Not... no.
+<SYNC Start=2442138><P Class=ENCC>&nbsp;
+<SYNC Start=2442173><P Class=ENCC>
+Not as such.
+<SYNC Start=2443873><P Class=ENCC>&nbsp;
+<SYNC Start=2443908><P Class=ENCC>
+Technically, they would be<br>categorized as fetish videos.
+<SYNC Start=2447343><P Class=ENCC>&nbsp;
+<SYNC Start=2447378><P Class=ENCC>
+But nothing illegal.
+<SYNC Start=2449178><P Class=ENCC>&nbsp;
+<SYNC Start=2449213><P Class=ENCC>
+Just a man... a fully<br>clothed man, I might add...
+<SYNC Start=2451981><P Class=ENCC>&nbsp;
+<SYNC Start=2452016><P Class=ENCC>
+just all by himself.
+<SYNC Start=2454183><P Class=ENCC>&nbsp;
+<SYNC Start=2454218><P Class=ENCC>
+Just... just Mr. Wormald<br>fully clothed, uh, yeah.
+<SYNC Start=2460489><P Class=ENCC>&nbsp;
+<SYNC Start=2460525><P Class=ENCC>
+So... all right.
+<SYNC Start=2463359><P Class=ENCC>&nbsp;
+<SYNC Start=2463394><P Class=ENCC>
+So, fully clothed Mr. Wormald<br>by himself doing what?
+<SYNC Start=2470366><P Class=ENCC>&nbsp;
+<SYNC Start=2471002><P Class=ENCC>
+Yeah, come on, man. What?
+<SYNC Start=2472434><P Class=ENCC>&nbsp;
+<SYNC Start=2474205><P Class=ENCC>
+Squat cobbler.
+<SYNC Start=2477706><P Class=ENCC>&nbsp;
+<SYNC Start=2477742><P Class=ENCC>
+What's a s-squat cobbler?
+<SYNC Start=2481310><P Class=ENCC>&nbsp;
+<SYNC Start=2481345><P Class=ENCC>
+Squat cobbler.<br>?­You know what squat cobbler is.
+<SYNC Start=2483712><P Class=ENCC>&nbsp;
+<SYNC Start=2483748><P Class=ENCC>
+No, I don't... I don't know<br>what a squat cobbler is.
+<SYNC Start=2485548><P Class=ENCC>&nbsp;
+<SYNC Start=2485583><P Class=ENCC>
+No, me neither. What is it?
+<SYNC Start=2487983><P Class=ENCC>&nbsp;
+<SYNC Start=2488019><P Class=ENCC>
+What? And you two guys are cops?
+<SYNC Start=2490052><P Class=ENCC>&nbsp;
+<SYNC Start=2490087><P Class=ENCC>
+Hoboken squat cobbler.
+<SYNC Start=2493689><P Class=ENCC>&nbsp;
+<SYNC Start=2493724><P Class=ENCC>
+Full moon moon-pie.
+<SYNC Start=2496258><P Class=ENCC>&nbsp;
+<SYNC Start=2496294><P Class=ENCC>
+Boston cream splat.
+<SYNC Start=2500029><P Class=ENCC>&nbsp;
+<SYNC Start=2500064><P Class=ENCC>
+Seriously?
+<SYNC Start=2501263><P Class=ENCC>&nbsp;
+<SYNC Start=2501299><P Class=ENCC>
+Simple-Simon-the-ass-man.
+<SYNC Start=2504099><P Class=ENCC>&nbsp;
+<SYNC Start=2504135><P Class=ENCC>
+Dutch apple ass.
+<SYNC Start=2505534><P Class=ENCC>&nbsp;
+<SYNC Start=2505570><P Class=ENCC>
+Guys, am I not speaking English here?
+<SYNC Start=2508604><P Class=ENCC>&nbsp;
+<SYNC Start=2508639><P Class=ENCC>
+What the hell is a squat cobbler?!
+<SYNC Start=2510105><P Class=ENCC>&nbsp;
+<SYNC Start=2510141><P Class=ENCC>
+It's when a man sits in pie!
+<SYNC Start=2512007><P Class=ENCC>&nbsp;
+<SYNC Start=2512043><P Class=ENCC>
+He sits in a pie!
+<SYNC Start=2514910><P Class=ENCC>&nbsp;
+<SYNC Start=2514946><P Class=ENCC>
+And he... he wiggles around.
+<SYNC Start=2518614><P Class=ENCC>&nbsp;
+<SYNC Start=2518649><P Class=ENCC>
+Maybe it's like hellmann's mayonnaise.
+<SYNC Start=2522084><P Class=ENCC>&nbsp;
+<SYNC Start=2522119><P Class=ENCC>
+It has a different name west of the rockies.
+<SYNC Start=2524286><P Class=ENCC>&nbsp;
+<SYNC Start=2524322><P Class=ENCC>
+I don't know. But, uh, technically,
+<SYNC Start=2526088><P Class=ENCC>&nbsp;
+<SYNC Start=2526123><P Class=ENCC>
+he does a crybaby squat, so there's tears,
+<SYNC Start=2528958><P Class=ENCC>&nbsp;
+<SYNC Start=2528993><P Class=ENCC>
+which makes it more specialized.
+<SYNC Start=2531026><P Class=ENCC>&nbsp;
+<SYNC Start=2531062><P Class=ENCC>
+Not all pie sitters cry.
+<SYNC Start=2533128><P Class=ENCC>&nbsp;
+<SYNC Start=2533164><P Class=ENCC>
+But I'm gonna tell you something.
+<SYNC Start=2534730><P Class=ENCC>&nbsp;
+<SYNC Start=2534765><P Class=ENCC>
+This guy is a regular Julianne Moore
+<SYNC Start=2537866><P Class=ENCC>&nbsp;
+<SYNC Start=2537902><P Class=ENCC>
+once he gets ?­the waterworks cranked up.
+<SYNC Start=2539101><P Class=ENCC>&nbsp;
+<SYNC Start=2539136><P Class=ENCC>
+Pies?
+<SYNC Start=2541070><P Class=ENCC>&nbsp;
+<SYNC Start=2541105><P Class=ENCC>
+What? Like apple?
+<SYNC Start=2542404><P Class=ENCC>&nbsp;
+<SYNC Start=2542440><P Class=ENCC>
+Guys, I'm not ?­the<br>filmmaker here, all right?
+<SYNC Start=2544106><P Class=ENCC>&nbsp;
+<SYNC Start=2544141><P Class=ENCC>
+Banana cream. I... uh, peach.
+<SYNC Start=2548544><P Class=ENCC>&nbsp;
+<SYNC Start=2548579><P Class=ENCC>
+Oh, and there... And there<br>is a costume involved.
+<SYNC Start=2552081><P Class=ENCC>&nbsp;
+<SYNC Start=2554819><P Class=ENCC>
+You got to be shitting us.
+<SYNC Start=2556986><P Class=ENCC>&nbsp;
+<SYNC Start=2557021><P Class=ENCC>
+Yeah, like I would make this up.
+<SYNC Start=2560422><P Class=ENCC>&nbsp;
+<SYNC Start=2560458><P Class=ENCC>
+Hey, the world is<br>?­a rich tapestry, my friends.
+<SYNC Start=2564827><P Class=ENCC>&nbsp;
+<SYNC Start=2566197><P Class=ENCC>
+But trust me on this.
+<SYNC Start=2567563><P Class=ENCC>&nbsp;
+<SYNC Start=2567598><P Class=ENCC>
+You don't want to see it.
+<SYNC Start=2569665><P Class=ENCC>&nbsp;
+<SYNC Start=2577308><P Class=ENCC>
+So, uh, we're good, right?
+<SYNC Start=2580409><P Class=ENCC>&nbsp;
+<SYNC Start=2580444><P Class=ENCC>
+Yeah. Great.
+<SYNC Start=2583946><P Class=ENCC>&nbsp;
+<SYNC Start=2583981><P Class=ENCC>
+There is, however, one little,<br>tiny hanging Chad.
+<SYNC Start=2586615><P Class=ENCC>&nbsp;
+<SYNC Start=2586651><P Class=ENCC>
+Well, what? What Chad?
+<SYNC Start=2588651><P Class=ENCC>&nbsp;
+<SYNC Start=2588686><P Class=ENCC>
+You're gonna have to make a video.
+<SYNC Start=2590719><P Class=ENCC>&nbsp;
+<SYNC Start=2614011><P Class=ENCC>
+Wait. Wait.
+<SYNC Start=2616345><P Class=ENCC>&nbsp;
+<SYNC Start=2616380><P Class=ENCC>
+So he eats the pies or just sits in them?
+<SYNC Start=2619515><P Class=ENCC>&nbsp;
+<SYNC Start=2619550><P Class=ENCC>
+Both. Whatever you want.
+<SYNC Start=2621717><P Class=ENCC>&nbsp;
+<SYNC Start=2621752><P Class=ENCC>
+Which comes first?
+<SYNC Start=2623552><P Class=ENCC>&nbsp;
+<SYNC Start=2623587><P Class=ENCC>
+Uh, it's dealer's choice.
+<SYNC Start=2625387><P Class=ENCC>&nbsp;
+<SYNC Start=2625423><P Class=ENCC>
+That's where the crying comes in, right?
+<SYNC Start=2627489><P Class=ENCC>&nbsp;
+<SYNC Start=2627525><P Class=ENCC>
+That's a safe bet.
+<SYNC Start=2629325><P Class=ENCC>&nbsp;
+<SYNC Start=2630761><P Class=ENCC>
+How the hell ?­did you come up with that?
+<SYNC Start=2632895><P Class=ENCC>&nbsp;
+<SYNC Start=2632930><P Class=ENCC>
+If you gave me a million years,
+<SYNC Start=2634863><P Class=ENCC>&nbsp;
+<SYNC Start=2634899><P Class=ENCC>
+I still would not have come up with that.
+<SYNC Start=2636565><P Class=ENCC>&nbsp;
+<SYNC Start=2636600><P Class=ENCC>
+The muse.
+<SYNC Start=2637633><P Class=ENCC>&nbsp;
+<SYNC Start=2637668><P Class=ENCC>
+She speaks through me.
+<SYNC Start=2639168><P Class=ENCC>&nbsp;
+<SYNC Start=2639203><P Class=ENCC>
+I am but a humble vessel.
+<SYNC Start=2641303><P Class=ENCC>&nbsp;
+<SYNC Start=2641339><P Class=ENCC>
+And they bought it?
+<SYNC Start=2642571><P Class=ENCC>&nbsp;
+<SYNC Start=2642606><P Class=ENCC>
+- Yeah.<br>- Wow.
+<SYNC Start=2644340><P Class=ENCC>&nbsp;
+<SYNC Start=2644375><P Class=ENCC>
+I've heard some far-out<br>scenarios used to sow doubt,
+<SYNC Start=2645974><P Class=ENCC>&nbsp;
+<SYNC Start=2646010><P Class=ENCC>
+but this definitely takes the cake.
+<SYNC Start=2647743><P Class=ENCC>&nbsp;
+<SYNC Start=2647778><P Class=ENCC>
+Kim, Kim, Kim.
+<SYNC Start=2649912><P Class=ENCC>&nbsp;
+<SYNC Start=2649947><P Class=ENCC>
+- Takes the pie.<br>- Yeah.
+<SYNC Start=2651080><P Class=ENCC>&nbsp;
+<SYNC Start=2651115><P Class=ENCC>
+Sorry.
+<SYNC Start=2652548><P Class=ENCC>&nbsp;
+<SYNC Start=2652583><P Class=ENCC>
+I should just jump off the roof right now.
+<SYNC Start=2654249><P Class=ENCC>&nbsp;
+<SYNC Start=2654285><P Class=ENCC>
+Yeah, you should feel bad about yourself.
+<SYNC Start=2656819><P Class=ENCC>&nbsp;
+<SYNC Start=2656854><P Class=ENCC>
+Jesus, can you tell a story.
+<SYNC Start=2659088><P Class=ENCC>&nbsp;
+<SYNC Start=2659123><P Class=ENCC>
+Well, to be fair, I think it was<br>the video that clinched it.
+<SYNC Start=2663926><P Class=ENCC>&nbsp;
+<SYNC Start=2663961><P Class=ENCC>
+What video?
+<SYNC Start=2666195><P Class=ENCC>&nbsp;
+<SYNC Start=2666230><P Class=ENCC>
+Wait, wait. You...<br>?­You actually made a video?
+<SYNC Start=2669231><P Class=ENCC>&nbsp;
+<SYNC Start=2669266><P Class=ENCC>
+I got to say, in the end,<br>ol' Dan really committed.
+<SYNC Start=2672101><P Class=ENCC>&nbsp;
+<SYNC Start=2672136><P Class=ENCC>
+I believed the tears.
+<SYNC Start=2674570><P Class=ENCC>&nbsp;
+<SYNC Start=2674605><P Class=ENCC>
+Um, this is a leftover prop. It was extra.
+<SYNC Start=2679408><P Class=ENCC>&nbsp;
+<SYNC Start=2679443><P Class=ENCC>
+I wasn't sure how many takes<br>we would need, so I over-bought,
+<SYNC Start=2682945><P Class=ENCC>&nbsp;
+<SYNC Start=2682980><P Class=ENCC>
+but I promise you,<br>?­untouched by human buttocks.
+<SYNC Start=2686949><P Class=ENCC>&nbsp;
+<SYNC Start=2686984><P Class=ENCC>
+You fabricated evidence?
+<SYNC Start=2689685><P Class=ENCC>&nbsp;
+<SYNC Start=2689720><P Class=ENCC>
+I made a video.
+<SYNC Start=2691453><P Class=ENCC>&nbsp;
+<SYNC Start=2691489><P Class=ENCC>
+Not exactly evidence.
+<SYNC Start=2693122><P Class=ENCC>&nbsp;
+<SYNC Start=2693157><P Class=ENCC>
+You used it to exonerate a client.
+<SYNC Start=2694757><P Class=ENCC>&nbsp;
+<SYNC Start=2694792><P Class=ENCC>
+You used falsified evidence<br>to exonerate a client.
+<SYNC Start=2698861><P Class=ENCC>&nbsp;
+<SYNC Start=2698896><P Class=ENCC>
+Mm, I think you're splitting hairs.
+<SYNC Start=2700429><P Class=ENCC>&nbsp;
+<SYNC Start=2700464><P Class=ENCC>
+I'm not splitting hairs.
+<SYNC Start=2702064><P Class=ENCC>&nbsp;
+<SYNC Start=2702099><P Class=ENCC>
+What if Davis & Main find out<br>you faked evidence?
+<SYNC Start=2706268><P Class=ENCC>&nbsp;
+<SYNC Start=2706303><P Class=ENCC>
+It wasn't a Davis & Main client.
+<SYNC Start=2708036><P Class=ENCC>&nbsp;
+<SYNC Start=2708072><P Class=ENCC>
+It was some nothing, little pro-bono thing.
+<SYNC Start=2710773><P Class=ENCC>&nbsp;
+<SYNC Start=2710808><P Class=ENCC>
+It was off the clock. It was,<br>uh, totally my own thing.
+<SYNC Start=2712908><P Class=ENCC>&nbsp;
+<SYNC Start=2712943><P Class=ENCC>
+Why?
+<SYNC Start=2713976><P Class=ENCC>&nbsp;
+<SYNC Start=2716847><P Class=ENCC>
+Why would you risk<br>?­the best job you've ever had
+<SYNC Start=2718947><P Class=ENCC>&nbsp;
+<SYNC Start=2718983><P Class=ENCC>
+for some pro-bono case?
+<SYNC Start=2720916><P Class=ENCC>&nbsp;
+<SYNC Start=2720951><P Class=ENCC>
+I was doing a favor for a friend.
+<SYNC Start=2722785><P Class=ENCC>&nbsp;
+<SYNC Start=2722820><P Class=ENCC>
+Risking disbarment?<br>That's... that's some friend.
+<SYNC Start=2725721><P Class=ENCC>&nbsp;
+<SYNC Start=2725756><P Class=ENCC>
+It's fine! It... it worked out.
+<SYNC Start=2728223><P Class=ENCC>&nbsp;
+<SYNC Start=2728259><P Class=ENCC>
+Davis & Main are none the wiser.
+<SYNC Start=2730092><P Class=ENCC>&nbsp;
+<SYNC Start=2730127><P Class=ENCC>
+Jimmy, ?­you're playing with fire here.
+<SYNC Start=2731960><P Class=ENCC>&nbsp;
+<SYNC Start=2731996><P Class=ENCC>
+I didn't see you complaining
+<SYNC Start=2734596><P Class=ENCC>&nbsp;
+<SYNC Start=2734632><P Class=ENCC>
+when, um, Ken the douchebag paid<br>our bar bill the other night.
+<SYNC Start=2737900><P Class=ENCC>&nbsp;
+<SYNC Start=2737935><P Class=ENCC>
+No, that was a little bit<br>of rule breaking right there.
+<SYNC Start=2740636><P Class=ENCC>&nbsp;
+<SYNC Start=2740671><P Class=ENCC>
+And if I remember correctly, you liked it.
+<SYNC Start=2743272><P Class=ENCC>&nbsp;
+<SYNC Start=2743307><P Class=ENCC>
+A lot.
+<SYNC Start=2744573><P Class=ENCC>&nbsp;
+<SYNC Start=2744608><P Class=ENCC>
+That is so not the same thing.
+<SYNC Start=2746909><P Class=ENCC>&nbsp;
+<SYNC Start=2746944><P Class=ENCC>
+How? What's the difference?
+<SYNC Start=2748343><P Class=ENCC>&nbsp;
+<SYNC Start=2748379><P Class=ENCC>
+That had nothing to do with work.
+<SYNC Start=2749912><P Class=ENCC>&nbsp;
+<SYNC Start=2749947><P Class=ENCC>
+And we were just... just screwing around.
+<SYNC Start=2752915><P Class=ENCC>&nbsp;
+<SYNC Start=2752950><P Class=ENCC>
+This?
+<SYNC Start=2753949><P Class=ENCC>&nbsp;
+<SYNC Start=2753984><P Class=ENCC>
+Fabricating evidence.
+<SYNC Start=2756819><P Class=ENCC>&nbsp;
+<SYNC Start=2756854><P Class=ENCC>
+Jimmy, ?­this could really hurt you.
+<SYNC Start=2758754><P Class=ENCC>&nbsp;
+<SYNC Start=2758789><P Class=ENCC>
+If they find out, if you get caught...
+<SYNC Start=2760656><P Class=ENCC>&nbsp;
+<SYNC Start=2760691><P Class=ENCC>
+It... they're never gonna find out.
+<SYNC Start=2762758><P Class=ENCC>&nbsp;
+<SYNC Start=2762793><P Class=ENCC>
+Seriously? You sound like<br>every dumb criminal out there.
+<SYNC Start=2765093><P Class=ENCC>&nbsp;
+<SYNC Start=2765129><P Class=ENCC>
+If you keep this up, they will find out.
+<SYNC Start=2767696><P Class=ENCC>&nbsp;
+<SYNC Start=2769667><P Class=ENCC>
+For what, Jimmy?
+<SYNC Start=2773602><P Class=ENCC>&nbsp;
+<SYNC Start=2773637><P Class=ENCC>
+What is the point?
+<SYNC Start=2775838><P Class=ENCC>&nbsp;
+<SYNC Start=2792056><P Class=ENCC>
+I cannot hear ?­about this sort of thing.
+<SYNC Start=2795824><P Class=ENCC>&nbsp;
+<SYNC Start=2795860><P Class=ENCC>
+Ever again. Okay?
+<SYNC Start=2798594><P Class=ENCC>&nbsp;
+<SYNC Start=2802433><P Class=ENCC>
+I mean it, Jimmy.
+<SYNC Start=2805100><P Class=ENCC>&nbsp;
+<SYNC Start=2807271><P Class=ENCC>
+You won't.
+<SYNC Start=2809204><P Class=ENCC>&nbsp;
+</BODY>
+</SAMI>

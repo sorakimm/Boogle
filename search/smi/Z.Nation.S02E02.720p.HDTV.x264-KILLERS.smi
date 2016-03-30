@@ -1,0 +1,3184 @@
+﻿<SAMI>
+<HEAD>
+<TITLE>제목을 적어 주세요.</TITLE>
+<STYLE TYPE="text/css">
+<!--
+P { margin-left:2pt; margin-right:2pt; margin-bottom:1pt;
+    margin-top:1pt; font-size:20pt; text-align:center;
+    font-family:Arial, Sans-serif; font-weight:bold; color:white;
+    }
+.KR { Name:Korean; lang:ko-KR; SAMIType:CC; }
+.ENCC { Name:English; lang:en-US; }
+-->
+</STYLE>
+<!--
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+-->
+</HEAD>
+<BODY>
+<SYNC Start=0><P Class=KR>
+<i>Previously on Z Nation.</i>
+<SYNC Start=1200><P Class=KR>&nbsp;
+<SYNC Start=1252><P Class=KR>
+<i>This is Citizen Z.</i>
+<SYNC Start=2451><P Class=KR>&nbsp;
+<SYNC Start=2503><P Class=KR>
+<i>There is a man traveling among you.<br>
+His name is Murphy.</i>
+<SYNC Start=5107><P Class=KR>&nbsp;
+<SYNC Start=5207><P Class=KR>
+Your name wouldn't happen to be Murphy,<br>
+would it?
+<SYNC Start=6673><P Class=KR>&nbsp;
+<SYNC Start=6792><P Class=KR>
+<i>His blood has the antibodies<br>
+to create a vaccine.</i>
+<SYNC Start=10127><P Class=KR>&nbsp;
+<SYNC Start=10179><P Class=KR>
+The Centers for Disease Control<br>
+is offering an enormous bounty
+<SYNC Start=13347><P Class=KR>&nbsp;
+<SYNC Start=13382><P Class=KR>
+for Murphy's safe delivery.
+<SYNC Start=14548><P Class=KR>&nbsp;
+<SYNC Start=14600><P Class=KR>
+<i>Keep alive at all costs. Repeat.<br>
+Keep him alive at all costs.</i>
+<SYNC Start=18885><P Class=KR>&nbsp;
+<SYNC Start=18985><P Class=KR>
+Well what do we do now Chief?
+<SYNC Start=20317><P Class=KR>&nbsp;
+<SYNC Start=20369><P Class=KR>
+We are going to find Murphy,<br>
+get him to California,
+<SYNC Start=23454><P Class=KR>&nbsp;
+<SYNC Start=23489><P Class=KR>
+and they are going to make a<br>
+vaccine and save the world.
+<SYNC Start=26206><P Class=KR>&nbsp;
+<SYNC Start=26242><P Class=KR>
+And I'm gonna kill any bounty<br>
+hunter that gets in my way.
+<SYNC Start=29109><P Class=KR>&nbsp;
+<SYNC Start=45061><P Class=KR>
+<i>[wind blowing]</i>
+<SYNC Start=51181><P Class=KR>&nbsp;
+<SYNC Start=63746><P Class=KR>
+<i>[blowing wind continues]</i>
+<SYNC Start=68248><P Class=KR>&nbsp;
+<SYNC Start=105571><P Class=KR>
+[growling]
+<SYNC Start=106620><P Class=KR>&nbsp;
+<SYNC Start=106656><P Class=KR>
+[thud]
+<SYNC Start=107321><P Class=KR>&nbsp;
+<SYNC Start=107323><P Class=KR>
+[growling continues]
+<SYNC Start=113994><P Class=KR>&nbsp;
+<SYNC Start=113996><P Class=KR>
+[breathing heavily]
+<SYNC Start=120668><P Class=KR>&nbsp;
+<SYNC Start=127343><P Class=KR>
+(Warren) Murphy!
+<SYNC Start=128809><P Class=KR>&nbsp;
+<SYNC Start=129428><P Class=KR>
+차고야.
+<SYNC Start=130344><P Class=KR>&nbsp;
+<SYNC Start=132682><P Class=KR>
+[breathing heavily]
+<SYNC Start=133681><P Class=KR>&nbsp;
+<SYNC Start=134016><P Class=KR>
+[breathing heavily]
+<SYNC Start=136934><P Class=KR>&nbsp;
+<SYNC Start=138854><P Class=KR>
+[breathing heavily]
+<SYNC Start=141071><P Class=KR>&nbsp;
+<SYNC Start=145077><P Class=KR>
+[gunshot]
+<SYNC Start=145526><P Class=KR>&nbsp;
+<SYNC Start=145578><P Class=KR>
+[glass shattering]
+<SYNC Start=146276><P Class=KR>&nbsp;
+<SYNC Start=148280><P Class=KR>
+[gunshot]
+<SYNC Start=149113><P Class=KR>&nbsp;
+<SYNC Start=149165><P Class=KR>
+[glass shattering] [tires squealing]
+<SYNC Start=150664><P Class=KR>&nbsp;
+<SYNC Start=150700><P Class=KR>
+[crash]
+<SYNC Start=152116><P Class=KR>&nbsp;
+<SYNC Start=154870><P Class=KR>
+[gunshot]
+<SYNC Start=155202><P Class=KR>&nbsp;
+<SYNC Start=155955><P Class=KR>
+[gunshot]
+<SYNC Start=156370><P Class=KR>&nbsp;
+<SYNC Start=157790><P Class=KR>
+[gunshot]
+<SYNC Start=158706><P Class=KR>&nbsp;
+<SYNC Start=158758><P Class=KR>
+[breathing heavily]
+<SYNC Start=160207><P Class=KR>&nbsp;
+<SYNC Start=161210><P Class=KR>
+[moaning]
+<SYNC Start=162676><P Class=KR>&nbsp;
+<SYNC Start=163929><P Class=KR>
+[gunshot]
+<SYNC Start=164678><P Class=KR>&nbsp;
+<SYNC Start=165047><P Class=KR>
+[gunshot]
+<SYNC Start=166213><P Class=KR>&nbsp;
+<SYNC Start=167600><P Class=KR>
+좋아 이거 정말이지 실제군
+<SYNC Start=170934><P Class=KR>&nbsp;
+<SYNC Start=171387><P Class=KR>
+[car engine running]
+<SYNC Start=175055><P Class=KR>&nbsp;
+<SYNC Start=176892><P Class=KR>
+[car engine running]
+<SYNC Start=181228><P Class=KR>&nbsp;
+<SYNC Start=181564><P Class=KR>
+[gun cocking]
+<SYNC Start=182896><P Class=KR>&nbsp;
+<SYNC Start=183282><P Class=KR>
+조심해!
+<SYNC Start=184565><P Class=KR>&nbsp;
+<SYNC Start=185534><P Class=KR>
+[gunshot]
+<SYNC Start=186233><P Class=KR>&nbsp;
+<SYNC Start=187236><P Class=KR>
+조심해, 꼬맹아!
+<SYNC Start=188235><P Class=KR>&nbsp;
+<SYNC Start=188237><P Class=KR>
+[gunshot]
+<SYNC Start=189069><P Class=KR>&nbsp;
+<SYNC Start=189321><P Class=KR>
+[gunshot] [glass shattering]
+<SYNC Start=190037><P Class=KR>&nbsp;
+<SYNC Start=190072><P Class=KR>
+10K! Murphy!
+<SYNC Start=192239><P Class=KR>&nbsp;
+<SYNC Start=193826><P Class=KR>
+Ugh! 이거 뭔일이야?!
+<SYNC Start=195292><P Class=KR>&nbsp;
+<SYNC Start=195327><P Class=KR>
+이거 머피가 다들 풀어 논거야!
+<SYNC Start=197077><P Class=KR>&nbsp;
+<SYNC Start=197129><P Class=KR>
+[gun cocking]
+<SYNC Start=198045><P Class=KR>&nbsp;
+<SYNC Start=198080><P Class=KR>
+[growling]
+<SYNC Start=199413><P Class=KR>&nbsp;
+<SYNC Start=200549><P Class=KR>
+[growling]
+<SYNC Start=202382><P Class=KR>&nbsp;
+<SYNC Start=202418><P Class=KR>
+내 생각에는 이제 슬슬
+<SYNC Start=203584><P Class=KR>&nbsp;
+<SYNC Start=203586><P Class=KR>
+가야 할때군!
+<SYNC Start=205385><P Class=KR>&nbsp;
+<SYNC Start=205421><P Class=KR>
+[growling]
+<SYNC Start=207755><P Class=KR>&nbsp;
+<SYNC Start=207757><P Class=KR>
+[tires squealing]
+<SYNC Start=209223><P Class=KR>&nbsp;
+<SYNC Start=223739><P Class=KR>
+[explosion]
+<SYNC Start=228909><P Class=KR>&nbsp;
+<SYNC Start=242458><P Class=KR>
+<i>[electric guitar<br>
+theme music plays]</i>
+<SYNC Start=248128><P Class=KR>&nbsp;
+<SYNC Start=248180><P Class=KR>
+<i>♪ Have mercy,</i>
+<SYNC Start=249963><P Class=KR>&nbsp;
+<SYNC Start=249965><P Class=KR>
+<i>[gunshots]</i>
+<SYNC Start=251465><P Class=KR>&nbsp;
+<SYNC Start=252134><P Class=KR>
+<i>♪ Oh, have mercy. ♪</i>
+<SYNC Start=255254><P Class=KR>&nbsp;
+<SYNC Start=255278><P Class=KR>
+- Sync and corrected by <font color="829EE0">TheDelta</font> -<br>
+- www.addic7ed.com -
+<SYNC Start=257845><P Class=KR>&nbsp;
+<SYNC Start=272154><P Class=KR>
+<i>[muffled gunfire and yelling]</i>
+<SYNC Start=274071><P Class=KR>&nbsp;
+<SYNC Start=274456><P Class=KR>
+아주 좋아,
+<SYNC Start=275656><P Class=KR>&nbsp;
+<SYNC Start=275658><P Class=KR>
+헤어지자. Earl, 넌 나랑 같이 가.
+<SYNC Start=277991><P Class=KR>&nbsp;
+<SYNC Start=278043><P Class=KR>
+남은 사람들, 뭘 해야 하는지 알지.
+<SYNC Start=281545><P Class=KR>&nbsp;
+<SYNC Start=282414><P Class=KR>
+절대로 실수를 하지마.
+<SYNC Start=284081><P Class=KR>&nbsp;
+<SYNC Start=285634><P Class=KR>
+너희들 뭔 일 있음 알지 알아서 해
+<SYNC Start=289303><P Class=KR>&nbsp;
+<SYNC Start=289338><P Class=KR>
+그리고 사냥꾼들한테서 도망치고
+<SYNC Start=291638><P Class=KR>&nbsp;
+<SYNC Start=291674><P Class=KR>
+날 믿어,
+<SYNC Start=293340><P Class=KR>&nbsp;
+<SYNC Start=293342><P Class=KR>
+그를 찾게 된다면 알지 우리가<br>
+갈꺼야.
+<SYNC Start=297811><P Class=KR>&nbsp;
+<SYNC Start=297847><P Class=KR>
+그리고 우리가 잡을꺼야
+<SYNC Start=299980><P Class=KR>&nbsp;
+<SYNC Start=300015><P Class=KR>
+절대 굶지 말고.
+<SYNC Start=303016><P Class=KR>&nbsp;
+<SYNC Start=303068><P Class=KR>
+알았어?
+<SYNC Start=305018><P Class=KR>&nbsp;
+<SYNC Start=305020><P Class=KR>
+절대 욕심 내지 말고 알아들어.
+<SYNC Start=308522><P Class=KR>&nbsp;
+<SYNC Start=308574><P Class=KR>
+자, Murphy를 찾게 되다면 어떻게 할지 알지?
+<SYNC Start=312693><P Class=KR>&nbsp;
+<SYNC Start=313078><P Class=KR>
+<i>[muffled gunfire and<br>
+yelling continue]</i>
+<SYNC Start=317698><P Class=KR>&nbsp;
+<SYNC Start=318250><P Class=KR>
+Wes?
+<SYNC Start=319533><P Class=KR>&nbsp;
+<SYNC Start=320452><P Class=KR>
+우리가 그 놈 무릎을 박살낼꺼야.
+<SYNC Start=322536><P Class=KR>&nbsp;
+<SYNC Start=322588><P Class=KR>
+아니면?
+<SYNC Start=323787><P Class=KR>&nbsp;
+<SYNC Start=325124><P Class=KR>
+발목이라도.
+<SYNC Start=326206><P Class=KR>&nbsp;
+<SYNC Start=326208><P Class=KR>
+좋아 쉬엄해.
+<SYNC Start=327624><P Class=KR>&nbsp;
+<SYNC Start=327676><P Class=KR>
+[laughing] 그녀석이 못 뛰도록<br>
+만들꺼야.
+<SYNC Start=330460><P Class=KR>&nbsp;
+<SYNC Start=330512><P Class=KR>
+[all laughing]
+<SYNC Start=333046><P Class=KR>&nbsp;
+<SYNC Start=333465><P Class=KR>
+그러곤?
+<SYNC Start=334598><P Class=KR>&nbsp;
+<SYNC Start=334633><P Class=KR>
+그 누구도 그를 못 알아보게 만들어야지.
+<SYNC Start=336967><P Class=KR>&nbsp;
+<SYNC Start=337019><P Class=KR>
+그래 내말이.
+<SYNC Start=339353><P Class=KR>&nbsp;
+<SYNC Start=339388><P Class=KR>
+다른 질문은 없어?
+<SYNC Start=341271><P Class=KR>&nbsp;
+<SYNC Start=341307><P Class=KR>
+(all) 잡는거야.
+<SYNC Start=342356><P Class=KR>&nbsp;
+<SYNC Start=342391><P Class=KR>
+목적지까지 가는거야.
+<SYNC Start=344024><P Class=KR>&nbsp;
+<SYNC Start=344059><P Class=KR>
+형제들이여 사냥 가자!
+<SYNC Start=347561><P Class=KR>&nbsp;
+<SYNC Start=348147><P Class=KR>
+<i>[muffled gunfire and<br>
+yelling continue]</i>
+<SYNC Start=351231><P Class=KR>&nbsp;
+<SYNC Start=353068><P Class=KR>
+[breathing heavily]
+<SYNC Start=363794><P Class=KR>&nbsp;
+<SYNC Start=369752><P Class=KR>
+- [heavy breathing continues]<br>
+- <i>[muffled gunfire and yelling continue]</i>
+<SYNC Start=374221><P Class=KR>&nbsp;
+<SYNC Start=384099><P Class=KR>
+- [growling]<br>
+- [fence rattling]
+<SYNC Start=387267><P Class=KR>&nbsp;
+<SYNC Start=388604><P Class=KR>
+- [growling]<br>
+- [fence rattling]
+<SYNC Start=391104><P Class=KR>&nbsp;
+<SYNC Start=392825><P Class=KR>
+- [growling]<br>
+- [fence rattling]
+<SYNC Start=395909><P Class=KR>&nbsp;
+<SYNC Start=405421><P Class=KR>
+<i>[muffled gunfire and<br>
+yelling continue]</i>
+<SYNC Start=408956><P Class=KR>&nbsp;
+<SYNC Start=418801><P Class=KR>
+[growling]
+<SYNC Start=420050><P Class=KR>&nbsp;
+<SYNC Start=420102><P Class=KR>
+[gunshot]
+<SYNC Start=420634><P Class=KR>&nbsp;
+<SYNC Start=421136><P Class=KR>
+[growling]
+<SYNC Start=421468><P Class=KR>&nbsp;
+<SYNC Start=423806><P Class=KR>
+[snarling]
+<SYNC Start=426640><P Class=KR>&nbsp;
+<SYNC Start=427192><P Class=KR>
+젠장! 젠장! 집으로 가자!
+<SYNC Start=428475><P Class=KR>&nbsp;
+<SYNC Start=432314><P Class=KR>
+<i>[growling]</i>
+<SYNC Start=435148><P Class=KR>&nbsp;
+<SYNC Start=435150><P Class=KR>
+[growling]
+<SYNC Start=436149><P Class=KR>&nbsp;
+<SYNC Start=436819><P Class=KR>
+[gunshot]
+<SYNC Start=437534><P Class=KR>&nbsp;
+<SYNC Start=438287><P Class=KR>
+[growling]
+<SYNC Start=439119><P Class=KR>&nbsp;
+<SYNC Start=439154><P Class=KR>
+[thwap]
+<SYNC Start=439820><P Class=KR>&nbsp;
+<SYNC Start=439872><P Class=KR>
+<i>[muffled gunfire continues]</i>
+<SYNC Start=445242><P Class=KR>&nbsp;
+<SYNC Start=450165><P Class=KR>
+[snarling]
+<SYNC Start=453000><P Class=KR>&nbsp;
+<SYNC Start=453002><P Class=KR>
+좀 가져다 줘.
+<SYNC Start=454835><P Class=KR>&nbsp;
+<SYNC Start=456088><P Class=KR>
+[splorch]
+<SYNC Start=457054><P Class=KR>&nbsp;
+<SYNC Start=464813><P Class=KR>
+실례합니다, 아줌마?
+<SYNC Start=466980><P Class=KR>&nbsp;
+<SYNC Start=467016><P Class=KR>
+궁금 한데요 같이 좀 갈 수 있을<br>
+까요...
+<SYNC Start=469766><P Class=KR>&nbsp;
+<SYNC Start=475324><P Class=KR>
+[gasping]
+<SYNC Start=476606><P Class=KR>&nbsp;
+<SYNC Start=480863><P Class=KR>
+[gasping]
+<SYNC Start=483030><P Class=KR>&nbsp;
+<SYNC Start=488037><P Class=KR>
+[gasping]
+<SYNC Start=489536><P Class=KR>&nbsp;
+<SYNC Start=490039><P Class=KR>
+[growling]
+<SYNC Start=492255><P Class=KR>&nbsp;
+<SYNC Start=492291><P Class=KR>
+[munching]
+<SYNC Start=498378><P Class=KR>&nbsp;
+<SYNC Start=501216><P Class=KR>
+[munching]
+<SYNC Start=502883><P Class=KR>&nbsp;
+<SYNC Start=506221><P Class=KR>
+[thud]
+<SYNC Start=507137><P Class=KR>&nbsp;
+<SYNC Start=508057><P Class=KR>
+[groaning]
+<SYNC Start=508605><P Class=KR>&nbsp;
+<SYNC Start=508640><P Class=KR>
+오! 오! 병신 머저리!
+<SYNC Start=511858><P Class=KR>&nbsp;
+<SYNC Start=525074><P Class=KR>
+[rocket launching]
+<SYNC Start=526373><P Class=KR>&nbsp;
+<SYNC Start=526625><P Class=KR>
+[loud explosion]
+<SYNC Start=528658><P Class=KR>&nbsp;
+<SYNC Start=532915><P Class=KR>
+[breathing heavily]
+<SYNC Start=533663><P Class=KR>&nbsp;
+<SYNC Start=538720><P Class=KR>
+[growling]
+<SYNC Start=542055><P Class=KR>&nbsp;
+<SYNC Start=580655><P Class=KR>
+<i>[muffled gunfire]</i>
+<SYNC Start=582655><P Class=KR>&nbsp;
+<SYNC Start=586878><P Class=KR>
+<i>[muffled gunfire continues]</i>
+<SYNC Start=588995><P Class=KR>&nbsp;
+<SYNC Start=598106><P Class=KR>
+[gunfire]
+<SYNC Start=600757><P Class=KR>&nbsp;
+<SYNC Start=602310><P Class=KR>
+야 이 자식아 날 놀라게 했어.
+<SYNC Start=604143><P Class=KR>&nbsp;
+<SYNC Start=604179><P Class=KR>
+난 어디에?
+<SYNC Start=605011><P Class=KR>&nbsp;
+<SYNC Start=605013><P Class=KR>
+걱정하지마 우리가 챙겨줄께.
+<SYNC Start=606346><P Class=KR>&nbsp;
+<SYNC Start=606348><P Class=KR>
+[gunfire]
+<SYNC Start=608598><P Class=KR>&nbsp;
+<SYNC Start=608650><P Class=KR>
+뭐야?!
+<SYNC Start=609516><P Class=KR>&nbsp;
+<SYNC Start=609518><P Class=KR>
+우리가 챙겨준다고! 너 말이 안들려!
+<SYNC Start=611351><P Class=KR>&nbsp;
+<SYNC Start=611403><P Class=KR>
+이런 미친!
+<SYNC Start=612318><P Class=KR>&nbsp;
+<SYNC Start=612354><P Class=KR>
+[gunfire]
+<SYNC Start=617190><P Class=KR>&nbsp;
+<SYNC Start=617192><P Class=KR>
+왜 여기로 쏘는거야 도대체가<br>
+뭔 일이야?!
+<SYNC Start=619492><P Class=KR>&nbsp;
+<SYNC Start=619528><P Class=KR>
+머피가 황금알을 품은 거위거든!
+<SYNC Start=621528><P Class=KR>&nbsp;
+<SYNC Start=621530><P Class=KR>
+[gunfire continues]
+<SYNC Start=625365><P Class=KR>&nbsp;
+<SYNC Start=625834><P Class=KR>
+오도 가도 못하네.
+<SYNC Start=627033><P Class=KR>&nbsp;
+<SYNC Start=627035><P Class=KR>
+소구모 그롭 대형으로 전환하구선<br>
+계속 가자고.
+<SYNC Start=629502><P Class=KR>&nbsp;
+<SYNC Start=629538><P Class=KR>
+10K, 너 괜찮어?
+<SYNC Start=631371><P Class=KR>&nbsp;
+<SYNC Start=631423><P Class=KR>
+뭐?!
+<SYNC Start=632255><P Class=KR>&nbsp;
+<SYNC Start=632290><P Class=KR>
+내 생각에 귀머거리야.
+<SYNC Start=633423><P Class=KR>&nbsp;
+<SYNC Start=633458><P Class=KR>
+[gunfire continues]
+<SYNC Start=634541><P Class=KR>&nbsp;
+<SYNC Start=634543><P Class=KR>
+Doc. 너가 그를 좀 챙겨.
+<SYNC Start=636042><P Class=KR>&nbsp;
+<SYNC Start=636094><P Class=KR>
+너희가 골목으로 진입하고 동북쪽으로<br>
+펼쳐서 진형을 짜
+<SYNC Start=639596><P Class=KR>&nbsp;
+<SYNC Start=639631><P Class=KR>
+Mack and Addy, 너흰 서쪽을 맡아.
+<SYNC Start=641548><P Class=KR>&nbsp;
+<SYNC Start=641550><P Class=KR>
+우리가 그를 포위하는거야
+<SYNC Start=642682><P Class=KR>&nbsp;
+<SYNC Start=642717><P Class=KR>
+그...그게 사냥꾼들은 어찌 해야 하나 ?
+<SYNC Start=644350><P Class=KR>&nbsp;
+<SYNC Start=644386><P Class=KR>
+그냥 죽여! [gun cocking]
+<SYNC Start=645935><P Class=KR>&nbsp;
+<SYNC Start=645971><P Class=KR>
+내 신호에. 우리가 커버를 한다.
+<SYNC Start=648438><P Class=KR>&nbsp;
+<SYNC Start=651476><P Class=KR>
+[gunfire continues]
+<SYNC Start=654777><P Class=KR>&nbsp;
+<SYNC Start=655730><P Class=KR>
+Three, two, one.
+<SYNC Start=658481><P Class=KR>&nbsp;
+<SYNC Start=658533><P Class=KR>
+Go!
+<SYNC Start=659782><P Class=KR>&nbsp;
+<SYNC Start=660201><P Class=KR>
+[gunfire]
+<SYNC Start=664237><P Class=KR>&nbsp;
+<SYNC Start=664656><P Class=KR>
+[screaming] Ahhh!
+<SYNC Start=666072><P Class=KR>&nbsp;
+<SYNC Start=666408><P Class=KR>
+Addy!
+<SYNC Start=666739><P Class=KR>&nbsp;
+<SYNC Start=666791><P Class=KR>
+[moaning]
+<SYNC Start=668074><P Class=KR>&nbsp;
+<SYNC Start=668126><P Class=KR>
+너 맞았어?
+<SYNC Start=668958><P Class=KR>&nbsp;
+<SYNC Start=668994><P Class=KR>
+[moaning] 아니 난 괜찮어. 괜찮어.
+<SYNC Start=671377><P Class=KR>&nbsp;
+<SYNC Start=671413><P Class=KR>
+좋아 내가 커버 해줄께!
+<SYNC Start=673212><P Class=KR>&nbsp;
+<SYNC Start=673248><P Class=KR>
+Okay! Okay!
+<SYNC Start=673963><P Class=KR>&nbsp;
+<SYNC Start=673999><P Class=KR>
+좋아, 준비 된거지?
+<SYNC Start=675081><P Class=KR>&nbsp;
+<SYNC Start=675083><P Class=KR>
+[screaming]
+<SYNC Start=676332><P Class=KR>&nbsp;
+<SYNC Start=676718><P Class=KR>
+준비?
+<SYNC Start=677634><P Class=KR>&nbsp;
+<SYNC Start=680839><P Class=KR>
+[gunfire]
+<SYNC Start=683473><P Class=KR>&nbsp;
+<SYNC Start=684593><P Class=KR>
+[breathing heavily]
+<SYNC Start=688478><P Class=KR>&nbsp;
+<SYNC Start=688847><P Class=KR>
+[muffled gunfire]
+<SYNC Start=694434><P Class=KR>&nbsp;
+<SYNC Start=702611><P Class=KR>
+[gun cocking]
+<SYNC Start=703493><P Class=KR>&nbsp;
+<SYNC Start=706781><P Class=KR>
+[snarling]
+<SYNC Start=707830><P Class=KR>&nbsp;
+<SYNC Start=707866><P Class=KR>
+너희 정말 나를 힘들게.
+<SYNC Start=710283><P Class=KR>&nbsp;
+<SYNC Start=710785><P Class=KR>
+[snarling]
+<SYNC Start=713119><P Class=KR>&nbsp;
+<SYNC Start=713338><P Class=KR>
+이쪽으로.
+<SYNC Start=714871><P Class=KR>&nbsp;
+<SYNC Start=715123><P Class=KR>
+[snarling]
+<SYNC Start=717540><P Class=KR>&nbsp;
+<SYNC Start=718543><P Class=KR>
+[breathing heavily]
+<SYNC Start=723546><P Class=KR>&nbsp;
+<SYNC Start=723598><P Class=KR>
+너희 이걸 어떻게 무시를 할 수 있어<br>
+<i> 이게 </i> 뭔데?
+<SYNC Start=727884><P Class=KR>&nbsp;
+<SYNC Start=727936><P Class=KR>
+심각해.<br>
+이거 생각 할 수도 없네.
+<SYNC Start=730603><P Class=KR>&nbsp;
+<SYNC Start=730639><P Class=KR>
+[snarling]
+<SYNC Start=732805><P Class=KR>&nbsp;
+<SYNC Start=732807><P Class=KR>
+[breathing heavily] 아 정말 고마워.
+<SYNC Start=735892><P Class=KR>&nbsp;
+<SYNC Start=736277><P Class=KR>
+근데 여긴 내 구역이고,<br>
+저긴 너 구역인거야.
+<SYNC Start=739946><P Class=KR>&nbsp;
+<SYNC Start=739981><P Class=KR>
+[snarling]
+<SYNC Start=741698><P Class=KR>&nbsp;
+<SYNC Start=741733><P Class=KR>
+시간을 줘바.
+<SYNC Start=743533><P Class=KR>&nbsp;
+<SYNC Start=744235><P Class=KR>
+내가 필요한거야.
+<SYNC Start=745735><P Class=KR>&nbsp;
+<SYNC Start=745787><P Class=KR>
+[snarling]
+<SYNC Start=747153><P Class=KR>&nbsp;
+<SYNC Start=749157><P Class=KR>
+Well
+<SYNC Start=751074><P Class=KR>&nbsp;
+<SYNC Start=751126><P Class=KR>
+[snarling]
+<SYNC Start=754494><P Class=KR>&nbsp;
+<SYNC Start=754829><P Class=KR>
+Hello, handsome.
+<SYNC Start=757413><P Class=KR>&nbsp;
+<SYNC Start=757465><P Class=KR>
+<i>[growling]</i>
+<SYNC Start=761718><P Class=KR>&nbsp;
+<SYNC Start=761753><P Class=KR>
+[gunfire]
+<SYNC Start=765588><P Class=KR>&nbsp;
+<SYNC Start=765640><P Class=KR>
+[growling continues]
+<SYNC Start=768174><P Class=KR>&nbsp;
+<SYNC Start=773348><P Class=KR>
+Murphy?
+<SYNC Start=774180><P Class=KR>&nbsp;
+<SYNC Start=774182><P Class=KR>
+이거 원체.
+<SYNC Start=775014><P Class=KR>&nbsp;
+<SYNC Start=775066><P Class=KR>
+날 따라와.
+<SYNC Start=776983><P Class=KR>&nbsp;
+<SYNC Start=782657><P Class=KR>
+Okay. Okay. 저 길로.
+<SYNC Start=784073><P Class=KR>&nbsp;
+<SYNC Start=784109><P Class=KR>
+Okay.
+<SYNC Start=785324><P Class=KR>&nbsp;
+<SYNC Start=792450><P Class=KR>
+[breathing heavily]
+<SYNC Start=796035><P Class=KR>&nbsp;
+<SYNC Start=796871><P Class=KR>
+<i>[yelling in Russian]</i>
+<SYNC Start=800039><P Class=KR>&nbsp;
+<SYNC Start=800041><P Class=KR>
+Go.
+<SYNC Start=800757><P Class=KR>&nbsp;
+<SYNC Start=801042><P Class=KR>
+<i>[yelling continues]</i>
+<SYNC Start=805261><P Class=KR>&nbsp;
+<SYNC Start=805296><P Class=KR>
+<i>[muffled gunfire]</i>
+<SYNC Start=808464><P Class=KR>&nbsp;
+<SYNC Start=815940><P Class=KR>
+<i>[muffled gunfire]</i>
+<SYNC Start=819392><P Class=KR>&nbsp;
+<SYNC Start=827452><P Class=KR>
+<i>[muffled gunfire continues]</i>
+<SYNC Start=830036><P Class=KR>&nbsp;
+<SYNC Start=851059><P Class=KR>
+[speaking loudly] Murphy?!
+<SYNC Start=852391><P Class=KR>&nbsp;
+<SYNC Start=852427><P Class=KR>
+[whispering] Shhh.<br>
+이게 내가 생각한거야. 준비 됐지? 가.
+<SYNC Start=858397><P Class=KR>&nbsp;
+<SYNC Start=905647><P Class=KR>
+- [growling]<br>
+- [struggling]
+<SYNC Start=917323><P Class=KR>&nbsp;
+<SYNC Start=917992><P Class=KR>
+[multiple gunshots]
+<SYNC Start=919742><P Class=KR>&nbsp;
+<SYNC Start=919794><P Class=KR>
+- [groaning]<br>
+- [growling]
+<SYNC Start=925248><P Class=KR>&nbsp;
+<SYNC Start=925300><P Class=KR>
+[screaming] Mack!
+<SYNC Start=926799><P Class=KR>&nbsp;
+<SYNC Start=927335><P Class=KR>
+[screaming] Mack!
+<SYNC Start=928467><P Class=KR>&nbsp;
+<SYNC Start=928803><P Class=KR>
+[screaming] Mack!
+<SYNC Start=930253><P Class=KR>&nbsp;
+<SYNC Start=930505><P Class=KR>
+[growling]
+<SYNC Start=931470><P Class=KR>&nbsp;
+<SYNC Start=931506><P Class=KR>
+[screaming] Mack!
+<SYNC Start=933339><P Class=KR>&nbsp;
+<SYNC Start=933341><P Class=KR>
+[breathing heavily]
+<SYNC Start=935258><P Class=KR>&nbsp;
+<SYNC Start=940014><P Class=KR>
+[growling]
+<SYNC Start=940563><P Class=KR>&nbsp;
+<SYNC Start=940598><P Class=KR>
+[gunshot]
+<SYNC Start=941397><P Class=KR>&nbsp;
+<SYNC Start=942317><P Class=KR>
+[breathing heavily]
+<SYNC Start=944567><P Class=KR>&nbsp;
+<SYNC Start=945687><P Class=KR>
+가자.
+<SYNC Start=947153><P Class=KR>&nbsp;
+<SYNC Start=949073><P Class=KR>
+[breathing heavily]
+<SYNC Start=950189><P Class=KR>&nbsp;
+<SYNC Start=962618><P Class=KR>
+<i>[man screaming in<br>
+distance] 가자고!</i>
+<SYNC Start=965118><P Class=KR>&nbsp;
+<SYNC Start=965120><P Class=KR>
+<i>[muffled gunfire]</i>
+<SYNC Start=966620><P Class=KR>&nbsp;
+<SYNC Start=966672><P Class=KR>
+<i>[man screaming in<br>
+distance] 여기에 있다!</i>
+<SYNC Start=969006><P Class=KR>&nbsp;
+<SYNC Start=980553><P Class=KR>
+[muffled screaming and gunfire]
+<SYNC Start=982636><P Class=KR>&nbsp;
+<SYNC Start=1046869><P Class=KR>
+[growling]
+<SYNC Start=1051872><P Class=KR>&nbsp;
+<SYNC Start=1051924><P Class=KR>
+[gunshot]
+<SYNC Start=1052873><P Class=KR>&nbsp;
+<SYNC Start=1053342><P Class=KR>
+[growling]
+<SYNC Start=1055208><P Class=KR>&nbsp;
+<SYNC Start=1055961><P Class=KR>
+[growling] [grunting]
+<SYNC Start=1062049><P Class=KR>&nbsp;
+<SYNC Start=1063886><P Class=KR>
+[growling]
+<SYNC Start=1069389><P Class=KR>&nbsp;
+<SYNC Start=1069441><P Class=KR>
+[slam]
+<SYNC Start=1070440><P Class=KR>&nbsp;
+<SYNC Start=1071944><P Class=KR>
+[growling]
+<SYNC Start=1078565><P Class=KR>&nbsp;
+<SYNC Start=1078617><P Class=KR>
+[taser clicking]
+<SYNC Start=1081735><P Class=KR>&nbsp;
+<SYNC Start=1082738><P Class=KR>
+[growling]
+<SYNC Start=1087240><P Class=KR>&nbsp;
+<SYNC Start=1091830><P Class=KR>
+[gunshot]
+<SYNC Start=1092746><P Class=KR>&nbsp;
+<SYNC Start=1093048><P Class=KR>
+[thud]
+<SYNC Start=1093830><P Class=KR>&nbsp;
+<SYNC Start=1105894><P Class=KR>
+<i>[muffled gunfire]</i>
+<SYNC Start=1109062><P Class=KR>&nbsp;
+<SYNC Start=1112651><P Class=KR>
+[gunshot]
+<SYNC Start=1113517><P Class=KR>&nbsp;
+<SYNC Start=1115771><P Class=KR>
+[gun cocking]
+<SYNC Start=1116820><P Class=KR>&nbsp;
+<SYNC Start=1117656><P Class=KR>
+[gunshot]
+<SYNC Start=1118438><P Class=KR>&nbsp;
+<SYNC Start=1122995><P Class=KR>
+병신 같은 년
+<SYNC Start=1124695><P Class=KR>&nbsp;
+<SYNC Start=1124780><P Class=KR>
+[gun cocking]
+<SYNC Start=1126163><P Class=KR>&nbsp;
+<SYNC Start=1129118><P Class=KR>
+아냐 정말이지
+<SYNC Start=1130951><P Class=KR>&nbsp;
+<SYNC Start=1135257><P Class=KR>
+<i>[gunfire in distance]</i>
+<SYNC Start=1137341><P Class=KR>&nbsp;
+<SYNC Start=1147519><P Class=KR>
+Hey!
+<SYNC Start=1149102><P Class=KR>&nbsp;
+<SYNC Start=1149471><P Class=KR>
+기다려 봐바.
+<SYNC Start=1150470><P Class=KR>&nbsp;
+<SYNC Start=1150522><P Class=KR>
+내가 그를 잡았다!
+<SYNC Start=1152022><P Class=KR>&nbsp;
+<SYNC Start=1152558><P Class=KR>
+천천히 이 놈아!
+<SYNC Start=1154558><P Class=KR>&nbsp;
+<SYNC Start=1158113><P Class=KR>
+[breathing heavily]
+<SYNC Start=1166787><P Class=KR>&nbsp;
+<SYNC Start=1168791><P Class=KR>
+Hey, 너!
+<SYNC Start=1170540><P Class=KR>&nbsp;
+<SYNC Start=1176415><P Class=KR>
+내가 널 아프게 않아, 친구야!
+<SYNC Start=1178882><P Class=KR>&nbsp;
+<SYNC Start=1178917><P Class=KR>
+<i>[snarling]</i>
+<SYNC Start=1181334><P Class=KR>&nbsp;
+<SYNC Start=1181387><P Class=KR>
+이거 좋아!
+<SYNC Start=1183420><P Class=KR>&nbsp;
+<SYNC Start=1192981><P Class=KR>
+너 확실해, 친구?
+<SYNC Start=1194898><P Class=KR>&nbsp;
+<SYNC Start=1202157><P Class=KR>
+Hey, 너희들!
+<SYNC Start=1203857><P Class=KR>&nbsp;
+<SYNC Start=1204743><P Class=KR>
+여기에 그가 있어!
+<SYNC Start=1206693><P Class=KR>&nbsp;
+<SYNC Start=1209198><P Class=KR>
+너와 나뿐인 것 같어, 친구.
+<SYNC Start=1211865><P Class=KR>&nbsp;
+<SYNC Start=1239728><P Class=KR>
+<i>(Doc) [muffled] 그가<br>
+이 빌딩에 있어.</i>
+<SYNC Start=1241061><P Class=KR>&nbsp;
+<SYNC Start=1241063><P Class=KR>
+<i>(10K) [muffled] 이거?!<br>
+</i>
+<SYNC Start=1242646><P Class=KR>&nbsp;
+<SYNC Start=1242698><P Class=KR>
+[muffled talking continues]
+<SYNC Start=1247734><P Class=KR>&nbsp;
+<SYNC Start=1253909><P Class=KR>
+[muffled yelling]
+<SYNC Start=1257744><P Class=KR>&nbsp;
+<SYNC Start=1258997><P Class=KR>
+우린 그를 여기로 데려와야 해.
+<SYNC Start=1261748><P Class=KR>&nbsp;
+<SYNC Start=1261800><P Class=KR>
+근데 내 생각엔 후퇴로를 알어.<br>
+좀 더 안전 할꺼야.
+<SYNC Start=1265752><P Class=KR>&nbsp;
+<SYNC Start=1265804><P Class=KR>
+너 내 말을 알아 들어?
+<SYNC Start=1267921><P Class=KR>&nbsp;
+<SYNC Start=1267973><P Class=KR>
+[yelling] 뭐라고?!
+<SYNC Start=1268972><P Class=KR>&nbsp;
+<SYNC Start=1269007><P Class=KR>
+[gunshot]
+<SYNC Start=1269589><P Class=KR>&nbsp;
+<SYNC Start=1269641><P Class=KR>
+오 주여!
+<SYNC Start=1270474><P Class=KR>&nbsp;
+<SYNC Start=1270509><P Class=KR>
+이거 완전 미친 짓이야!
+<SYNC Start=1272175><P Class=KR>&nbsp;
+<SYNC Start=1272227><P Class=KR>
+우린 여기서 뭔일을 하는걸까?
+<SYNC Start=1274678><P Class=KR>&nbsp;
+<SYNC Start=1274730><P Class=KR>
+그게 과장 된 질문인 것 같어.<br>
+좋아 준비 된거야?
+<SYNC Start=1277848><P Class=KR>&nbsp;
+<SYNC Start=1277900><P Class=KR>
+커버 해줄께. 넌 뛰어. One. Two. Three. Go.
+<SYNC Start=1283103><P Class=KR>&nbsp;
+<SYNC Start=1283105><P Class=KR>
+[gunshot]
+<SYNC Start=1283937><P Class=KR>&nbsp;
+<SYNC Start=1283939><P Class=KR>
+젠장.
+<SYNC Start=1284905><P Class=KR>&nbsp;
+<SYNC Start=1284940><P Class=KR>
+[gun cocking]
+<SYNC Start=1285939><P Class=KR>&nbsp;
+<SYNC Start=1285991><P Class=KR>
+누군가 우릴 꼼짝 못하게 하네.
+<SYNC Start=1287774><P Class=KR>&nbsp;
+<SYNC Start=1293499><P Class=KR>
+[gunshot]
+<SYNC Start=1294281><P Class=KR>&nbsp;
+<SYNC Start=1294283><P Class=KR>
+[gun cocking]
+<SYNC Start=1295782><P Class=KR>&nbsp;
+<SYNC Start=1295784><P Class=KR>
+Sniper.
+<SYNC Start=1296950><P Class=KR>&nbsp;
+<SYNC Start=1296952><P Class=KR>
+좋군.
+<SYNC Start=1298451><P Class=KR>&nbsp;
+<SYNC Start=1305794><P Class=KR>
+이층이야.
+<SYNC Start=1307627><P Class=KR>&nbsp;
+<SYNC Start=1307679><P Class=KR>
+오른쪽 일곱번째 창문.
+<SYNC Start=1309012><P Class=KR>&nbsp;
+<SYNC Start=1309047><P Class=KR>
+너가 그를 쓰러트릴 것 같아?
+<SYNC Start=1310680><P Class=KR>&nbsp;
+<SYNC Start=1310716><P Class=KR>
+[growling]
+<SYNC Start=1313216><P Class=KR>&nbsp;
+<SYNC Start=1314052><P Class=KR>
+[gunshot]
+<SYNC Start=1314634><P Class=KR>&nbsp;
+<SYNC Start=1315304><P Class=KR>
+[gun cocking]
+<SYNC Start=1316303><P Class=KR>&nbsp;
+<SYNC Start=1316972><P Class=KR>
+[gunshot]
+<SYNC Start=1318138><P Class=KR>&nbsp;
+<SYNC Start=1318190><P Class=KR>
+[gun cocking]
+<SYNC Start=1319139><P Class=KR>&nbsp;
+<SYNC Start=1319942><P Class=KR>
+[gunshot]
+<SYNC Start=1320774><P Class=KR>&nbsp;
+<SYNC Start=1321810><P Class=KR>
+[gunshot]
+<SYNC Start=1322442><P Class=KR>&nbsp;
+<SYNC Start=1322477><P Class=KR>
+- [glass breaking]<br>
+- [groaning]
+<SYNC Start=1323643><P Class=KR>&nbsp;
+<SYNC Start=1323896><P Class=KR>
+[breathing heavily]
+<SYNC Start=1329950><P Class=KR>&nbsp;
+<SYNC Start=1331403><P Class=KR>
+<i>[mufflled gunfire]</i>
+<SYNC Start=1333069><P Class=KR>&nbsp;
+<SYNC Start=1338160><P Class=KR>
+<i>[muffled gunfire and<br>
+yelling continue]</i>
+<SYNC Start=1344497><P Class=KR>&nbsp;
+<SYNC Start=1368190><P Class=KR>
+[whispering] 이거 선한 사람들을<br>
+위한 기회인건가
+<SYNC Start=1370023><P Class=KR>&nbsp;
+<SYNC Start=1370075><P Class=KR>
+나라를 보호하는 사람들에게.
+<SYNC Start=1372776><P Class=KR>&nbsp;
+<SYNC Start=1375364><P Class=KR>
+<i>[muffled screaming]</i>
+<SYNC Start=1378031><P Class=KR>&nbsp;
+<SYNC Start=1391179><P Class=KR>
+[click]
+<SYNC Start=1391845><P Class=KR>&nbsp;
+<SYNC Start=1391930><P Class=KR>
+[click]
+<SYNC Start=1392629><P Class=KR>&nbsp;
+<SYNC Start=1392714><P Class=KR>
+젠장할!
+<SYNC Start=1393964><P Class=KR>&nbsp;
+<SYNC Start=1395717><P Class=KR>
+[groaning and grunting]
+<SYNC Start=1401521><P Class=KR>&nbsp;
+<SYNC Start=1411233><P Class=KR>
+어디로 갈까?
+<SYNC Start=1413316><P Class=KR>&nbsp;
+<SYNC Start=1414069><P Class=KR>
+Come on!
+<SYNC Start=1415068><P Class=KR>&nbsp;
+<SYNC Start=1415120><P Class=KR>
+너 이걸 원해?!
+<SYNC Start=1416569><P Class=KR>&nbsp;
+<SYNC Start=1424913><P Class=KR>
+[crash]
+<SYNC Start=1426212><P Class=KR>&nbsp;
+<SYNC Start=1431586><P Class=KR>
+[hit]
+<SYNC Start=1432719><P Class=KR>&nbsp;
+<SYNC Start=1433505><P Class=KR>
+[hit]
+<SYNC Start=1434587><P Class=KR>&nbsp;
+<SYNC Start=1436141><P Class=KR>
+[groaning and grunting]
+<SYNC Start=1441678><P Class=KR>&nbsp;
+<SYNC Start=1441730><P Class=KR>
+[hit]
+<SYNC Start=1442429><P Class=KR>&nbsp;
+<SYNC Start=1444349><P Class=KR>
+[hit]
+<SYNC Start=1445265><P Class=KR>&nbsp;
+<SYNC Start=1447486><P Class=KR>
+[groaning and grunting]
+<SYNC Start=1450737><P Class=KR>&nbsp;
+<SYNC Start=1461867><P Class=KR>
+[hit]
+<SYNC Start=1462916><P Class=KR>&nbsp;
+<SYNC Start=1465120><P Class=KR>
+[hit]
+<SYNC Start=1466336><P Class=KR>&nbsp;
+<SYNC Start=1468290><P Class=KR>
+[groaning and grunting]
+<SYNC Start=1472375><P Class=KR>&nbsp;
+<SYNC Start=1479301><P Class=KR>
+[gasping]
+<SYNC Start=1481134><P Class=KR>&nbsp;
+<SYNC Start=1498070><P Class=KR>
+[breathing heavily]
+<SYNC Start=1500570><P Class=KR>&nbsp;
+<SYNC Start=1500622><P Class=KR>
+<i>[thinking] 이거 충분<br>
+한거가 그렇지</i>
+<SYNC Start=1503740><P Class=KR>&nbsp;
+<SYNC Start=1503992><P Class=KR>
+<i>뭐야?</i>
+<SYNC Start=1506326><P Class=KR>&nbsp;
+<SYNC Start=1510716><P Class=KR>
+<i>이게 다야?</i>
+<SYNC Start=1512582><P Class=KR>&nbsp;
+<SYNC Start=1513218><P Class=KR>
+<i>마지막 발악이군.</i>
+<SYNC Start=1516469><P Class=KR>&nbsp;
+<SYNC Start=1517339><P Class=KR>
+<i>방안 온도를 봐야하는데.</i>
+<SYNC Start=1520590><P Class=KR>&nbsp;
+<SYNC Start=1522010><P Class=KR>
+<i>Oh hey.</i>
+<SYNC Start=1523593><P Class=KR>&nbsp;
+<SYNC Start=1523845><P Class=KR>
+<i>야. 이거 지붕 위에<br>
+있는 것 같아</i>
+<SYNC Start=1527230><P Class=KR>&nbsp;
+<SYNC Start=1527432><P Class=KR>
+<i>Hey, man! 그냥 쏴!</i>
+<SYNC Start=1530066><P Class=KR>&nbsp;
+<SYNC Start=1530402><P Class=KR>
+[gasping]
+<SYNC Start=1531518><P Class=KR>&nbsp;
+<SYNC Start=1531770><P Class=KR>
+[thump]
+<SYNC Start=1532685><P Class=KR>&nbsp;
+<SYNC Start=1535490><P Class=KR>
+[slice]
+<SYNC Start=1535855><P Class=KR>&nbsp;
+<SYNC Start=1535857><P Class=KR>
+[gasping]
+<SYNC Start=1537023><P Class=KR>&nbsp;
+<SYNC Start=1543365><P Class=KR>
+[breathing heavily]
+<SYNC Start=1549702><P Class=KR>&nbsp;
+<SYNC Start=1549755><P Class=KR>
+[gurgling]
+<SYNC Start=1553339><P Class=KR>&nbsp;
+<SYNC Start=1556628><P Class=KR>
+[crash]
+<SYNC Start=1557594><P Class=KR>&nbsp;
+<SYNC Start=1557629><P Class=KR>
+뭐야, Doc?
+<SYNC Start=1559045><P Class=KR>&nbsp;
+<SYNC Start=1560215><P Class=KR>
+Murphy!
+<SYNC Start=1562215><P Class=KR>&nbsp;
+<SYNC Start=1563051><P Class=KR>
+[breathing heavily]
+<SYNC Start=1564350><P Class=KR>&nbsp;
+<SYNC Start=1564386><P Class=KR>
+What?
+<SYNC Start=1565635><P Class=KR>&nbsp;
+<SYNC Start=1565854><P Class=KR>
+너 괜찮아?
+<SYNC Start=1566469><P Class=KR>&nbsp;
+<SYNC Start=1566521><P Class=KR>
+Murphy, 그가 여기에 있어.
+<SYNC Start=1567520><P Class=KR>&nbsp;
+<SYNC Start=1567556><P Class=KR>
+그가 빌딩안에 있는거야?
+<SYNC Start=1568188><P Class=KR>&nbsp;
+<SYNC Start=1568223><P Class=KR>
+[gasping] 그녀석 가버렸는걸.
+<SYNC Start=1570356><P Class=KR>&nbsp;
+<SYNC Start=1574813><P Class=KR>
+[growling]
+<SYNC Start=1575395><P Class=KR>&nbsp;
+<SYNC Start=1575447><P Class=KR>
+숨도 돌릴 틈 좀 줘?!
+<SYNC Start=1577030><P Class=KR>&nbsp;
+<SYNC Start=1577065><P Class=KR>
+[growling]
+<SYNC Start=1577647><P Class=KR>&nbsp;
+<SYNC Start=1577699><P Class=KR>
+Doc!
+<SYNC Start=1578898><P Class=KR>&nbsp;
+<SYNC Start=1579234><P Class=KR>
+[gunshot]
+<SYNC Start=1580400><P Class=KR>&nbsp;
+<SYNC Start=1597116><P Class=KR>
+[wind blowing]
+<SYNC Start=1600818><P Class=KR>&nbsp;
+<SYNC Start=1604624><P Class=KR>
+[breathing heavily]
+<SYNC Start=1607825><P Class=KR>&nbsp;
+<SYNC Start=1657176><P Class=KR>
+<i>[growling]</i>
+<SYNC Start=1660094><P Class=KR>&nbsp;
+<SYNC Start=1660129><P Class=KR>
+[whispering] 젠장.
+<SYNC Start=1661545><P Class=KR>&nbsp;
+<SYNC Start=1661598><P Class=KR>
+[growling]
+<SYNC Start=1662847><P Class=KR>&nbsp;
+<SYNC Start=1662882><P Class=KR>
+[gunshot]
+<SYNC Start=1663714><P Class=KR>&nbsp;
+<SYNC Start=1663766><P Class=KR>
+[growling]
+<SYNC Start=1664548><P Class=KR>&nbsp;
+<SYNC Start=1664601><P Class=KR>
+[gunshot]
+<SYNC Start=1665216><P Class=KR>&nbsp;
+<SYNC Start=1665518><P Class=KR>
+[thud]
+<SYNC Start=1666767><P Class=KR>&nbsp;
+<SYNC Start=1668221><P Class=KR>
+[growling]
+<SYNC Start=1671889><P Class=KR>&nbsp;
+<SYNC Start=1673643><P Class=KR>
+[growling continues]
+<SYNC Start=1680698><P Class=KR>&nbsp;
+<SYNC Start=1687740><P Class=KR>
+[gunshot]
+<SYNC Start=1688623><P Class=KR>&nbsp;
+<SYNC Start=1702422><P Class=KR>
+<i>[muffled gunfire]</i>
+<SYNC Start=1707008><P Class=KR>&nbsp;
+<SYNC Start=1722275><P Class=KR>
+[automatic gunfire]
+<SYNC Start=1726110><P Class=KR>&nbsp;
+<SYNC Start=1727947><P Class=KR>
+이거 원 뭐가 불안 한데.
+<SYNC Start=1730281><P Class=KR>&nbsp;
+<SYNC Start=1730333><P Class=KR>
+[laughs]
+<SYNC Start=1731499><P Class=KR>&nbsp;
+<SYNC Start=1731534><P Class=KR>
+뒤 돌아.
+<SYNC Start=1733784><P Class=KR>&nbsp;
+<SYNC Start=1734120><P Class=KR>
+내 친구들이 금방 올꺼야<br>
+너 뒤에 있는 곳에서.
+<SYNC Start=1738956><P Class=KR>&nbsp;
+<SYNC Start=1741294><P Class=KR>
+너가 있는 곳이 끝이야<br>
+여긴 막다른 골목인거야.
+<SYNC Start=1746180><P Class=KR>&nbsp;
+<SYNC Start=1746215><P Class=KR>
+[automatic gunfire]
+<SYNC Start=1749133><P Class=KR>&nbsp;
+<SYNC Start=1751387><P Class=KR>
+[gunshot]
+<SYNC Start=1751886><P Class=KR>&nbsp;
+<SYNC Start=1754307><P Class=KR>
+[laughing] 그건 아니야, 자기야!
+<SYNC Start=1756807><P Class=KR>&nbsp;
+<SYNC Start=1761781><P Class=KR>
+[click]
+<SYNC Start=1762446><P Class=KR>&nbsp;
+<SYNC Start=1763149><P Class=KR>
+Oh. [laughs] 얼마나 남았는데?
+<SYNC Start=1767618><P Class=KR>&nbsp;
+<SYNC Start=1770323><P Class=KR>
+내가 기선제압을 한 것 같아!
+<SYNC Start=1772790><P Class=KR>&nbsp;
+<SYNC Start=1772825><P Class=KR>
+[automatic gunfire]
+<SYNC Start=1778295><P Class=KR>&nbsp;
+<SYNC Start=1778331><P Class=KR>
+[screams]
+<SYNC Start=1778879><P Class=KR>&nbsp;
+<SYNC Start=1779665><P Class=KR>
+[groans]
+<SYNC Start=1780548><P Class=KR>&nbsp;
+<SYNC Start=1781300><P Class=KR>
+이런…
+<SYNC Start=1783167><P Class=KR>&nbsp;
+<SYNC Start=1783169><P Class=KR>
+미친년!
+<SYNC Start=1784051><P Class=KR>&nbsp;
+<SYNC Start=1785138><P Class=KR>
+[groaning]
+<SYNC Start=1785920><P Class=KR>&nbsp;
+<SYNC Start=1785972><P Class=KR>
+아 정말이지 아프네!
+<SYNC Start=1789006><P Class=KR>&nbsp;
+<SYNC Start=1790309><P Class=KR>
+내가 너한테 나쁜 짓을
+<SYNC Start=1792843><P Class=KR>&nbsp;
+<SYNC Start=1793763><P Class=KR>
+할 것 같은데
+<SYNC Start=1795813><P Class=KR>&nbsp;
+<SYNC Start=1796766><P Class=KR>
+널 죽이기 전에!
+<SYNC Start=1799483><P Class=KR>&nbsp;
+<SYNC Start=1799519><P Class=KR>
+[automatic gunfire]
+<SYNC Start=1802186><P Class=KR>&nbsp;
+<SYNC Start=1804690><P Class=KR>
+[gunshot]
+<SYNC Start=1805322><P Class=KR>&nbsp;
+<SYNC Start=1805942><P Class=KR>
+[hit]
+<SYNC Start=1806774><P Class=KR>&nbsp;
+<SYNC Start=1807160><P Class=KR>
+[groans]
+<SYNC Start=1808159><P Class=KR>&nbsp;
+<SYNC Start=1826345><P Class=KR>
+[whispering] 난 널
+<SYNC Start=1827678><P Class=KR>&nbsp;
+<SYNC Start=1827713><P Class=KR>
+[whispering] 널 죽일꺼야.
+<SYNC Start=1829964><P Class=KR>&nbsp;
+<SYNC Start=1830016><P Class=KR>
+[breathing heavily]
+<SYNC Start=1832383><P Class=KR>&nbsp;
+<SYNC Start=1834887><P Class=KR>
+[laughing]
+<SYNC Start=1836387><P Class=KR>&nbsp;
+<SYNC Start=1839642><P Class=KR>
+너 죽은 목슴이야, 난쟁아.
+<SYNC Start=1843227><P Class=KR>&nbsp;
+<SYNC Start=1847233><P Class=KR>
+[thwap]
+<SYNC Start=1849066><P Class=KR>&nbsp;
+<SYNC Start=1849118><P Class=KR>
+[repeated hitting]
+<SYNC Start=1853954><P Class=KR>&nbsp;
+<SYNC Start=1864383><P Class=KR>
+[coughing]
+<SYNC Start=1865800><P Class=KR>&nbsp;
+<SYNC Start=1867086><P Class=KR>
+[coughing]
+<SYNC Start=1871305><P Class=KR>&nbsp;
+<SYNC Start=1877313><P Class=KR>
+Thanks.
+<SYNC Start=1878429><P Class=KR>&nbsp;
+<SYNC Start=1878764><P Class=KR>
+우리 나가야 해.
+<SYNC Start=1880481><P Class=KR>&nbsp;
+<SYNC Start=1880516><P Class=KR>
+난 떨어졌어.
+<SYNC Start=1881932><P Class=KR>&nbsp;
+<SYNC Start=1893112><P Class=KR>
+[breathing heavily]
+<SYNC Start=1896330><P Class=KR>&nbsp;
+<SYNC Start=1902338><P Class=KR>
+[breathing heavily]
+<SYNC Start=1907958><P Class=KR>&nbsp;
+<SYNC Start=1912181><P Class=KR>
+[growling]
+<SYNC Start=1912630><P Class=KR>&nbsp;
+<SYNC Start=1912682><P Class=KR>
+[gunshot]
+<SYNC Start=1913464><P Class=KR>&nbsp;
+<SYNC Start=1913850><P Class=KR>
+[growling continues]
+<SYNC Start=1914431><P Class=KR>&nbsp;
+<SYNC Start=1914467><P Class=KR>
+[gunshot]
+<SYNC Start=1915182><P Class=KR>&nbsp;
+<SYNC Start=1916636><P Class=KR>
+[gunshot]
+<SYNC Start=1917134><P Class=KR>&nbsp;
+<SYNC Start=1919805><P Class=KR>
+[gunshot]
+<SYNC Start=1920804><P Class=KR>&nbsp;
+<SYNC Start=1921140><P Class=KR>
+[growling continues]
+<SYNC Start=1925976><P Class=KR>&nbsp;
+<SYNC Start=1925978><P Class=KR>
+[gunshot]
+<SYNC Start=1926944><P Class=KR>&nbsp;
+<SYNC Start=1928147><P Class=KR>
+[growling continues]
+<SYNC Start=1929113><P Class=KR>&nbsp;
+<SYNC Start=1929148><P Class=KR>
+[screaming]
+<SYNC Start=1929780><P Class=KR>&nbsp;
+<SYNC Start=1929815><P Class=KR>
+[growling continues]
+<SYNC Start=1938622><P Class=KR>&nbsp;
+<SYNC Start=1944394><P Class=KR>
+[echoes of water dripping]
+<SYNC Start=1952166><P Class=KR>&nbsp;
+<SYNC Start=2030046><P Class=KR>
+[growling]
+<SYNC Start=2033347><P Class=KR>&nbsp;
+<SYNC Start=2037303><P Class=KR>
+Move!
+<SYNC Start=2038219><P Class=KR>&nbsp;
+<SYNC Start=2038271><P Class=KR>
+우리 뒤에!
+<SYNC Start=2038886><P Class=KR>&nbsp;
+<SYNC Start=2038888><P Class=KR>
+엎드려!
+<SYNC Start=2039553><P Class=KR>&nbsp;
+<SYNC Start=2039889><P Class=KR>
+[three gunshots]
+<SYNC Start=2042056><P Class=KR>&nbsp;
+<SYNC Start=2043726><P Class=KR>
+우릴 따라와!
+<SYNC Start=2045359><P Class=KR>&nbsp;
+<SYNC Start=2071921><P Class=KR>
+저기로.
+<SYNC Start=2073637><P Class=KR>&nbsp;
+<SYNC Start=2083483><P Class=KR>
+야 끝났어.
+<SYNC Start=2084682><P Class=KR>&nbsp;
+<SYNC Start=2084734><P Class=KR>
+웅 끝이야.
+<SYNC Start=2087768><P Class=KR>&nbsp;
+<SYNC Start=2088154><P Class=KR>
+Hey, hey, hey.
+<SYNC Start=2088936><P Class=KR>&nbsp;
+<SYNC Start=2088938><P Class=KR>
+그러지마, 너 뭐하는거야?
+<SYNC Start=2090070><P Class=KR>&nbsp;
+<SYNC Start=2090106><P Class=KR>
+진심으로 하지마.
+<SYNC Start=2092323><P Class=KR>&nbsp;
+<SYNC Start=2093776><P Class=KR>
+Okay.
+<SYNC Start=2095276><P Class=KR>&nbsp;
+<SYNC Start=2095778><P Class=KR>
+이런다고 뭐가 좋아?
+<SYNC Start=2097945><P Class=KR>&nbsp;
+<SYNC Start=2097997><P Class=KR>
+Good?
+<SYNC Start=2099280><P Class=KR>&nbsp;
+<SYNC Start=2100700><P Class=KR>
+이게 그렇게도? 결정적인거야?
+<SYNC Start=2102199><P Class=KR>&nbsp;
+<SYNC Start=2102251><P Class=KR>
+야, 정말이지 우린 시간이 없어.
+<SYNC Start=2104285><P Class=KR>&nbsp;
+<SYNC Start=2104337><P Class=KR>
+I do.
+<SYNC Start=2106086><P Class=KR>&nbsp;
+<SYNC Start=2106122><P Class=KR>
+난 시간이 많어.
+<SYNC Start=2107838><P Class=KR>&nbsp;
+<SYNC Start=2107874><P Class=KR>
+Listen.
+<SYNC Start=2109039><P Class=KR>&nbsp;
+<SYNC Start=2109091><P Class=KR>
+난 너 정신과 선생이 아냐.<br>
+우리가 여기 멀리 이렇게 하러 온건 아니야
+<SYNC Start=2111292><P Class=KR>&nbsp;
+<SYNC Start=2111344><P Class=KR>
+Oh my God. 너 정말이지 정신이 나갔어?
+<SYNC Start=2113627><P Class=KR>&nbsp;
+<SYNC Start=2113679><P Class=KR>
+정말로 지겹지도 않어?
+<SYNC Start=2115462><P Class=KR>&nbsp;
+<SYNC Start=2115765><P Class=KR>
+말해봐?
+<SYNC Start=2117214><P Class=KR>&nbsp;
+<SYNC Start=2118968><P Class=KR>
+No.
+<SYNC Start=2120768><P Class=KR>&nbsp;
+<SYNC Start=2135868><P Class=KR>
+[screaming] No!
+<SYNC Start=2137568><P Class=KR>&nbsp;
+<SYNC Start=2137820><P Class=KR>
+[snarling]
+<SYNC Start=2142489><P Class=KR>&nbsp;
+<SYNC Start=2142491><P Class=KR>
+엎드려!
+<SYNC Start=2144124><P Class=KR>&nbsp;
+<SYNC Start=2144160><P Class=KR>
+[snarling]
+<SYNC Start=2149330><P Class=KR>&nbsp;
+<SYNC Start=2149665><P Class=KR>
+[breathing heavily]
+<SYNC Start=2155886><P Class=KR>&nbsp;
+<SYNC Start=2156672><P Class=KR>
+[growling]
+<SYNC Start=2158339><P Class=KR>&nbsp;
+<SYNC Start=2158391><P Class=KR>
+[screaming] Addy!
+<SYNC Start=2159974><P Class=KR>&nbsp;
+<SYNC Start=2160009><P Class=KR>
+[growling]
+<SYNC Start=2160674><P Class=KR>&nbsp;
+<SYNC Start=2160676><P Class=KR>
+[screaming] Mack!
+<SYNC Start=2161842><P Class=KR>&nbsp;
+<SYNC Start=2163846><P Class=KR>
+[screaming] Mack!
+<SYNC Start=2165012><P Class=KR>&nbsp;
+<SYNC Start=2165648><P Class=KR>
+[screaming] Addy!
+<SYNC Start=2166513><P Class=KR>&nbsp;
+<SYNC Start=2166515><P Class=KR>
+[screaming] Mack!
+<SYNC Start=2167681><P Class=KR>&nbsp;
+<SYNC Start=2167683><P Class=KR>
+[screaming] Addy!
+<SYNC Start=2168983><P Class=KR>&nbsp;
+<SYNC Start=2169068><P Class=KR>
+Addy!
+<SYNC Start=2170150><P Class=KR>&nbsp;
+<SYNC Start=2170236><P Class=KR>
+Go!
+<SYNC Start=2171151><P Class=KR>&nbsp;
+<SYNC Start=2171187><P Class=KR>
+내가 널 구해 줄께!
+<SYNC Start=2172853><P Class=KR>&nbsp;
+<SYNC Start=2172905><P Class=KR>
+Go!
+<SYNC Start=2174355><P Class=KR>&nbsp;
+<SYNC Start=2174407><P Class=KR>
+No!
+<SYNC Start=2174738><P Class=KR>&nbsp;
+<SYNC Start=2174774><P Class=KR>
+[gunshot]
+<SYNC Start=2176190><P Class=KR>&nbsp;
+<SYNC Start=2176192><P Class=KR>
+[whispering] 젠장.
+<SYNC Start=2176824><P Class=KR>&nbsp;
+<SYNC Start=2176859><P Class=KR>
+Go!
+<SYNC Start=2177524><P Class=KR>&nbsp;
+<SYNC Start=2177577><P Class=KR>
+[screaming] 제발 가!
+<SYNC Start=2179526><P Class=KR>&nbsp;
+<SYNC Start=2179695><P Class=KR>
+[screaming] Warren을 찾아!
+<SYNC Start=2180744><P Class=KR>&nbsp;
+<SYNC Start=2183032><P Class=KR>
+내가 널 구해줄께!
+<SYNC Start=2185032><P Class=KR>&nbsp;
+<SYNC Start=2185034><P Class=KR>
+[growling]
+<SYNC Start=2186250><P Class=KR>&nbsp;
+<SYNC Start=2186285><P Class=KR>
+제발 가!
+<SYNC Start=2188035><P Class=KR>&nbsp;
+<SYNC Start=2188087><P Class=KR>
+No!
+<SYNC Start=2189203><P Class=KR>&nbsp;
+<SYNC Start=2189255><P Class=KR>
+[grunting]
+<SYNC Start=2191205><P Class=KR>&nbsp;
+<SYNC Start=2191207><P Class=KR>
+[growling]
+<SYNC Start=2192456><P Class=KR>&nbsp;
+<SYNC Start=2192508><P Class=KR>
+[screaming] 제발!
+<SYNC Start=2193791><P Class=KR>&nbsp;
+<SYNC Start=2195428><P Class=KR>
+[screaming] Addy, 제발!
+<SYNC Start=2196377><P Class=KR>&nbsp;
+<SYNC Start=2196429><P Class=KR>
+[screaming] 난 너가 내가 변하는 걸 못보여줘!
+<SYNC Start=2199346><P Class=KR>&nbsp;
+<SYNC Start=2199382><P Class=KR>
+[screaming]
+<SYNC Start=2200347><P Class=KR>&nbsp;
+<SYNC Start=2200383><P Class=KR>
+[grunting]
+<SYNC Start=2203467><P Class=KR>&nbsp;
+<SYNC Start=2203519><P Class=KR>
+No! No!
+<SYNC Start=2205886><P Class=KR>&nbsp;
+<SYNC Start=2205888><P Class=KR>
+[screaming]
+<SYNC Start=2209056><P Class=KR>&nbsp;
+<SYNC Start=2253819><P Class=KR>
+[growling]
+<SYNC Start=2257404><P Class=KR>&nbsp;
+<SYNC Start=2257606><P Class=KR>
+[gunshot]
+<SYNC Start=2258739><P Class=KR>&nbsp;
+<SYNC Start=2280624><P Class=KR>
+<i>[snarling]</i>
+<SYNC Start=2282957><P Class=KR>&nbsp;
+<SYNC Start=2283009><P Class=KR>
+[growling]
+<SYNC Start=2287011><P Class=KR>&nbsp;
+<SYNC Start=2287047><P Class=KR>
+[thump]
+<SYNC Start=2288096><P Class=KR>&nbsp;
+<SYNC Start=2288131><P Class=KR>
+[snarling]
+<SYNC Start=2288763><P Class=KR>&nbsp;
+<SYNC Start=2290350><P Class=KR>
+[growling]
+<SYNC Start=2295937><P Class=KR>&nbsp;
+<SYNC Start=2295972><P Class=KR>
+[thump]
+<SYNC Start=2296971><P Class=KR>&nbsp;
+<SYNC Start=2299309><P Class=KR>
+[growling]
+<SYNC Start=2300775><P Class=KR>&nbsp;
+<SYNC Start=2301228><P Class=KR>
+Come on!
+<SYNC Start=2302727><P Class=KR>&nbsp;
+<SYNC Start=2303530><P Class=KR>
+[thump]
+<SYNC Start=2304863><P Class=KR>&nbsp;
+<SYNC Start=2305649><P Class=KR>
+[thump]
+<SYNC Start=2307115><P Class=KR>&nbsp;
+<SYNC Start=2307567><P Class=KR>
+[hit]
+<SYNC Start=2308366><P Class=KR>&nbsp;
+<SYNC Start=2308535><P Class=KR>
+[hit]
+<SYNC Start=2309117><P Class=KR>&nbsp;
+<SYNC Start=2309536><P Class=KR>
+[hit]
+<SYNC Start=2310285><P Class=KR>&nbsp;
+<SYNC Start=2310654><P Class=KR>
+[hit]
+<SYNC Start=2311319><P Class=KR>&nbsp;
+<SYNC Start=2311655><P Class=KR>
+[splorch]
+<SYNC Start=2312487><P Class=KR>&nbsp;
+<SYNC Start=2312656><P Class=KR>
+[splorch]
+<SYNC Start=2313655><P Class=KR>&nbsp;
+<SYNC Start=2314157><P Class=KR>
+[breathing heavily]
+<SYNC Start=2315039><P Class=KR>&nbsp;
+<SYNC Start=2315659><P Class=KR>
+[grunts]
+<SYNC Start=2317158><P Class=KR>&nbsp;
+<SYNC Start=2336396><P Class=KR>
+<i>[snarling]</i>
+<SYNC Start=2342486><P Class=KR>&nbsp;
+<SYNC Start=2346439><P Class=KR>
+<i>[snarling]</i>
+<SYNC Start=2351466><P Class=KR>&nbsp;
+<SYNC Start=2396239><P Class=KR>
+들어가!
+<SYNC Start=2397071><P Class=KR>&nbsp;
+<SYNC Start=2397073><P Class=KR>
+[glass shattering]
+<SYNC Start=2398039><P Class=KR>&nbsp;
+<SYNC Start=2398742><P Class=KR>
+[thwap]
+<SYNC Start=2399574><P Class=KR>&nbsp;
+<SYNC Start=2402879><P Class=KR>
+[smack]
+<SYNC Start=2403745><P Class=KR>&nbsp;
+<SYNC Start=2403747><P Class=KR>
+- [grunting]<br>
+- [groaning]
+<SYNC Start=2408549><P Class=KR>&nbsp;
+<SYNC Start=2408585><P Class=KR>
+[smack]
+<SYNC Start=2409050><P Class=KR>&nbsp;
+<SYNC Start=2409919><P Class=KR>
+[smack]
+<SYNC Start=2410585><P Class=KR>&nbsp;
+<SYNC Start=2411671><P Class=KR>
+[smack]
+<SYNC Start=2412136><P Class=KR>&nbsp;
+<SYNC Start=2412172><P Class=KR>
+[growling]
+<SYNC Start=2412587><P Class=KR>&nbsp;
+<SYNC Start=2412639><P Class=KR>
+(Murphy) 멈춰!
+<SYNC Start=2413554><P Class=KR>&nbsp;
+<SYNC Start=2413640><P Class=KR>
+멈춰!
+<SYNC Start=2414005><P Class=KR>&nbsp;
+<SYNC Start=2414090><P Class=KR>
+멈춰!
+<SYNC Start=2415089><P Class=KR>&nbsp;
+<SYNC Start=2415342><P Class=KR>
+Addy! Hey! Hey! 충분해!
+<SYNC Start=2417976><P Class=KR>&nbsp;
+<SYNC Start=2418011><P Class=KR>
+[screaming]
+<SYNC Start=2418760><P Class=KR>&nbsp;
+<SYNC Start=2418812><P Class=KR>
+[groaning]
+<SYNC Start=2419644><P Class=KR>&nbsp;
+<SYNC Start=2419679><P Class=KR>
+이게 뭐야?! 내가 그녀에게 뭔 짓을 한거야?!
+<SYNC Start=2422230><P Class=KR>&nbsp;
+<SYNC Start=2422265><P Class=KR>
+너 괜찮어?
+<SYNC Start=2423564><P Class=KR>&nbsp;
+<SYNC Start=2424317><P Class=KR>
+[crying]
+<SYNC Start=2425733><P Class=KR>&nbsp;
+<SYNC Start=2425769><P Class=KR>
+Mack은 어디에 있어?
+<SYNC Start=2426934><P Class=KR>&nbsp;
+<SYNC Start=2427270><P Class=KR>
+[breathing heavily]
+<SYNC Start=2428486><P Class=KR>&nbsp;
+<SYNC Start=2428772><P Class=KR>
+Mack은 어디에 있어?!
+<SYNC Start=2430688><P Class=KR>&nbsp;
+<SYNC Start=2432075><P Class=KR>
+[crying]
+<SYNC Start=2437445><P Class=KR>&nbsp;
+<SYNC Start=2439699><P Class=KR>
+[breathing heavily]
+<SYNC Start=2442450><P Class=KR>&nbsp;
+<SYNC Start=2445588><P Class=KR>
+[breathing heavily]
+<SYNC Start=2450124><P Class=KR>&nbsp;
+<SYNC Start=2503680><P Class=KR>
+서쪽으로 못 가겠군
+<SYNC Start=2505396><P Class=KR>&nbsp;
+<SYNC Start=2506066><P Class=KR>
+모래 폭풍이 앞길을 막네.
+<SYNC Start=2508983><P Class=KR>&nbsp;
+<SYNC Start=2510019><P Class=KR>
+이걸 뚫고 갈 길을 봐야해.
+<SYNC Start=2511986><P Class=KR>&nbsp;
+<SYNC Start=2513823><P Class=KR>
+[whispering] Yeah.
+<SYNC Start=2514906><P Class=KR>&nbsp;
+<SYNC Start=2524033><P Class=KR>
+[whispers] 젠장.
+<SYNC Start=2525700><P Class=KR>&nbsp;
+<SYNC Start=2532069><P Class=KR>
+- Sync and corrected by <font color="829EE0">TheDelta</font> -<br>
+- www.addic7ed.com -
+<SYNC Start=2534950><P Class=KR>&nbsp;
+
+<SYNC Start=0><P Class=ENCC>
+<i>Previously on Z Nation.</i>
+<SYNC Start=1200><P Class=ENCC>&nbsp;
+<SYNC Start=1252><P Class=ENCC>
+<i>This is Citizen Z.</i>
+<SYNC Start=2451><P Class=ENCC>&nbsp;
+<SYNC Start=2503><P Class=ENCC>
+<i>There is a man traveling among you.<br>His name is Murphy.</i>
+<SYNC Start=5107><P Class=ENCC>&nbsp;
+<SYNC Start=5207><P Class=ENCC>
+Your name wouldn't happen to be Murphy,<br>would it?
+<SYNC Start=6673><P Class=ENCC>&nbsp;
+<SYNC Start=6792><P Class=ENCC>
+<i>His blood has the antibodies<br>to create a vaccine.</i>
+<SYNC Start=10127><P Class=ENCC>&nbsp;
+<SYNC Start=10179><P Class=ENCC>
+The Centers for Disease Control<br>is offering an enormous bounty
+<SYNC Start=13347><P Class=ENCC>&nbsp;
+<SYNC Start=13382><P Class=ENCC>
+for Murphy's safe delivery.
+<SYNC Start=14548><P Class=ENCC>&nbsp;
+<SYNC Start=14600><P Class=ENCC>
+<i>Keep alive at all costs. Repeat.<br>Keep him alive at all costs.</i>
+<SYNC Start=18885><P Class=ENCC>&nbsp;
+<SYNC Start=18985><P Class=ENCC>
+Well what do we do now Chief?
+<SYNC Start=20317><P Class=ENCC>&nbsp;
+<SYNC Start=20369><P Class=ENCC>
+We are going to find Murphy,<br>get him to California,
+<SYNC Start=23454><P Class=ENCC>&nbsp;
+<SYNC Start=23489><P Class=ENCC>
+and they are going to make a<br>vaccine and save the world.
+<SYNC Start=26206><P Class=ENCC>&nbsp;
+<SYNC Start=26242><P Class=ENCC>
+And I'm gonna kill any bounty<br>hunter that gets in my way.
+<SYNC Start=29109><P Class=ENCC>&nbsp;
+<SYNC Start=45061><P Class=ENCC>
+<i>[wind blowing]</i>
+<SYNC Start=51181><P Class=ENCC>&nbsp;
+<SYNC Start=63746><P Class=ENCC>
+<i>[blowing wind continues]</i>
+<SYNC Start=68248><P Class=ENCC>&nbsp;
+<SYNC Start=105571><P Class=ENCC>
+[growling]
+<SYNC Start=106620><P Class=ENCC>&nbsp;
+<SYNC Start=106656><P Class=ENCC>
+[thud]
+<SYNC Start=107321><P Class=ENCC>&nbsp;
+<SYNC Start=107323><P Class=ENCC>
+[growling continues]
+<SYNC Start=113994><P Class=ENCC>&nbsp;
+<SYNC Start=113996><P Class=ENCC>
+[breathing heavily]
+<SYNC Start=120668><P Class=ENCC>&nbsp;
+<SYNC Start=127343><P Class=ENCC>
+(Warren) Murphy!
+<SYNC Start=128809><P Class=ENCC>&nbsp;
+<SYNC Start=129428><P Class=ENCC>
+Garage.
+<SYNC Start=130344><P Class=ENCC>&nbsp;
+<SYNC Start=132682><P Class=ENCC>
+[breathing heavily]
+<SYNC Start=133681><P Class=ENCC>&nbsp;
+<SYNC Start=134016><P Class=ENCC>
+[breathing heavily]
+<SYNC Start=136934><P Class=ENCC>&nbsp;
+<SYNC Start=138854><P Class=ENCC>
+[breathing heavily]
+<SYNC Start=141071><P Class=ENCC>&nbsp;
+<SYNC Start=145077><P Class=ENCC>
+[gunshot]
+<SYNC Start=145526><P Class=ENCC>&nbsp;
+<SYNC Start=145578><P Class=ENCC>
+[glass shattering]
+<SYNC Start=146276><P Class=ENCC>&nbsp;
+<SYNC Start=148280><P Class=ENCC>
+[gunshot]
+<SYNC Start=149113><P Class=ENCC>&nbsp;
+<SYNC Start=149165><P Class=ENCC>
+[glass shattering] [tires squealing]
+<SYNC Start=150664><P Class=ENCC>&nbsp;
+<SYNC Start=150700><P Class=ENCC>
+[crash]
+<SYNC Start=152116><P Class=ENCC>&nbsp;
+<SYNC Start=154870><P Class=ENCC>
+[gunshot]
+<SYNC Start=155202><P Class=ENCC>&nbsp;
+<SYNC Start=155955><P Class=ENCC>
+[gunshot]
+<SYNC Start=156370><P Class=ENCC>&nbsp;
+<SYNC Start=157790><P Class=ENCC>
+[gunshot]
+<SYNC Start=158706><P Class=ENCC>&nbsp;
+<SYNC Start=158758><P Class=ENCC>
+[breathing heavily]
+<SYNC Start=160207><P Class=ENCC>&nbsp;
+<SYNC Start=161210><P Class=ENCC>
+[moaning]
+<SYNC Start=162676><P Class=ENCC>&nbsp;
+<SYNC Start=163929><P Class=ENCC>
+[gunshot]
+<SYNC Start=164678><P Class=ENCC>&nbsp;
+<SYNC Start=165047><P Class=ENCC>
+[gunshot]
+<SYNC Start=166213><P Class=ENCC>&nbsp;
+<SYNC Start=167600><P Class=ENCC>
+Okay. It's like that, then
+<SYNC Start=170934><P Class=ENCC>&nbsp;
+<SYNC Start=171387><P Class=ENCC>
+[car engine running]
+<SYNC Start=175055><P Class=ENCC>&nbsp;
+<SYNC Start=176892><P Class=ENCC>
+[car engine running]
+<SYNC Start=181228><P Class=ENCC>&nbsp;
+<SYNC Start=181564><P Class=ENCC>
+[gun cocking]
+<SYNC Start=182896><P Class=ENCC>&nbsp;
+<SYNC Start=183282><P Class=ENCC>
+Look out!
+<SYNC Start=184565><P Class=ENCC>&nbsp;
+<SYNC Start=185534><P Class=ENCC>
+[gunshot]
+<SYNC Start=186233><P Class=ENCC>&nbsp;
+<SYNC Start=187236><P Class=ENCC>
+Look out, kid!
+<SYNC Start=188235><P Class=ENCC>&nbsp;
+<SYNC Start=188237><P Class=ENCC>
+[gunshot]
+<SYNC Start=189069><P Class=ENCC>&nbsp;
+<SYNC Start=189321><P Class=ENCC>
+[gunshot] [glass shattering]
+<SYNC Start=190037><P Class=ENCC>&nbsp;
+<SYNC Start=190072><P Class=ENCC>
+10K! Murphy!
+<SYNC Start=192239><P Class=ENCC>&nbsp;
+<SYNC Start=193826><P Class=ENCC>
+Ugh! What the hell is going on?!
+<SYNC Start=195292><P Class=ENCC>&nbsp;
+<SYNC Start=195327><P Class=ENCC>
+It's a damn Murphy free for all!
+<SYNC Start=197077><P Class=ENCC>&nbsp;
+<SYNC Start=197129><P Class=ENCC>
+[gun cocking]
+<SYNC Start=198045><P Class=ENCC>&nbsp;
+<SYNC Start=198080><P Class=ENCC>
+[growling]
+<SYNC Start=199413><P Class=ENCC>&nbsp;
+<SYNC Start=200549><P Class=ENCC>
+[growling]
+<SYNC Start=202382><P Class=ENCC>&nbsp;
+<SYNC Start=202418><P Class=ENCC>
+I think it's time we need to
+<SYNC Start=203584><P Class=ENCC>&nbsp;
+<SYNC Start=203586><P Class=ENCC>
+Time to go!
+<SYNC Start=205385><P Class=ENCC>&nbsp;
+<SYNC Start=205421><P Class=ENCC>
+[growling]
+<SYNC Start=207755><P Class=ENCC>&nbsp;
+<SYNC Start=207757><P Class=ENCC>
+[tires squealing]
+<SYNC Start=209223><P Class=ENCC>&nbsp;
+<SYNC Start=223739><P Class=ENCC>
+[explosion]
+<SYNC Start=228909><P Class=ENCC>&nbsp;
+<SYNC Start=242458><P Class=ENCC>
+<i>[electric guitar<br>theme music plays]</i>
+<SYNC Start=248128><P Class=ENCC>&nbsp;
+<SYNC Start=248180><P Class=ENCC>
+<i>??Have mercy,</i>
+<SYNC Start=249963><P Class=ENCC>&nbsp;
+<SYNC Start=249965><P Class=ENCC>
+<i>[gunshots]</i>
+<SYNC Start=251465><P Class=ENCC>&nbsp;
+<SYNC Start=252134><P Class=ENCC>
+<i>??Oh, have mercy. ??/i>
+<SYNC Start=255254><P Class=ENCC>&nbsp;
+<SYNC Start=255278><P Class=ENCC>
+- Sync and corrected by <font color="829EE0">TheDelta</font> -<br>- www.addic7ed.com -
+<SYNC Start=257845><P Class=ENCC>&nbsp;
+<SYNC Start=272154><P Class=ENCC>
+<i>[muffled gunfire and yelling]</i>
+<SYNC Start=274071><P Class=ENCC>&nbsp;
+<SYNC Start=274456><P Class=ENCC>
+All right,
+<SYNC Start=275656><P Class=ENCC>&nbsp;
+<SYNC Start=275658><P Class=ENCC>
+we split up. Earl, you're with me.
+<SYNC Start=277991><P Class=ENCC>&nbsp;
+<SYNC Start=278043><P Class=ENCC>
+The rest of you, do what you got to do.
+<SYNC Start=281545><P Class=ENCC>&nbsp;
+<SYNC Start=282414><P Class=ENCC>
+But you make no mistake.
+<SYNC Start=284081><P Class=ENCC>&nbsp;
+<SYNC Start=285634><P Class=ENCC>
+Any of you think you're gonna<br>go bag that buck yourself
+<SYNC Start=289303><P Class=ENCC>&nbsp;
+<SYNC Start=289338><P Class=ENCC>
+and go running off with the bounty
+<SYNC Start=291638><P Class=ENCC>&nbsp;
+<SYNC Start=291674><P Class=ENCC>
+trust me,
+<SYNC Start=293340><P Class=ENCC>&nbsp;
+<SYNC Start=293342><P Class=ENCC>
+cuz as sure as we can find him,<br>we will find you.
+<SYNC Start=297811><P Class=ENCC>&nbsp;
+<SYNC Start=297847><P Class=ENCC>
+And we will cut you open
+<SYNC Start=299980><P Class=ENCC>&nbsp;
+<SYNC Start=300015><P Class=ENCC>
+and feed your insides to the dogs.
+<SYNC Start=303016><P Class=ENCC>&nbsp;
+<SYNC Start=303068><P Class=ENCC>
+You feel me?
+<SYNC Start=305018><P Class=ENCC>&nbsp;
+<SYNC Start=305020><P Class=ENCC>
+Just don't get all enterprising<br>is what I'm sayin'.
+<SYNC Start=308522><P Class=ENCC>&nbsp;
+<SYNC Start=308574><P Class=ENCC>
+Now, what do we do when we find The Murphy?
+<SYNC Start=312693><P Class=ENCC>&nbsp;
+<SYNC Start=313078><P Class=ENCC>
+<i>[muffled gunfire and<br>yelling continue]</i>
+<SYNC Start=317698><P Class=ENCC>&nbsp;
+<SYNC Start=318250><P Class=ENCC>
+Wes?
+<SYNC Start=319533><P Class=ENCC>&nbsp;
+<SYNC Start=320452><P Class=ENCC>
+We smash his knees till they break.
+<SYNC Start=322536><P Class=ENCC>&nbsp;
+<SYNC Start=322588><P Class=ENCC>
+Or?
+<SYNC Start=323787><P Class=ENCC>&nbsp;
+<SYNC Start=325124><P Class=ENCC>
+Or his feet.
+<SYNC Start=326206><P Class=ENCC>&nbsp;
+<SYNC Start=326208><P Class=ENCC>
+All right, whatever's easier.
+<SYNC Start=327624><P Class=ENCC>&nbsp;
+<SYNC Start=327676><P Class=ENCC>
+[laughing] Make for damn<br>sure he can't run no more.
+<SYNC Start=330460><P Class=ENCC>&nbsp;
+<SYNC Start=330512><P Class=ENCC>
+[all laughing]
+<SYNC Start=333046><P Class=ENCC>&nbsp;
+<SYNC Start=333465><P Class=ENCC>
+Then?
+<SYNC Start=334598><P Class=ENCC>&nbsp;
+<SYNC Start=334633><P Class=ENCC>
+We sack his head so nobody knows who he is.
+<SYNC Start=336967><P Class=ENCC>&nbsp;
+<SYNC Start=337019><P Class=ENCC>
+That's what I'm talkin' about.
+<SYNC Start=339353><P Class=ENCC>&nbsp;
+<SYNC Start=339388><P Class=ENCC>
+What do we do to anyone else?
+<SYNC Start=341271><P Class=ENCC>&nbsp;
+<SYNC Start=341307><P Class=ENCC>
+(all) Put 'em down.
+<SYNC Start=342356><P Class=ENCC>&nbsp;
+<SYNC Start=342391><P Class=ENCC>
+To the ground.
+<SYNC Start=344024><P Class=ENCC>&nbsp;
+<SYNC Start=344059><P Class=ENCC>
+Brothers, let's go huntin'!
+<SYNC Start=347561><P Class=ENCC>&nbsp;
+<SYNC Start=348147><P Class=ENCC>
+<i>[muffled gunfire and<br>yelling continue]</i>
+<SYNC Start=351231><P Class=ENCC>&nbsp;
+<SYNC Start=353068><P Class=ENCC>
+[breathing heavily]
+<SYNC Start=363794><P Class=ENCC>&nbsp;
+<SYNC Start=369752><P Class=ENCC>
+- [heavy breathing continues]<br>- <i>[muffled gunfire and yelling continue]</i>
+<SYNC Start=374221><P Class=ENCC>&nbsp;
+<SYNC Start=384099><P Class=ENCC>
+- [growling]<br>- [fence rattling]
+<SYNC Start=387267><P Class=ENCC>&nbsp;
+<SYNC Start=388604><P Class=ENCC>
+- [growling]<br>- [fence rattling]
+<SYNC Start=391104><P Class=ENCC>&nbsp;
+<SYNC Start=392825><P Class=ENCC>
+- [growling]<br>- [fence rattling]
+<SYNC Start=395909><P Class=ENCC>&nbsp;
+<SYNC Start=405421><P Class=ENCC>
+<i>[muffled gunfire and<br>yelling continue]</i>
+<SYNC Start=408956><P Class=ENCC>&nbsp;
+<SYNC Start=418801><P Class=ENCC>
+[growling]
+<SYNC Start=420050><P Class=ENCC>&nbsp;
+<SYNC Start=420102><P Class=ENCC>
+[gunshot]
+<SYNC Start=420634><P Class=ENCC>&nbsp;
+<SYNC Start=421136><P Class=ENCC>
+[growling]
+<SYNC Start=421468><P Class=ENCC>&nbsp;
+<SYNC Start=423806><P Class=ENCC>
+[snarling]
+<SYNC Start=426640><P Class=ENCC>&nbsp;
+<SYNC Start=427192><P Class=ENCC>
+Shoo! Shoo! Go home!
+<SYNC Start=428475><P Class=ENCC>&nbsp;
+<SYNC Start=432314><P Class=ENCC>
+<i>[growling]</i>
+<SYNC Start=435148><P Class=ENCC>&nbsp;
+<SYNC Start=435150><P Class=ENCC>
+[growling]
+<SYNC Start=436149><P Class=ENCC>&nbsp;
+<SYNC Start=436819><P Class=ENCC>
+[gunshot]
+<SYNC Start=437534><P Class=ENCC>&nbsp;
+<SYNC Start=438287><P Class=ENCC>
+[growling]
+<SYNC Start=439119><P Class=ENCC>&nbsp;
+<SYNC Start=439154><P Class=ENCC>
+[thwap]
+<SYNC Start=439820><P Class=ENCC>&nbsp;
+<SYNC Start=439872><P Class=ENCC>
+<i>[muffled gunfire continues]</i>
+<SYNC Start=445242><P Class=ENCC>&nbsp;
+<SYNC Start=450165><P Class=ENCC>
+[snarling]
+<SYNC Start=453000><P Class=ENCC>&nbsp;
+<SYNC Start=453002><P Class=ENCC>
+Cut me some slack.
+<SYNC Start=454835><P Class=ENCC>&nbsp;
+<SYNC Start=456088><P Class=ENCC>
+[splorch]
+<SYNC Start=457054><P Class=ENCC>&nbsp;
+<SYNC Start=464813><P Class=ENCC>
+Excuse me, ma'am?
+<SYNC Start=466980><P Class=ENCC>&nbsp;
+<SYNC Start=467016><P Class=ENCC>
+I was wondering if I may be<br>able to catch a ride with y...
+<SYNC Start=469766><P Class=ENCC>&nbsp;
+<SYNC Start=475324><P Class=ENCC>
+[gasping]
+<SYNC Start=476606><P Class=ENCC>&nbsp;
+<SYNC Start=480863><P Class=ENCC>
+[gasping]
+<SYNC Start=483030><P Class=ENCC>&nbsp;
+<SYNC Start=488037><P Class=ENCC>
+[gasping]
+<SYNC Start=489536><P Class=ENCC>&nbsp;
+<SYNC Start=490039><P Class=ENCC>
+[growling]
+<SYNC Start=492255><P Class=ENCC>&nbsp;
+<SYNC Start=492291><P Class=ENCC>
+[munching]
+<SYNC Start=498378><P Class=ENCC>&nbsp;
+<SYNC Start=501216><P Class=ENCC>
+[munching]
+<SYNC Start=502883><P Class=ENCC>&nbsp;
+<SYNC Start=506221><P Class=ENCC>
+[thud]
+<SYNC Start=507137><P Class=ENCC>&nbsp;
+<SYNC Start=508057><P Class=ENCC>
+[groaning]
+<SYNC Start=508605><P Class=ENCC>&nbsp;
+<SYNC Start=508640><P Class=ENCC>
+Oww! Oww! Stupid jerk!
+<SYNC Start=511858><P Class=ENCC>&nbsp;
+<SYNC Start=525074><P Class=ENCC>
+[rocket launching]
+<SYNC Start=526373><P Class=ENCC>&nbsp;
+<SYNC Start=526625><P Class=ENCC>
+[loud explosion]
+<SYNC Start=528658><P Class=ENCC>&nbsp;
+<SYNC Start=532915><P Class=ENCC>
+[breathing heavily]
+<SYNC Start=533663><P Class=ENCC>&nbsp;
+<SYNC Start=538720><P Class=ENCC>
+[growling]
+<SYNC Start=542055><P Class=ENCC>&nbsp;
+<SYNC Start=580655><P Class=ENCC>
+<i>[muffled gunfire]</i>
+<SYNC Start=582655><P Class=ENCC>&nbsp;
+<SYNC Start=586878><P Class=ENCC>
+<i>[muffled gunfire continues]</i>
+<SYNC Start=588995><P Class=ENCC>&nbsp;
+<SYNC Start=598106><P Class=ENCC>
+[gunfire]
+<SYNC Start=600757><P Class=ENCC>&nbsp;
+<SYNC Start=602310><P Class=ENCC>
+You scared the hell out of me, kid.
+<SYNC Start=604143><P Class=ENCC>&nbsp;
+<SYNC Start=604179><P Class=ENCC>
+Where am I?
+<SYNC Start=605011><P Class=ENCC>&nbsp;
+<SYNC Start=605013><P Class=ENCC>
+Don't worry. We got you now.
+<SYNC Start=606346><P Class=ENCC>&nbsp;
+<SYNC Start=606348><P Class=ENCC>
+[gunfire]
+<SYNC Start=608598><P Class=ENCC>&nbsp;
+<SYNC Start=608650><P Class=ENCC>
+What?!
+<SYNC Start=609516><P Class=ENCC>&nbsp;
+<SYNC Start=609518><P Class=ENCC>
+I said we got you now! I can't hear you!
+<SYNC Start=611351><P Class=ENCC>&nbsp;
+<SYNC Start=611403><P Class=ENCC>
+Insane!
+<SYNC Start=612318><P Class=ENCC>&nbsp;
+<SYNC Start=612354><P Class=ENCC>
+[gunfire]
+<SYNC Start=617190><P Class=ENCC>&nbsp;
+<SYNC Start=617192><P Class=ENCC>
+Why the hell is everybody<br>shooting at everybody?!
+<SYNC Start=619492><P Class=ENCC>&nbsp;
+<SYNC Start=619528><P Class=ENCC>
+Cuz Murphy's the golden goose!
+<SYNC Start=621528><P Class=ENCC>&nbsp;
+<SYNC Start=621530><P Class=ENCC>
+[gunfire continues]
+<SYNC Start=625365><P Class=ENCC>&nbsp;
+<SYNC Start=625834><P Class=ENCC>
+We're sitting ducks here.
+<SYNC Start=627033><P Class=ENCC>&nbsp;
+<SYNC Start=627035><P Class=ENCC>
+We're gonna have to split up<br>into groups and keep moving.
+<SYNC Start=629502><P Class=ENCC>&nbsp;
+<SYNC Start=629538><P Class=ENCC>
+10K, are you all right?
+<SYNC Start=631371><P Class=ENCC>&nbsp;
+<SYNC Start=631423><P Class=ENCC>
+What?!
+<SYNC Start=632255><P Class=ENCC>&nbsp;
+<SYNC Start=632290><P Class=ENCC>
+I think he's deaf.
+<SYNC Start=633423><P Class=ENCC>&nbsp;
+<SYNC Start=633458><P Class=ENCC>
+[gunfire continues]
+<SYNC Start=634541><P Class=ENCC>&nbsp;
+<SYNC Start=634543><P Class=ENCC>
+Doc. You take him with you.
+<SYNC Start=636042><P Class=ENCC>&nbsp;
+<SYNC Start=636094><P Class=ENCC>
+You guys, get to the alley and<br>cut east and advance north.
+<SYNC Start=639596><P Class=ENCC>&nbsp;
+<SYNC Start=639631><P Class=ENCC>
+Mack and Addy, you guys take the westside.
+<SYNC Start=641548><P Class=ENCC>&nbsp;
+<SYNC Start=641550><P Class=ENCC>
+We'll flush him out.
+<SYNC Start=642682><P Class=ENCC>&nbsp;
+<SYNC Start=642717><P Class=ENCC>
+Well... well what about the bounty hunters?
+<SYNC Start=644350><P Class=ENCC>&nbsp;
+<SYNC Start=644386><P Class=ENCC>
+Kill them too! [gun cocking]
+<SYNC Start=645935><P Class=ENCC>&nbsp;
+<SYNC Start=645971><P Class=ENCC>
+On my call. We'll cover you.
+<SYNC Start=648438><P Class=ENCC>&nbsp;
+<SYNC Start=651476><P Class=ENCC>
+[gunfire continues]
+<SYNC Start=654777><P Class=ENCC>&nbsp;
+<SYNC Start=655730><P Class=ENCC>
+Three, two, one.
+<SYNC Start=658481><P Class=ENCC>&nbsp;
+<SYNC Start=658533><P Class=ENCC>
+Go!
+<SYNC Start=659782><P Class=ENCC>&nbsp;
+<SYNC Start=660201><P Class=ENCC>
+[gunfire]
+<SYNC Start=664237><P Class=ENCC>&nbsp;
+<SYNC Start=664656><P Class=ENCC>
+[screaming] Ahhh!
+<SYNC Start=666072><P Class=ENCC>&nbsp;
+<SYNC Start=666408><P Class=ENCC>
+Addy!
+<SYNC Start=666739><P Class=ENCC>&nbsp;
+<SYNC Start=666791><P Class=ENCC>
+[moaning]
+<SYNC Start=668074><P Class=ENCC>&nbsp;
+<SYNC Start=668126><P Class=ENCC>
+Are you hit?
+<SYNC Start=668958><P Class=ENCC>&nbsp;
+<SYNC Start=668994><P Class=ENCC>
+[moaning] Yeah, I'm good. I'm good.
+<SYNC Start=671377><P Class=ENCC>&nbsp;
+<SYNC Start=671413><P Class=ENCC>
+Okay. I got to get you movin'!
+<SYNC Start=673212><P Class=ENCC>&nbsp;
+<SYNC Start=673248><P Class=ENCC>
+Okay! Okay!
+<SYNC Start=673963><P Class=ENCC>&nbsp;
+<SYNC Start=673999><P Class=ENCC>
+All right, ready?
+<SYNC Start=675081><P Class=ENCC>&nbsp;
+<SYNC Start=675083><P Class=ENCC>
+[screaming]
+<SYNC Start=676332><P Class=ENCC>&nbsp;
+<SYNC Start=676718><P Class=ENCC>
+Ready?
+<SYNC Start=677634><P Class=ENCC>&nbsp;
+<SYNC Start=680839><P Class=ENCC>
+[gunfire]
+<SYNC Start=683473><P Class=ENCC>&nbsp;
+<SYNC Start=684593><P Class=ENCC>
+[breathing heavily]
+<SYNC Start=688478><P Class=ENCC>&nbsp;
+<SYNC Start=688847><P Class=ENCC>
+[muffled gunfire]
+<SYNC Start=694434><P Class=ENCC>&nbsp;
+<SYNC Start=702611><P Class=ENCC>
+[gun cocking]
+<SYNC Start=703493><P Class=ENCC>&nbsp;
+<SYNC Start=706781><P Class=ENCC>
+[snarling]
+<SYNC Start=707830><P Class=ENCC>&nbsp;
+<SYNC Start=707866><P Class=ENCC>
+You guys are killing me.
+<SYNC Start=710283><P Class=ENCC>&nbsp;
+<SYNC Start=710785><P Class=ENCC>
+[snarling]
+<SYNC Start=713119><P Class=ENCC>&nbsp;
+<SYNC Start=713338><P Class=ENCC>
+This way.
+<SYNC Start=714871><P Class=ENCC>&nbsp;
+<SYNC Start=715123><P Class=ENCC>
+[snarling]
+<SYNC Start=717540><P Class=ENCC>&nbsp;
+<SYNC Start=718543><P Class=ENCC>
+[breathing heavily]
+<SYNC Start=723546><P Class=ENCC>&nbsp;
+<SYNC Start=723598><P Class=ENCC>
+You guys ever consider how<br>annoying<i> this</i> might be?
+<SYNC Start=727884><P Class=ENCC>&nbsp;
+<SYNC Start=727936><P Class=ENCC>
+I mean seriously.<br>It's like a guy can't even think.
+<SYNC Start=730603><P Class=ENCC>&nbsp;
+<SYNC Start=730639><P Class=ENCC>
+[snarling]
+<SYNC Start=732805><P Class=ENCC>&nbsp;
+<SYNC Start=732807><P Class=ENCC>
+[breathing heavily] I appreciate it. I do.
+<SYNC Start=735892><P Class=ENCC>&nbsp;
+<SYNC Start=736277><P Class=ENCC>
+But this is my dance space,<br>and this is your dance space.
+<SYNC Start=739946><P Class=ENCC>&nbsp;
+<SYNC Start=739981><P Class=ENCC>
+[snarling]
+<SYNC Start=741698><P Class=ENCC>&nbsp;
+<SYNC Start=741733><P Class=ENCC>
+A little me time.
+<SYNC Start=743533><P Class=ENCC>&nbsp;
+<SYNC Start=744235><P Class=ENCC>
+That's all I'm asking.
+<SYNC Start=745735><P Class=ENCC>&nbsp;
+<SYNC Start=745787><P Class=ENCC>
+[snarling]
+<SYNC Start=747153><P Class=ENCC>&nbsp;
+<SYNC Start=749157><P Class=ENCC>
+Well
+<SYNC Start=751074><P Class=ENCC>&nbsp;
+<SYNC Start=751126><P Class=ENCC>
+[snarling]
+<SYNC Start=754494><P Class=ENCC>&nbsp;
+<SYNC Start=754829><P Class=ENCC>
+Hello, handsome.
+<SYNC Start=757413><P Class=ENCC>&nbsp;
+<SYNC Start=757465><P Class=ENCC>
+<i>[growling]</i>
+<SYNC Start=761718><P Class=ENCC>&nbsp;
+<SYNC Start=761753><P Class=ENCC>
+[gunfire]
+<SYNC Start=765588><P Class=ENCC>&nbsp;
+<SYNC Start=765640><P Class=ENCC>
+[growling continues]
+<SYNC Start=768174><P Class=ENCC>&nbsp;
+<SYNC Start=773348><P Class=ENCC>
+Murphy?
+<SYNC Start=774180><P Class=ENCC>&nbsp;
+<SYNC Start=774182><P Class=ENCC>
+It's got to be.
+<SYNC Start=775014><P Class=ENCC>&nbsp;
+<SYNC Start=775066><P Class=ENCC>
+Follow me.
+<SYNC Start=776983><P Class=ENCC>&nbsp;
+<SYNC Start=782657><P Class=ENCC>
+Okay. Okay. That way.
+<SYNC Start=784073><P Class=ENCC>&nbsp;
+<SYNC Start=784109><P Class=ENCC>
+Okay.
+<SYNC Start=785324><P Class=ENCC>&nbsp;
+<SYNC Start=792450><P Class=ENCC>
+[breathing heavily]
+<SYNC Start=796035><P Class=ENCC>&nbsp;
+<SYNC Start=796871><P Class=ENCC>
+<i>[yelling in Russian]</i>
+<SYNC Start=800039><P Class=ENCC>&nbsp;
+<SYNC Start=800041><P Class=ENCC>
+Go.
+<SYNC Start=800757><P Class=ENCC>&nbsp;
+<SYNC Start=801042><P Class=ENCC>
+<i>[yelling continues]</i>
+<SYNC Start=805261><P Class=ENCC>&nbsp;
+<SYNC Start=805296><P Class=ENCC>
+<i>[muffled gunfire]</i>
+<SYNC Start=808464><P Class=ENCC>&nbsp;
+<SYNC Start=815940><P Class=ENCC>
+<i>[muffled gunfire]</i>
+<SYNC Start=819392><P Class=ENCC>&nbsp;
+<SYNC Start=827452><P Class=ENCC>
+<i>[muffled gunfire continues]</i>
+<SYNC Start=830036><P Class=ENCC>&nbsp;
+<SYNC Start=851059><P Class=ENCC>
+[speaking loudly] Murphy?!
+<SYNC Start=852391><P Class=ENCC>&nbsp;
+<SYNC Start=852427><P Class=ENCC>
+[whispering] Shhh.<br>Yeah, that's what I'm thinking. Ready? Go.
+<SYNC Start=858397><P Class=ENCC>&nbsp;
+<SYNC Start=905647><P Class=ENCC>
+- [growling]<br>- [struggling]
+<SYNC Start=917323><P Class=ENCC>&nbsp;
+<SYNC Start=917992><P Class=ENCC>
+[multiple gunshots]
+<SYNC Start=919742><P Class=ENCC>&nbsp;
+<SYNC Start=919794><P Class=ENCC>
+- [groaning]<br>- [growling]
+<SYNC Start=925248><P Class=ENCC>&nbsp;
+<SYNC Start=925300><P Class=ENCC>
+[screaming] Mack!
+<SYNC Start=926799><P Class=ENCC>&nbsp;
+<SYNC Start=927335><P Class=ENCC>
+[screaming] Mack!
+<SYNC Start=928467><P Class=ENCC>&nbsp;
+<SYNC Start=928803><P Class=ENCC>
+[screaming] Mack!
+<SYNC Start=930253><P Class=ENCC>&nbsp;
+<SYNC Start=930505><P Class=ENCC>
+[growling]
+<SYNC Start=931470><P Class=ENCC>&nbsp;
+<SYNC Start=931506><P Class=ENCC>
+[screaming] Mack!
+<SYNC Start=933339><P Class=ENCC>&nbsp;
+<SYNC Start=933341><P Class=ENCC>
+[breathing heavily]
+<SYNC Start=935258><P Class=ENCC>&nbsp;
+<SYNC Start=940014><P Class=ENCC>
+[growling]
+<SYNC Start=940563><P Class=ENCC>&nbsp;
+<SYNC Start=940598><P Class=ENCC>
+[gunshot]
+<SYNC Start=941397><P Class=ENCC>&nbsp;
+<SYNC Start=942317><P Class=ENCC>
+[breathing heavily]
+<SYNC Start=944567><P Class=ENCC>&nbsp;
+<SYNC Start=945687><P Class=ENCC>
+Let's go.
+<SYNC Start=947153><P Class=ENCC>&nbsp;
+<SYNC Start=949073><P Class=ENCC>
+[breathing heavily]
+<SYNC Start=950189><P Class=ENCC>&nbsp;
+<SYNC Start=962618><P Class=ENCC>
+<i>[man screaming in<br>distance] Let's go!</i>
+<SYNC Start=965118><P Class=ENCC>&nbsp;
+<SYNC Start=965120><P Class=ENCC>
+<i>[muffled gunfire]</i>
+<SYNC Start=966620><P Class=ENCC>&nbsp;
+<SYNC Start=966672><P Class=ENCC>
+<i>[man screaming in<br>distance] Over here!</i>
+<SYNC Start=969006><P Class=ENCC>&nbsp;
+<SYNC Start=980553><P Class=ENCC>
+[muffled screaming and gunfire]
+<SYNC Start=982636><P Class=ENCC>&nbsp;
+<SYNC Start=1046869><P Class=ENCC>
+[growling]
+<SYNC Start=1051872><P Class=ENCC>&nbsp;
+<SYNC Start=1051924><P Class=ENCC>
+[gunshot]
+<SYNC Start=1052873><P Class=ENCC>&nbsp;
+<SYNC Start=1053342><P Class=ENCC>
+[growling]
+<SYNC Start=1055208><P Class=ENCC>&nbsp;
+<SYNC Start=1055961><P Class=ENCC>
+[growling] [grunting]
+<SYNC Start=1062049><P Class=ENCC>&nbsp;
+<SYNC Start=1063886><P Class=ENCC>
+[growling]
+<SYNC Start=1069389><P Class=ENCC>&nbsp;
+<SYNC Start=1069441><P Class=ENCC>
+[slam]
+<SYNC Start=1070440><P Class=ENCC>&nbsp;
+<SYNC Start=1071944><P Class=ENCC>
+[growling]
+<SYNC Start=1078565><P Class=ENCC>&nbsp;
+<SYNC Start=1078617><P Class=ENCC>
+[taser clicking]
+<SYNC Start=1081735><P Class=ENCC>&nbsp;
+<SYNC Start=1082738><P Class=ENCC>
+[growling]
+<SYNC Start=1087240><P Class=ENCC>&nbsp;
+<SYNC Start=1091830><P Class=ENCC>
+[gunshot]
+<SYNC Start=1092746><P Class=ENCC>&nbsp;
+<SYNC Start=1093048><P Class=ENCC>
+[thud]
+<SYNC Start=1093830><P Class=ENCC>&nbsp;
+<SYNC Start=1105894><P Class=ENCC>
+<i>[muffled gunfire]</i>
+<SYNC Start=1109062><P Class=ENCC>&nbsp;
+<SYNC Start=1112651><P Class=ENCC>
+[gunshot]
+<SYNC Start=1113517><P Class=ENCC>&nbsp;
+<SYNC Start=1115771><P Class=ENCC>
+[gun cocking]
+<SYNC Start=1116820><P Class=ENCC>&nbsp;
+<SYNC Start=1117656><P Class=ENCC>
+[gunshot]
+<SYNC Start=1118438><P Class=ENCC>&nbsp;
+<SYNC Start=1122995><P Class=ENCC>
+Damn bitch.
+<SYNC Start=1124695><P Class=ENCC>&nbsp;
+<SYNC Start=1124780><P Class=ENCC>
+[gun cocking]
+<SYNC Start=1126163><P Class=ENCC>&nbsp;
+<SYNC Start=1129118><P Class=ENCC>
+Oh hell no.
+<SYNC Start=1130951><P Class=ENCC>&nbsp;
+<SYNC Start=1135257><P Class=ENCC>
+<i>[gunfire in distance]</i>
+<SYNC Start=1137341><P Class=ENCC>&nbsp;
+<SYNC Start=1147519><P Class=ENCC>
+Hey!
+<SYNC Start=1149102><P Class=ENCC>&nbsp;
+<SYNC Start=1149471><P Class=ENCC>
+Wait a minute.
+<SYNC Start=1150470><P Class=ENCC>&nbsp;
+<SYNC Start=1150522><P Class=ENCC>
+I got him!
+<SYNC Start=1152022><P Class=ENCC>&nbsp;
+<SYNC Start=1152558><P Class=ENCC>
+Slow down, dude!
+<SYNC Start=1154558><P Class=ENCC>&nbsp;
+<SYNC Start=1158113><P Class=ENCC>
+[breathing heavily]
+<SYNC Start=1166787><P Class=ENCC>&nbsp;
+<SYNC Start=1168791><P Class=ENCC>
+Hey, yo!
+<SYNC Start=1170540><P Class=ENCC>&nbsp;
+<SYNC Start=1176415><P Class=ENCC>
+I ain't gonna hurt ya, brother!
+<SYNC Start=1178882><P Class=ENCC>&nbsp;
+<SYNC Start=1178917><P Class=ENCC>
+<i>[snarling]</i>
+<SYNC Start=1181334><P Class=ENCC>&nbsp;
+<SYNC Start=1181387><P Class=ENCC>
+It's all good!
+<SYNC Start=1183420><P Class=ENCC>&nbsp;
+<SYNC Start=1192981><P Class=ENCC>
+You in there, bro?
+<SYNC Start=1194898><P Class=ENCC>&nbsp;
+<SYNC Start=1202157><P Class=ENCC>
+Hey, yo guys!
+<SYNC Start=1203857><P Class=ENCC>&nbsp;
+<SYNC Start=1204743><P Class=ENCC>
+He's in here!
+<SYNC Start=1206693><P Class=ENCC>&nbsp;
+<SYNC Start=1209198><P Class=ENCC>
+I guess it's just you and me, bro.
+<SYNC Start=1211865><P Class=ENCC>&nbsp;
+<SYNC Start=1239728><P Class=ENCC>
+<i>(Doc) [muffled] He's<br>in this building.</i>
+<SYNC Start=1241061><P Class=ENCC>&nbsp;
+<SYNC Start=1241063><P Class=ENCC>
+<i>(10K) [muffled] This one?!<br></i>
+<SYNC Start=1242646><P Class=ENCC>&nbsp;
+<SYNC Start=1242698><P Class=ENCC>
+[muffled talking continues]
+<SYNC Start=1247734><P Class=ENCC>&nbsp;
+<SYNC Start=1253909><P Class=ENCC>
+[muffled yelling]
+<SYNC Start=1257744><P Class=ENCC>&nbsp;
+<SYNC Start=1258997><P Class=ENCC>
+The Zs must've followed him inside.
+<SYNC Start=1261748><P Class=ENCC>&nbsp;
+<SYNC Start=1261800><P Class=ENCC>
+But I think I know a back entrance.<br>Might be safer.
+<SYNC Start=1265752><P Class=ENCC>&nbsp;
+<SYNC Start=1265804><P Class=ENCC>
+Can you hear anything I'm saying?
+<SYNC Start=1267921><P Class=ENCC>&nbsp;
+<SYNC Start=1267973><P Class=ENCC>
+[yelling] What?!
+<SYNC Start=1268972><P Class=ENCC>&nbsp;
+<SYNC Start=1269007><P Class=ENCC>
+[gunshot]
+<SYNC Start=1269589><P Class=ENCC>&nbsp;
+<SYNC Start=1269641><P Class=ENCC>
+Jesus!
+<SYNC Start=1270474><P Class=ENCC>&nbsp;
+<SYNC Start=1270509><P Class=ENCC>
+This is ridiculous!
+<SYNC Start=1272175><P Class=ENCC>&nbsp;
+<SYNC Start=1272227><P Class=ENCC>
+What the hell are we doing here?
+<SYNC Start=1274678><P Class=ENCC>&nbsp;
+<SYNC Start=1274730><P Class=ENCC>
+That's a rhetorical question.<br>All right, ready?
+<SYNC Start=1277848><P Class=ENCC>&nbsp;
+<SYNC Start=1277900><P Class=ENCC>
+I'll cover. You run. One. Two. Three. Go.
+<SYNC Start=1283103><P Class=ENCC>&nbsp;
+<SYNC Start=1283105><P Class=ENCC>
+[gunshot]
+<SYNC Start=1283937><P Class=ENCC>&nbsp;
+<SYNC Start=1283939><P Class=ENCC>
+Damn.
+<SYNC Start=1284905><P Class=ENCC>&nbsp;
+<SYNC Start=1284940><P Class=ENCC>
+[gun cocking]
+<SYNC Start=1285939><P Class=ENCC>&nbsp;
+<SYNC Start=1285991><P Class=ENCC>
+Someone's got us pinned.
+<SYNC Start=1287774><P Class=ENCC>&nbsp;
+<SYNC Start=1293499><P Class=ENCC>
+[gunshot]
+<SYNC Start=1294281><P Class=ENCC>&nbsp;
+<SYNC Start=1294283><P Class=ENCC>
+[gun cocking]
+<SYNC Start=1295782><P Class=ENCC>&nbsp;
+<SYNC Start=1295784><P Class=ENCC>
+Sniper.
+<SYNC Start=1296950><P Class=ENCC>&nbsp;
+<SYNC Start=1296952><P Class=ENCC>
+Great.
+<SYNC Start=1298451><P Class=ENCC>&nbsp;
+<SYNC Start=1305794><P Class=ENCC>
+Second floor.
+<SYNC Start=1307627><P Class=ENCC>&nbsp;
+<SYNC Start=1307679><P Class=ENCC>
+Seventh window from the right.
+<SYNC Start=1309012><P Class=ENCC>&nbsp;
+<SYNC Start=1309047><P Class=ENCC>
+You think you can take him out?
+<SYNC Start=1310680><P Class=ENCC>&nbsp;
+<SYNC Start=1310716><P Class=ENCC>
+[growling]
+<SYNC Start=1313216><P Class=ENCC>&nbsp;
+<SYNC Start=1314052><P Class=ENCC>
+[gunshot]
+<SYNC Start=1314634><P Class=ENCC>&nbsp;
+<SYNC Start=1315304><P Class=ENCC>
+[gun cocking]
+<SYNC Start=1316303><P Class=ENCC>&nbsp;
+<SYNC Start=1316972><P Class=ENCC>
+[gunshot]
+<SYNC Start=1318138><P Class=ENCC>&nbsp;
+<SYNC Start=1318190><P Class=ENCC>
+[gun cocking]
+<SYNC Start=1319139><P Class=ENCC>&nbsp;
+<SYNC Start=1319942><P Class=ENCC>
+[gunshot]
+<SYNC Start=1320774><P Class=ENCC>&nbsp;
+<SYNC Start=1321810><P Class=ENCC>
+[gunshot]
+<SYNC Start=1322442><P Class=ENCC>&nbsp;
+<SYNC Start=1322477><P Class=ENCC>
+- [glass breaking]<br>- [groaning]
+<SYNC Start=1323643><P Class=ENCC>&nbsp;
+<SYNC Start=1323896><P Class=ENCC>
+[breathing heavily]
+<SYNC Start=1329950><P Class=ENCC>&nbsp;
+<SYNC Start=1331403><P Class=ENCC>
+<i>[mufflled gunfire]</i>
+<SYNC Start=1333069><P Class=ENCC>&nbsp;
+<SYNC Start=1338160><P Class=ENCC>
+<i>[muffled gunfire and<br>yelling continue]</i>
+<SYNC Start=1344497><P Class=ENCC>&nbsp;
+<SYNC Start=1368190><P Class=ENCC>
+[whispering] Now is the<br>time for all good men
+<SYNC Start=1370023><P Class=ENCC>&nbsp;
+<SYNC Start=1370075><P Class=ENCC>
+to come to the aid of their country.
+<SYNC Start=1372776><P Class=ENCC>&nbsp;
+<SYNC Start=1375364><P Class=ENCC>
+<i>[muffled screaming]</i>
+<SYNC Start=1378031><P Class=ENCC>&nbsp;
+<SYNC Start=1391179><P Class=ENCC>
+[click]
+<SYNC Start=1391845><P Class=ENCC>&nbsp;
+<SYNC Start=1391930><P Class=ENCC>
+[click]
+<SYNC Start=1392629><P Class=ENCC>&nbsp;
+<SYNC Start=1392714><P Class=ENCC>
+Damn it!
+<SYNC Start=1393964><P Class=ENCC>&nbsp;
+<SYNC Start=1395717><P Class=ENCC>
+[groaning and grunting]
+<SYNC Start=1401521><P Class=ENCC>&nbsp;
+<SYNC Start=1411233><P Class=ENCC>
+Where are we going, man?
+<SYNC Start=1413316><P Class=ENCC>&nbsp;
+<SYNC Start=1414069><P Class=ENCC>
+Come on!
+<SYNC Start=1415068><P Class=ENCC>&nbsp;
+<SYNC Start=1415120><P Class=ENCC>
+You want some of this?!
+<SYNC Start=1416569><P Class=ENCC>&nbsp;
+<SYNC Start=1424913><P Class=ENCC>
+[crash]
+<SYNC Start=1426212><P Class=ENCC>&nbsp;
+<SYNC Start=1431586><P Class=ENCC>
+[hit]
+<SYNC Start=1432719><P Class=ENCC>&nbsp;
+<SYNC Start=1433505><P Class=ENCC>
+[hit]
+<SYNC Start=1434587><P Class=ENCC>&nbsp;
+<SYNC Start=1436141><P Class=ENCC>
+[groaning and grunting]
+<SYNC Start=1441678><P Class=ENCC>&nbsp;
+<SYNC Start=1441730><P Class=ENCC>
+[hit]
+<SYNC Start=1442429><P Class=ENCC>&nbsp;
+<SYNC Start=1444349><P Class=ENCC>
+[hit]
+<SYNC Start=1445265><P Class=ENCC>&nbsp;
+<SYNC Start=1447486><P Class=ENCC>
+[groaning and grunting]
+<SYNC Start=1450737><P Class=ENCC>&nbsp;
+<SYNC Start=1461867><P Class=ENCC>
+[hit]
+<SYNC Start=1462916><P Class=ENCC>&nbsp;
+<SYNC Start=1465120><P Class=ENCC>
+[hit]
+<SYNC Start=1466336><P Class=ENCC>&nbsp;
+<SYNC Start=1468290><P Class=ENCC>
+[groaning and grunting]
+<SYNC Start=1472375><P Class=ENCC>&nbsp;
+<SYNC Start=1479301><P Class=ENCC>
+[gasping]
+<SYNC Start=1481134><P Class=ENCC>&nbsp;
+<SYNC Start=1498070><P Class=ENCC>
+[breathing heavily]
+<SYNC Start=1500570><P Class=ENCC>&nbsp;
+<SYNC Start=1500622><P Class=ENCC>
+<i>[thinking] Well that's<br>enough of that.</i>
+<SYNC Start=1503740><P Class=ENCC>&nbsp;
+<SYNC Start=1503992><P Class=ENCC>
+<i>What the hell?</i>
+<SYNC Start=1506326><P Class=ENCC>&nbsp;
+<SYNC Start=1510716><P Class=ENCC>
+<i>Is this it?</i>
+<SYNC Start=1512582><P Class=ENCC>&nbsp;
+<SYNC Start=1513218><P Class=ENCC>
+<i>The last rodeo.</i>
+<SYNC Start=1516469><P Class=ENCC>&nbsp;
+<SYNC Start=1517339><P Class=ENCC>
+<i>Time to assume room temperature.</i>
+<SYNC Start=1520590><P Class=ENCC>&nbsp;
+<SYNC Start=1522010><P Class=ENCC>
+<i>Oh hey.</i>
+<SYNC Start=1523593><P Class=ENCC>&nbsp;
+<SYNC Start=1523845><P Class=ENCC>
+<i>Hey, there's a thing at<br>the top of the shelf.</i>
+<SYNC Start=1527230><P Class=ENCC>&nbsp;
+<SYNC Start=1527432><P Class=ENCC>
+<i>Hey, man! Get that thing!</i>
+<SYNC Start=1530066><P Class=ENCC>&nbsp;
+<SYNC Start=1530402><P Class=ENCC>
+[gasping]
+<SYNC Start=1531518><P Class=ENCC>&nbsp;
+<SYNC Start=1531770><P Class=ENCC>
+[thump]
+<SYNC Start=1532685><P Class=ENCC>&nbsp;
+<SYNC Start=1535490><P Class=ENCC>
+[slice]
+<SYNC Start=1535855><P Class=ENCC>&nbsp;
+<SYNC Start=1535857><P Class=ENCC>
+[gasping]
+<SYNC Start=1537023><P Class=ENCC>&nbsp;
+<SYNC Start=1543365><P Class=ENCC>
+[breathing heavily]
+<SYNC Start=1549702><P Class=ENCC>&nbsp;
+<SYNC Start=1549755><P Class=ENCC>
+[gurgling]
+<SYNC Start=1553339><P Class=ENCC>&nbsp;
+<SYNC Start=1556628><P Class=ENCC>
+[crash]
+<SYNC Start=1557594><P Class=ENCC>&nbsp;
+<SYNC Start=1557629><P Class=ENCC>
+What's up, Doc?
+<SYNC Start=1559045><P Class=ENCC>&nbsp;
+<SYNC Start=1560215><P Class=ENCC>
+Murphy!
+<SYNC Start=1562215><P Class=ENCC>&nbsp;
+<SYNC Start=1563051><P Class=ENCC>
+[breathing heavily]
+<SYNC Start=1564350><P Class=ENCC>&nbsp;
+<SYNC Start=1564386><P Class=ENCC>
+What?
+<SYNC Start=1565635><P Class=ENCC>&nbsp;
+<SYNC Start=1565854><P Class=ENCC>
+Are you okay?
+<SYNC Start=1566469><P Class=ENCC>&nbsp;
+<SYNC Start=1566521><P Class=ENCC>
+Murphy, he's here.
+<SYNC Start=1567520><P Class=ENCC>&nbsp;
+<SYNC Start=1567556><P Class=ENCC>
+He's in the building?
+<SYNC Start=1568188><P Class=ENCC>&nbsp;
+<SYNC Start=1568223><P Class=ENCC>
+[gasping] He just took off.
+<SYNC Start=1570356><P Class=ENCC>&nbsp;
+<SYNC Start=1574813><P Class=ENCC>
+[growling]
+<SYNC Start=1575395><P Class=ENCC>&nbsp;
+<SYNC Start=1575447><P Class=ENCC>
+Give me a break, will ya?!
+<SYNC Start=1577030><P Class=ENCC>&nbsp;
+<SYNC Start=1577065><P Class=ENCC>
+[growling]
+<SYNC Start=1577647><P Class=ENCC>&nbsp;
+<SYNC Start=1577699><P Class=ENCC>
+Doc!
+<SYNC Start=1578898><P Class=ENCC>&nbsp;
+<SYNC Start=1579234><P Class=ENCC>
+[gunshot]
+<SYNC Start=1580400><P Class=ENCC>&nbsp;
+<SYNC Start=1597116><P Class=ENCC>
+[wind blowing]
+<SYNC Start=1600818><P Class=ENCC>&nbsp;
+<SYNC Start=1604624><P Class=ENCC>
+[breathing heavily]
+<SYNC Start=1607825><P Class=ENCC>&nbsp;
+<SYNC Start=1657176><P Class=ENCC>
+<i>[growling]</i>
+<SYNC Start=1660094><P Class=ENCC>&nbsp;
+<SYNC Start=1660129><P Class=ENCC>
+[whispering] Shit.
+<SYNC Start=1661545><P Class=ENCC>&nbsp;
+<SYNC Start=1661598><P Class=ENCC>
+[growling]
+<SYNC Start=1662847><P Class=ENCC>&nbsp;
+<SYNC Start=1662882><P Class=ENCC>
+[gunshot]
+<SYNC Start=1663714><P Class=ENCC>&nbsp;
+<SYNC Start=1663766><P Class=ENCC>
+[growling]
+<SYNC Start=1664548><P Class=ENCC>&nbsp;
+<SYNC Start=1664601><P Class=ENCC>
+[gunshot]
+<SYNC Start=1665216><P Class=ENCC>&nbsp;
+<SYNC Start=1665518><P Class=ENCC>
+[thud]
+<SYNC Start=1666767><P Class=ENCC>&nbsp;
+<SYNC Start=1668221><P Class=ENCC>
+[growling]
+<SYNC Start=1671889><P Class=ENCC>&nbsp;
+<SYNC Start=1673643><P Class=ENCC>
+[growling continues]
+<SYNC Start=1680698><P Class=ENCC>&nbsp;
+<SYNC Start=1687740><P Class=ENCC>
+[gunshot]
+<SYNC Start=1688623><P Class=ENCC>&nbsp;
+<SYNC Start=1702422><P Class=ENCC>
+<i>[muffled gunfire]</i>
+<SYNC Start=1707008><P Class=ENCC>&nbsp;
+<SYNC Start=1722275><P Class=ENCC>
+[automatic gunfire]
+<SYNC Start=1726110><P Class=ENCC>&nbsp;
+<SYNC Start=1727947><P Class=ENCC>
+I'm afraid that ain't gonna be enough.
+<SYNC Start=1730281><P Class=ENCC>&nbsp;
+<SYNC Start=1730333><P Class=ENCC>
+[laughs]
+<SYNC Start=1731499><P Class=ENCC>&nbsp;
+<SYNC Start=1731534><P Class=ENCC>
+I'd say turn back.
+<SYNC Start=1733784><P Class=ENCC>&nbsp;
+<SYNC Start=1734120><P Class=ENCC>
+But my men'll be coming up<br>those stairs any second.
+<SYNC Start=1738956><P Class=ENCC>&nbsp;
+<SYNC Start=1741294><P Class=ENCC>
+So any way you look at it,<br>you're in a tight spot.
+<SYNC Start=1746180><P Class=ENCC>&nbsp;
+<SYNC Start=1746215><P Class=ENCC>
+[automatic gunfire]
+<SYNC Start=1749133><P Class=ENCC>&nbsp;
+<SYNC Start=1751387><P Class=ENCC>
+[gunshot]
+<SYNC Start=1751886><P Class=ENCC>&nbsp;
+<SYNC Start=1754307><P Class=ENCC>
+[laughing] That ain't gonna do it, sugar!
+<SYNC Start=1756807><P Class=ENCC>&nbsp;
+<SYNC Start=1761781><P Class=ENCC>
+[click]
+<SYNC Start=1762446><P Class=ENCC>&nbsp;
+<SYNC Start=1763149><P Class=ENCC>
+Oh. [laughs] How many left?
+<SYNC Start=1767618><P Class=ENCC>&nbsp;
+<SYNC Start=1770323><P Class=ENCC>
+Cuz I'm doing great over here!
+<SYNC Start=1772790><P Class=ENCC>&nbsp;
+<SYNC Start=1772825><P Class=ENCC>
+[automatic gunfire]
+<SYNC Start=1778295><P Class=ENCC>&nbsp;
+<SYNC Start=1778331><P Class=ENCC>
+[screams]
+<SYNC Start=1778879><P Class=ENCC>&nbsp;
+<SYNC Start=1779665><P Class=ENCC>
+[groans]
+<SYNC Start=1780548><P Class=ENCC>&nbsp;
+<SYNC Start=1781300><P Class=ENCC>
+Son of a
+<SYNC Start=1783167><P Class=ENCC>&nbsp;
+<SYNC Start=1783169><P Class=ENCC>
+bitch!
+<SYNC Start=1784051><P Class=ENCC>&nbsp;
+<SYNC Start=1785138><P Class=ENCC>
+[groaning]
+<SYNC Start=1785920><P Class=ENCC>&nbsp;
+<SYNC Start=1785972><P Class=ENCC>
+Yep, that stung. Oh!
+<SYNC Start=1789006><P Class=ENCC>&nbsp;
+<SYNC Start=1790309><P Class=ENCC>
+I'm gonna have to do
+<SYNC Start=1792843><P Class=ENCC>&nbsp;
+<SYNC Start=1793763><P Class=ENCC>
+bad things to you
+<SYNC Start=1795813><P Class=ENCC>&nbsp;
+<SYNC Start=1796766><P Class=ENCC>
+before I kill you!
+<SYNC Start=1799483><P Class=ENCC>&nbsp;
+<SYNC Start=1799519><P Class=ENCC>
+[automatic gunfire]
+<SYNC Start=1802186><P Class=ENCC>&nbsp;
+<SYNC Start=1804690><P Class=ENCC>
+[gunshot]
+<SYNC Start=1805322><P Class=ENCC>&nbsp;
+<SYNC Start=1805942><P Class=ENCC>
+[hit]
+<SYNC Start=1806774><P Class=ENCC>&nbsp;
+<SYNC Start=1807160><P Class=ENCC>
+[groans]
+<SYNC Start=1808159><P Class=ENCC>&nbsp;
+<SYNC Start=1826345><P Class=ENCC>
+[whispering] I'm a
+<SYNC Start=1827678><P Class=ENCC>&nbsp;
+<SYNC Start=1827713><P Class=ENCC>
+[whispering] I'm a kill you.
+<SYNC Start=1829964><P Class=ENCC>&nbsp;
+<SYNC Start=1830016><P Class=ENCC>
+[breathing heavily]
+<SYNC Start=1832383><P Class=ENCC>&nbsp;
+<SYNC Start=1834887><P Class=ENCC>
+[laughing]
+<SYNC Start=1836387><P Class=ENCC>&nbsp;
+<SYNC Start=1839642><P Class=ENCC>
+You're already dead, shorty.
+<SYNC Start=1843227><P Class=ENCC>&nbsp;
+<SYNC Start=1847233><P Class=ENCC>
+[thwap]
+<SYNC Start=1849066><P Class=ENCC>&nbsp;
+<SYNC Start=1849118><P Class=ENCC>
+[repeated hitting]
+<SYNC Start=1853954><P Class=ENCC>&nbsp;
+<SYNC Start=1864383><P Class=ENCC>
+[coughing]
+<SYNC Start=1865800><P Class=ENCC>&nbsp;
+<SYNC Start=1867086><P Class=ENCC>
+[coughing]
+<SYNC Start=1871305><P Class=ENCC>&nbsp;
+<SYNC Start=1877313><P Class=ENCC>
+Thanks.
+<SYNC Start=1878429><P Class=ENCC>&nbsp;
+<SYNC Start=1878764><P Class=ENCC>
+We got to go up.
+<SYNC Start=1880481><P Class=ENCC>&nbsp;
+<SYNC Start=1880516><P Class=ENCC>
+I'm out.
+<SYNC Start=1881932><P Class=ENCC>&nbsp;
+<SYNC Start=1893112><P Class=ENCC>
+[breathing heavily]
+<SYNC Start=1896330><P Class=ENCC>&nbsp;
+<SYNC Start=1902338><P Class=ENCC>
+[breathing heavily]
+<SYNC Start=1907958><P Class=ENCC>&nbsp;
+<SYNC Start=1912181><P Class=ENCC>
+[growling]
+<SYNC Start=1912630><P Class=ENCC>&nbsp;
+<SYNC Start=1912682><P Class=ENCC>
+[gunshot]
+<SYNC Start=1913464><P Class=ENCC>&nbsp;
+<SYNC Start=1913850><P Class=ENCC>
+[growling continues]
+<SYNC Start=1914431><P Class=ENCC>&nbsp;
+<SYNC Start=1914467><P Class=ENCC>
+[gunshot]
+<SYNC Start=1915182><P Class=ENCC>&nbsp;
+<SYNC Start=1916636><P Class=ENCC>
+[gunshot]
+<SYNC Start=1917134><P Class=ENCC>&nbsp;
+<SYNC Start=1919805><P Class=ENCC>
+[gunshot]
+<SYNC Start=1920804><P Class=ENCC>&nbsp;
+<SYNC Start=1921140><P Class=ENCC>
+[growling continues]
+<SYNC Start=1925976><P Class=ENCC>&nbsp;
+<SYNC Start=1925978><P Class=ENCC>
+[gunshot]
+<SYNC Start=1926944><P Class=ENCC>&nbsp;
+<SYNC Start=1928147><P Class=ENCC>
+[growling continues]
+<SYNC Start=1929113><P Class=ENCC>&nbsp;
+<SYNC Start=1929148><P Class=ENCC>
+[screaming]
+<SYNC Start=1929780><P Class=ENCC>&nbsp;
+<SYNC Start=1929815><P Class=ENCC>
+[growling continues]
+<SYNC Start=1938622><P Class=ENCC>&nbsp;
+<SYNC Start=1944394><P Class=ENCC>
+[echoes of water dripping]
+<SYNC Start=1952166><P Class=ENCC>&nbsp;
+<SYNC Start=2030046><P Class=ENCC>
+[growling]
+<SYNC Start=2033347><P Class=ENCC>&nbsp;
+<SYNC Start=2037303><P Class=ENCC>
+Move!
+<SYNC Start=2038219><P Class=ENCC>&nbsp;
+<SYNC Start=2038271><P Class=ENCC>
+Right behind us!
+<SYNC Start=2038886><P Class=ENCC>&nbsp;
+<SYNC Start=2038888><P Class=ENCC>
+Get down!
+<SYNC Start=2039553><P Class=ENCC>&nbsp;
+<SYNC Start=2039889><P Class=ENCC>
+[three gunshots]
+<SYNC Start=2042056><P Class=ENCC>&nbsp;
+<SYNC Start=2043726><P Class=ENCC>
+Follow us!
+<SYNC Start=2045359><P Class=ENCC>&nbsp;
+<SYNC Start=2071921><P Class=ENCC>
+Over there.
+<SYNC Start=2073637><P Class=ENCC>&nbsp;
+<SYNC Start=2083483><P Class=ENCC>
+Hey. It's over.
+<SYNC Start=2084682><P Class=ENCC>&nbsp;
+<SYNC Start=2084734><P Class=ENCC>
+Yep. I'm done.
+<SYNC Start=2087768><P Class=ENCC>&nbsp;
+<SYNC Start=2088154><P Class=ENCC>
+Hey, hey, hey.
+<SYNC Start=2088936><P Class=ENCC>&nbsp;
+<SYNC Start=2088938><P Class=ENCC>
+Don't. Don't What you doing?
+<SYNC Start=2090070><P Class=ENCC>&nbsp;
+<SYNC Start=2090106><P Class=ENCC>
+I mean it. Don't.
+<SYNC Start=2092323><P Class=ENCC>&nbsp;
+<SYNC Start=2093776><P Class=ENCC>
+Okay.
+<SYNC Start=2095276><P Class=ENCC>&nbsp;
+<SYNC Start=2095778><P Class=ENCC>
+What good is this gonna do?
+<SYNC Start=2097945><P Class=ENCC>&nbsp;
+<SYNC Start=2097997><P Class=ENCC>
+Good?
+<SYNC Start=2099280><P Class=ENCC>&nbsp;
+<SYNC Start=2100700><P Class=ENCC>
+What's it matter? What's the point?
+<SYNC Start=2102199><P Class=ENCC>&nbsp;
+<SYNC Start=2102251><P Class=ENCC>
+Come on, man. We don't have time for this.
+<SYNC Start=2104285><P Class=ENCC>&nbsp;
+<SYNC Start=2104337><P Class=ENCC>
+I do.
+<SYNC Start=2106086><P Class=ENCC>&nbsp;
+<SYNC Start=2106122><P Class=ENCC>
+I got all the time in the world.
+<SYNC Start=2107838><P Class=ENCC>&nbsp;
+<SYNC Start=2107874><P Class=ENCC>
+Listen.
+<SYNC Start=2109039><P Class=ENCC>&nbsp;
+<SYNC Start=2109091><P Class=ENCC>
+I'm not your goddamn shrink.<br>We did not come this far for you
+<SYNC Start=2111292><P Class=ENCC>&nbsp;
+<SYNC Start=2111344><P Class=ENCC>
+Oh my God. Do you even listen to yourself?
+<SYNC Start=2113627><P Class=ENCC>&nbsp;
+<SYNC Start=2113679><P Class=ENCC>
+Doesn't that get old?
+<SYNC Start=2115462><P Class=ENCC>&nbsp;
+<SYNC Start=2115765><P Class=ENCC>
+Saying that?
+<SYNC Start=2117214><P Class=ENCC>&nbsp;
+<SYNC Start=2118968><P Class=ENCC>
+No.
+<SYNC Start=2120768><P Class=ENCC>&nbsp;
+<SYNC Start=2135868><P Class=ENCC>
+[screaming] No!
+<SYNC Start=2137568><P Class=ENCC>&nbsp;
+<SYNC Start=2137820><P Class=ENCC>
+[snarling]
+<SYNC Start=2142489><P Class=ENCC>&nbsp;
+<SYNC Start=2142491><P Class=ENCC>
+Back down!
+<SYNC Start=2144124><P Class=ENCC>&nbsp;
+<SYNC Start=2144160><P Class=ENCC>
+[snarling]
+<SYNC Start=2149330><P Class=ENCC>&nbsp;
+<SYNC Start=2149665><P Class=ENCC>
+[breathing heavily]
+<SYNC Start=2155886><P Class=ENCC>&nbsp;
+<SYNC Start=2156672><P Class=ENCC>
+[growling]
+<SYNC Start=2158339><P Class=ENCC>&nbsp;
+<SYNC Start=2158391><P Class=ENCC>
+[screaming] Addy!
+<SYNC Start=2159974><P Class=ENCC>&nbsp;
+<SYNC Start=2160009><P Class=ENCC>
+[growling]
+<SYNC Start=2160674><P Class=ENCC>&nbsp;
+<SYNC Start=2160676><P Class=ENCC>
+[screaming] Mack!
+<SYNC Start=2161842><P Class=ENCC>&nbsp;
+<SYNC Start=2163846><P Class=ENCC>
+[screaming] Mack!
+<SYNC Start=2165012><P Class=ENCC>&nbsp;
+<SYNC Start=2165648><P Class=ENCC>
+[screaming] Addy!
+<SYNC Start=2166513><P Class=ENCC>&nbsp;
+<SYNC Start=2166515><P Class=ENCC>
+[screaming] Mack!
+<SYNC Start=2167681><P Class=ENCC>&nbsp;
+<SYNC Start=2167683><P Class=ENCC>
+[screaming] Addy!
+<SYNC Start=2168983><P Class=ENCC>&nbsp;
+<SYNC Start=2169068><P Class=ENCC>
+Addy!
+<SYNC Start=2170150><P Class=ENCC>&nbsp;
+<SYNC Start=2170236><P Class=ENCC>
+Go!
+<SYNC Start=2171151><P Class=ENCC>&nbsp;
+<SYNC Start=2171187><P Class=ENCC>
+I'm gonna get you out!
+<SYNC Start=2172853><P Class=ENCC>&nbsp;
+<SYNC Start=2172905><P Class=ENCC>
+Go!
+<SYNC Start=2174355><P Class=ENCC>&nbsp;
+<SYNC Start=2174407><P Class=ENCC>
+No!
+<SYNC Start=2174738><P Class=ENCC>&nbsp;
+<SYNC Start=2174774><P Class=ENCC>
+[gunshot]
+<SYNC Start=2176190><P Class=ENCC>&nbsp;
+<SYNC Start=2176192><P Class=ENCC>
+[whispering] Shit.
+<SYNC Start=2176824><P Class=ENCC>&nbsp;
+<SYNC Start=2176859><P Class=ENCC>
+Go!
+<SYNC Start=2177524><P Class=ENCC>&nbsp;
+<SYNC Start=2177577><P Class=ENCC>
+[screaming] Just go!
+<SYNC Start=2179526><P Class=ENCC>&nbsp;
+<SYNC Start=2179695><P Class=ENCC>
+[screaming] Find Warren!
+<SYNC Start=2180744><P Class=ENCC>&nbsp;
+<SYNC Start=2183032><P Class=ENCC>
+I'm gonna get you out!
+<SYNC Start=2185032><P Class=ENCC>&nbsp;
+<SYNC Start=2185034><P Class=ENCC>
+[growling]
+<SYNC Start=2186250><P Class=ENCC>&nbsp;
+<SYNC Start=2186285><P Class=ENCC>
+Just go!
+<SYNC Start=2188035><P Class=ENCC>&nbsp;
+<SYNC Start=2188087><P Class=ENCC>
+No!
+<SYNC Start=2189203><P Class=ENCC>&nbsp;
+<SYNC Start=2189255><P Class=ENCC>
+[grunting]
+<SYNC Start=2191205><P Class=ENCC>&nbsp;
+<SYNC Start=2191207><P Class=ENCC>
+[growling]
+<SYNC Start=2192456><P Class=ENCC>&nbsp;
+<SYNC Start=2192508><P Class=ENCC>
+[screaming] Please!
+<SYNC Start=2193791><P Class=ENCC>&nbsp;
+<SYNC Start=2195428><P Class=ENCC>
+[screaming] Addy, please!
+<SYNC Start=2196377><P Class=ENCC>&nbsp;
+<SYNC Start=2196429><P Class=ENCC>
+[screaming] I don't want you to see me turn!
+<SYNC Start=2199346><P Class=ENCC>&nbsp;
+<SYNC Start=2199382><P Class=ENCC>
+[screaming]
+<SYNC Start=2200347><P Class=ENCC>&nbsp;
+<SYNC Start=2200383><P Class=ENCC>
+[grunting]
+<SYNC Start=2203467><P Class=ENCC>&nbsp;
+<SYNC Start=2203519><P Class=ENCC>
+No! No!
+<SYNC Start=2205886><P Class=ENCC>&nbsp;
+<SYNC Start=2205888><P Class=ENCC>
+[screaming]
+<SYNC Start=2209056><P Class=ENCC>&nbsp;
+<SYNC Start=2253819><P Class=ENCC>
+[growling]
+<SYNC Start=2257404><P Class=ENCC>&nbsp;
+<SYNC Start=2257606><P Class=ENCC>
+[gunshot]
+<SYNC Start=2258739><P Class=ENCC>&nbsp;
+<SYNC Start=2280624><P Class=ENCC>
+<i>[snarling]</i>
+<SYNC Start=2282957><P Class=ENCC>&nbsp;
+<SYNC Start=2283009><P Class=ENCC>
+[growling]
+<SYNC Start=2287011><P Class=ENCC>&nbsp;
+<SYNC Start=2287047><P Class=ENCC>
+[thump]
+<SYNC Start=2288096><P Class=ENCC>&nbsp;
+<SYNC Start=2288131><P Class=ENCC>
+[snarling]
+<SYNC Start=2288763><P Class=ENCC>&nbsp;
+<SYNC Start=2290350><P Class=ENCC>
+[growling]
+<SYNC Start=2295937><P Class=ENCC>&nbsp;
+<SYNC Start=2295972><P Class=ENCC>
+[thump]
+<SYNC Start=2296971><P Class=ENCC>&nbsp;
+<SYNC Start=2299309><P Class=ENCC>
+[growling]
+<SYNC Start=2300775><P Class=ENCC>&nbsp;
+<SYNC Start=2301228><P Class=ENCC>
+Come on!
+<SYNC Start=2302727><P Class=ENCC>&nbsp;
+<SYNC Start=2303530><P Class=ENCC>
+[thump]
+<SYNC Start=2304863><P Class=ENCC>&nbsp;
+<SYNC Start=2305649><P Class=ENCC>
+[thump]
+<SYNC Start=2307115><P Class=ENCC>&nbsp;
+<SYNC Start=2307567><P Class=ENCC>
+[hit]
+<SYNC Start=2308366><P Class=ENCC>&nbsp;
+<SYNC Start=2308535><P Class=ENCC>
+[hit]
+<SYNC Start=2309117><P Class=ENCC>&nbsp;
+<SYNC Start=2309536><P Class=ENCC>
+[hit]
+<SYNC Start=2310285><P Class=ENCC>&nbsp;
+<SYNC Start=2310654><P Class=ENCC>
+[hit]
+<SYNC Start=2311319><P Class=ENCC>&nbsp;
+<SYNC Start=2311655><P Class=ENCC>
+[splorch]
+<SYNC Start=2312487><P Class=ENCC>&nbsp;
+<SYNC Start=2312656><P Class=ENCC>
+[splorch]
+<SYNC Start=2313655><P Class=ENCC>&nbsp;
+<SYNC Start=2314157><P Class=ENCC>
+[breathing heavily]
+<SYNC Start=2315039><P Class=ENCC>&nbsp;
+<SYNC Start=2315659><P Class=ENCC>
+[grunts]
+<SYNC Start=2317158><P Class=ENCC>&nbsp;
+<SYNC Start=2336396><P Class=ENCC>
+<i>[snarling]</i>
+<SYNC Start=2342486><P Class=ENCC>&nbsp;
+<SYNC Start=2346439><P Class=ENCC>
+<i>[snarling]</i>
+<SYNC Start=2351466><P Class=ENCC>&nbsp;
+<SYNC Start=2396239><P Class=ENCC>
+Get in!
+<SYNC Start=2397071><P Class=ENCC>&nbsp;
+<SYNC Start=2397073><P Class=ENCC>
+[glass shattering]
+<SYNC Start=2398039><P Class=ENCC>&nbsp;
+<SYNC Start=2398742><P Class=ENCC>
+[thwap]
+<SYNC Start=2399574><P Class=ENCC>&nbsp;
+<SYNC Start=2402879><P Class=ENCC>
+[smack]
+<SYNC Start=2403745><P Class=ENCC>&nbsp;
+<SYNC Start=2403747><P Class=ENCC>
+- [grunting]<br>- [groaning]
+<SYNC Start=2408549><P Class=ENCC>&nbsp;
+<SYNC Start=2408585><P Class=ENCC>
+[smack]
+<SYNC Start=2409050><P Class=ENCC>&nbsp;
+<SYNC Start=2409919><P Class=ENCC>
+[smack]
+<SYNC Start=2410585><P Class=ENCC>&nbsp;
+<SYNC Start=2411671><P Class=ENCC>
+[smack]
+<SYNC Start=2412136><P Class=ENCC>&nbsp;
+<SYNC Start=2412172><P Class=ENCC>
+[growling]
+<SYNC Start=2412587><P Class=ENCC>&nbsp;
+<SYNC Start=2412639><P Class=ENCC>
+(Murphy) Stop!
+<SYNC Start=2413554><P Class=ENCC>&nbsp;
+<SYNC Start=2413640><P Class=ENCC>
+Stop!
+<SYNC Start=2414005><P Class=ENCC>&nbsp;
+<SYNC Start=2414090><P Class=ENCC>
+Stop!
+<SYNC Start=2415089><P Class=ENCC>&nbsp;
+<SYNC Start=2415342><P Class=ENCC>
+Addy! Hey! Hey! That's enough!
+<SYNC Start=2417976><P Class=ENCC>&nbsp;
+<SYNC Start=2418011><P Class=ENCC>
+[screaming]
+<SYNC Start=2418760><P Class=ENCC>&nbsp;
+<SYNC Start=2418812><P Class=ENCC>
+[groaning]
+<SYNC Start=2419644><P Class=ENCC>&nbsp;
+<SYNC Start=2419679><P Class=ENCC>
+What the hell?! What I ever do to her?!
+<SYNC Start=2422230><P Class=ENCC>&nbsp;
+<SYNC Start=2422265><P Class=ENCC>
+You okay?
+<SYNC Start=2423564><P Class=ENCC>&nbsp;
+<SYNC Start=2424317><P Class=ENCC>
+[crying]
+<SYNC Start=2425733><P Class=ENCC>&nbsp;
+<SYNC Start=2425769><P Class=ENCC>
+Where's Mack?
+<SYNC Start=2426934><P Class=ENCC>&nbsp;
+<SYNC Start=2427270><P Class=ENCC>
+[breathing heavily]
+<SYNC Start=2428486><P Class=ENCC>&nbsp;
+<SYNC Start=2428772><P Class=ENCC>
+Where's Mack?!
+<SYNC Start=2430688><P Class=ENCC>&nbsp;
+<SYNC Start=2432075><P Class=ENCC>
+[crying]
+<SYNC Start=2437445><P Class=ENCC>&nbsp;
+<SYNC Start=2439699><P Class=ENCC>
+[breathing heavily]
+<SYNC Start=2442450><P Class=ENCC>&nbsp;
+<SYNC Start=2445588><P Class=ENCC>
+[breathing heavily]
+<SYNC Start=2450124><P Class=ENCC>&nbsp;
+<SYNC Start=2503680><P Class=ENCC>
+Can't go west.
+<SYNC Start=2505396><P Class=ENCC>&nbsp;
+<SYNC Start=2506066><P Class=ENCC>
+Dust storm is kicking up all that fallout.
+<SYNC Start=2508983><P Class=ENCC>&nbsp;
+<SYNC Start=2510019><P Class=ENCC>
+Gotta outrun that cloud.
+<SYNC Start=2511986><P Class=ENCC>&nbsp;
+<SYNC Start=2513823><P Class=ENCC>
+[whispering] Yeah.
+<SYNC Start=2514906><P Class=ENCC>&nbsp;
+<SYNC Start=2524033><P Class=ENCC>
+[whispers] Damn.
+<SYNC Start=2525700><P Class=ENCC>&nbsp;
+<SYNC Start=2532069><P Class=ENCC>
+- Sync and corrected by <font color="829EE0">TheDelta</font> -<br>- www.addic7ed.com -
+<SYNC Start=2534950><P Class=ENCC>&nbsp;
+</BODY>
+</SAMI>
