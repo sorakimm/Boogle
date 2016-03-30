@@ -1,10 +1,9 @@
-<table border="0">
+
     {% for i in pageList %}
-    <font size="3" face="arial">
+    <font size="3" face="arial" color="#0094ff">
         <a href="/search/{{mode}}/{{keyword}}/Page{{i}}">
-            [{{i}}]
+            {{i}}
         </a>
     </font>
     &nbsp;
     {%endfor%}
-</table>

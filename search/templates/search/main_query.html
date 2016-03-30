@@ -1,0 +1,40 @@
+<script type="text/javascript">
+    function req_search() {
+        var q = document.getElementById('q_id')
+        var sm = document.getElementById("selectMode")
+        var mode = sm.options[sm.selectedIndex].value;
+
+        if (q.value.length <= 0) {
+            alert("please, enter keyword")
+            return false
+        }
+        else {
+            if (q.value.indexOf(" ") > 0) {
+                alert("please, input one word")
+                return false
+            }
+        }
+        if(mode=="")
+            mode = "smisearch"
+
+        strURL = "/search/" + mode + "/" + q.value
+        window.location = strURL
+    }
+
+</script>
+ 
+<br /><br />
+    <select id="selectMode" size="1" style="border:1px solid #0094ff; height:40px;">
+        <!--<option value="smisearch">SMISearch</option>-->
+        <option value="allsearch">ALLSearch</option>
+        <option value="smisearch">SMISearch</option>
+        <option value="dictsearch">DICTSearch</option>
+        <option value="websearch">WEBSearch</option>
+    </select>
+
+    <input type="text" size="60" name="q" id="q_id" value="{{keyword}}" style="border:1px solid #0094ff; height:40px;"
+           onkeydown="if (event.keyCode == 13) javascript: req_search()" />
+    <br /><br /><br />
+    <input type="button" value="Boogle °Ë»ö" style="height:40px; width:120px;" onclick="javascript:req_search()" />
+    &nbsp;&nbsp;
+    <input type="button" value="I'm Feeling Lucky" style="height:40px; width:120px;" onclick="javascript:req_search()" />
