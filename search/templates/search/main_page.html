@@ -1,4 +1,4 @@
-<html>
+Ôªø<html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
@@ -10,16 +10,19 @@
         }
 
         #container {
+            padding-top:120px;
             min-height: 100%;
             position: relative;
         }
 
-            #container #header {
+            #container #logo {
                 height: 70px;
+                padding-top: 80px;
                 background-color: white;
             }
 
             #container #content {
+                padding-top: 50px;
                 padding-bottom: 120px;
             }
 
@@ -36,13 +39,15 @@
 <body>
     <center>
         <div id="container">
-            <div id="header"></div>
-            <div id="content"></div>
-            <a href="http://127.0.0.1:8000"><img src="/images/main_log.jpg" width="300" height="100"/></a>
-            {% include 'main_query.html' %}
+            <div id="logo">
+                <a href="http://127.0.0.1:8000"><img src="/images/main_log.jpg" width="290" height="90" /></a>
+            </div>
+            <div id="content">
+                {% include 'main_query.html' %}
+            </div>
             <div id="footer">
-                <a href="http://127.0.0.1:8000">±§∞Ì</a>
-                <a href="http://127.0.0.1:8000">∫Ò¡Ó¥œΩ∫</a>
+                <a href="http://127.0.0.1:8000">adv</a>
+                <a href="http://127.0.0.1:8000">bus</a>
                 <a href="http://127.0.0.1:8000">About Boogle</a>
             </div>
         </div>

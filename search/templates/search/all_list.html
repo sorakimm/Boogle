@@ -1,6 +1,6 @@
 <table border="0">
    
-    {% for item in searchList %}
+    {% for item in smi_searchList %}
     <tr>
         <td>
             <br />
@@ -17,4 +17,43 @@
     <td>&nbsp;</td>
 </tr>
 {% endfor %}
+</table>
+
+<table border="0">
+    {% for item in dict_searchList %}
+    <tr>
+        <td>
+            <font size="3" face="arial">
+                <a href="{{item.link}}" target="_blank">
+                    {{item.title|safe}}
+                </a>
+            </font>
+            <br />
+            {{item.preview|safe}}
+        </td>
+    </tr>
+    <tr>
+        <td>&nbsp;</td>
+    </tr>
+    {% endfor %}
+</table>
+<table border="0">
+    {% for item in web_searchList %}
+    <tr>
+        <td>
+            <br />
+            <font size="3" face="arial">
+                <a href="{{item.link}}" target="_blank">
+                    {{item.title|safe}}
+                </a>
+            </font>
+            <br />
+            {{item.preview|safe}}
+
+        </td>
+    </tr>
+    <tr>
+        <td>&nbsp;</td>
+    </tr>
+    {% endfor %}
 </table>

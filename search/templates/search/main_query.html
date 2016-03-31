@@ -1,3 +1,8 @@
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+</head>
+
 <script type="text/javascript">
     function req_search() {
         var q = document.getElementById('q_id')
@@ -14,7 +19,7 @@
                 return false
             }
         }
-        if(mode=="")
+        if (mode == "")
             mode = "smisearch"
 
         strURL = "/search/" + mode + "/" + q.value
@@ -22,19 +27,20 @@
     }
 
 </script>
- 
-<br /><br />
-    <select id="selectMode" size="1" style="border:1px solid #0094ff; height:40px;">
-        <!--<option value="smisearch">SMISearch</option>-->
-        <option value="allsearch">ALLSearch</option>
-        <option value="smisearch">SMISearch</option>
-        <option value="dictsearch">DICTSearch</option>
-        <option value="websearch">WEBSearch</option>
-    </select>
+<div align="center">
+	<select id="selectMode" size="1" style="border:1px solid #0094ff; height:40px;">
+        <option value="">Search Category</option>
+        <option value="allsearch">All Search</option>
+	    <option value="smisearch">SMI Search</option>
+	    <option value="dictsearch">DICT Search</option>
+	    <option value="websearch">WEB Search</option>
+	</select>
+	<input type="text" size="60" name="q" id="q_id" value="{{keyword}}" style="border:1px solid #0094ff; vertical-align:middle; padding-left:5px ;height:40px; "
+	       onkeydown="if (event.keyCode == 13) javascript: req_search()" />
+</div>
 
-    <input type="text" size="60" name="q" id="q_id" value="{{keyword}}" style="border:1px solid #0094ff; height:40px;"
-           onkeydown="if (event.keyCode == 13) javascript: req_search()" />
-    <br /><br /><br />
-    <input type="button" value="Boogle °Ë»ö" style="height:40px; width:120px;" onclick="javascript:req_search()" />
-    &nbsp;&nbsp;
-    <input type="button" value="I'm Feeling Lucky" style="height:40px; width:120px;" onclick="javascript:req_search()" />
+<div align="center" style="margin:30px;">
+<input type="submit" value="Boogle ê²€ìƒ‰" style="border:0; height:35px; width:100px; background-color:#EAEAEA;" onclick="javascript:req_search()" />
+&nbsp;&nbsp;
+<input type="button" value="I'm Feeling Lucky" style="border:0; height:35px; width:120px; background-color:#EAEAEA;" onclick="javascript:req_search()" />
+</div>

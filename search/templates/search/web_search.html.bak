@@ -1,4 +1,4 @@
-<html>
+﻿<html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <style type="text/css">
@@ -17,52 +17,52 @@
             height: 50px;
             padding: 5px;
             background-color: #EAEAEA;
-            line-height: 0;
+            line-height:0;
         }
-
+        
         #nav_menu {
             background-color: white;
             height: 70px;
-
+            
         }
         #nav_menu ul {
-            list-style-type: none;
+            list-style-type:none;
             padding-left: 110px;
             padding-bottom: 20px;
             border-bottom: 1px solid #CFCFCF;
         }
-        #nav_menu ul li #now_menu {
-            display: inline;
-            padding: inherit;
+        #nav_menu ul li #now_menu{
+            display:inline;
+            padding:inherit;
             padding-bottom: 19px;
             color: black;
-            font-size: 10pt;
+            font-size:10pt;
             border-bottom: 3px solid #0094ff;
         }
         #nav_menu ul li {
-            display: inline;
+            display:inline;
             padding: 10px 10px 10px 10px;
             margin: 7px 3px 7px 3px;
             color: black;
-            font-size: 10pt;
+            font-size:10pt;
         }
         #nav_menu a:hover {
             color: gray;
         }
         #nav_menu a {
-            text-decoration: none;
+            text-decoration:none;
             color: black;
             margin: 7px 3px 7px 3px;
             padding-bottom: 10px;
         }
-
+        
         #container #content {
             padding-left: 130px;
             padding-bottom: 120px;
         }
 
         #container #content #navigator {
-            text-decoration: none;
+            text-decoration:none;
         }
 
         #container #footer {
@@ -75,7 +75,7 @@
     </style>
     <title>{{keyword}} - Boogle search result</title>
 </head>
-<body onload="init_all()">
+<body onload="init_web()">
     <div id="container">
         <div id="header">
             <table align="left">
@@ -87,10 +87,10 @@
         </div>
         <div id="nav_menu">
             <ul>
-                <li> <div id="now_menu"><a href="http://127.0.0.1:8000/search/allsearch/{{keyword}}">전체</a></div></li>
+                <li> <a href="http://127.0.0.1:8000/search/allsearch/{{keyword}}">전체</a></li>
                 <li> <a href="http://127.0.0.1:8000/search/smisearch/{{keyword}}">자막</a></li>
                 <li> <a href="http://127.0.0.1:8000/search/dictsearch/{{keyword}}">사전</a></li>
-                <li> <a href="http://127.0.0.1:8000/search/websearch/{{keyword}}">웹</a></li>
+                <li> <div id="now_menu"><a href="http://127.0.0.1:8000/search/websearch/{{keyword}}">웹</a></div></li>
             </ul>
         </div>
         <div id="content">
@@ -100,7 +100,7 @@
                         <td colspan="2"></td>
                     </tr>
                     <tr>
-                        <td colspan="2">{% include 'all_list.html'%}</td>
+                        <td colspan="2">{% include 'web_list.html'%}</td>
                     </tr>
                     <tr>
                         <td colspan="2">&nbsp;</td>
@@ -120,4 +120,5 @@
 	    
     
 </body>
+</html?
 </html>

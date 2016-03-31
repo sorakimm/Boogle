@@ -16,51 +16,73 @@ def main_page(request):
 
 def SearchPage(req, mode, keyword, page=1): # req : request
     global listSize
-    #mode = 'smisearch'
-    #keyword = 'good'
     page = int(page)
-    print (page)
-    #if(mode == smisearch):
-    #    resultTup = callSMISearch(keyword)
-    #elif(mode == dictsearch):
-    #    resultTup = callDICTSearch(keyword)
-    #elif(mode == websearch):
-    #    resultTup = callWEBSearch(keyword)
+    #print (page)
     resultTup = callSearch(mode, keyword)
-    showItemTup = resultTup[((page-1)*listSize):(page*listSize)] # 한번에 열개씩
+    #print (resultTup)
     
-    searchList = matchContentData(mode, keyword, showItemTup) # 페이지에 표시할 데이터 생성
-    #print(searchList)
+    if mode != 'allsearch':
+        showItemTup = resultTup[((page-1)*listSize):(page*listSize)] # 한번에 열개씩
+        searchList = matchContentData(mode, keyword, showItemTup) # 페이지에 표시할 데이터 생성
+    
+        totalSize = len(resultTup) # 검색결과 밑 네비게이터 부분
+        pageCnt = int(totalSize / listSize)
+        if(totalSize % listSize) != 0:
+            pageCnt += 1
+        pageList = range(1, pageCnt+1)
+        if mode == 'smisearch':
+            tpl = loader.get_template('search/sub_search.html')
+        elif mode == 'dictsearch':
+            tpl = loader.get_template('search/dict_search.html') # 템플릿 로딩
+        elif mode == 'websearch':
+            tpl = loader.get_template('search/web_search.html') # 템플릿 로딩
+        
+        ctx = Context({
+            'searchList' : searchList, # 변수값 채우기
+            'keyword' : keyword,
+            'mode' : mode,
+            'pageList' : pageList,
+            })
 
-    totalSize = len(resultTup) # 검색결과 밑 네비게이터 부분
-    pageCnt = int(totalSize / listSize)
-    if(totalSize % listSize) != 0:
-        pageCnt += 1
-    pageList = range(1, pageCnt+1)
-    if mode == 'smisearch':
-        tpl = loader.get_template('search/sub_search.html')
-    else:
-        tpl = loader.get_template('search/search.html') # 템플릿 로딩
-    ctx = Context({
-        'searchList' : searchList, # 변수값 채우기
-        'keyword' : keyword,
-        'mode' : mode,
-        'pageList' : pageList,
-        })
+        html = tpl.render(ctx)
+        return HttpResponse(html)
 
-    html = tpl.render(ctx)
-    return HttpResponse(html)
+    elif mode == 'allsearch':
+        print("mode allsearch@")
+        smi_resultTup = (resultTup[0], resultTup[1], resultTup[2])
+        dict_resultTup = (resultTup[3], resultTup[4], resultTup[5])
+        web_resultTup = (resultTup[6], resultTup[7], resultTup[8])
+
+        smi_searchList = matchContentData('smisearch', keyword, smi_resultTup)
+        dict_searchList = matchContentData('dictsearch', keyword, dict_resultTup)
+        web_searchList = matchContentData('websearch', keyword, web_resultTup)
+        
+        tpl = loader.get_template('search/all_search.html') # 템플릿 로딩
+        ctx = Context({
+            'smi_searchList' : smi_searchList, # 변수값 채우기
+            'dict_searchList' : dict_searchList, # 변수값 채우기
+            'web_searchList' : web_searchList, # 변수값 채우기
+            'keyword' : keyword,
+            'mode' : mode,
+            })
+
+        print('smi_searchList : ', smi_searchList)
+        print('dict_searchList : ', dict_searchList)
+        print('web_searchList : ', web_searchList)
+
+        html = tpl.render(ctx)
+        return HttpResponse(html)
 
 def callSearch(mode, keyword):
     searcher = c_searcher(keyword.encode('cp949'))
     if mode == "smisearch":
         searchTup = searcher.SubSearcher()
-        
-    #elif mode == "dictsearch":
-    #    rfunc = DictSearcher(keyword)
-    #elif mode == "websearch":
-    #    rfunc = WebSearcher(keyword)
-
+    elif mode == "dictsearch":
+        searchTup = searcher.DictSearcher()
+    elif mode == "websearch":
+        searchTup = searcher.WebSearcher()
+    elif mode == "allsearch":
+        searchTup = searcher.AllSearcher()
     return searchTup
 
 def matchContentData(mode, keyword, listTup):
@@ -73,20 +95,43 @@ def matchContentData(mode, keyword, listTup):
             conKor = item[2]
             ResultData.append(({'title':conTitle, 'eng':conEng, 'kor':conKor}))
             #print (ResultData)
-    return ResultData
+        #return ResultData
 
-    if(mode == "dictsearch" | mode == "websearch"):
+    #elif(mode == "allsearch"):
+        #print ("allsearch listTup : ", listTup)
+        #for i in range(0, 3):
+        #    conTitle = listTup[i][0].replace(listTup[i][0], "<b>" + listTup[i][0] + "</b>")
+        #    conEng = listTup[i][1]
+        #    conKor = listTup[i][2]
+        #    ResultData.append(({'title':conTitle, 'eng':conEng, 'kor':conKor}))
+        #for i in range(3, len(listTup)):
+        #    conTitle = listTup[i][0].replace(listTup[i][0], "<b>" +listTup[i][0] + "</b>")
+        #    conPreview = makeContentPreview(keyword, listTup[i][1])
+        #    conLink = listTup[i][2]
+        #    ResultData.append(({'preview':conPreview, 'link':conLink, 'title':conTitle}))
+           
+
+    elif(mode == "dictsearch"):
         for item in listTup:
             conTitle = item[0].replace(keyword, "<b>" + keyword + "</b>")
             conPreview = makeContentPreview(keyword, item[2])
             conLink = item[1]
             ResultData.append(({'preview':conPreview, 'link':conLink, 'title':conTitle}))
+
+    elif(mode == "websearch"):
+        for item in listTup:
+            conTitle = item[0].replace(keyword, "<b>" + keyword + "</b>")
+            conPreview = makeContentPreview(keyword, item[2])
+            conLink = item[1]
+            ResultData.append(({'preview':conPreview, 'link':conLink, 'title':conTitle}))
+           
+    print ("ResultData : ", ResultData) 
     return ResultData
 
 def makeContentPreview(keyword, text):
     global showLength
     contData = text
-    contData = contData.decode('utf-8')
+    #contData = contData.decode('utf-8')
     #strTitle = contData.readline()
     pos = contData.find(keyword)
 

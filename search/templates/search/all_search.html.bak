@@ -87,7 +87,7 @@
         </div>
         <div id="nav_menu">
             <ul>
-                <li> <div id="now_menu"><a href="http://127.0.0.1:8000/search/allsearch/{{keyword}}">전체</a></div></li>
+                <li> <div id="now_menu"><a href="http://127.0.0.1:8000/search/smisearch/{{keyword}}">전체</a></div></li>
                 <li> <a href="http://127.0.0.1:8000/search/smisearch/{{keyword}}">자막</a></li>
                 <li> <a href="http://127.0.0.1:8000/search/dictsearch/{{keyword}}">사전</a></li>
                 <li> <a href="http://127.0.0.1:8000/search/websearch/{{keyword}}">웹</a></li>
