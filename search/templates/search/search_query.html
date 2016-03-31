@@ -1,87 +1,51 @@
 <script type="text/javascript">
     function init_all() {
-        var sm = document.getElementById("selectMode");
-        alert("all");
-        alert(sm.options[sm.selectedIndex].value);
+        var sm = document.getElementById("selectMode")
+        var selectedmode = sm.options[sm.selectedIndex].value;
         var path = window.location.pathname;
         var mode = path.split('/')[2];
-        alert(mode);
-        //for (i = 0; i < sm.options.length; i++) {
-        //    sm.options[i].selected == false;
-        //}
-        //alert(sm.options[sm.selectedIndex].value);
- 
-        //for (i = 0; i < sm.options.length; i++) {
-        //    if (sm.options[i].value == mode) {
-        //        alert('dkafj');
-        //        sm.options[i].selected == true;
-        //    }
-        //}
-        //sm.options[1].selected == true;
-        //alert(sm.options[1].selected)
+        for (i = 0; i < sm.options.length; i++) {
+            if (sm.options[i].value == mode) {
+                sm.options[i].selected = true;
+                break;
+            }
+        }
     }
     function init_sub() {
-        var sm = document.getElementById("selectMode");
-        alert("sub");
-        alert(sm.options[sm.selectedIndex].value);
+        var sm = document.getElementById("selectMode")
+        var selectedmode = sm.options[sm.selectedIndex].value;
         var path = window.location.pathname;
         var mode = path.split('/')[2];
-        alert(mode);
-        //for (i = 0; i < sm.options.length; i++) {
-        //    sm.options[i].selected == false;
-        //}
-        //alert(sm.options[sm.selectedIndex].value);
-
-        //for (i = 0; i < sm.options.length; i++) {
-        //    if (sm.options[i].value == mode) {
-        //        alert('dkafj');
-        //        sm.options[i].selected == true;
-        //    }
-        //}
-        //sm.options[1].selected == true;
-        //alert(sm.options[1].selected)
+        for (i = 0; i < sm.options.length; i++) {
+            if (sm.options[i].value == mode) {
+                sm.options[i].selected = true;
+                break;
+            }
+        }
     }
     function init_dict() {
-        var sm = document.getElementById("selectMode");
-        alert("dict");
-        alert(sm.options[sm.selectedIndex].value);
+        var sm = document.getElementById("selectMode")
+        var selectedmode = sm.options[sm.selectedIndex].value;
         var path = window.location.pathname;
         var mode = path.split('/')[2];
-        alert(mode);
-        //for (i = 0; i < sm.options.length; i++) {
-        //    sm.options[i].selected == false;
-        //}
-        //alert(sm.options[sm.selectedIndex].value);
-
-        //for (i = 0; i < sm.options.length; i++) {
-        //    if (sm.options[i].value == mode) {
-        //        alert('dkafj');
-        //        sm.options[i].selected == true;
-        //    }
-        //}
-        //sm.options[1].selected == true;
-        //alert(sm.options[1].selected)
+        for (i = 0; i < sm.options.length; i++) {
+            if (sm.options[i].value == mode) {
+                sm.options[i].selected = true;
+                break;
+            }
+        }
     }
     function init_web() {
-        var sm = document.getElementById("selectMode");
-        alert("web");
-        alert(sm.options[sm.selectedIndex].value);
+        var sm = document.getElementById("selectMode")
+        var selectedmode = sm.options[sm.selectedIndex].value;
         var path = window.location.pathname;
         var mode = path.split('/')[2];
-        alert(mode);
-        //for (i = 0; i < sm.options.length; i++) {
-        //    sm.options[i].selected == false;
-        //}
-        //alert(sm.options[sm.selectedIndex].value);
-
-        //for (i = 0; i < sm.options.length; i++) {
-        //    if (sm.options[i].value == mode) {
-        //        alert('dkafj');
-        //        sm.options[i].selected == true;
-        //    }
-        //}
-        //sm.options[1].selected == true;
-        //alert(sm.options[1].selected)
+        for (i = 0; i < sm.options.length; i++) {
+            if (sm.options[i].value == mode) {
+                sm.options[i].selected = true;
+                break;
+            }
+        }
     }
     function req_search() {
         var q = document.getElementById('q_id')
