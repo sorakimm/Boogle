@@ -9,6 +9,9 @@ from django.template import Context, loader
 listSize = 10
 showLength = 100
 
+past_mode=''
+past_keyword=''
+
 # Create your views here.
 def main_page(request):
     return render(request, 'search/main_page.html', {})
@@ -16,10 +19,22 @@ def main_page(request):
 
 def SearchPage(req, mode, keyword, page=1): # req : request
     global listSize
+    global past_mode
+    global past_keyword
     page = int(page)
     #print (page)
-    resultTup = callSearch(mode, keyword)
+    
+    ######## keyword 같고 모드만 바뀌었을 때 데이터 가지고 있는 조건
+    if(past_mode == ''):
+        past_mode = mode
+    if(past_keyword==''):
+        past_keyword = keyword
+
+    #if past_keyword != keyword:
+    #    resultTup = callSearch(mode, keyword)
+    ########
     #print (resultTup)
+    resultTup = callSearch(mode, keyword)
     
     if mode != 'allsearch':
         showItemTup = resultTup[((page-1)*listSize):(page*listSize)] # 한번에 열개씩
@@ -48,7 +63,6 @@ def SearchPage(req, mode, keyword, page=1): # req : request
         return HttpResponse(html)
 
     elif mode == 'allsearch':
-        print("mode allsearch@")
         smi_resultTup = (resultTup[0], resultTup[1], resultTup[2])
         dict_resultTup = (resultTup[3], resultTup[4], resultTup[5])
         web_resultTup = (resultTup[6], resultTup[7], resultTup[8])
