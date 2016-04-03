@@ -14,21 +14,20 @@ class c_searcher:
         #subNum = sdb.recvSUBNum()
         #for i in range(0, subNum):
         #    ret.append(sdb.recvSUB())
-        ret = [["Downton.Abbey.S04E01.720p.HDTV.x264-FoV", "Was there really no warning?", 'Æò¼Ò¿Í ´Ù¸¥ Á¡Àº ¾ø¾ú³ª?'], 
-               ['Downton.Abbey.S04E01.720p.HDTV.x264-FoV', "We don't have a choice.", '¿ì¸®´Â ¼±ÅÃ±ÇÀÌ ¾ø³×'], 
-               ['Dexter.S0E05', 'think this is our guy\'s work?', 'ÀÌ°Íµµ ±× ÀÚ½Ä ÁþÀÎ°Å °°¾Æ?'], 
-               ['title4', 'good english4', '±Â À×±Û¸®½¬4'], 
-               ['title5', 'good english5', '±Â À×±Û¸®½¬5'], 
-               ['title6', 'good english6', '±Â À×±Û¸®½¬6'],
-               ['title7', 'good english7', '±Â À×±Û¸®½¬7'], 
-               ['title8', 'good english8', '±Â À×±Û¸®½¬8'], 
-               ['title9', 'good english9', '±Â À×±Û¸®½¬9'], 
-               ['title10', 'good english10', '±Â À×±Û¸®½¬10'], 
-               ['title11', 'good english11', '±Â À×±Û¸®½¬11'],
-               ['title12', 'good english11', '±Â À×±Û¸®½¬11']]
+        ret = [("Downton.Abbey.S04E01.720p.HDTV.x264-FoV", "Was there really no warning?", 'Æò¼Ò¿Í ´Ù¸¥ Á¡Àº ¾ø¾ú³ª?'), 
+               ('Downton.Abbey.S04E01.720p.HDTV.x264-FoV', "We don't have a choice.", '¿ì¸®´Â ¼±ÅÃ±ÇÀÌ ¾ø³×'), 
+               ('Dexter.S0E05', 'think this is our guy\'s work?', 'ÀÌ°Íµµ ±× ÀÚ½Ä ÁþÀÎ°Å °°¾Æ?'), 
+               ('title4', 'good english4', '±Â À×±Û¸®½¬4'), 
+               ('title5', 'good english5', '±Â À×±Û¸®½¬5'), 
+               ('title6', 'good english6', '±Â À×±Û¸®½¬6'),
+               ('title7', 'good english7', '±Â À×±Û¸®½¬7'),
+               ('title8', 'good english8', '±Â À×±Û¸®½¬8'),
+               ('title9', 'good english9', '±Â À×±Û¸®½¬9'),
+               ('title10', 'good english10', '±Â À×±Û¸®½¬10'), 
+               ('title11', 'good english11', '±Â À×±Û¸®½¬11'),
+               ('title12', 'good english11', '±Â À×±Û¸®½¬11')]
 
-        for i in range(0, len(ret)):
-            ret[i] = tuple(ret[i])
+     
         
         return tuple(ret)
     
@@ -51,8 +50,7 @@ class c_searcher:
                ['dicttitle10', 'http://url.co.kr', 'text blablalaiealjffjk dfjkjek;jrfijfikaekjbnrfjkbvhbveuiaeorjopMdfmnrmgnrjhihIEr94uet4jkafjkc;kwleofihaDkjfk'],
                ['dicttitle11', 'http://url.co.kr', 'text blablalaiealjffjk dfjkjek;jrfijfikaekjbnrfjkbvhbveuiaeorjopMdfmnrmgnrjhihIEr94uet4jkafjkc;kwleofihaDkjfk'],
                ['dicttitle12', 'http://url.co.kr', 'text blablalaiealjffjk dfjkjek;jrfijfikaekjbnrfjkbvhbveuiaeorjopMdfmnrmgnrjhihIEr94uet4jkafjkc;kwleofihaDkjfk']]
-        for i in range(0, len(ret)):
-            ret[i] = tuple(ret[i])
+        
         
         return tuple(ret)
     
@@ -76,9 +74,7 @@ class c_searcher:
                ['webtitle11', 'http://url.co.kr', 'text blablalaiealjffjk dfjkjek;jrfijfikaekjbnrfjkbvhbveuiaeorjopMdfmnrmgnrjhihIEr94uet4jkafjkc;kwleofihaDkjfk'],
                ['webtitle12', 'http://url.co.kr', 'text blablalaiealjffjk dfjkjek;jrfijfikaekjbnrfjkbvhbveuiaeorjopMdfmnrmgnrjhihIEr94uet4jkafjkc;kwleofihaDkjfk']]
         
-        for i in range(0, len(ret)):
-            ret[i] = tuple(ret[i])
-        
+     
         return tuple(ret)
 
     def AllSearcher(self):
