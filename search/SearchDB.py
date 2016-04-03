@@ -57,35 +57,56 @@ def __Len_Cstyle__(text):
 sdb = C_Python_Socket
 
 class SearchDB(): 
-    #def __init__(self, mode, keyword):
-    #    self.recvData = sdb.generalRecv()
-    #    self.mode = mode
-    #    self.keyword = keyowrd
+    def __init__(self, mode, keyword):
+        self.recvData = sdb.generalRecv()
+        self.mode = mode
+        self.keyword = keyowrd
         
 
     def reqWord(self, mode, keyword):
+        self.__init__(self, mode, keyword)
         modeTuple = (4, mode)
         wordTuple = (4, keyword)
         sdb.generalSend(C_Python_Socket.B_C_REQ_WORD, modeTuple, wordTuple, delay=0.01)
         
     def recvAll(self):
-        recvAllData = sdb.generalRecv()
-        r_totallen = ''
-        r_type = ''
-        
-        for i in range(0, 7):
-            if(recvAllData[I] != '\0'):
-                r_totallen += recvAllData[i]
+        a_totallen = ''
+        a_type = ''
+        allTempList = []
+        packetnum = 0
+        offset = 0
+        while packetnum < 10:
+            packetnum += 1
+            
+            for i in range(offset, offset+7):
+                if(recvData[I] != '\0'):
+                    a_totallen += recvData[i]
 
-        for i in range(8, 11):
-            if(recvAllData[I] != '\0'):
-                r_type += recvAllData[i]
+            offset += 8
+            a_totallen = int(a_totallen)
+            for i in range(offset, offset+3):
+                if(recvData[I] != '\0'):
+                    a_type += recvData[i]
 
-        if(r_type == '504'): # 들어온 패킷이 자막일 때
-            subtemp = recvSub()
+            
+            if(r_type == '504'): # 들어온 패킷이 자막일 때
+                for i in range(0, a_totallen):
+                    tempTuple = recvSub()
+
+            elif(r_type == '505'): # 들어온 패킷이 사전일 때
+                for i in range(0, a_totallen):
+                    tempTuple = recvDict()
+
+            elif(r_type == '506'): # 들어온 패킷이 웹일 때
+                for i in range(0, a_totallen):
+                    tempTuple = recvWeb()
+
+            allTempList.append(tempTuple)
+            
+            offset +=a_totallen
+
 
     def recvSub(self):
-        recvsubData = sdb.generalRecv()
         r_type = ''
         r_wordlen = ''
         r_word = ''
@@ -100,13 +121,13 @@ class SearchDB():
 
         for i in range(12, 15):
             if(recvsubData[i] != '\0'):
-                r_wordlen += recvsubData[i]
+                r_wordlen += recvAllData[i]
         
         r_wordlen = int(r_wordlen)
         
         for i in range(12, 12 + r_wordlen -1):
-            if(recvsubData[i] != '\0'):
-                r_word += recvsubData[i]
+            if(recvAllData[i] != '\0'):
+                r_word += recvAllData[i]
 
         offset = 12 + r_wordlen
 
@@ -145,9 +166,9 @@ class SearchDB():
             if(recvsubData[i] != '\0'):
                 r_kor += recvsubData[i]
                            
-        subList = [r_title, r_eng, r_kor]
+        subTuple = (r_title, r_eng, r_kor)
 
-        return subList
+        return subTuple
 
     def recvDict(self):
         recvDicData = sdb.generalRecv()
