@@ -1,7 +1,7 @@
 #-*- coding:cp949-*-
 import socket
 from C_Python_Socket import generalSend, generalRecv
-import C_Python_Socket
+#import C_Python_Socket
 sType = dict(B_C_REQ_WORD = '509', B_S_ANS_SUBTITLE = '504', B_S_ANS_COUNT = '503', B_S_ANS_DICTIONARY = '504') # 패킷 타입
 
 ##############################################################
@@ -11,18 +11,7 @@ PORT = 10001        # The same port as used by the server
 s = socket.socket()
 ##############################################################
 
-def connect(ip, port):
-    """사용하기 전 주의 사항
-    1) import socket
-    2) 전역변수 s = socket.socket()를 선언"""
-    global s
-    s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    HOST = ip                # The remote host
-    PORT = port              # The same port as used by the server
-    s.connect((HOST, PORT))
 
-def closesocket():
-    s.close();
 
 def FillSpacePacket(dataLen, index):
     """패킷의 자릿수를 채워야 할때 공백(' ')으로 빈공간을 채워줌
@@ -56,14 +45,27 @@ def __Len_Cstyle__(text):
  
 sdb = C_Python_Socket
 
-class SearchDB(): 
+class SearchDB():
+    def connect(ip, port):
+        """사용하기 전 주의 사항
+        1) import socket
+        2) 전역변수 s = socket.socket()를 선언"""
+        global s
+        s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        HOST = ip                # The remote host
+        PORT = port              # The same port as used by the server
+        s.connect((HOST, PORT))
+
+def closesocket():
+        s.close();
+
     def __init__(self, mode, keyword):
         self.recvData = sdb.generalRecv()
         self.keyword = keyowrd
         
 
     def reqWord(self, mode, keyword, page):
-        #self.__init__(self, mode, keyword)
+        self.__init__(self, mode, keyword)
         if mode == 'allsearch':
             reqmode = 1
         elif mode == 'websearch':
@@ -78,6 +80,7 @@ class SearchDB():
         sdb.generalSend(C_Python_Socket.B_C_REQ_WORD, reqmode, pagemode, keywordTuple,  delay=0.01)
 
     def recvNum(self):
+        self.__init__(self, mode, keyword)
         n_totallen = ''
         n_type = ''
         n_numlen = ''
@@ -142,7 +145,7 @@ class SearchDB():
             typeTuple = tuple(a_type)
             allTuple = typeTuple + allTuple
         return allTuple
-
+        sself.__init__(self, mode, keyword)
         #while packetnum < 10:
         #    packetnum += 1
             
@@ -175,6 +178,7 @@ class SearchDB():
 
 
     def recvSub(self):
+        self.__init__(self, mode, keyword)
         s_totalsize = ''
         s_type = ''
         s_keywordlen = ''
@@ -253,6 +257,7 @@ class SearchDB():
 
 
     def recvDict(self):
+        self.__init__(self, mode, keyword)
         d_totalsize = ''
         d_type = ''
         d_urllen = ''
@@ -300,6 +305,7 @@ class SearchDB():
         return dictTuple
 
     def recvDictContents(self):
+        self.__init__(self, mode, keyword)
         d_totalsize = ''
         d_type = ''
         d_urllen = ''
@@ -345,6 +351,7 @@ class SearchDB():
         return dictContentsTuple
 
     def recvWeb(self):
+        self.__init__(self, mode, keyword)
         w_totalsize = ''
         w_type = ''
         w_urllen = ''
@@ -392,6 +399,7 @@ class SearchDB():
         return webTuple
    
     def recvWebContents(self):
+        self.__init__(self, mode, keyword)
         w_totalsize = ''
         w_type = ''
         w_urllen = ''

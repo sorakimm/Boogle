@@ -63,54 +63,46 @@ def SearchPage(req, mode, keyword, page=1): # req : request
         return HttpResponse(html)
 
     elif mode == 'allsearch':
-        smi_resultTup = (resultTup[0], resultTup[1], resultTup[2])
+        web_resultTup = (resultTup[0], resultTup[1], resultTup[2])
         dict_resultTup = (resultTup[3], resultTup[4], resultTup[5])
-        web_resultTup = (resultTup[6], resultTup[7], resultTup[8])
-
-        smi_searchList = matchContentData('smisearch', keyword, smi_resultTup)
-        dict_searchList = matchContentData('dictsearch', keyword, dict_resultTup)
+        smi_resultTup = (resultTup[6], resultTup[7], resultTup[8])
+        
         web_searchList = matchContentData('websearch', keyword, web_resultTup)
+        dict_searchList = matchContentData('dictsearch', keyword, dict_resultTup)
+        smi_searchList = matchContentData('smisearch', keyword, smi_resultTup)
         
         tpl = loader.get_template('search/all_search.html') # 템플릿 로딩
         ctx = Context({
-            'smi_searchList' : smi_searchList, # 변수값 채우기
-            'dict_searchList' : dict_searchList, # 변수값 채우기
             'web_searchList' : web_searchList, # 변수값 채우기
+            'dict_searchList' : dict_searchList, # 변수값 채우기
+            'smi_searchList' : smi_searchList, # 변수값 채우기
             'keyword' : keyword,
             'mode' : mode,
             })
 
-        print('smi_searchList : ', smi_searchList)
-        print('dict_searchList : ', dict_searchList)
         print('web_searchList : ', web_searchList)
-
+        print('dict_searchList : ', dict_searchList)
+        print('smi_searchList : ', smi_searchList)
+       
         html = tpl.render(ctx)
         return HttpResponse(html)
 
-def callSearch(mode, keyword):
+def callSearch(mode, keyword, page):
     searcher = c_searcher(keyword.encode('cp949'))
-    if mode == "smisearch":
-        searchTup = searcher.SubSearcher()
-    elif mode == "dictsearch":
-        searchTup = searcher.DictSearcher()
+    if mode == "allsearch":
+        searchTup = searcher.AllSearcher(mode, keyword, page)
     elif mode == "websearch":
-        searchTup = searcher.WebSearcher()
-    elif mode == "allsearch":
-        searchTup = searcher.AllSearcher()
+        searchTup = searcher.WebSearcher(mode, keyword, page)
+    elif mode == "dictsearch":
+        searchTup = searcher.DictSearcher(mode, keyword, page)
+    elif mode == "smisearch":
+        searchTup = searcher.SubSearcher(mode, keyword, page)
     return searchTup
 
 def matchContentData(mode, keyword, listTup):
     #"템플릿에 사용될 데이터 생성 "
     ResultData = []
-    if(mode == "smisearch"):
-        for item in listTup:
-            conTitle = item[0].replace(item[0], "<b>" + item[0] + "</b>")
-            conEng = item[1]
-            conKor = item[2]
-            ResultData.append(({'title':conTitle, 'eng':conEng, 'kor':conKor}))
-            #print (ResultData)
-        #return ResultData
-
+    
     #elif(mode == "allsearch"):
         #print ("allsearch listTup : ", listTup)
         #for i in range(0, 3):
@@ -125,6 +117,15 @@ def matchContentData(mode, keyword, listTup):
         #    ResultData.append(({'preview':conPreview, 'link':conLink, 'title':conTitle}))
            
 
+
+    if(mode == "websearch"):
+        for item in listTup:
+            conTitle = item[0].replace(keyword, "<b>" + keyword + "</b>")
+            conPreview = makeContentPreview(keyword, item[2])
+            conLink = item[1]
+            ResultData.append(({'preview':conPreview, 'link':conLink, 'title':conTitle}))
+
+   
     elif(mode == "dictsearch"):
         for item in listTup:
             conTitle = item[0].replace(keyword, "<b>" + keyword + "</b>")
@@ -132,13 +133,16 @@ def matchContentData(mode, keyword, listTup):
             conLink = item[1]
             ResultData.append(({'preview':conPreview, 'link':conLink, 'title':conTitle}))
 
-    elif(mode == "websearch"):
+
+    elif(mode == "smisearch"):
         for item in listTup:
-            conTitle = item[0].replace(keyword, "<b>" + keyword + "</b>")
-            conPreview = makeContentPreview(keyword, item[2])
-            conLink = item[1]
-            ResultData.append(({'preview':conPreview, 'link':conLink, 'title':conTitle}))
-           
+            conTitle = item[0].replace(item[0], "<b>" + item[0] + "</b>")
+            conEng = item[1]
+            conKor = item[2]
+            ResultData.append(({'title':conTitle, 'eng':conEng, 'kor':conKor}))
+            #print (ResultData)
+        #return ResultData
+    
     print ("ResultData : ", ResultData) 
     return ResultData
 
