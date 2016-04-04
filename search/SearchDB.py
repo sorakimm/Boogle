@@ -59,216 +59,379 @@ sdb = C_Python_Socket
 class SearchDB(): 
     def __init__(self, mode, keyword):
         self.recvData = sdb.generalRecv()
-        self.mode = mode
         self.keyword = keyowrd
         
 
-    def reqWord(self, mode, keyword):
-        self.__init__(self, mode, keyword)
-        modeTuple = (4, mode)
-        wordTuple = (4, keyword)
-        sdb.generalSend(C_Python_Socket.B_C_REQ_WORD, modeTuple, wordTuple, delay=0.01)
-        
+    def reqWord(self, mode, keyword, page):
+        #self.__init__(self, mode, keyword)
+        if mode == 'allsearch':
+            reqmode = 1
+        elif mode == 'websearch':
+            reqmode = 2
+        elif mode == 'smisearch':
+            reqmode = 3
+        elif mode == 'dictsearch':
+            reqmode = 4
+
+        pagemode = (page-1)/10 + 1
+        keywordTuple = (4, keyword)
+        sdb.generalSend(C_Python_Socket.B_C_REQ_WORD, reqmode, pagemode, keywordTuple,  delay=0.01)
+
+    def recvNum(self):
+        n_totallen = ''
+        n_type = ''
+        n_numlen = ''
+        n_num = ''
+        offset = 0
+        for i in range(offset, offset+7):
+            if(recvData[i] != '\0'):
+                n_totallen += recvData[i]
+
+        offset += 8
+        a_totallen = int(a_totallen)
+        for i in range(offset, offset+3):
+            if(recvData[I] != '\0'):
+                a_type += recvData[i]
+
+        offset += 4
+
+        for i in range(offset, offset+3):
+            if(recvData[I] != '\0'):
+                a_numlen += recvData[i]
+
+        a_numlen = int(a_numlen)
+
+        for i in range(offset, a_numlen-1):
+            if(recvData[I] != '\0'):
+                a_num += recvData[i]
+
+        a_num = int(a_num)
+
+        return a_num
+
     def recvAll(self):
         a_totallen = ''
         a_type = ''
         allTempList = []
         packetnum = 0
         offset = 0
-        while packetnum < 10:
-            packetnum += 1
-            
-            for i in range(offset, offset+7):
-                if(recvData[I] != '\0'):
-                    a_totallen += recvData[i]
+        for i in range(offset, offset+7):
+            if(recvData[i] != '\0'):
+                a_totallen += recvData[i]
 
-            offset += 8
-            a_totallen = int(a_totallen)
-            for i in range(offset, offset+3):
-                if(recvData[I] != '\0'):
-                    a_type += recvData[i]
+        offset += 8
+        a_totallen = int(a_totallen)
+        for i in range(offset, offset+3):
+            if(recvData[i] != '\0'):
+                a_type += recvData[i]
 
             
-            if(r_type == '504'): # 들어온 패킷이 자막일 때
-                for i in range(0, a_totallen):
-                    tempTuple = recvSub()
+        if(a_type == '504'): # 들어온 패킷이 자막일 때
+            for i in range(0, a_totallen):
+                allTuple = recvSub()
+            typeTuple = tuple(a_type)
+            allTuple = typeTuple + allTuple
+        elif(a_type == '505'): # 들어온 패킷이 사전일 때
+            for i in range(0, a_totallen):
+                allTuple = recvDict()
+            typeTuple = tuple(a_type)
+            allTuple = typeTuple + allTuple
+        elif(a_type == '506'): # 들어온 패킷이 웹일 때
+            for i in range(0, a_totallen):
+                allTuple = recvWeb()
+            typeTuple = tuple(a_type)
+            allTuple = typeTuple + allTuple
+        return allTuple
 
-            elif(r_type == '505'): # 들어온 패킷이 사전일 때
-                for i in range(0, a_totallen):
-                    tempTuple = recvDict()
-
-            elif(r_type == '506'): # 들어온 패킷이 웹일 때
-                for i in range(0, a_totallen):
-                    tempTuple = recvWeb()
-
-            allTempList.append(tempTuple)
+        #while packetnum < 10:
+        #    packetnum += 1
             
-            offset +=a_totallen
+        #    for i in range(offset, offset+7):
+        #        if(recvData[I] != '\0'):
+        #            a_totallen += recvData[i]
+
+        #    offset += 8
+        #    a_totallen = int(a_totallen)
+        #    for i in range(offset, offset+3):
+        #        if(recvData[I] != '\0'):
+        #            a_type += recvData[i]
+
+            
+        #    if(r_type == '504'): # 들어온 패킷이 자막일 때
+        #        for i in range(0, a_totallen):
+        #            tempTuple = recvSub()
+
+        #    elif(r_type == '505'): # 들어온 패킷이 사전일 때
+        #        for i in range(0, a_totallen):
+        #            tempTuple = recvDict()
+
+        #    elif(r_type == '506'): # 들어온 패킷이 웹일 때
+        #        for i in range(0, a_totallen):
+        #            tempTuple = recvWeb()
+
+        #    allTempList.append(tempTuple)
+            
+        #    offset +=a_totallen
 
 
     def recvSub(self):
-        r_type = ''
-        r_wordlen = ''
-        r_word = ''
-        r_urllen = ''
-        r_url = ''
-        r_titlelen = ''
-        r_title = ''
-        r_englen = ''
-        r_eng = ''
-        r_korlen = ''
-        r_kor = ''
+        s_totalsize = ''
+        s_type = ''
+        s_keywordlen = ''
+        s_keyword = ''
+        s_urllen = ''
+        s_url = ''
+        s_titlelen = ''
+        s_title = ''
+        s_englen = ''
+        s_eng = ''
+        s_korlen = ''
+        s_kor = ''
+
+        for i in range(0, 7):
+            if(recvData[i] != '\0'):
+                s_totalsize += recvData[i]
+        
+        s_totalsize = int(s_totalsize)
+        
+        for i in range(8, 11):
+            if(recvData[i] != '\0'):
+                s_type += recvData[i]
 
         for i in range(12, 15):
-            if(recvsubData[i] != '\0'):
-                r_wordlen += recvAllData[i]
+            if(recvData[i] != '\0'):
+                s_keywordlen += recvData[i]
         
-        r_wordlen = int(r_wordlen)
+        s_keywordlen = int(r_keywordlen)
         
-        for i in range(12, 12 + r_wordlen -1):
-            if(recvAllData[i] != '\0'):
-                r_word += recvAllData[i]
+        for i in range(16, 16 + s_keywordlen -1):
+            if(recvData[i] != '\0'):
+                s_keyword += recvData[i]
 
-        offset = 12 + r_wordlen
-
-        for i in range(offset, offset+3):
-            if(recvsubData[i] != '\0'):
-                r_titlelen += recvsubData[i]
-        
-        r_titlelen = int(r_titlelen)
-        offset += 4
-        
-        for i in range(offset, offset + r_titlelen - 1):
-            if(recvsubData[i] != '\0'):
-                r_title += recvsubData[i]
-
-        offset = offset + r_titlelen
+        offset = 16 + s_keywordlen
 
         for i in range(offset, offset+3):
-            if(recvsubData[i] != '\0'):
-                r_englen += recvsubData[i]
+            if(recvData[i] != '\0'):
+                s_titlelen += recvData[i]
         
-        r_englen = int(r_englen)
+        s_titlelen = int(s_titlelen)
         offset += 4
         
-        for i in range(offset, offset + r_englen - 1):
-            if(recvsubData[i] != '\0'):
-                r_eng += recvsubData[i]
+        for i in range(offset, offset + s_titlelen - 1):
+            if(recvData[i] != '\0'):
+                s_title += recvData[i]
+
+        offset = offset + s_titlelen
 
         for i in range(offset, offset+3):
-            if(recvsubData[i] != '\0'):
-                r_korlen += recvsubData[i]
+            if(recvData[i] != '\0'):
+                s_englen += recvData[i]
         
-        r_korlen = int(r_korlen)
+        s_englen = int(s_englen)
         offset += 4
         
-        for i in range(offset, offset + r_korlen - 1):
-            if(recvsubData[i] != '\0'):
-                r_kor += recvsubData[i]
+        for i in range(offset, offset + s_englen - 1):
+            if(recvData[i] != '\0'):
+                s_eng += recvData[i]
+
+        for i in range(offset, offset+3):
+            if(recvData[i] != '\0'):
+                s_korlen += recvData[i]
+        
+        s_korlen = int(s_korlen)
+        offset += 4
+        
+        for i in range(offset, offset + s_korlen - 1):
+            if(recvData[i] != '\0'):
+                s_kor += recvData[i]
                            
-        subTuple = (r_title, r_eng, r_kor)
+        subTuple = (s_title, s_eng, s_kor)
 
         return subTuple
 
+
+
+
     def recvDict(self):
-        recvDicData = sdb.generalRecv()
-        r_type = ''
-        r_urllen = ''
-        r_url = ''
-        r_titlelen = ''
-        r_title = ''
-        r_contentslen = ''
-        r_contents = ''
+        d_totalsize = ''
+        d_type = ''
+        d_urllen = ''
+        d_url = ''
+        d_titlelen = ''
+        d_title = ''
+        d_contentslen = ''
+        d_contents = ''
+
+        for i in range(0, 7):
+            if(recvData[i] != '\0'):
+                d_totalsize += recvData[i]
+        
+        d_totalsize = int(d_totalsize)
+        
+        for i in range(8, 11):
+            if(recvData[i] != '\0'):
+                d_type += recvData[i]
 
         for i in range(12, 15):
-            if(recvDicData[i] != '\0'):
-                r_urllen += recvDicData[i]
+            if(recvData[i] != '\0'):
+                d_urllen += recvData[i]
         
-        r_urllen = int(r_urllen)
+        d_urllen = int(d_urllen)
         
-        for i in range(12, 12 + r_urllen -1):
-            if(recvDicData[i] != '\0'):
-                r_url += recvDicData[i]
+        for i in range(16, 16 + d_urllen -1):
+            if(recvData[i] != '\0'):
+                d_url += recvData[i]
 
-        offset = 12 + r_urllen
-
-        for i in range(offset, offset+3):
-            if(recvDicData[i] != '\0'):
-                r_titlelen += recvDicData[i]
-        
-        r_titlelen = int(r_titlelen)
-        offset += 4
-        
-        for i in range(offset, offset + r_titlelen - 1):
-            if(recvDicData[i] != '\0'):
-                r_title += recvDicData[i]
-
-        offset = 12 + r_titlelen
+        offset = 16 + d_urllen
 
         for i in range(offset, offset+3):
-            if(recvDicData[i] != '\0'):
-                r_contentslen += recvDicData[i]
+            if(recvData[i] != '\0'):
+                d_titlelen += recvData[i]
         
-        r_contentslen = int(r_contentslen)
+        d_titlelen = int(d_titlelen)
         offset += 4
         
-        for i in range(offset, offset + r_contentslen - 1):
-            if(recvDicData[i] != '\0'):
-                r_contents += recvDicData[i]
+        for i in range(offset, offset + d_titlelen - 1):
+            if(recvData[i] != '\0'):
+                d_title += recvData[i]
 
-        
-        dictTuple = (r_title, r_url, r_contents)
+        dictTuple = (url, d_title, d_contents)
 
         return dictTuple
 
-    def recvWeb(self):
-        recvDicData = sdb.generalRecv()
-        r_type = ''
-        r_urllen = ''
-        r_url = ''
-        r_titlelen = ''
-        r_title = ''
-        r_contentslen = ''
-        r_contents = ''
+    def recvDictContents(self):
+        d_totalsize = ''
+        d_type = ''
+        d_urllen = ''
+        d_url = ''
+        d_contentslen = ''
+        d_contents = ''
+
+        for i in range(0, 7):
+            if(recvData[i] != '\0'):
+                d_totalsize += recvData[i]
+        
+        d_totalsize = int(d_totalsize)
+        
+        for i in range(8, 11):
+            if(recvData[i] != '\0'):
+                d_type += recvData[i]
 
         for i in range(12, 15):
-            if(recvDicData[i] != '\0'):
-                r_urllen += recvDicData[i]
+            if(recvData[i] != '\0'):
+                d_urllen += recvData[i]
         
-        r_urllen = int(r_urllen)
+        d_urllen = int(d_urllen)
         
-        for i in range(12, 12 + r_urllen -1):
-            if(recvDicData[i] != '\0'):
-                r_url += recvDicData[i]
+        for i in range(16, 16 + d_urllen -1):
+            if(recvData[i] != '\0'):
+                d_url += recvData[i]
 
-        offset = 12 + r_urllen
-
-        for i in range(offset, offset+3):
-            if(recvDicData[i] != '\0'):
-                r_titlelen += recvDicData[i]
-        
-        r_titlelen = int(r_titlelen)
-        offset += 4
-        
-        for i in range(offset, offset + r_titlelen - 1):
-            if(recvDicData[i] != '\0'):
-                r_title += recvDicData[i]
-
-        offset = 12 + r_titlelen
+        offset = 16 + d_urllen
 
         for i in range(offset, offset+3):
-            if(recvDicData[i] != '\0'):
-                r_contentslen += recvDicData[i]
+            if(recvData[i] != '\0'):
+                d_contentslen[i] += recvData[i]
         
-        r_contentslen = int(r_contentslen)
+        d_contentslen = int(d_contentslen)
         offset += 4
         
-        for i in range(offset, offset + r_contentslen - 1):
-            if(recvDicData[i] != '\0'):
-                r_contents += recvDicData[i]
+        for i in range(offset, offset + d_contentslen - 1):
+            if(recvData[i] != '\0'):
+                d_contents += recvData[i]
 
+        dictContentsTuple = (url, d_contents)
+
+        return dictContentsTuple
+
+    def recvWeb(self):
+        w_totalsize = ''
+        w_type = ''
+        w_urllen = ''
+        w_url = ''
+        w_titlelen = ''
+        w_title = ''
+        w_contentslen = ''
+        w_contents = ''
+
+        for i in range(0, 7):
+            if(recvData[i] != '\0'):
+                w_totalsize += recvData[i]
         
-        webTuple = (r_title, r_url, r_contents)
+        w_totalsize = int(w_totalsize)
+        
+        for i in range(8, 11):
+            if(recvData[i] != '\0'):
+                w_type += recvData[i]
+
+        for i in range(12, 15):
+            if(recvData[i] != '\0'):
+                w_urllen += recvData[i]
+        
+        w_urllen = int(w_urllen)
+        
+        for i in range(16, 16 + w_urllen -1):
+            if(recvData[i] != '\0'):
+                w_url += recvData[i]
+
+        offset = 16 + w_urllen
+
+        for i in range(offset, offset+3):
+            if(recvData[i] != '\0'):
+                w_titlelen += recvData[i]
+        
+        w_titlelen = int(w_titlelen)
+        offset += 4
+        
+        for i in range(offset, offset + w_titlelen - 1):
+            if(recvData[i] != '\0'):
+                w_title += recvData[i]
+
+        webTuple = (url, w_title, w_contents)
 
         return webTuple
    
+    def recvWebContents(self):
+        w_totalsize = ''
+        w_type = ''
+        w_urllen = ''
+        w_url = ''
+        w_contentslen = ''
+        w_contents = ''
+
+        for i in range(0, 7):
+            if(recvData[i] != '\0'):
+                w_totalsize += recvData[i]
+        
+        w_totalsize = int(w_totalsize)
+        
+        for i in range(8, 11):
+            if(recvData[i] != '\0'):
+                w_type += recvData[i]
+
+        for i in range(12, 15):
+            if(recvData[i] != '\0'):
+                w_urllen += recvData[i]
+        
+        w_urllen = int(w_urllen)
+        
+        for i in range(16, 16 + w_urllen -1):
+            if(recvData[i] != '\0'):
+                w_url += recvData[i]
+
+        offset = 16 + w_urllen
+
+        for i in range(offset, offset+3):
+            if(recvData[i] != '\0'):
+                w_contentslen[i] += recvData[i]
+        
+        w_contentslen = int(w_contentslen)
+        offset += 4
+        
+        for i in range(offset, offset + w_contentslen - 1):
+            if(recvData[i] != '\0'):
+                w_contents += recvData[i]
+
+        webContentsTuple = (url, w_contents)
+
+        return webContentsTuple

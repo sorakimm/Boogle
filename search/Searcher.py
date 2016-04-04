@@ -4,16 +4,18 @@ sdb = SearchDB()
 
 
 class c_searcher:
-    def __init__(self, keyword):
+    def __init__(self, keyword, page):
         self.keyword = keyword
+        self.page = page
     
     
     def SubSearcher(self):
         ret = []
-        #sdb.reqSUB(keyword)
-        #subNum = sdb.recvSUBNum()
-        #for i in range(0, subNum):
-        #    ret.append(sdb.recvSUB())
+        sdb.reqWord(mode, keyword, page)
+        subNum = sdb.recvSUBNum()
+        while(0 < subNum):
+            ret.append(sdb.recvSUB())
+
         ret = [("Downton.Abbey.S04E01.720p.HDTV.x264-FoV", "Was there really no warning?", 'Æò¼Ò¿Í ´Ù¸¥ Á¡Àº ¾ø¾ú³ª?'), 
                ('Downton.Abbey.S04E01.720p.HDTV.x264-FoV', "We don't have a choice.", '¿ì¸®´Â ¼±ÅÃ±ÇÀÌ ¾ø³×'), 
                ('Dexter.S0E05', 'think this is our guy\'s work?', 'ÀÌ°Íµµ ±× ÀÚ½Ä ÁþÀÎ°Å °°¾Æ?'), 
@@ -56,8 +58,8 @@ class c_searcher:
     
     def WebSearcher(self):
         ret = []
-        #sdb.reqSUB(keyword)
-        #subNum = sdb.recvSUBNum()
+        sdb.reqWord(self, mode, keyword, page)
+        webNum = sdb.recvNum()
         #for i in range(0, subNum):
         #    ret.append(sdb.recvSUB())
         #ret = [['title', 'good english', '±Â À×±Û¸®½¬'.encode('utf-8')], ['title2', 'good english2', '±Â À×±Û¸®½¬2'.encode('utf-8')], ['title3', 'good english3', '±Â À×±Û¸®½¬3'.encode('utf-8')], ['title4', 'good english4', '±Â À×±Û¸®½¬4'.encode('utf-8')], ['title5', 'good english5', '±Â À×±Û¸®½¬5'.encode('utf-8')], ['title6', 'good english6', '±Â À×±Û¸®½¬6'.encode('utf-8')], ['title7', 'good english7', '±Â À×±Û¸®½¬7'.encode('utf-8')], ['title8', 'good english8', '±Â À×±Û¸®½¬8'.encode('utf-8')], ['title9', 'good english9', '±Â À×±Û¸®½¬9'.encode('utf-8')], ['title10', 'good english10', '±Â À×±Û¸®½¬10'.encode('utf-8')]]
@@ -79,10 +81,10 @@ class c_searcher:
 
     def AllSearcher(self):
         ret = []
-        #sdb.reqSUB(keyword)
-        #subNum = sdb.recvSUBNum()
-        #for i in range(0, subNum):
-        #    ret.append(sdb.recvSUB())
+        sdb.reqWord(self, mode, keyword, page)
+        allNum = sdb.recvNum()
+        for i in range(0, allNum):
+            ret.append(sdb.recvAll())
         #ret = [['title', 'good english', '±Â À×±Û¸®½¬'.encode('utf-8')], ['title2', 'good english2', '±Â À×±Û¸®½¬2'.encode('utf-8')], ['title3', 'good english3', '±Â À×±Û¸®½¬3'.encode('utf-8')], ['title4', 'good english4', '±Â À×±Û¸®½¬4'.encode('utf-8')], ['title5', 'good english5', '±Â À×±Û¸®½¬5'.encode('utf-8')], ['title6', 'good english6', '±Â À×±Û¸®½¬6'.encode('utf-8')], ['title7', 'good english7', '±Â À×±Û¸®½¬7'.encode('utf-8')], ['title8', 'good english8', '±Â À×±Û¸®½¬8'.encode('utf-8')], ['title9', 'good english9', '±Â À×±Û¸®½¬9'.encode('utf-8')], ['title10', 'good english10', '±Â À×±Û¸®½¬10'.encode('utf-8')]]
         ret = [["Downton.Abbey.S04E01.720p.HDTV.x264-FoV", "Was there really no warning?", 'Æò¼Ò¿Í ´Ù¸¥ Á¡Àº ¾ø¾ú³ª?'], 
                ['Downton.Abbey.S04E01.720p.HDTV.x264-FoV', "We don't have a choice.", '¿ì¸®´Â ¼±ÅÃ±ÇÀÌ ¾ø³×'], 
@@ -94,8 +96,8 @@ class c_searcher:
                ['webtitle2', 'http://url.co.kr', 'text blablalaiealjffjk dfjkjek;jrfijfikaekjbnrfjkbvhbveuiaeorjopMdfmnrmgnrjhihIEr94uet4jkafjkc;kwleofihaDkjfk'], 
                ['webtitle3', 'http://url.co.kr', 'text blablalaiealjffjk dfjkjek;jrfijfikaekjbnrfjkbvhbveuiaeorjopMdfmnrmgnrjhihIEr94uet4jkafjkc;kwleofihaDkjfk']]
                
-        for i in range(0, len(ret)):
-            ret[i] = tuple(ret[i])
+        for item in range(0, len(ret)):
+            item[0]
         
         
         return tuple(ret)

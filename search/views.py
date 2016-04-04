@@ -25,10 +25,10 @@ def SearchPage(req, mode, keyword, page=1): # req : request
     #print (page)
     
     ######## keyword 같고 모드만 바뀌었을 때 데이터 가지고 있는 조건
-    if(past_mode == ''):
-        past_mode = mode
-    if(past_keyword==''):
-        past_keyword = keyword
+    #if(past_mode == ''):
+    #    past_mode = mode
+    #if(past_keyword==''):
+    #    past_keyword = keyword
 
     #if past_keyword != keyword:
     #    resultTup = callSearch(mode, keyword)
