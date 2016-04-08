@@ -1,9 +1,17 @@
-
+<font size="3" face="arial" color="#0094ff">
+    {% if pageList|length > 10 %}
+    <a href="/search/{{mode}}/{{keyword}}/Page{{i-1}}">
+        {{i-1}}
+    </a>
+    &nbsp;
     {% for i in pageList %}
-    <font size="3" face="arial" color="#0094ff">
-        <a href="/search/{{mode}}/{{keyword}}/Page{{i}}">
-            {{i}}
-        </a>
-    </font>
+    <a href="/search/{{mode}}/{{keyword}}/Page{{i}}">
+        {{i}}
+    </a>
     &nbsp;
     {%endfor%}
+    <a href="/search/{{mode}}/{{keyword}}/Page{{i+1}}">
+        {{i+1}}
+    </a>
+    &nbsp;
+</font>

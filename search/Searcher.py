@@ -1,9 +1,9 @@
 #-*- coding: cp949-*-
- 
 from SearchDB import PORT, HOST, s
 import SearchDB
-from SearchDB import buf_data
-BUF_SIZE = 67000
+import ShareBuf
+
+
 
 
 
@@ -34,7 +34,6 @@ class c_searcher():
         self.page = page
     
     def AllSearcher(self):
-        global buf_data
         total_dataList = []
         total_data = ''
         ret = []
@@ -42,57 +41,59 @@ class c_searcher():
         num = 0
         pCNum = 0
         tempTupleList = []
-        currentIndex = 0
-        nextIndex = 0
         SearchDB.connect(HOST, PORT)
         print ("connect")
-
+        
         SearchDB.reqWord(self.mode, self.keyword, self.page)
         print("reqword - mode : ", self.mode)
         print("reqword - keyword: ", self.keyword)
         print("reqword - page : ", self.page)
+        while True:
+            try:
+                ShareBuf.buf_data += SearchDB.recvBuf()
+                resultNum = SearchDB.recvNum(ShareBuf.buf_data[0:16])
+                ShareBuf.buf_data = ShareBuf.buf_data[16:]
+                
+                while(num < 7):
+                    tempTuple = SearchDB.returnEachPacket()
+                    if(tempTuple[1] == '505' or tempTuple[1] == '507'):
+                        pContentsNum = tempTuple[2]
+                    if(tempTuple[1] == '506' or tempTuple[1] == '508'): # web contents packet 일 때
+                        num -= 1
+                        pCNum += 1
+            
+                    tempTupleList.append(tempTuple)
+
+                    if(pCNum == pContentsNum):
+                        pCNum = 0
+                        if(num+1 == resultNum):
+                            break
+                    ShareBuf.buf_data = ShareBuf.buf_data[int(tempTuple[0]): ] #tempTuple[0] : current packet size
+            
+                    num += 1
        
+                while(num < 9):    
+                    tempTuple = SearchDB.returnEachPacket()
+                    tempTupleList.append(tempTuple)
 
-        buf_data += SearchDB.recvBuf()
-        resultNum = SearchDB.recvNum(buf_data[0:16])
-        buf_data = buf_data[16:]
-        while(num < 7):
-            tempTuple = SearchDB.returnEachPacket(buf_data)
-            if(tempTuple[1] == '505' or tempTuple[1] == '507'):
-                pContentsNum = tempTuple[2]
-            if(tempTuple[1] == '506' or tempTuple[1] == '508'): # web contents packet 일 때
-                num -= 1
-                pCNum += 1
-            
-            tempTupleList.append(tempTuple)
-
-            if(pCNum == pContentsNum):
-                pCNum = 0
-                if(num+1 == resultNum):
-                    break
-            buf_data = buf_data[int(tempTuple[0]): ] #tempTuple[0] : current packet size
-            
-            num += 1
-       
-        while(num < 9):    
-            tempTuple = SearchDB.returnEachPacket(buf_data)
-            tempTupleList.append(tempTuple)
-
-            buf_data = buf_data[int(tempTuple[0]): ] #tempTuple[0] : current packet size
-            num += 1        
-            
+                    ShareBuf.buf_data = ShareBuf.buf_data[int(tempTuple[0]): ] #tempTuple[0] : current packet size
+                    num += 1    
+                break    
+            except IndexError:
+                ShareBuf.buf_data += SearchDB.recvBuf()
+                continue
         print (tempTupleList)
         SearchDB.closesocket()
              
         allTupleList = makeFullContents(tempTupleList)
-        return tuple(allTupleList)
+        return tuple(resultNum, allTupleList)
 
 
 
 
 
     def WebSearcher(self):
-        global buf_data
+        
         total_dataList = []
         total_data = ''
         ret = []
@@ -111,11 +112,11 @@ class c_searcher():
         print("reqword - page : ", self.page)
        
 
-        buf_data += SearchDB.recvBuf()
-        resultNum = SearchDB.recvNum(buf_data[0:16])
-        buf_data = buf_data[16:]
+        ShareBuf.buf_data += SearchDB.recvBuf()
+        resultNum = SearchDB.recvNum(ShareBuf.buf_data[0:16])
+        ShareBuf.buf_data = ShareBuf.buf_data[16:]
         while(num < resultNum+1):
-            tempTuple = SearchDB.returnEachPacket(buf_data)
+            tempTuple = SearchDB.returnEachPacket()
             if(tempTuple[1] == '507'):
                 pContentsNum = tempTuple[2]
             if(tempTuple[1] == '508'): # web contents packet 일 때
@@ -128,7 +129,7 @@ class c_searcher():
                 pCNum = 0
                 if(num+1 == resultNum):
                     break
-            buf_data = buf_data[int(tempTuple[0]): ] #tempTuple[0] : current packet size
+            ShareBuf.buf_data = ShareBuf.buf_data[int(tempTuple[0]): ] #tempTuple[0] : current packet size
             
             num += 1
             
@@ -140,7 +141,7 @@ class c_searcher():
         return tuple(webTupleList)
 
     def DictSearcher(self):
-        global buf_data
+        
         total_dataList = []
         total_data = ''
         ret = []
@@ -160,11 +161,11 @@ class c_searcher():
         print("reqword - page : ", self.page)
        
 
-        buf_data += SearchDB.recvBuf()
-        resultNum = SearchDB.recvNum(buf_data[0:16])
-        buf_data = buf_data[16:]
+        ShareBuf.buf_data += SearchDB.recvBuf()
+        resultNum = SearchDB.recvNum(ShareBuf.buf_data[0:16])
+        ShareBuf.buf_data = ShareBuf.buf_data[16:]
         while(num < resultNum+1):
-            tempTuple = SearchDB.returnEachPacket(buf_data)
+            tempTuple = SearchDB.returnEachPacket()
             if(tempTuple[1] == '505'):
                 pContentsNum = tempTuple[2]
             if(tempTuple[1] == '506'): # web contents packet 일 때
@@ -177,7 +178,7 @@ class c_searcher():
                 pCNum = 0
                 if(num+1 == resultNum):
                     break
-            buf_data = buf_data[int(tempTuple[0]): ] #tempTuple[0] : current packet size
+            ShareBuf.buf_data = ShareBuf.buf_data[int(tempTuple[0]): ] #tempTuple[0] : current packet size
             
             num += 1
             
@@ -189,7 +190,6 @@ class c_searcher():
         return tuple(dictTupleList)
     
     def SubSearcher(self):
-        global buf_data
         total_dataList = []
         total_data = ''
         ret = []
@@ -208,14 +208,14 @@ class c_searcher():
         print("reqword - page : ", self.page)
        
 
-        buf_data += SearchDB.recvBuf()
-        resultNum = SearchDB.recvNum(buf_data[0:16])
-        buf_data = buf_data[16:]
+        ShareBuf.buf_data += SearchDB.recvBuf()
+        resultNum = SearchDB.recvNum(ShareBuf.buf_data[0:16])
+        ShareBuf.buf_data = ShareBuf.buf_data[16:]
         while(num < resultNum):
-            tempTuple = SearchDB.returnEachPacket(buf_data)
+            tempTuple = SearchDB.returnEachPacket()
             tempTupleList.append(tempTuple)
 
-            buf_data = buf_data[int(tempTuple[0]): ] #tempTuple[0] : current packet size
+            ShareBuf.buf_data = ShareBuf.buf_data[int(tempTuple[0]): ] #tempTuple[0] : current packet size
             num += 1
             
             
@@ -230,6 +230,12 @@ class c_searcher():
 if __name__ == '__main__':
     print ("start SubSearcher.py... ")
     
-    searcher = c_searcher('allsearch', 'keyword', 1)
-    webTuple = searcher.AllSearcher()
+    searcher = c_searcher('websearch', '시냇물 울릉도', 1)
+    webTuple = searcher.WebSearcher()
     print(webTuple)
+    
+    
+    
+    #SearchDB.connect(HOST, PORT)
+    #SearchDB.reqWord('websearch', '시냇물 울릉도', 1)
+    #SearchDB.closesocket()
