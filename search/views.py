@@ -23,7 +23,9 @@ def SearchPage(req, mode, keyword, page=1): # req : request
     global past_keyword
     page = int(page)
     #print (page)
-    
+    print ("SearchPage - mode : ", mode)
+    print ("SearchPage - keyword : ", keyword)
+    print ("SearchPage - page : ", page)
     ######## keyword 같고 모드만 바뀌었을 때 데이터 가지고 있는 조건
     #if(past_mode == ''):
     #    past_mode = mode
@@ -34,7 +36,7 @@ def SearchPage(req, mode, keyword, page=1): # req : request
     #    resultTup = callSearch(mode, keyword)
     ########
     #print (resultTup)
-    resultTup = callSearch(mode, keyword)
+    resultTup = callSearch(mode, keyword, page)
     
     if mode != 'allsearch':
         showItemTup = resultTup[((page-1)*listSize):(page*listSize)] # 한번에 열개씩
@@ -88,11 +90,17 @@ def SearchPage(req, mode, keyword, page=1): # req : request
         return HttpResponse(html)
 
 def callSearch(mode, keyword, page):
-    searcher = c_searcher(keyword.encode('cp949'))
+    print("callSearch - mode : ", mode)
+    print("callSearch - keyword : ", keyword)
+    print("callSearch - page : ", page)
+    
+    searcher = c_searcher(mode, keyword, page)
     if mode == "allsearch":
-        searchTup = searcher.AllSearcher(mode, keyword, page)
+        print("callSearch - mode:allsearch")
+        searchTup = searcher.AllSearcher()
+        print(searchTup)
     elif mode == "websearch":
-        searchTup = searcher.WebSearcher(mode, keyword, page)
+        searchTup = searcher.WebSearcher()
     elif mode == "dictsearch":
         searchTup = searcher.DictSearcher(mode, keyword, page)
     elif mode == "smisearch":
