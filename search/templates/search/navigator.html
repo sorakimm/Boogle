@@ -1,17 +1,30 @@
-<font size="3" face="arial" color="#0094ff">
-    {% if pageList|length > 10 %}
-    <a href="/search/{{mode}}/{{keyword}}/Page{{i-1}}">
-        {{i-1}}
-    </a>
+<font size="3" face="arial" color="black">
+    {% if pageList | length > 9 %}
+        {% if not pageList.first = 1}
+            <a href="/search/{{mode}}/{{keyword}}/Page{{pageList.first - 1}}">
+                <<
+            </a>
+        {% endif %}
     &nbsp;
+    {% endif %}
     {% for i in pageList %}
-    <a href="/search/{{mode}}/{{keyword}}/Page{{i}}">
-        {{i}}
-    </a>
-    &nbsp;
+        {% if i = pageSeq %}
+            <a style="color:#0094ff;" href="/search/{{mode}}/{{keyword}}/Page{{i}}">
+                {{i}}
+            </a>
+        {% else %}
+            <a href="/search/{{mode}}/{{keyword}}/Page{{i}}">
+                {{i}}
+            </a>
+        {% endif %}
+        &nbsp;
     {%endfor%}
-    <a href="/search/{{mode}}/{{keyword}}/Page{{i+1}}">
-        {{i+1}}
-    </a>
-    &nbsp;
+    {% if pageList | length > 9 %}
+        {% if not pageList.last = pageCnt}
+            <a href="/search/{{mode}}/{{keyword}}/Page{{pageList.last + 1}}">
+                >>
+            </a>
+        {% endif %}
+    {% endif %}
+   
 </font>

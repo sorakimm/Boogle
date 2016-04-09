@@ -2,15 +2,12 @@
 from django.shortcuts import render
 from Searcher import c_searcher
 from django.http import HttpResponse
-
+import math
 #for template
 from django.template import Context, loader
 
 listSize = 10
 showLength = 100
-
-past_mode=''
-past_keyword=''
 
 # Create your views here.
 def main_page(request):
@@ -19,34 +16,26 @@ def main_page(request):
 
 def SearchPage(req, mode, keyword, page=1): # req : request
     global listSize
-    global past_mode
-    global past_keyword
     page = int(page)
     #print (page)
     print ("SearchPage - mode : ", mode)
     print ("SearchPage - keyword : ", keyword)
     print ("SearchPage - page : ", page)
-    ######## keyword 같고 모드만 바뀌었을 때 데이터 가지고 있는 조건
-    #if(past_mode == ''):
-    #    past_mode = mode
-    #if(past_keyword==''):
-    #    past_keyword = keyword
-
-    #if past_keyword != keyword:
-    #    resultTup = callSearch(mode, keyword)
-    ########
-    #print (resultTup)
+    
     resultTup = callSearch(mode, keyword, page)
-    
+    pageCnt = int(resultTup[0])
+    showItemTup = tuple(resultTup[1])
+    pageSeq = int((page-1)%10+1)
+    startPage = int(math.floor(page, -1)+1)
+    lastPage = startPage+10
+    prevPage = startPage-1
+    nextPage = lastPage+1
+    if(lastPage < pageCnt):
+        lastPage = pageCnt   
+    pageList = range(startPage, lastPage)
+        
     if mode != 'allsearch':
-        showItemTup = resultTup[((page-1)*listSize):(page*listSize)] # 한번에 열개씩
         searchList = matchContentData(mode, keyword, showItemTup) # 페이지에 표시할 데이터 생성
-    
-        totalSize = len(resultTup) # 검색결과 밑 네비게이터 부분
-        pageCnt = int(totalSize / listSize)
-        if(totalSize % listSize) != 0:
-            pageCnt += 1
-        pageList = range(1, pageCnt+1)
         if mode == 'smisearch':
             tpl = loader.get_template('search/sub_search.html')
         elif mode == 'dictsearch':
@@ -58,6 +47,9 @@ def SearchPage(req, mode, keyword, page=1): # req : request
             'searchList' : searchList, # 변수값 채우기
             'keyword' : keyword,
             'mode' : mode,
+            'page' : page,
+            'pageSeq' : pageSeq,
+            'pageCnt' : pageCnt,
             'pageList' : pageList,
             })
 
@@ -102,28 +94,29 @@ def callSearch(mode, keyword, page):
     elif mode == "websearch":
         searchTup = searcher.WebSearcher()
     elif mode == "dictsearch":
-        searchTup = searcher.DictSearcher(mode, keyword, page)
+        searchTup = searcher.DictSearcher()
     elif mode == "smisearch":
-        searchTup = searcher.SubSearcher(mode, keyword, page)
+        searchTup = searcher.SubSearcher()
     return searchTup
 
 def matchContentData(mode, keyword, listTup):
     #"템플릿에 사용될 데이터 생성 "
     ResultData = []
     
-    #elif(mode == "allsearch"):
-        #print ("allsearch listTup : ", listTup)
-        #for i in range(0, 3):
-        #    conTitle = listTup[i][0].replace(listTup[i][0], "<b>" + listTup[i][0] + "</b>")
-        #    conEng = listTup[i][1]
-        #    conKor = listTup[i][2]
-        #    ResultData.append(({'title':conTitle, 'eng':conEng, 'kor':conKor}))
-        #for i in range(3, len(listTup)):
-        #    conTitle = listTup[i][0].replace(listTup[i][0], "<b>" +listTup[i][0] + "</b>")
-        #    conPreview = makeContentPreview(keyword, listTup[i][1])
-        #    conLink = listTup[i][2]
-        #    ResultData.append(({'preview':conPreview, 'link':conLink, 'title':conTitle}))
+    if(mode == "allsearch"):
+        print ("allsearch listTup : ", listTup)
+        for i in range(0, 6):
+            conTitle = listTup[i][0].replace(listTup[i][0], "<b>" +listTup[i][0] + "</b>")
+            conPreview = makeContentPreview(keyword, listTup[i][1])
+            conLink = listTup[i][2]
+            ResultData.append(({'preview':conPreview, 'link':conLink, 'title':conTitle}))
            
+        for i in range(6, len(listTup)):
+            conTitle = listTup[i][0].replace(listTup[i][0], "<b>" + listTup[i][0] + "</b>")
+            conEng = listTup[i][1]
+            conKor = listTup[i][2]
+            ResultData.append(({'title':conTitle, 'eng':conEng, 'kor':conKor}))
+        
 
 
     if(mode == "websearch"):
@@ -148,8 +141,7 @@ def matchContentData(mode, keyword, listTup):
             conEng = item[1]
             conKor = item[2]
             ResultData.append(({'title':conTitle, 'eng':conEng, 'kor':conKor}))
-            #print (ResultData)
-        #return ResultData
+       
     
     print ("ResultData : ", ResultData) 
     return ResultData
